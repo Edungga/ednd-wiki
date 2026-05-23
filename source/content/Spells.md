@@ -2,9 +2,9 @@
 
 ````
 ```dataview
-TABLE name, 
-FROM <source>
-<DATA-COMMAND> <expression>
+TABLE name, school
+FROM "Spells"
+SORT 
 <DATA-COMMAND> <expression>
           ...
 ```
