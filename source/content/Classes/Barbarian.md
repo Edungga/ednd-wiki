@@ -97,11 +97,13 @@ Such a barbarian might be inhabited by a primal spirit or be descended from shap
 When you enter your Rage, you can transform, revealing the bestial power within you. Until the Rage ends, you manifest a Natural Weapon. It counts as a Simple Melee Weapon for you, and you add your STR modifier to the Attack and Damage rolls when you Attack with it. 
 
 You choose the weapon’s form each time you Rage:
-- **Bite**. Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 2 Rage Die Piercing Damage on a hit. Once on each of your turns when you damage a creature with this bite, you Heal HP equal to your Proficiency Bonus.
-- **Claws**. Each of your hands transforms into a claw, which you can use as a Melee Weapon if it’s empty. It deals 1 Rage Die Slashing damage on a hit. Once on each of your turns when you Attack with a claw using the Attack Action, you can make one additional Claw Attack as part of the same Action.
-- **Tail**. You grow a lashing, spiny tail, which deals 1 Rage Die Piercing damage on a hit and has the Reach Property. 
 
-[Reaction] If a creature you can see within 10ft of you hits you with an Attack, you can swipe your tail and roll a Rage Die, applying a bonus to your AC equal to the number rolled for that Attack, potentially causing the Attack to miss you.
+**Bite**. Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 2 Rage Die Piercing Damage on a hit. Once on each of your turns when you damage a creature with this bite, you Heal HP equal to your Proficiency Bonus.
+
+**Claws**. Each of your hands transforms into a claw, which you can use as a Melee Weapon if it’s empty. It deals 1 Rage Die Slashing damage on a hit. Once on each of your turns when you Attack with a claw using the Attack Action, you can make one additional Claw Attack as part of the same Action.
+
+**Tail**. You grow a lashing, spiny tail, which deals 1 Rage Die Piercing damage on a hit and has the Reach Property. 
+If a creature you can see within 10 feet of you hits you with an Attack, you can use your Reaction to swipe your tail and roll a Rage Die, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.
 
 
 ## Path of the Berserker
