@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "index"
             }
           }
         ]
@@ -172,10 +172,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Spells.md",
+    "Spells/Spells.base",
     "Background/Languages.md",
     "Background/Example Backgrounds.md",
-    "Spells/Spells.base",
-    "Spells.md",
     "index.md",
     "Equipment/Weapon Mastery Properties.md",
     "Classes/Fighter.md",
