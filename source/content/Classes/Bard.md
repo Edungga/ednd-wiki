@@ -91,8 +91,6 @@ You gain another method of using your Bardic Inspiration. As a Bonus Action, you
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
 ## 5th Level: Font of Inspiration
-**Rest Recovery**. You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
-
 **Spell Slot Conversion**. When you have no uses of Bardic Inspiration left, you can give yourself uses by expending a Spell Slot. You regain a number of uses equal to the Spell Slot expended (i.e. by expending a 2nd Level Spell Slot, you regain 2 uses of Bardic Inspiration). 
 You cannot gain more uses than your maximum. You can do this only once per turn (no action required).
 
