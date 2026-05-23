@@ -95,16 +95,28 @@ Critical Hits. Any Attack that hits you is a Critical Hit.
 Unaware. You’re unaware of your surroundings.
 
 # Buff
-Buffs are specific conditions that are explicitly positive
+Buffs are specific conditions that are typically positive
 
 ## Bless
 You have +1d4 to d20 Tests
 
+## Blurred
+Attacks have Disadvantage against you
 
+Calmed
+Not affected by Frightened [Debuff], Charmed [Debuff], or Wrath [Buff]
+
+Enlarged
+Your Size increases by one, +1d4 damage on Attacks, Advantage on STR Checks and Saves
+
+Hasted 
+Speed is doubled and can take an additional Action on your turn
+
+Invisible 
 
 
 # Debuff
-Debuffs are specific conditions that are explicitly negative
+Debuffs are specific conditions that are typically negative
  
 ## Bane
 -1d4 to d20 Tests
