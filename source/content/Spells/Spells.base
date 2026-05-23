@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: Table
+    name: All Spells
     filters:
       and:
         - file.tags.contains("Spell")
@@ -19,3 +19,8 @@ views:
       note.Components: 151
       note.Duration: 208
       note.Spell List: 181
+  - type: table
+    name: Arcane Spells
+    filters:
+      and:
+        - note["Spell List"].contains("Arcane")

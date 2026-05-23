@@ -14,7 +14,7 @@
               "type": "bases",
               "state": {
                 "file": "Spells/Spells.base",
-                "viewName": "Table"
+                "viewName": "Arcane Spells"
               },
               "icon": "lucide-table",
               "title": "Spells"
