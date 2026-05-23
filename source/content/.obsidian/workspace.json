@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Blade Ward.md",
+                "file": "Rules/Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blade Ward"
+              "title": "Conditions"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Blade Ward.md",
     "Rules/Conditions.md",
     "Classes/Fighter.md",
     "Spells/Spells.base",
@@ -185,7 +186,6 @@
     "Spells/Dancing Lights.md",
     "Spells/Control Flames.md",
     "Spells/Chill Touch.md",
-    "Spells/Blade Ward.md",
     "Spells/Acid Splash.md",
     "Spells/Spells.md",
     "index.md",
