@@ -22,13 +22,13 @@ Armor Training: Shields
 
 # Class Features
 
-| Level | Proficiency Bonus | Rage Die | Rages | Features                      |
-| ----- | ----------------- | -------- | ----- | ----------------------------- |
-| 1st   | +2                | 1d4      | 2     | Rage, Unarmoured Defence      |
-| 2nd   | +2                | 1d4      | 2     | Reckless Attack, Danger Sense |
-| 3rd   | +2                | 1d4      | 3     | Primal Path                   |
-| 4th   | +2                | 1d4      | 3     | Feat / ASI                    |
-| 5th   | +3                | 1d6      | 3     | Extra Attack, Fast Movement   |
+| Level | Proficiency Bonus | Rage Die | Rages | Features                                                                                                                  |
+| ----- | ----------------- | -------- | ----- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | +2                | 1d4      | 2     | [[#Level 1 Rage\|Rage]], [[#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |
+| 2nd   | +2                | 1d4      | 2     | Reckless Attack, Danger Sense                                                                                             |
+| 3rd   | +2                | 1d4      | 3     | Primal Path                                                                                                               |
+| 4th   | +2                | 1d4      | 3     | Feat / ASI                                                                                                                |
+| 5th   | +3                | 1d6      | 3     | Extra Attack, Fast Movement                                                                                               |
 ## Level 1: Rage
 
 
@@ -40,7 +40,11 @@ Your training with weapons allows you to use the [[Weapon Mastery Properties]] o
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
-Reckless Attack
 
 
-Danger Sense
+## Level 2: Danger Sense
+
+
+## Level 2: Reckless Attack
+
+## Level 2: 
