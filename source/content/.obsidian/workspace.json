@@ -11,14 +11,13 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Rules/Conditions.md",
-                "mode": "source",
-                "source": false
+                "file": "Spells/Spells.base",
+                "viewName": "All Spells"
               },
-              "icon": "lucide-file",
-              "title": "Conditions"
+              "icon": "lucide-table",
+              "title": "Spells"
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Conditions.md",
+                "file": "Spells/Spells.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conditions"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Conditions.md",
+                "file": "Spells/Spells.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conditions"
+              "title": "Outline of Spells"
             }
           }
         ],
@@ -173,6 +172,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Shape Water.md",
+    "Rules/Conditions.md",
     "Spells/Spells.base",
     "Sapping Sting.md",
     "Sacred Flame.md",
@@ -192,7 +193,6 @@
     "Light.md",
     "Spells/Gust.md",
     "Spells/Guidance.md",
-    "Rules/Conditions.md",
     "Green Flame Blade.md",
     "Classes/Fighter.md",
     "Spells/Blade Ward.md",

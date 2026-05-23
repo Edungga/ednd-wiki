@@ -151,9 +151,9 @@ Can’t hear and automatically fails any Check that requires hearing.
 ## Feeble (Debuff)
 **Weaker Attacks**. Deals half damage (rounded down) on Weapon Attacks using STR 
 
-STR Saves**. You have Disadvantage on DEX Saves.
+**STR Saves**. You have Disadvantage on STR Saves.
 
-and on STR Checks and Saves, and cannot Cast Spells with Somatic Component
+**Casting Affected**. Cannot Cast Spells with Somatic Component
 
 ## Frightened  (Debuff)
 **Spooked**. Disadvantage on Checks and Attacks while the source of its fear is within Line of Sight.
