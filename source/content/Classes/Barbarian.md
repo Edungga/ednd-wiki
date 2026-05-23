@@ -99,4 +99,4 @@ Your Walk Speed increases by 10 feet.
 
 
 
-## Path of the Zelot
+## Path of the Zealot
