@@ -171,10 +171,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "index.md",
+    "Classes/Fighter.md",
     "Classes/Barbarian.md",
+    "index.md",
     "Spells/Spells.md",
     "Spells/Spells.base",
     "Spells/Cantrips/Sword Burst.md",
@@ -200,7 +201,6 @@
     "Spells/Cantrips/Primal Savagery.md",
     "Spells/Cantrips/Prestidigitation.md",
     "Spells/Cantrips/Poison Spray.md",
-    "Spells/Cantrips/Mould Earth.md",
     "Rules",
     "Background",
     "The Setting",
