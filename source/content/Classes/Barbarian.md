@@ -123,9 +123,11 @@ You gain the ability to cast the [[Beast Sense]] and [[Speak with Animals Spells
 When you enter a Rage, you adopt the traits of a primal spirit. Your figure is adorned with spectral aspects of that spirit, and you gain one of the following benefits depending on which primal spirit you adopt on raging, lasting until your Rage ends:
 - **Bear**. While your Rage is active, you have Resistance to every damage type except Force, Necrotic, Psychic, and Radiant.
 - **Eagle**. Creatures have Disadvantage on Opportunity Attacks against you, and you can Dash Action as a Bonus Action. 
-- Elk. Your Walk Speed increases by 15ft.
-- Tiger. Your Jump distance increases by 15ft.
-- Wolf. Your Allies have Advantage on Melee Attacks against any Enemy within 5ft of you.
+- **Elk**. Your Walk Speed increases by 15ft.
+- **Tiger**. Your Jump distance increases by 15ft.
+- **Wolf**. Your Allies have Advantage on Melee Attacks against any Enemy within 5ft of you.
 
 
 ## Path of the Zealot
+Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon.
+
