@@ -54,15 +54,14 @@ Once within the next hour when the creature fails a D20 Test, the creature can r
 ## 1st Level: Spellcasting
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.
 
-**Cantrips**. You know two cantrips of your choice from the Bard spell list. Dancing Lights and Vicious Mockery are recommended.
-
+**Cantrips**. You know two cantrips of your choice from the [[Arcane Spell List]].
 Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 
-When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the Bard spell list, as shown in the Cantrips column of the Bard Features table.
+When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the [[Arcane Spell List]], as shown in the Cantrips column of the Bard Features table.
 
-Spell Slots. The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+**Spell Slots**. The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. Charm Person, Color Spray, Dissonant Whispers, and Healing Word are recommended.
+**Prepared Spells of Level 1+**. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Arcane Spell List]]. 
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
