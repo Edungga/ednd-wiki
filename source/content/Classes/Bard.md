@@ -77,3 +77,7 @@ If another Bard feature gives you spells that you always know, those spells don'
 ## Level 2: Expertise
 You gain Expertise in two of your skill proficiencies of your choice.
 At Bard level 9, you gain Expertise in two more of your skill proficiencies of your choice.
+
+## 2nd Level: Jack of All Trades
+You can add half your Proficiency Bonus, rounded down, to any Check you make that doesn't already include your Proficiency Bonus.
+
