@@ -7,7 +7,6 @@ Components: V,S
 Duration: Instantaneous
 Spell List:
   - Arcane
-  - Primal
 tags:
   - Spell
 ---
