@@ -1,6 +1,8 @@
 ---
 School:
+  - Divination
 Spell Circle:
+  - Cantrip
 Casting Time:
 Range:
 Components:
