@@ -27,11 +27,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
+                "file": "Spells.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "Spells"
             }
           }
         ],
@@ -187,7 +187,7 @@
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
     "index.md",
-    "Untitled.base",
+    "Spells.base",
     "Ancestries/Beast-folk.md",
     "Ancestries/Goliath.md",
     "Ancestries/Blessed Born.md",

@@ -3,7 +3,7 @@ title: Welcome to EDnD
 ---
 A cobbled edition of D&D drawing from 5th, 5.5, & 3rd Party fun
 
-The [[#Ancestries]], [[#Classes]], [[Spells]], etc. are assembled with [[The Shrouded Realm of Callitè]] in mind. A low magic, grimdark setting. Far from the heroic high fantasy many D&D games takes place.
+The [[#Ancestries]], [[#Classes]], [[Spells.base|Spells]], etc. are assembled with [[The Shrouded Realm of Callitè]] in mind. A low magic, grimdark setting. Far from the heroic high fantasy many D&D games takes place.
 
 We also have some Home Rules to spice things up a bit
 
