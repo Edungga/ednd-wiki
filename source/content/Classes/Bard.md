@@ -103,14 +103,15 @@ You cannot gain more uses than your maximum. You can do this only once per turn 
 Bards of the College of Dance know that the Words of Creation can't be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bards practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace.
 
 ## 3rd Level: Dazzling Footwork
-
 Your practice of dance gives you the ability to gracefully dodge and make agile strikes. While you aren’t wearing armour or wielding a Shield, you gain the following benefits:
 
-Unarmoured Defence. Your base Armour Class equals 10 + your DEX modifier + your CHA modifier.
+**Dance Virtuoso**. You have Advantage on any Performance check you make that involves you dancing.
 
-Agile Strikes. When you expend a use of your Bardic Inspiration as part of an Action, a Bonus Action, or a Reaction, you can make one Unarmed Strike as part of that Action, Bonus Action, or Reaction.
+**Unarmoured Defence**. Your base Armour Class equals 10 + your DEX modifier + your CHA modifier.
 
-Bardic Damage. You can use DEX instead of STR for the attack rolls of your Unarmed Strikes, and when you deal damage with an Unarmed Strike, you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your DEX modifier. This roll doesn’t expend the die.\
+**Agile Strikes**. When you expend a use of your Bardic Inspiration as part of an Action, a Bonus Action, or a Reaction, you can make one Unarmed Strike as part of that Action, Bonus Action, or Reaction.
+
+**Bardic Damage**. You can use DEX instead of STR for the attack rolls of your Unarmed Strikes, and when you deal damage with an Unarmed Strike, you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your DEX modifier. This roll doesn’t expend the die.
 
 ## College of Eloquence
 
