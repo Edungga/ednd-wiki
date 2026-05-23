@@ -7,7 +7,7 @@
 
 **Saving Throw Proficiencies**: Strength, Constitution
 
-**Skill Proficiencies**: Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival.
+**Skill Proficiencies**: Choose 3: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival.
 **Weapon Proficiencies**: Simple and Martial weapons
 **Armor Training**: Light and Medium armor and Shields
 
@@ -47,4 +47,4 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 ## Level 2: Reckless Attack
 
-## Level 2: 
+## Level 3: Primal Path
