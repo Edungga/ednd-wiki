@@ -19,13 +19,13 @@ If an imaginary line can be drawn from two enemies in your melee at opposite end
 Attacks against a Flanked creature have Advantage.
 
 ## Grappled (Condition)
-Speed 0. Your Speed is 0.
+**Speed 0**. Your Speed is 0.
 
-Attacks Affected. You have Disadvantage on Attacks against any target other than the Grappler.
+**Attacks Affected**. You have Disadvantage on Attacks against any target other than the Grappler.
 
-Movable. The Grappler can drag or carry you when it Moves, but the Grappler suffers the Slowed [Debuff] while moving, unless you are Two or more Sizes smaller than the Grappler.
+**Movable**. The Grappler can drag or carry you when it Moves, but the Grappler suffers the [[#Slowed (Debuff)]] while moving, unless you are Two or more Sizes smaller than the Grappler.
 
-Escape. While Grappled, you can make a DEX (Acrobatics) or STR (Athletics) Check against the Grappler’s STR (Athletics) Check at the end of each of your turns, ending the Condition on yourself on a success. The Condition also ends if the Grappler is Incapacitated [Condition] or if something removes you from the Grapple’s range.
+**Escape**. While Grappled, you can make a DEX (Acrobatics) or STR (Athletics) Check against the Grappler’s STR (Athletics) Check at the end of each of your turns, ending the Condition on yourself on a success. The Condition also ends if the Grappler is [[#Incapacitated (Condition)]] or if something removes you from the Grapple’s range.
 
 ## Hidden (Condition)
 **Concealed**. You aren’t affected by any effect that requires its target to be seen.
@@ -47,7 +47,7 @@ Escape. While Grappled, you can make a DEX (Acrobatics) or STR (Athletics) Check
 
 **No Concentration**. Your Concentration is broken.
 
-**Speechless**. You are Silenced [Debuff]
+**Speechless**. You are [[#Silenced (Debuff)]]
 
 **Surprised**. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll
 
@@ -104,16 +104,16 @@ You have +1d4 to d20 Tests
 ## Blurred (Buff)
 Attacks have Disadvantage against you
 
-Calmed (Buff)
+## Calmed (Buff)
 Not affected by Frightened [Debuff], Charmed [Debuff], or Wrath [Buff]
 
-Enlarged (Buff)
+## Enlarged (Buff)
 Your Size increases by one, +1d4 damage on Attacks, Advantage on STR Checks and Saves
 
-Hasted (Buff)
+## Hasted (Buff)
 Speed is doubled and can take an additional Action on your turn
 
-Invisible (Buff)
+## Invisible (Buff)
 Unseeable. You can’t be seen, so you aren’t affected by any effect that requires its target to be seen. Any equipment you are	wearing or carrying also can’t be seen.
 Surprise. If you are Invisible when you roll Initiative, you have Advantage on the roll.
 Attacks Affected. Attacks against you have Disadvantage, and your Attacks have Advantage. If a creature can somehow see you, as with Blindsight, you don’t gain this benefit against that creature.
@@ -139,7 +139,7 @@ Debuffs are specific conditions that are typically negative
 **No Flanking**. You cannot contribute to Flanking a creature
 Blindsight or Tremorsense cancel this out for the Range of those visions
 
-Charmed (Debuff)
+## Charmed (Debuff)
 Actions Affected. Can’t Attack the Charmer or target the Charmer with harmful Abilities or Effects.
 Socially Affected. The Charmer has Advantage on any Check to interact socially with the creature.
 
