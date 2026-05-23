@@ -11,14 +11,13 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Fire Bolt.md",
-                "mode": "source",
-                "source": false
+                "file": "Spells/Spells.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Fire Bolt"
+              "icon": "lucide-table",
+              "title": "Spells"
             }
           }
         ]
@@ -172,14 +171,16 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Spells/Spells.base",
-    "Fire Bolt.md",
-    "Eldritch Blast.md",
-    "Druidcraft.md",
+    "Friends.md",
+    "Spells/Fire Bolt.md",
+    "Spells/Eldritch Blast.md",
+    "Spells/Druidcraft.md",
     "Spells/Dancing Lights.md",
     "Spells/Control Flames.md",
     "Spells/Chill Touch.md",
     "Spells/Blade Ward.md",
+    "Spells/Acid Splash.md",
+    "Spells/Spells.base",
     "Spells/Spells.md",
     "index.md",
     "Background/Languages.md",
@@ -190,7 +191,6 @@
     "Ancestries/Human.md",
     "Ancestries/Blessed Born.md",
     "The Setting/The Shrouded Realm of Callitè.md",
-    "Spells/Acid Splash.md",
     "Ancestries/Beast-folk.md",
     "Ancestries/Goliath.md",
     "Ancestries/Ill-Fated.md",
