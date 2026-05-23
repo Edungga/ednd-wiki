@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +172,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Guidance.md",
     "Rules/Conditions.md",
     "Green Flame Blade.md",
     "Classes/Fighter.md",
