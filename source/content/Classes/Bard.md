@@ -81,3 +81,17 @@ At Bard level 9, you gain Expertise in two more of your skill proficiencies of y
 ## 2nd Level: Jack of All Trades
 You can add half your Proficiency Bonus, rounded down, to any Check you make that doesn't already include your Proficiency Bonus.
 
+
+## 3rd Level: Bard College
+You delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th level.
+
+
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
+
+
+## 5th Level: Font of Inspiration
+
+
+---
+# Bardic Colleges
