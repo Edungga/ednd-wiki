@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter.md",
+                "file": "Rules/Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fighter"
+              "title": "Conditions"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Rules/Conditions.md",
     "Classes/Fighter.md",
+    "Rules/Conditions.md",
     "Spells/Spells.base",
     "Rules",
     "Green Flame Blade.md",
