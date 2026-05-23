@@ -11,13 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "All Spells"
+                "file": "Classes/Fighter.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "lucide-file",
+              "title": "Fighter"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Classes/Fighter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spells"
+              "title": "Backlinks for Fighter"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Classes/Fighter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of Fighter"
             }
           }
         ],
@@ -155,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,12 +173,12 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Spells/Spells.md",
+    "Spells/Spells.base",
     "Rules/Soul Scar.md",
     "index.md",
     "Classes/Barbarian.md",
     "Classes/Fighter.md",
     "Feats/Feat.md",
-    "Spells/Spells.base",
     "Spells/Cantrips/Sword Burst.md",
     "Spells/Cantrips/Word of Radiance.md",
     "Spells/Cantrips/Vicious Mockery.md",
@@ -199,7 +199,6 @@
     "Spells/Cantrips/Resistance.md",
     "Spells/Cantrips/Ray of Frost.md",
     "Spells/Cantrips/Produce Flame.md",
-    "Spells/Cantrips/Primal Savagery.md",
     "Rules",
     "Background",
     "The Setting",

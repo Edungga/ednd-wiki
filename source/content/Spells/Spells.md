@@ -1,6 +1,6 @@
-Arcane Spell List
-Divine Spell List
-Primal Spell List
+[[Arcane Spell List]]
+[[Divine Spell List]]
+[[Primal Spell List]]
 # Cantrips
 | name                 | School        | Casting Time                                     | Range                 | Components                                                                                 | Duration                            |
 | -------------------- | ------------- | ------------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------- |

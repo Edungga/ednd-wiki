@@ -133,11 +133,11 @@ You can use this feature a number of times equal to your Constitution modifier (
 ## Eldritch Knight
 Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armour and also allowing them to engage many foes at once with explosive magic.
 ### Level 3: Spellcasting 
-You augment your martial prowess with the ability to cast spells using the Arcane Spell List.
+You augment your martial prowess with the ability to cast spells using the [[Arcane Spell List]].
 
-**Cantrips**. You learn two cantrips of your choice from the Arcane Spell List. You learn an additional wizard cantrip of your choice at 10th level.
+**Cantrips**. You learn two cantrips of your choice from the [[Arcane Spell List]]. You learn an additional wizard cantrip of your choice at 10th level.
 
-**Spell Slots**. The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your Wizard Spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Spell Slots**. The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your Arcane Spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 **Spells Known of 1st-Level and Higher**. You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation spells on the Arcane Spell List.
 The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more arcane spells of 1st level or higher. Each of these spells must be an abjuration or evocation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
