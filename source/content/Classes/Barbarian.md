@@ -25,10 +25,11 @@ Armor Training: Shields
 | Level | Proficiency Bonus | Rage Die | Rages | Features                                                                                                                  |
 | ----- | ----------------- | -------- | ----- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1st   | +2                | 1d4      | 2     | [[#Level 1 Rage\|Rage]], [[#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |
-| 2nd   | +2                | 1d4      | 2     | [[#Level 2 Danger Sense\|Danger Sense]], [[#Level 2 Reckless Attack\|Reckless]]                                           |
-| 3rd   | +2                | 1d4      | 3     | Primal Path                                                                                                               |
-| 4th   | +2                | 1d4      | 3     | Feat / ASI                                                                                                                |
-| 5th   | +3                | 1d6      | 3     | Extra Attack, Fast Movement                                                                                               |
+| 2nd   | +2                | 1d4      | 2     | [[#Level 2 Danger Sense\|Danger Sense]], [[#Level 2 Reckless Attack\|Reckless Attack]]                                    |
+| 3rd   | +2                | 1d4      | 3     | [[#Level 3 Primal Path\|Primal Path]]                                                                                     |
+| 4th   | +2                | 1d4      | 3     | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                         |
+| 5th   | +3                | 1d6      | 3     | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Fast Movement\|Fast Movement]]                                        |
+|       |                   |          |       |                                                                                                                           |
 ## Level 1: Rage
 You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
 
