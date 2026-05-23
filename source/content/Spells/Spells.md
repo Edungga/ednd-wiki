@@ -44,5 +44,29 @@
 | [[Word of Radiance]] | Evocation     | Action                                           | Self (5 ft emination) | V, M (a sunburst token)                                                                    | Instantaneous                       |
 
 
-# 1st Cirlce
+# 1st Circle
 
+
+
+# 2nd Circle
+
+
+# 3rdCircle
+
+
+# 4th Circle
+
+
+# 5th Circle
+
+
+# 6th Circle
+
+
+# 7th Circle
+
+
+# 8th Circle
+
+
+# 9th Circle
