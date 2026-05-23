@@ -84,6 +84,8 @@ You can add half your Proficiency Bonus, rounded down, to any Check you make tha
 ## 3rd Level: Bard College
 You delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th level.
 
+## 3rd Level: Song of Rest
+You gain another method of using your Bardic Inspiration
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
