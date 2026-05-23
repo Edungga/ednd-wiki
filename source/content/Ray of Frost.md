@@ -1,11 +1,18 @@
 ---
 School:
+  - Evocation
 Spell Circle:
-Casting Time:
-Range:
-Components:
-Duration:
+  - Cantrip
+Casting Time: Action
+Range: 60 ft
+Components: V,S
+Duration: Instantaneous
 Spell List:
+  - Arcane
+  - Primal
 tags:
   - Spell
 ---
+A frigid beam of blue-white light streaks toward a creature within range. Make a Ranged Spell Attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 10 feet until the start of your next turn.
+
+**Cantrip Upgrade**. This spell’s damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
