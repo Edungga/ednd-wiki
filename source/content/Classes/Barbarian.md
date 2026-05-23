@@ -5,7 +5,7 @@
 **Hit Points at Level 1**: 12 + Con. modifier
 **Hit Points per additional Barbarian Level**: D12 + your Con. modifier, or, 7 + your Con. modifier
 
-**Saving Throw** Proficiencies: Strength, Constitution
+**Saving Throw Proficiencies**: Strength, Constitution
 
 **Skill Proficiencies**: Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival.
 **Weapon Proficiencies**: Simple and Martial weapons

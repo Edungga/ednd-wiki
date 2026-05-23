@@ -21,6 +21,8 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 Weapon Proficiencies: Martial weapons
 Armor Training: Light and Medium armor and Shields
 
+
+
 # Class Features
 ## Level 1: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting_Style|Fighting Style Feat]] of your choice
