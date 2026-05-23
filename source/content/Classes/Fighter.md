@@ -136,26 +136,26 @@ Eldritch Knights combine the martial mastery common to all Fighters with a caref
 ### Level 3: Spellcasting 
 You augment your martial prowess with the ability to cast spells using the [[Arcane Spell List]].
 
-| Fighter Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
-| ------------- | -------------- | ------------ | --- | --- | --- | --- | --- |
-| 3rd           | 2              | 3            | 2   | -   | -   | -   | -   |
-| 4th           | 2              | 4            | 3   | -   | -   | -   | -   |
-| 5th           | 2              | 4            | 3   | -   | -   | -   | -   |
-| 6th           | 2              | 4            | 3   | -   | -   | -   | -   |
-| 7th           | 2              | 5            | 4   | 3   | -   | -   | -   |
-| 8th           | 2              | 6            | 4   | 3   | -   | -   | -   |
-| 9th           | 2              | 6            | 4   | 3   | 2   | -   | -   |
-| 10th          | 3              | 7            | 4   | 3   | 2   | -   | -   |
-| 11th          | 3              | 8            | 4   | 3   | 3   | -   | -   |
-| 12th          | 3              | 8            | 4   | 3   | 3   | -   | -   |
-| 13th          | 3              | 9            | 4   | 3   | 3   | 1   | -   |
-| 14th          | 3              | 10           | 4   | 3   | 3   | 1   | -   |
-| 15th          | 4              | 10           | 4   | 3   | 3   | 2   | -   |
-| 16th          | 4              | 11           | 4   | 3   | 3   | 2   | -   |
-| 17th          | 4              | 11           | 4   | 3   | 3   | 3   | -   |
-| 18th          | 4              | 11           | 4   | 3   | 3   | 3   | -   |
-| 19th          | 4              | 12           | 4   | 3   | 3   | 3   | 1   |
-| 20th          | 4              | 13           | 4   | 3   | 3   | 3   | 1   |
+| Fighter Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+| ------------- | -------------- | ------------ | --- | --- | --- | --- |
+| 3rd           | 2              | 3            | 2   | -   | -   | -   |
+| 4th           | 2              | 4            | 3   | -   | -   | -   |
+| 5th           | 2              | 4            | 3   | -   | -   | -   |
+| 6th           | 2              | 4            | 3   | -   | -   | -   |
+| 7th           | 2              | 5            | 4   | 2   | -   | -   |
+| 8th           | 2              | 6            | 4   | 3   | -   | -   |
+| 9th           | 2              | 6            | 4   | 3   | -   | -   |
+| 10th          | 3              | 7            | 4   | 3   | -   | -   |
+| 11th          | 3              | 8            | 4   | 3   | -   | -   |
+| 12th          | 3              | 8            | 4   | 3   | -   | -   |
+| 13th          | 3              | 9            | 4   | 3   | 2   | -   |
+| 14th          | 3              | 10           | 4   | 3   | 2   | -   |
+| 15th          | 4              | 10           | 4   | 3   | 2   | -   |
+| 16th          | 4              | 11           | 4   | 3   | 3   | -   |
+| 17th          | 4              | 11           | 4   | 3   | 3   | -   |
+| 18th          | 4              | 11           | 4   | 3   | 3   | -   |
+| 19th          | 4              | 12           | 4   | 3   | 3   | 1   |
+| 20th          | 4              | 13           | 4   | 3   | 3   | 1   |
 
 **Cantrips**. You learn two cantrips of your choice from the [[Arcane Spell List]]. You learn an additional wizard cantrip of your choice at 10th level.
 
