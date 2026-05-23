@@ -85,7 +85,7 @@ You can add half your Proficiency Bonus, rounded down, to any Check you make tha
 You delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th level.
 
 ## 3rd Level: Song of Rest
-You gain another method of using your Bardic Inspiration
+You gain another method of using your Bardic Inspiration. As a Bonus Action, you can Heal another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
