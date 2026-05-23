@@ -25,7 +25,7 @@ Armor Training: Shields
 | Level | Proficiency Bonus | Rage Die | Rages | Features                                                                                                                  |
 | ----- | ----------------- | -------- | ----- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1st   | +2                | 1d4      | 2     | [[#Level 1 Rage\|Rage]], [[#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |
-| 2nd   | +2                | 1d4      | 2     | Reckless Attack, Danger Sense                                                                                             |
+| 2nd   | +2                | 1d4      | 2     | [[#Level 2 Danger Sense\|Danger Sense]], [[#Level 2 Reckless Attack\|Reckless]]                                           |
 | 3rd   | +2                | 1d4      | 3     | Primal Path                                                                                                               |
 | 4th   | +2                | 1d4      | 3     | Feat / ASI                                                                                                                |
 | 5th   | +3                | 1d6      | 3     | Extra Attack, Fast Movement                                                                                               |
@@ -39,11 +39,10 @@ While active, your Rage follows the rules below.
 - **Rage Damage**. When you make a Melee Weapon Attack using STR, you deal an additional die of damage as outlined in the Rage Die column of the Barbarian class table
 - **Strength Advantage**. You have Advantage on STR Checks and Saves.
 - **No Concentration or Spells**. You can't maintain Concentration, and you can't cast spells.
-- **Duration**. The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
-
-    Make an attack roll against an enemy.
-    Force an enemy to make a saving throw.
-    Take a Bonus Action to extend your Rage.
+**Duration**. The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+- Make an attack roll against an enemy.
+- Force an enemy to make a Save.
+- Take a Bonus Action to extend your Rage.
 
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
