@@ -51,9 +51,36 @@ Escape. While Grappled, you can make a DEX (Acrobatics) or STR (Athletics) Check
 
 **Surprised**. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll
 
+## Petrified
+Statue. You and any object you are wearing/carrying are transformed into a solid, inanimate substance (usually stone). Your weight increases by a factor of ten, and cease ageing.
+
+Incapacitated. You are Incapacitated [Condition] and are unaware of your surroundings
+
+Attacks Affected. Attacks against you have Advantage.
+
+Fail Str. and Dex. Saves. You automatically fail STR and DEX Saves.
+
+Solid. You have Resistance to all Damage, and are Immune to Poisoned [Debuff]. A Poison already in your system is suspended, not neutralised.
+
+## Prone
 
 
+## Restrained
 
+## Surprised
+
+## Unconscious
+Inert. You are Incapacitated [Condition] and Prone [Condition], and you drop whatever you’re holding. When this Condition ends, you remain Prone.
+
+Speed 0. Your Speed is 0 and can’t change.
+
+Attacks Affected. Attacks against you have Advantage.
+
+Fail Str. and Dex. Saves. You automatically fail STR and DEX Saves.
+
+Critical Hits. Any Attack that hits you is a Critical Hit.
+
+Unaware. You’re unaware of your surroundings.
 
 # Buff
 
