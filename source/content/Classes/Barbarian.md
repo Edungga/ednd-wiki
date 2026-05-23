@@ -82,7 +82,11 @@ Your Walk Speed increases by 10 feet.
 # Primal Paths
 
 ## Path of the Ancestors
+Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.
 
+### 3rd Level: Ancestral Protectors 
+
+Spectral Warriors appear when you Rage. While you're Raging, the first creature you hit with an Attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has Disadvantage on any Attacks against creatures other than you, and if the target hits a creature other than you with an Attack, that creature has Resistance to the damage dealt by the Attack. The effect on the target ends early if your Rage ends.
 
 
 
