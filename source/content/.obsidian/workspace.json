@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Feats/Feat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Feat"
             }
           }
         ],
@@ -198,21 +198,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4969eaeeee93e00f",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Background/Languages.md",
+    "Fighter.md",
+    "Feats/Feat.md",
     "index.md",
+    "Example Backgrounds.md",
+    "Ancestries/Human.md",
+    "Ancestries/Blessed Born.md",
+    "Background/Languages.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "Spells/Spells.base",
     "Spells/Acid Splash.md",
     "Ancestries/Beast-folk.md",
     "Ancestries/Goliath.md",
-    "Ancestries/Blessed Born.md",
     "Ancestries/Ill-Fated.md",
     "Ancestries/Elf.md",
     "Ancestries/Dwarf.md",
     "Ancestries/Half-folk.md",
-    "Ancestries/Human.md",
     "Background",
     "The Setting",
     "Equipment",
