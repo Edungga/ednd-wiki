@@ -16,5 +16,6 @@ views:
       - tags
     sort: []
     columnSize:
+      note.Components: 151
       note.Duration: 208
       note.Spell List: 181
