@@ -70,6 +70,10 @@ If another Bard feature gives you spells that you always know, those spells don'
 
 **Changing Your Known Spells**. Whenever you gain a Bard level, you can replace one spell you know with another Arcane spell for which you have spell slots.
 
-Spellcasting Ability. Charisma is your spellcasting ability for your Bard spells.
+[[Arcane Spell List]]. Charisma is your spellcasting ability for your Bard spells.
 
-Spellcasting Focus. You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
+[[Arcane Spell List]]. You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
+
+## Level 2: Expertise
+You gain Expertise in two of your skill proficiencies of your choice.
+At Bard level 9, you gain Expertise in two more of your skill proficiencies of your choice.
