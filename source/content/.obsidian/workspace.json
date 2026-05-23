@@ -14,7 +14,7 @@
               "type": "bases",
               "state": {
                 "file": "Spells/Spells.base",
-                "viewName": "Arcane Spells"
+                "viewName": "All Spells"
               },
               "icon": "lucide-table",
               "title": "Spells"
@@ -172,13 +172,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Gust.md",
-    "Guidance.md",
+    "Light.md",
+    "Spells/Gust.md",
+    "Spells/Guidance.md",
+    "Spells/Spells.base",
     "Rules/Conditions.md",
     "Green Flame Blade.md",
     "Classes/Fighter.md",
     "Spells/Blade Ward.md",
-    "Spells/Spells.base",
     "Rules",
     "Spells/Frostbite.md",
     "Spells/Friends.md",
@@ -199,7 +200,6 @@
     "Ancestries/Blessed Born.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "Ancestries/Beast-folk.md",
-    "Ancestries/Goliath.md",
     "Background",
     "The Setting",
     "Equipment",
