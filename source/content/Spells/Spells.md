@@ -42,3 +42,7 @@
 | [[True Strike]]      | Divination    | Bonus Action                                     | 30 ft                 | S                                                                                          | 1 round                             |
 | [[Vicious Mockery]]  | Enchantment   | Action                                           | 60 ft                 | V                                                                                          | Instantaneous                       |
 | [[Word of Radiance]] | Evocation     | Action                                           | Self (5 ft emination) | V, M (a sunburst token)                                                                    | Instantaneous                       |
+
+
+# 1st Cirlce
+
