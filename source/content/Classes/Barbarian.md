@@ -38,12 +38,10 @@ Armor Training: Shields
 ## Level 1: Weapon Mastery
 Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
-
-
+When you reach certain levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
 ## Level 2: Danger Sense
-You have advantage on Dex Checks and Initiative while you arent [[Conditions#b]]
+You have advantage on Dex Checks and Initiative while you arent [[Conditions#Blinded (Debuff)| Blinded (Debuff)]], [[Conditions#Deafened (Debuff)| Deafened (Debuff)]], or [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]].
 
 ## Level 2: Reckless Attack
 When you make a Melee Weapon Attack, you can decide to attack recklessly, giving you Advantage on Melee Weapon Attacks using STR until the start of your next turn. 
