@@ -37,10 +37,9 @@ You can enter your Rage the number of times shown for your Barbarian level in th
 While active, your Rage follows the rules below.
 - **Damage Resistance**. You have Resistance to Bludgeoning, Piercing, and Slashing damage.
 - **Rage Damage**. When you make a Melee Weapon Attack using STR, you deal an additional die of damage as outlined in the Rage Die column of the Barbarian class table
-- **Strength Advantage**. You have Advantage on STR Checks and Saves and Strength saving throws.
+- **Strength Advantage**. You have Advantage on STR Checks and Saves.
 - **No Concentration or Spells**. You can't maintain Concentration, and you can't cast spells.
-
-Duration. The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+- **Duration**. The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
     Make an attack roll against an enemy.
     Force an enemy to make a saving throw.
