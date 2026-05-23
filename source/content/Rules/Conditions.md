@@ -1,11 +1,11 @@
-## Dying
+## Dying (Condition)
 Death Saves. Start of your turns you must make a Death Save; roll a d20, 10+ is a success, 9 or less is a failure. 
 
 If you accumulate 3 successes before 3 failures, you are Stabilised. If you accumulate 3 failures before 3 successes, you die.
 
 Deaths Door. You lose Concentration and are Incapacitated
 
-## Exhaustion
+## Exhaustion (Condition)
 **Levels of Exhaustion**. This Condition is cumulative. Each time you receive it, you gain 1 level of Exhaustion. You die if your Exhaustion level exceeds 10.
 
 **D20 Tests Affected**. When you make a d20 Test, you subtract your Exhaustion level from the d20 roll.
@@ -14,11 +14,11 @@ Deaths Door. You lose Concentration and are Incapacitated
 
 **Ending the condition**. Finishing a Long Rest removes 1 level of Exhaustion.
 
-## Flanked
+## Flanked (Condition)
 If an imaginary line can be drawn from two enemies in your melee at opposite ends, and it crosses through you, you are considered Flanked. 
 Attacks against a Flanked creature have Advantage.
 
-## Grappled 
+## Grappled (Condition)
 Speed 0. Your Speed is 0.
 
 Attacks Affected. You have Disadvantage on Attacks against any target other than the Grappler.
@@ -27,7 +27,7 @@ Movable. The Grappler can drag or carry you when it Moves, but the Grappler suff
 
 Escape. While Grappled, you can make a DEX (Acrobatics) or STR (Athletics) Check against the Grappler’s STR (Athletics) Check at the end of each of your turns, ending the Condition on yourself on a success. The Condition also ends if the Grappler is Incapacitated [Condition] or if something removes you from the Grapple’s range.
 
-## Hidden
+## Hidden (Condition)
 **Concealed**. You aren’t affected by any effect that requires its target to be seen.
 
 **Surprise**. If you are Hidden when you roll Initiative, you have Advantage on the roll.
@@ -40,7 +40,7 @@ Escape. While Grappled, you can make a DEX (Acrobatics) or STR (Athletics) Check
 - You make an Attack 
 - Or you aren’t Heavily Obscured or behind any Cover
 
-## Incapacitated
+## Incapacitated (Condition)
 **Inactive**. You can’t Move or take Actions, Bonus Actions, or Reactions.
 
 **Speed 0**. Your Speed is 0 and can’t change.
@@ -51,7 +51,7 @@ Escape. While Grappled, you can make a DEX (Acrobatics) or STR (Athletics) Check
 
 **Surprised**. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll
 
-## Petrified
+## Petrified (Condition)
 Statue. You and any object you are wearing/carrying are transformed into a solid, inanimate substance (usually stone). Your weight increases by a factor of ten, and cease ageing.
 
 Incapacitated. You are Incapacitated [Condition] and are unaware of your surroundings
@@ -62,26 +62,26 @@ Fail Str. and Dex. Saves. You automatically fail STR and DEX Saves.
 
 Solid. You have Resistance to all Damage, and are Immune to Poisoned [Debuff]. A Poison already in your system is suspended, not neutralised.
 
-## Prone
+## Prone (Condition)
 Crawling. When you move, you must crawl (half movement), or you can stand up (half movement) and end Condition.
 
 Your Attacks Affected. You have Disadvantage on Attacks.
 
 Other Attacks Affected. Melee Attacks against you have Advantage. Ranged Attacks against you have Disadvantage.
 
-## Restrained
+## Restrained (Condition)
 Speed 0. Your Speed is 0 and can’t change.
 
 Attacks Affected. Attacks against you have Advantage and your Attacks have Disadvantage
 
 DEX Saves. You have Disadvantage on DEX Saves.
 
-## Surprised
+## Surprised (Condition)
 Inactive. You can’t Move or take Actions, Bonus Actions, or Reactions.
 
 Ending Condition. At the end of your turn, you are no longer Surprised
 
-## Unconscious
+## Unconscious (Condition)
 Inert. You are Incapacitated [Condition] and Prone [Condition], and you drop whatever you’re holding. When this Condition ends, you remain Prone.
 
 Speed 0. Your Speed is 0 and can’t change.
@@ -98,69 +98,69 @@ Unaware. You’re unaware of your surroundings.
 # Buff
 Buffs are specific conditions that are typically positive
 
-## Bless
+## Bless (Buff)
 You have +1d4 to d20 Tests
 
-## Blurred
+## Blurred (Buff)
 Attacks have Disadvantage against you
 
-Calmed
+Calmed (Buff)
 Not affected by Frightened [Debuff], Charmed [Debuff], or Wrath [Buff]
 
-Enlarged
+Enlarged (Buff)
 Your Size increases by one, +1d4 damage on Attacks, Advantage on STR Checks and Saves
 
-Hasted 
+Hasted (Buff)
 Speed is doubled and can take an additional Action on your turn
 
-Invisible 
+Invisible (Buff)
 Unseeable. You can’t be seen, so you aren’t affected by any effect that requires its target to be seen. Any equipment you are	wearing or carrying also can’t be seen.
 Surprise. If you are Invisible when you roll Initiative, you have Advantage on the roll.
 Attacks Affected. Attacks against you have Disadvantage, and your Attacks have Advantage. If a creature can somehow see you, as with Blindsight, you don’t gain this benefit against that creature.
 
-## Luck
+## Luck (Buff)
 Reduces the number required to score is a Critical Hit by the amount of Luck. 
 For example. Luck 1 scores a Critical Hit on a roll of 19 or 20 on the d20, where a Luck 3 scores a critical hit on a roll on 17, 18, 19, or 20. 
 Gaining Luck from multiple sources, combine the points.
 
-## Warded
+## Warded (Buff)
 Resistance against Bludgeoning, Piercing, and Slashing Damage
 
 ---
 # Debuff
 Debuffs are specific conditions that are typically negative
  
-## Bane
+## Bane (Debuff)
 -1d4 to d20 Tests
 
-## Blinded
+## Blinded (Debuff)
 **Attacks Affected**. Attacks against you have Advantage and you have Disadvantage on Attacks
 **Blind**. Automatically fails any Check that requires sight and cannot use abilities requiring you to see a target
 **No Flanking**. You cannot contribute to Flanking a creature
 Blindsight or Tremorsense cancel this out for the Range of those visions
 
-Charmed
+Charmed (Debuff)
 Actions Affected. Can’t Attack the Charmer or target the Charmer with harmful Abilities or Effects.
 Socially Affected. The Charmer has Advantage on any Check to interact socially with the creature.
 
-Dazed
+## Dazed (Debuff)
 Can only use a single Movement, Action, or Bonus Action (can't take a Reaction). Loses Concentration.
 
-Deafened
+## Deafened (Debuff)
 Can’t hear and automatically fails any Check that requires hearing.
 
-Feeble
+## Feeble (Debuff)
 Deals half damage (rounded down) on Weapon Attacks using STR and on STR Checks and Saves, and you cannot Cast Spells with Somatic Component
 
-Frightened 
+## Frightened  (Debuff)
 Spooked. Disadvantage on Checks and Attacks while the source of its fear is within Line of Sight.
 Movement Affected. You can’t willingly move closer to the source of the fear.
 
 
-## Paralysed 
+## Paralysed (Debuff)
 [[#Incapacitated]], fails all STR and DEX Saves, Attacks against you have Advantage
 
-## Poisoned
+## Poisoned (Debuff)
 Disadvantage on Attacks and Checks.
 
 ## Reduced (Debuff)
