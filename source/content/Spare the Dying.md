@@ -13,6 +13,6 @@ Spell List:
 tags:
   - Spell
 ---
-Choose a Dying [Condition] creature within Range. The creature becomes Stable. 
+Choose a [[Conditions#Dying (Condition)|Dying (Condition)]] creature within Range. The creature becomes Stable. 
 This Spell has no effect on Undead or Constructs.
-Cantrip Upgrade. This Spell’s Range increases when you reach levels 5 (30ft), 11 (60ft), and 17 (90ft).
+**Cantrip Upgrade**. This Spell’s Range increases when you reach levels 5 (30ft), 11 (60ft), and 17 (90ft).
