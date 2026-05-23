@@ -152,3 +152,26 @@ Can’t hear and automatically fails any Check that requires hearing.
 Feeble
 Deals half damage (rounded down) on Weapon Attacks using STR and on STR Checks and Saves, and you cannot Cast Spells with Somatic Component
 
+Frightened 
+Spooked. Disadvantage on Checks and Attacks while the source of its fear is within Line of Sight.
+Movement Affected. You can’t willingly move closer to the source of the fear.
+
+
+Paralysed 
+Incapacitated [Condition], fails all STR and DEX Saves, Attacks against you have Advantage
+
+Poisoned
+Disadvantage on Attacks and Checks.
+
+Reduced
+Your Size decreases by one, -1d4 damage on Attacks, Disadvantage on STR Checks and Saves
+
+Silenced
+Cannot talk or cast Verbal Component of Spells
+
+Slowed
+Limited Movement. Speed is halved.
+Attacks Affected. Attack Rolls against you have Advantage.
+Dexterity Saves Affected. You have Disadvantage on DEX Saves.
+
+Stunned
