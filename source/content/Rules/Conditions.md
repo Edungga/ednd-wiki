@@ -143,7 +143,12 @@ Charmed
 Actions Affected. Can’t Attack the Charmer or target the Charmer with harmful Abilities or Effects.
 Socially Affected. The Charmer has Advantage on any Check to interact socially with the creature.
 
-Crippled
-Speed it 0 and you have Disadvantage on DEX Saves, and you cannot Cast Spells with Somatic Component
+Dazed
+Can only use a single Movement, Action, or Bonus Action (can't take a Reaction). Loses Concentration.
 
+Deafened
+Can’t hear and automatically fails any Check that requires hearing.
+
+Feeble
+Deals half damage (rounded down) on Weapon Attacks using STR and on STR Checks and Saves, and you cannot Cast Spells with Somatic Component
 
