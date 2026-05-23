@@ -145,9 +145,6 @@ Blindsight or Tremorsense cancel this out for the Range of those visions
 Actions Affected. Can’t Attack the Charmer or target the Charmer with harmful Abilities or Effects.
 Socially Affected. The Charmer has Advantage on any Check to interact socially with the creature.
 
-## Dazed (Debuff)
-Can only use a single Movement, Action, or Bonus Action (can't take a Reaction). Loses Concentration.
-
 ## Deafened (Debuff)
 Can’t hear and automatically fails any Check that requires hearing.
 
@@ -155,12 +152,11 @@ Can’t hear and automatically fails any Check that requires hearing.
 Deals half damage (rounded down) on Weapon Attacks using STR and on STR Checks and Saves, and you cannot Cast Spells with Somatic Component
 
 ## Frightened  (Debuff)
-Spooked. Disadvantage on Checks and Attacks while the source of its fear is within Line of Sight.
-Movement Affected. You can’t willingly move closer to the source of the fear.
-
+**Spooked**. Disadvantage on Checks and Attacks while the source of its fear is within Line of Sight.
+**Movement Affected**. You can’t willingly move closer to the source of the fear.
 
 ## Paralysed (Debuff)
-[[#Incapacitated]], fails all STR and DEX Saves, Attacks against you have Advantage
+[[#Incapacitated (Condition)]], fails all STR and DEX Saves, Attacks against you have Advantage
 
 ## Poisoned (Debuff)
 Disadvantage on Attacks and Checks.
