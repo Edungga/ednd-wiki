@@ -47,7 +47,7 @@ You can supernaturally inspire others through words, music, or dance. This inspi
 
 Once within the next hour when the creature fails a D20 Test, the creature can roll the Bardic Inspiration die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
 
-**Number of Uses**. You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+**Number of Uses**. You can confer a Bardic Inspiration die a number of times equal to your CHA modifier (min 1), and you regain all expended uses when you finish a Short or Long Rest.
 
 **At Higher Levels**. Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
 
@@ -91,10 +91,12 @@ You gain another method of using your Bardic Inspiration. As a Bonus Action, you
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
 ## 5th Level: Font of Inspiration
+**Rest Recovery**. You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
+
 **Spell Slot Conversion**. When you have no uses of Bardic Inspiration left, you can give yourself uses by expending a Spell Slot. You regain a number of uses equal to the Spell Slot expended (i.e. by expending a 2nd Level Spell Slot, you regain 2 uses of Bardic Inspiration). 
 You cannot gain more uses than your maximum. You can do this only once per turn (no action required).
 
-Additionally, if a creature rolls your Bardic Inspiration die and gets a 1 (after any rerolls you might have), that use of your Bardic Inspiration isn’t expended.
+**No Duds**. If a creature rolls your Bardic Inspiration die and gets a 1 (after any rerolls you might have), that use of your Bardic Inspiration isn’t expended.
 
 
 ---
