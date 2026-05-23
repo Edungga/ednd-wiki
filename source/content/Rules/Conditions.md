@@ -74,25 +74,25 @@ Attacks against a Flanked creature have Advantage.
 
 **Attacks Affected**. Attacks against you have Advantage and your Attacks have Disadvantage
 
-DEX Saves. You have Disadvantage on DEX Saves.
+**DEX Saves**. You have Disadvantage on DEX Saves.
 
 ## Surprised (Condition)
-Inactive. You can’t Move or take Actions, Bonus Actions, or Reactions.
+**Inactive**. You can’t Move or take Actions, Bonus Actions, or Reactions.
 
-Ending Condition. At the end of your turn, you are no longer Surprised
+**Ending Condition**. At the end of your turn, you are no longer Surprised
 
 ## Unconscious (Condition)
-Inert. You are Incapacitated [Condition] and Prone [Condition], and you drop whatever you’re holding. When this Condition ends, you remain Prone.
+Inert. You are [[#Incapacitated (Condition)]]and [[#Prone (Condition)]], and you drop whatever you’re holding. When this Condition ends, you remain Prone.
 
-Speed 0. Your Speed is 0 and can’t change.
+**Speed 0**. Your Speed is 0 and can’t change.
 
-Attacks Affected. Attacks against you have Advantage.
+**Attacks Affected**. Attacks against you have Advantage.
 
-Fail Str. and Dex. Saves. You automatically fail STR and DEX Saves.
+**Fail Str. and Dex. Saves**. You automatically fail STR and DEX Saves.
 
-Critical Hits. Any Attack that hits you is a Critical Hit.
+**Critical Hits**. Any Attack that hits you is a Critical Hit.
 
-Unaware. You’re unaware of your surroundings.
+**Unaware**. You’re unaware of your surroundings.
 
 ---
 # Buff
@@ -105,7 +105,7 @@ You have +1d4 to d20 Tests
 Attacks have Disadvantage against you
 
 ## Calmed (Buff)
-Not affected by Frightened [Debuff], Charmed [Debuff], or Wrath [Buff]
+Not affected by [[#Frightened (Debuff)]] or [[#Charmed (Debuff)]]
 
 ## Enlarged (Buff)
 Your Size increases by one, +1d4 damage on Attacks, Advantage on STR Checks and Saves
@@ -114,9 +114,11 @@ Your Size increases by one, +1d4 damage on Attacks, Advantage on STR Checks and 
 Speed is doubled and can take an additional Action on your turn
 
 ## Invisible (Buff)
-Unseeable. You can’t be seen, so you aren’t affected by any effect that requires its target to be seen. Any equipment you are	wearing or carrying also can’t be seen.
-Surprise. If you are Invisible when you roll Initiative, you have Advantage on the roll.
-Attacks Affected. Attacks against you have Disadvantage, and your Attacks have Advantage. If a creature can somehow see you, as with Blindsight, you don’t gain this benefit against that creature.
+**Unseeable**. You can’t be seen, so you aren’t affected by any effect that requires its target to be seen. Any equipment you are	wearing or carrying also can’t be seen.
+
+**Surprise**. If you are Invisible when you roll Initiative, you have Advantage on the roll.
+
+**Attacks Affected**. Attacks against you have Disadvantage, and your Attacks have Advantage. If a creature can somehow see you, as with Blindsight, you don’t gain this benefit against that creature.
 
 ## Luck (Buff)
 Reduces the number required to score is a Critical Hit by the amount of Luck. 
