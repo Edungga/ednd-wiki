@@ -11,12 +11,13 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "Table"
+                "file": "Spells.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
+              "icon": "lucide-file",
               "title": "Spells"
             }
           }
@@ -171,6 +172,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Spells.base",
     "Spells.md",
     "Background/Example Backgrounds.md",
     "index.md",
@@ -181,7 +183,6 @@
     "Ancestries/Blessed Born.md",
     "Background/Languages.md",
     "The Setting/The Shrouded Realm of Callitè.md",
-    "Spells/Spells.base",
     "Spells/Acid Splash.md",
     "Ancestries/Beast-folk.md",
     "Ancestries/Goliath.md",
