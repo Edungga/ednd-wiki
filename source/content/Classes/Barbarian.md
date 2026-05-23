@@ -29,7 +29,7 @@ Armor Training: Shields
 | 3rd   | +2                | 1d4      | 3     | [[#Level 3 Primal Path\|Primal Path]]                                                                                     |
 | 4th   | +2                | 1d4      | 3     | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                         |
 | 5th   | +3                | 1d6      | 3     | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Fast Movement\|Fast Movement]]                                        |
-|       |                   |          |       |                                                                                                                           |
+
 ## Level 1: Rage
 You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
 
@@ -80,3 +80,23 @@ Your Walk Speed increases by 10 feet.
 
 ---
 # Primal Paths
+
+## Path of the Ancestors
+
+
+
+
+## Path of the Beast
+
+
+
+
+## Path of the Berserker
+
+
+
+## Path of the Primal Spirits
+
+
+
+## Path of the Zelot
