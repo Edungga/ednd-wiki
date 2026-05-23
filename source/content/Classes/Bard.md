@@ -92,6 +92,7 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 ## 5th Level: Font of Inspiration
 When you have no uses of Bardic Inspiration left, you can give yourself uses by expending a Spell Slot. You regain a number of uses equal to the Spell Slot expended (i.e. by expending a 2nd Level Spell Slot, you regain 2 uses of Bardic Inspiration). 
 You cannot gain more uses than your maximum. You can do this only once per turn (no action required).
+
 Additionally, if a creature rolls your Bardic Inspiration die and gets a 1 (after any rerolls you might have), that use of your Bardic Inspiration isn’t expended.
 
 
