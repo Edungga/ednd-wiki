@@ -38,7 +38,6 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 4th   | +2                | 4              | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |
 | 5th   | +3                | 4              | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Tactical Shift\|Tactical Shift]]                                            |
 
-
 ## Level 1: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting_Style|Fighting Style Feat]] of your choice
 
