@@ -22,6 +22,13 @@ Weapon Proficiencies: Martial weapons
 Armor Training: Light and Medium armor and Shields
 
 
+| Level | Proficiency Bonus | Weapon Mastery | Superiority Dice | Features                              |
+| ----- | ----------------- | -------------- | ---------------- | ------------------------------------- |
+| 1st   | +2                | 3              | -                | Fighting Style [Feat], Second Wind    |
+| 2nd   | +2                | 3              | 2 (d6)           | Combat Superiority, Action Surge (x1) |
+| 3rd   | +2                | 3              | 3 (d6)           | Martial Archetype                     |
+| 4th   | +2                | 4              | 4 (d6)           | Feat / ASI                            |
+| 5th   | +3                | 4              | 4 (d6)           | Extra Attack                          |
 
 # Class Features
 ## Level 1: Fighting Style
