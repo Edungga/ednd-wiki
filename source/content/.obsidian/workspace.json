@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -95,7 +95,7 @@
               "type": "backlink",
               "state": {
                 "file": "Classes/Fighter.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -142,20 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Classes/Fighter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Fighter"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "2d9129bb8dcf7983",
   "lastOpenFiles": [
     "Rules/Conditions.md",
     "Spells/Blade Ward.md",

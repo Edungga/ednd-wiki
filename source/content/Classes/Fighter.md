@@ -196,6 +196,8 @@ The maneuvers are presented in alphabetical order:
 
 **Commanding Presence**. When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.
 
+**Crippling Strike**. When you hit a creature with a Weapon Attack, you can force it to make a CON Save. On a failed save, it takes extra damage equal to your Superiority Die and is [[Conditions#Feeble (Debuff)|Feeble (Debuff)]] until the start of your next turn.
+
 **Crushing Strike**. When you hit a creature with a Melee Weapon Attack, you can force it to make a CON Save. On a failed save, it takes extra damage equal to your Superiority Die and its AC is reduced by 1 until the start of your next turn
 
 **Disarming Attack**. When you hit a creature with a Weapon Attack, you can attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the Superiority Die to the Attack's damage roll, and the target must make a STR Save. On a failed save, it drops the object you choose. The object lands at its feet.
