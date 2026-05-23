@@ -27,8 +27,8 @@ Armor Training: Light and Medium armor and Shields
 | 1st   | +2                | 3              | [[#Level 1 Fighting Style\|Fighting Style]], [[#Level 1 Second Wind\|Second Wind]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |
 | 2nd   | +2                | 3              | [[#Level 2 Action Surge\|Action Surge (x1)]], [[#Level 2 Tactical Mind\|Tactical Mind]]                                         |
 | 3rd   | +2                | 3              | [[#Level 3 Martial Archetype\|Martial Archetype]]                                                                               |
-| 4th   | +2                | 4              | Feat / ASI                                                                                                                      |
-| 5th   | +3                | 4              | Extra Attack                                                                                                                    |
+| 4th   | +2                | 4              | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |
+| 5th   | +3                | 4              | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Tactical Shift\|Tactical Shift]]                                            |
 
 # Class Features
 ## Level 1: Fighting Style
