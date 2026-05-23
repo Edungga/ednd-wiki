@@ -157,7 +157,7 @@ You augment your martial prowess with the ability to cast spells using the [[Arc
 | 19th          | 4              | 12           | 4   | 3   | 3   | 1   |
 | 20th          | 4              | 13           | 4   | 3   | 3   | 1   |
 
-**Cantrips**. You learn two cantrips of your choice from the [[Arcane Spell List]]. You learn an additional wizard cantrip of your choice at 10th level.
+**Cantrips**. You learn two cantrips of your choice from the [[Arcane Spell List]]. You learn an additional cantrip of your choice at 10th level and another at 15th level.
 
 **Spell Slots**. The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your Arcane Spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
