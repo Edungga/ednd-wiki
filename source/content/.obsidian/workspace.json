@@ -11,14 +11,13 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Spells/Spells.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-table",
+              "title": "Spells"
             }
           }
         ]
@@ -172,11 +171,11 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "index.md",
     "Spells/Spells.md",
     "Spells/Spells.base",
     "Background/Languages.md",
     "Background/Example Backgrounds.md",
-    "index.md",
     "Equipment/Weapon Mastery Properties.md",
     "Classes/Fighter.md",
     "Feats/Feat.md",
