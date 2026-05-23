@@ -107,6 +107,8 @@ If a creature you can see within 10 feet of you hits you with an Attack, you can
 
 
 ## Path of the Berserker
+Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammelled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.
+
 
 
 
