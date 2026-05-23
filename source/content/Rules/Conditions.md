@@ -63,11 +63,23 @@ Fail Str. and Dex. Saves. You automatically fail STR and DEX Saves.
 Solid. You have Resistance to all Damage, and are Immune to Poisoned [Debuff]. A Poison already in your system is suspended, not neutralised.
 
 ## Prone
+Crawling. When you move, you must crawl (half movement), or you can stand up (half movement) and end Condition.
 
+Your Attacks Affected. You have Disadvantage on Attacks.
+
+Other Attacks Affected. Melee Attacks against you have Advantage. Ranged Attacks against you have Disadvantage.
 
 ## Restrained
+Speed 0. Your Speed is 0 and can’t change.
+
+Attacks Affected. Attacks against you have Advantage and your Attacks have Disadvantage
+
+DEX Saves. You have Disadvantage on DEX Saves.
 
 ## Surprised
+Inactive. You can’t Move or take Actions, Bonus Actions, or Reactions.
+
+Ending Condition. At the end of your turn, you are no longer Surprised
 
 ## Unconscious
 Inert. You are Incapacitated [Condition] and Prone [Condition], and you drop whatever you’re holding. When this Condition ends, you remain Prone.
@@ -83,12 +95,17 @@ Critical Hits. Any Attack that hits you is a Critical Hit.
 Unaware. You’re unaware of your surroundings.
 
 # Buff
+Buffs are specific conditions that are explicitly positive
 
+## Bless
+You have +1d4 to d20 Tests
 
 
 
 
 # Debuff
+Debuffs are specific conditions that are explicitly negative
+ 
 ## Bane
 -1d4 to d20 Tests
 
