@@ -16,6 +16,7 @@ views:
       - tags
     sort: []
     columnSize:
+      note.Casting Time: 135
       note.Components: 151
       note.Duration: 208
       note.Spell List: 181
