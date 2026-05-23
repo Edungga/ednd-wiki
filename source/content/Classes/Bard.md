@@ -99,3 +99,23 @@ You cannot gain more uses than your maximum. You can do this only once per turn 
 
 ---
 # Bardic Colleges
+## College of Dance
+
+
+
+
+## College of Eloquence
+
+
+
+## College of Glamour
+
+
+
+## College of Lore
+
+
+## College of Maestro
+
+
+## College of Valour
