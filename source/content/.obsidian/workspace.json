@@ -11,12 +11,13 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "All Spells"
+                "file": "Spells/Spells.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
+              "icon": "lucide-file",
               "title": "Spells"
             }
           }
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Spells/Spells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Spells/Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,6 +173,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Spells.base",
     "Word of Radiance.md",
     "Vicious Mockery.md",
     "True Strike.md",
@@ -179,7 +181,6 @@
     "Spells/Cantrips/Thaumaturgy.md",
     "Spells/Cantrips/Thorn Whip.md",
     "Spells/Cantrips/Thunderclap.md",
-    "Spells/Spells.base",
     "Spells/Cantrips/Sword Burst.md",
     "Spells/Cantrips/Spare the Dying.md",
     "Spells/Cantrips/Shocking Grasp.md",
@@ -199,7 +200,6 @@
     "Spells/Cantrips/Mould Earth.md",
     "Spells/Cantrips/Minor Illusion.md",
     "Spells/Cantrips/Message.md",
-    "Spells/Cantrips/Mending.md",
     "Rules",
     "Background",
     "The Setting",
