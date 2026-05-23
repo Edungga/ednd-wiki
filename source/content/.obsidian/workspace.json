@@ -11,14 +11,13 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Green Flame Blade.md",
-                "mode": "source",
-                "source": false
+                "file": "Spells/Spells.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Green Flame Blade"
+              "icon": "lucide-table",
+              "title": "Spells"
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Green Flame Blade.md",
+                "file": "Spells/Spells.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Green Flame Blade"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Green Flame Blade.md",
+                "file": "Spells/Spells.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Green Flame Blade"
+              "title": "Outline of Spells"
             }
           }
         ],
@@ -173,11 +172,11 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Rules/Conditions.md",
+    "Green Flame Blade.md",
     "Classes/Fighter.md",
     "Spells/Blade Ward.md",
     "Spells/Spells.base",
     "Rules",
-    "Green Flame Blade.md",
     "Spells/Frostbite.md",
     "Spells/Friends.md",
     "Spells/Fire Bolt.md",
