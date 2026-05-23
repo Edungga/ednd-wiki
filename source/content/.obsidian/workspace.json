@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bard.md",
+                "file": "Classes/Bard.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bard.md",
+                "file": "Classes/Bard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,10 +172,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "index.md",
-    "Bard.md",
     "Classes/Barbarian.md",
     "Classes/Fighter.md",
+    "Classes/Bard.md",
+    "index.md",
     "Spells/Spells.md",
     "Spells/Spells.base",
     "Rules/Soul Scar.md",
