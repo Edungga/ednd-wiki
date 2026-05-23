@@ -13,3 +13,6 @@ views:
       - Components
       - Duration
       - Spell List
+      - tags
+    columnSize:
+      note.Spell List: 214
