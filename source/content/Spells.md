@@ -2,7 +2,7 @@
 
 ````
 dataview
-TABLE name, school
+LIST
 FROM "Spells"
 SORT name
 ````
