@@ -15,4 +15,5 @@ views:
       - Spell List
       - tags
     columnSize:
-      note.Spell List: 214
+      note.Duration: 208
+      note.Spell List: 181
