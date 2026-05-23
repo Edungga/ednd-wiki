@@ -30,15 +30,36 @@ Armor Training: Shields
 | 4th   | +2                | 1d4      | 3     | Feat / ASI                                                                                                                |
 | 5th   | +3                | 1d6      | 3     | Extra Attack, Fast Movement                                                                                               |
 ## Level 1: Rage
+You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
 
+You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+
+While active, your Rage follows the rules below.
+
+Damage Resistance. You have Resistance to Bludgeoning, Piercing, and Slashing damage.
+
+Rage Damage. When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
+
+Strength Advantage. You have Advantage on Strength checks and Strength saving throws.
+
+No Concentration or Spells. You can't maintain Concentration, and you can't cast spells.
+
+Duration. The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+
+    Make an attack roll against an enemy.
+    Force an enemy to make a saving throw.
+    Take a Bonus Action to extend your Rage.
+
+Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
 ## Level 1: Unarmoured Defence
-
+While you are not wearing any Armour, your Armour Class equals 10 + your DEX modifier + your CON modifier. 
+You can use a Shield and still gain this benefit.
 
 ## Level 1: Weapon Mastery
 Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
+When you reach certain levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 
 ## Level 2: Danger Sense
 You have advantage on Dex Checks and Initiative while you arent [[Conditions#Blinded (Debuff)| Blinded (Debuff)]], [[Conditions#Deafened (Debuff)| Deafened (Debuff)]], or [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]].
