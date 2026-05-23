@@ -68,7 +68,8 @@ You choose a path that shapes the nature of your Rage, granting you features at 
 [[#Primal Paths|Primal Paths]]:
 - [[#Path of the Ancestors|Path of the Ancestors]]
 - [[#Path of the Beast|Path of the Beast]]
-- [[#path]]
+- [[#Path of the Berserker|Path of the Berserker]]
+- [[#Path of the Primal Spirits|Path of the Primal Spirits]]
 - [[#Path of the Zealot|Path of the Zealot]]
 
 ## Level 4: Ability Score Improvement
