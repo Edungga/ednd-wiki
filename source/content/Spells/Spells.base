@@ -4,3 +4,12 @@ views:
     filters:
       and:
         - file.tags.contains("Spell")
+    order:
+      - file.name
+      - School
+      - Spell Circle
+      - Casting Time
+      - Range
+      - Components
+      - Duration
+      - Spell List
