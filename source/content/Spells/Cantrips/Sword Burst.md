@@ -4,7 +4,7 @@ School:
 Spell Circle:
   - Cantrip
 Casting Time: Action
-Range: Self (5 ft radius)
+Range: Self (5 ft emination)
 Components: V,S
 Duration: Instantaneous
 Spell List:
