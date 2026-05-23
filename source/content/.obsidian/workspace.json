@@ -11,13 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "All Spells"
+                "file": "Rules/Conditions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "lucide-file",
+              "title": "Conditions"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Rules/Conditions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spells"
+              "title": "Backlinks for Conditions"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Rules/Conditions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of Conditions"
             }
           }
         ],
@@ -172,6 +173,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Spells.base",
     "Sapping Sting.md",
     "Sacred Flame.md",
     "Resistance.md",
@@ -186,7 +188,6 @@
     "Mending.md",
     "Magic Stone.md",
     "Lightning Lure.md",
-    "Spells/Spells.base",
     "Mage Hand.md",
     "Light.md",
     "Spells/Gust.md",
@@ -199,7 +200,6 @@
     "Spells/Frostbite.md",
     "Spells/Friends.md",
     "Spells/Fire Bolt.md",
-    "Spells/Eldritch Blast.md",
     "Background",
     "The Setting",
     "Equipment",
