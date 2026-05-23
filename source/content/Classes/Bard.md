@@ -9,7 +9,7 @@
 
 **Saving Throw Proficiencies**: Dexterity, Charisma
 
-**Skill Proficiencies**: Choose any 3 skills (see chapter 1).
+**Skill Proficiencies**: Choose any 3 Skills.
 
 **Weapon Proficiencies**: Simple weapons
 
@@ -32,10 +32,12 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 # Class Features
 
-| Level | Proficiency Bonus | Features                                    | Bardic Die | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | ------------------------------------------- | ---------- | -------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st   | +2                | Expertise, Bardic Inspiration, Spellcasting | d6         | 2        | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Jack of All Trades, Magical Secrets         | d6         | 2        | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                | Bard College                                | d6         | 2        | 7            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                | Feat / ASI                                  | d6         | 3        | 8            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                | Font of Inspiration                         | d8         | 3        | 10           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| Level | Proficiency Bonus | Features                            | Bardic Die | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ----------------------------------- | ---------- | -------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Bardic Inspiration, Spellcasting    | d6         | 2        | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Jack of All Trades, Magical Secrets | d6         | 2        | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | Bard College                        | d6         | 2        | 7            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Feat / ASI                          | d6         | 3        | 8            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | Font of Inspiration                 | d8         | 3        | 10           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+
+## Level 1: F
