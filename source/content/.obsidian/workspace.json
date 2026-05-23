@@ -11,13 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "Table"
+                "file": "Fire Bolt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "lucide-file",
+              "title": "Fire Bolt"
             }
           }
         ]
@@ -171,13 +172,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Spells.base",
+    "Fire Bolt.md",
     "Eldritch Blast.md",
     "Druidcraft.md",
     "Spells/Dancing Lights.md",
     "Spells/Control Flames.md",
     "Spells/Chill Touch.md",
     "Spells/Blade Ward.md",
-    "Spells/Spells.base",
     "Spells/Spells.md",
     "index.md",
     "Background/Languages.md",
@@ -203,7 +205,6 @@
     "Classes",
     "Ancestries",
     "category-folder/Some note.md",
-    "category-folder/index.md",
     "category-folder"
   ]
 }

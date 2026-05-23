@@ -11,6 +11,6 @@ Spell List:
 tags:
   - Spell
 ---
-You hurl a mote of fire at a creature or object within range. Make a Ranged Spell Attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+A beam of crackling energy streaks toward a creature within range. Make a Ranged Spell Attack against the target. On a hit, the target takes 1d10 Force Damage.
 
-Cantrip Upgrade. This spell’s damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
+**Cantrip Upgrade**. This spell creates another beam when you reach levels 5 (2 beams), 11 (3 beams), and 17 (4 beams). You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
