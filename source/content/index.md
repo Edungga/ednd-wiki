@@ -26,7 +26,7 @@ We also have some Home Rules to spice things up a bit
 - [[Beast-folk]]
 
 ## Classes
-- Barbarian
+- [[Barbarian]]
 - Bard
 - Bloodhunter
 - Cleric
