@@ -129,8 +129,10 @@ The College of Glamour traces its origins to the beguiling magic of Fey. The Bar
 
 ### 3rd Level: Beguiling Magic
 You know the Charm Person and Mirror Image spells if you didn't already.
-In addition, immediately after you cast an Enchantment or Illusion Spell, you can cause a creature you can see within 60ft of yourself to make a WIS Save against your Spell Save DC. On a failed Save, the target is Charmed [Debuff] or Frightened [Debuff] (your choice) for 1 minute. The target can repeat the Save at the end of each of its turns, ending the effect on itself on a success.
+
+In addition, immediately after you cast an Enchantment or Illusion Spell, you can cause a creature you can see within 60ft of yourself to make a WIS Save against your Spell Save DC. On a failed Save, the target is [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] (your choice) for 1 minute. The target can repeat the Save at the end of each of its turns, ending the effect on itself on a success.
 If a target succeeds on its Save, the target has no hint that you tried to charm it.
+
 Once you use this feature, you can’t use it again until you finish a Short or Long Rest unless by expending one use of your Bardic Inspiration [Free Action].
 
 3rd Level: Mantle of Inspiration
