@@ -25,14 +25,13 @@
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Ancestries/Beast-folk.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Beast-folk"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -185,9 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
     "index.md",
+    "Untitled.base",
     "Ancestries/Beast-folk.md",
     "Ancestries/Goliath.md",
     "Ancestries/Blessed Born.md",
