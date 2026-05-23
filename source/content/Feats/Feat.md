@@ -43,4 +43,6 @@ You gain Proficiency in any combination of three Skills or tools of your choice.
 Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points.
 
 
-#
+# Level 4 Feats
+## Ability Score Improvement
+Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.
