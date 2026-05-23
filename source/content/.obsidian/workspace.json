@@ -11,13 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "Table"
+                "file": "Rules/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -171,6 +172,9 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Spells.base",
+    "Rules/Untitled.md",
+    "Rules",
     "Green Flame Blade.md",
     "Frostbite.md",
     "Friends.md",
@@ -182,7 +186,6 @@
     "Spells/Chill Touch.md",
     "Spells/Blade Ward.md",
     "Spells/Acid Splash.md",
-    "Spells/Spells.base",
     "Spells/Spells.md",
     "index.md",
     "Background/Languages.md",
@@ -196,8 +199,6 @@
     "Ancestries/Beast-folk.md",
     "Ancestries/Goliath.md",
     "Ancestries/Ill-Fated.md",
-    "Ancestries/Elf.md",
-    "Ancestries/Dwarf.md",
     "Background",
     "The Setting",
     "Equipment",
