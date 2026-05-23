@@ -52,27 +52,27 @@ Attacks against a Flanked creature have Advantage.
 **Surprised**. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll
 
 ## Petrified (Condition)
-Statue. You and any object you are wearing/carrying are transformed into a solid, inanimate substance (usually stone). Your weight increases by a factor of ten, and cease ageing.
+**Statue**. You and any object you are wearing/carrying are transformed into a solid, inanimate substance (usually stone). Your weight increases by a factor of ten, and cease ageing.
 
-Incapacitated. You are Incapacitated [Condition] and are unaware of your surroundings
+**Incapacitated**. You are [[#Incapacitated (Condition)]] and are unaware of your surroundings
 
-Attacks Affected. Attacks against you have Advantage.
+**Attacks Affected**. Attacks against you have Advantage.
 
-Fail Str. and Dex. Saves. You automatically fail STR and DEX Saves.
+**Fail STR and DEX Saves**. You automatically fail STR and DEX Saves.
 
-Solid. You have Resistance to all Damage, and are Immune to Poisoned [Debuff]. A Poison already in your system is suspended, not neutralised.
+**Solid**. You have Resistance to all Damage, and are Immune to [[#Poisoned (Debuff)]]. A Poison already in your system is suspended, not neutralised.
 
 ## Prone (Condition)
-Crawling. When you move, you must crawl (half movement), or you can stand up (half movement) and end Condition.
+**Crawling**. When you move, you must crawl (half movement), or you can stand up (half movement) and end Condition.
 
-Your Attacks Affected. You have Disadvantage on Attacks.
+**Your Attacks Affected**. You have Disadvantage on Attacks.
 
-Other Attacks Affected. Melee Attacks against you have Advantage. Ranged Attacks against you have Disadvantage.
+**Other Attacks Affected**. Melee Attacks against you have Advantage. Ranged Attacks against you have Disadvantage.
 
 ## Restrained (Condition)
-Speed 0. Your Speed is 0 and can’t change.
+**Speed 0**. Your Speed is 0 and can’t change.
 
-Attacks Affected. Attacks against you have Advantage and your Attacks have Disadvantage
+**Attacks Affected**. Attacks against you have Advantage and your Attacks have Disadvantage
 
 DEX Saves. You have Disadvantage on DEX Saves.
 
