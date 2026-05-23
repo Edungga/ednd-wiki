@@ -94,6 +94,7 @@ Critical Hits. Any Attack that hits you is a Critical Hit.
 
 Unaware. You’re unaware of your surroundings.
 
+---
 # Buff
 Buffs are specific conditions that are typically positive
 
@@ -125,7 +126,7 @@ Gaining Luck from multiple sources, combine the points.
 ## Warded
 Resistance against Bludgeoning, Piercing, and Slashing Damage
 
-
+---
 # Debuff
 Debuffs are specific conditions that are typically negative
  
@@ -137,4 +138,12 @@ Debuffs are specific conditions that are typically negative
 **Blind**. Automatically fails any Check that requires sight and cannot use abilities requiring you to see a target
 **No Flanking**. You cannot contribute to Flanking a creature
 Blindsight or Tremorsense cancel this out for the Range of those visions
+
+Charmed
+Actions Affected. Can’t Attack the Charmer or target the Charmer with harmful Abilities or Effects.
+Socially Affected. The Charmer has Advantage on any Check to interact socially with the creature.
+
+Crippled
+Speed it 0 and you have Disadvantage on DEX Saves, and you cannot Cast Spells with Somatic Component
+
 
