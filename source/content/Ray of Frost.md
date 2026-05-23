@@ -7,4 +7,5 @@ Components:
 Duration:
 Spell List:
 tags:
+  - Spell
 ---
