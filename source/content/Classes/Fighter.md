@@ -22,6 +22,8 @@ Weapon Proficiencies: Martial weapons
 Armor Training: Light and Medium armor and Shields
 
 
+# Class Features
+
 | Level | Proficiency Bonus | Weapon Mastery | Features                                                                                                                        |
 | ----- | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1st   | +2                | 3              | [[#Level 1 Fighting Style\|Fighting Style]], [[#Level 1 Second Wind\|Second Wind]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |
@@ -30,7 +32,7 @@ Armor Training: Light and Medium armor and Shields
 | 4th   | +2                | 4              | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |
 | 5th   | +3                | 4              | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Tactical Shift\|Tactical Shift]]                                            |
 
-# Class Features
+
 ## Level 1: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting_Style|Fighting Style Feat]] of your choice
 
