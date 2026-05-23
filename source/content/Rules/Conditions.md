@@ -157,21 +157,24 @@ Spooked. Disadvantage on Checks and Attacks while the source of its fear is with
 Movement Affected. You can’t willingly move closer to the source of the fear.
 
 
-Paralysed 
-Incapacitated [Condition], fails all STR and DEX Saves, Attacks against you have Advantage
+## Paralysed 
+[[#Incapacitated]], fails all STR and DEX Saves, Attacks against you have Advantage
 
-Poisoned
+## Poisoned
 Disadvantage on Attacks and Checks.
 
-Reduced
+## Reduced (Debuff)
 Your Size decreases by one, -1d4 damage on Attacks, Disadvantage on STR Checks and Saves
 
-Silenced
+## Silenced (Debuff)
 Cannot talk or cast Verbal Component of Spells
 
-Slowed
-Limited Movement. Speed is halved.
-Attacks Affected. Attack Rolls against you have Advantage.
-Dexterity Saves Affected. You have Disadvantage on DEX Saves.
+## Slowed (Debuff)
+**Limited Movement**. Speed is halved.
+**Attacks Affected**. Attack Rolls against you have Advantage.
+**Dexterity Saves Affected**. You have Disadvantage on DEX Saves.
 
-Stunned
+## Stunned (Debuff)
+**Inactive**. You can’t Move or take Actions, Bonus Actions, or Reactions.
+**Attacks Affected**. Attacks against you have Advantage.
+**DEX Saves**. You have Disadvantage on DEX Saves.
