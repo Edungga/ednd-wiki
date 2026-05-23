@@ -43,9 +43,11 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 
 ## Level 2: Danger Sense
-
+You have advantage on Dex Checks and Initiative while you arent [[Conditions#b]]
 
 ## Level 2: Reckless Attack
+When you make a Melee Weapon Attack, you can decide to attack recklessly, giving you Advantage on Melee Weapon Attacks using STR until the start of your next turn. 
+During this time, Attacks against you have Advantage.
 
 ## Level 3: Primal Path
 You choose a path that shapes the nature of your Rage, granting you features at 3rd level and again at 6th, 10th, and 14th levels.
