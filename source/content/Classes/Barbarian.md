@@ -114,7 +114,28 @@ When you Rage you can opt to enter a Frenzy Rage. If you do so, for the duration
 
 
 ## Path of the Primal Spirits
+Barbarians who follow the Path of the Primal Spirits view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 
+#### 3rd Level: Spirit Seeker
+
+You gain the ability to cast the Beast Sense and Speak with Animals Spells, but only as Rituals.
+
+  
+
+#### 3rd Level: Primal Spirit
+
+When you enter a Rage, you adopt the traits of a primal spirit. Your figure is adorned with spectral aspects of that spirit, and you gain one of the following benefits depending on which primal spirit you adopt on raging, lasting until your Rage ends:
+
+- Bear. You gain two additional damage Resistances of your choosing, except Psychic Damage.
+    
+- Eagle. Creatures have Disadvantage on Opportunity Attacks against you, and you can Dash Action as a Bonus Action. 
+    
+- Elk. Your Walk Speed increases by 15ft.
+    
+- Tiger. Your Jump distance increases by 15ft.
+    
+
+Wolf. Your Allies have Advantage on Melee Attacks against any Enemy within 5ft of you.
 
 
 ## Path of the Zealot
