@@ -133,11 +133,11 @@ You know the Charm Person and Mirror Image spells if you didn't already.
 In addition, immediately after you cast an Enchantment or Illusion Spell, you can cause a creature you can see within 60ft of yourself to make a WIS Save against your Spell Save DC. On a failed Save, the target is [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] (your choice) for 1 minute. The target can repeat the Save at the end of each of its turns, ending the effect on itself on a success.
 If a target succeeds on its Save, the target has no hint that you tried to charm it.
 
-Once you use this feature, you can’t use it again until you finish a Short or Long Rest unless by expending one use of your Bardic Inspiration [Free Action].
+Once you use this feature, you can’t use it again until you finish a Short or Long Rest unless by expending one use of your Bardic Inspiration (no action required).
 
-3rd Level: Mantle of Inspiration
+### 3rd Level: Mantle of Inspiration
 You gain the ability to weave a song of fey magic that imbues your allies with vigour and speed.
-[Bonus Action] you can expend one use of your Bardic Inspiration to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and who can see you within 60 feet of you, up to a number equal to your CHA modifier (minimum of one). Each of them gains Temporary Hit Points equal to double the number rolled on the Bardic Inspiration die. When a creature gains these Temporary Hit Points, it can immediately use its Reaction to move up to its Walk Speed, without provoking opportunity attacks.
+As a Bonus Action, you can expend one use of your Bardic Inspiration to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and who can see you within 60 feet of you, up to a number equal to your CHA modifier (minimum of one). Each of them gains Temporary Hit Points equal to double the number rolled on the Bardic Inspiration die. When a creature gains these Temporary Hit Points, it can immediately use its Reaction to move up to its Walk Speed, without provoking opportunity attacks.
 
 
 ## College of Lore
