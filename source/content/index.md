@@ -27,7 +27,7 @@ We also have some Home Rules to spice things up a bit
 
 ## Classes
 - [[Barbarian]] - up to lvl 5
-- Bard
+- [[Bard]]
 - Bloodhunter
 - Cleric
 - Druid
