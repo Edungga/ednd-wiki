@@ -141,7 +141,14 @@ As a Bonus Action, you can expend one use of your Bardic Inspiration to grant yo
 
 
 ## College of Lore
+Bards of the College of Lore plumb the depths of magical knowledge, collecting spells and secrets from sources as diverse as scholarly tomes, mystical rites, and peasant tales. The college’s members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
 
+### 3rd Level: Scholarly Knowledge
+You gain Proficiency with three Skills, Tools, or Languages of your choice
+
+### 3rd Level: Cutting Words
+You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. 
+When a creature that you can see within 60ft of you makes a Check or Attack, you can use your Reaction and expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the Check or Attack succeeds or fails. The creature is Immune if it can't hear you or if it's Immune to being [[Conditions#Charmed (Debuff)|Charmed (Debuff)]].
 
 ## College of Maestro
 
