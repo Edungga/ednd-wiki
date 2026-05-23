@@ -48,3 +48,7 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 ## Level 2: Reckless Attack
 
 ## Level 3: Primal Path
+
+
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 

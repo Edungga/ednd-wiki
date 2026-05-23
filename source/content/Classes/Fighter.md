@@ -70,7 +70,7 @@ The archetype you choose grants you features at 3rd level and again at 7th, 10th
 - [[#Samurai]]
 
 ## Level 4: Ability Score Improvement
-You gain the [[Feat#ab]] feat or another feat of your choice for which you qualify. 
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
 
 ## Level 5: Extra Attack
