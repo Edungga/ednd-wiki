@@ -26,7 +26,7 @@ Armor Training: Light and Medium armor and Shields
 | ----- | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1st   | +2                | 3              | [[#Level 1 Fighting Style\|Fighting Style]], [[#Level 1 Second Wind\|Second Wind]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |
 | 2nd   | +2                | 3              | [[#Level 2 Action Surge\|Action Surge (x1)]], [[#Level 2 Tactical Mind\|Tactical Mind]]                                         |
-| 3rd   | +2                | 3              | [[#Martial Archetypes\|Martial Archetype]]                                                                                      |
+| 3rd   | +2                | 3              | [[#Level 3 Martial Archetype\|Martial Archetype]]                                                                               |
 | 4th   | +2                | 4              | Feat / ASI                                                                                                                      |
 | 5th   | +3                | 4              | Extra Attack                                                                                                                    |
 
@@ -88,7 +88,7 @@ You gain proficiency with one type of s Skill or type of Artisan Tools of your c
 ### Level 3: Combat Superiority
 You learn maneuvers that are fueled by special dice called superiority dice.
 
-**Maneuvers**. You learn three maneuvers of your choice, which are listed under [#Maneuvers](#Maneuvers) below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+**Maneuvers**. You learn three [[#Maneuvers|Maneuvers]] of your choice. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
