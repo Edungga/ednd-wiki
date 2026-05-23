@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter.md",
+                "file": "Rules/Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fighter"
+              "title": "Conditions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Fighter.md",
+                "file": "Rules/Conditions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fighter"
+              "title": "Backlinks for Conditions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Fighter.md",
+                "file": "Rules/Conditions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fighter"
+              "title": "Outline of Conditions"
             }
           }
         ],
@@ -172,8 +172,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Rules/Conditions.md",
     "Classes/Fighter.md",
+    "Rules/Conditions.md",
     "Spells/Blade Ward.md",
     "Spells/Spells.base",
     "Rules",
