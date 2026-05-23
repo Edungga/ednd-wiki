@@ -11,13 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "Table"
+                "file": "Dancing Lights.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "lucide-file",
+              "title": "Dancing Lights"
             }
           }
         ]
@@ -171,11 +172,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Spells/Spells.md",
-    "Spells/Spells.base",
     "Control Flames.md",
     "Chill Touch.md",
     "Blade Ward.md",
+    "Dancing Lights.md",
+    "Spells/Spells.base",
+    "Spells/Spells.md",
     "index.md",
     "Background/Languages.md",
     "Background/Example Backgrounds.md",
