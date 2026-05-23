@@ -114,6 +114,13 @@ Your practice of dance gives you the ability to gracefully dodge and make agile 
 **Bardic Damage**. You can use DEX instead of STR for the attack rolls of your Unarmed Strikes, and when you deal damage with an Unarmed Strike, you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your DEX modifier. This roll doesn’t expend the die.
 
 ## College of Eloquence
+Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more powerful than objective truth. These bards wield a blend of logic and theatrical wordplay, winning over sceptics and detractors with logical arguments, and plucking at heartstrings to appeal to the emotions of entire audiences.
+
+## 3rd Level: Silver Tongue
+You are a master at saying the right thing at the right time. When you make a Persuasion or Deception Check, you can treat a d20 roll of 9 or lower as a 10.
+
+## 3rd Level: Unsettling Words
+You can spin words laced with magic that unsettle a creature and cause it to doubt itself.  When a creature that you can see within 60 feet of you makes a Save, you can use your Reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the Save succeeds or fails. The creature is Immune if it can't hear you or if it's Immune to being Charmed [Debuff].
 
 
 
