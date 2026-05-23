@@ -238,7 +238,7 @@ The maneuvers are presented in alphabetical order:
 
 **Tactical Assessment**. When you use the Search or Study Actions, you can add a Superiority Die to the Check.
 
-**Trip Attack**. When you hit a creature with a Weapon Attack, you can attempt to knock the target down. You add the Superiority Die to the damage roll, and if the target is no more than one size Larger than you, it must make a STR Save. On a fail, you knock the target Prone
+**Trip Attack**. When you hit a creature with a Weapon Attack, you can attempt to knock the target down. You add the Superiority Die to the damage roll, and if the target is no more than one size Larger than you, it must make a STR Save. On a fail, you knock the target [[Conditions#Prone (Condition)|Prone (Condition)]].
 
 **Wide Guard**. When you make a Save against an AOE effect, as a Reaction you can grant you and any Ally within 5ft of you an amount of Temporary Hit Points equal to your Superiority Die.
 
