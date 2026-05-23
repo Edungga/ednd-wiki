@@ -102,7 +102,7 @@ You cannot gain more uses than your maximum. You can do this only once per turn 
 ## College of Dance
 Bards of the College of Dance know that the Words of Creation can't be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bards practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace.
 
-## 3rd Level: Dazzling Footwork
+### 3rd Level: Dazzling Footwork
 Your practice of dance gives you the ability to gracefully dodge and make agile strikes. While you aren’t wearing armour or wielding a Shield, you gain the following benefits:
 
 **Dance Virtuoso**. You have Advantage on any Performance check you make that involves you dancing.
@@ -116,11 +116,11 @@ Your practice of dance gives you the ability to gracefully dodge and make agile 
 ## College of Eloquence
 Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more powerful than objective truth. These bards wield a blend of logic and theatrical wordplay, winning over sceptics and detractors with logical arguments, and plucking at heartstrings to appeal to the emotions of entire audiences.
 
-## 3rd Level: Silver Tongue
+### 3rd Level: Silver Tongue
 You are a master at saying the right thing at the right time. When you make a Persuasion or Deception Check, you can treat a d20 roll of 9 or lower as a 10.
 
-## 3rd Level: Unsettling Words
-You can spin words laced with magic that unsettle a creature and cause it to doubt itself.  When a creature that you can see within 60 feet of you makes a Save, you can use your Reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the Save succeeds or fails. The creature is Immune if it can't hear you or if it's Immune to being Charmed [Debuff].
+### 3rd Level: Unsettling Words
+You can spin words laced with magic that unsettle a creature and cause it to doubt itself.  When a creature that you can see within 60 feet of you makes a Save, you can use your Reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the Save succeeds or fails. The creature is Immune if it can't hear you or if it's Immune to being [[Conditions#Charmed (Debuff)|Charmed (Debuff)]].
 
 
 
