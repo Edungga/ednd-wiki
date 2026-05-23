@@ -210,7 +210,7 @@ The maneuvers are presented in alphabetical order:
 
 **Goading Attack**. When you hit a creature with a Weapon Attack, you can attempt to goad the target into attacking you. You add the Superiority Die to the Damage roll, and the target must make a WIS Save. On a failed save, the target has Disadvantage on all Attacks against targets other than you until the end of your next turn.
 
-**Grappling Strike**. Immediately after you hit a creature with a Melee Attack on your turn, you can try to Grapple them. Add the Superiority Die to your STR (Athletics) Check for the Grapple.
+**Grappling Strike**. Immediately after you hit a creature with a Melee Attack on your turn, you can try to [[Conditions#Grappled (Condition)|Grapple (Condition)]] them. Add the Superiority Die to your STR (Athletics) Check for the Grapple.
 
 **Heroic Fortitude**. Whenever you are forced to make a STR, DEX, or CON Save, as a Reaction you can add a Superiority Die to the result. You can use this Manoeuvre after you roll, but before you know whether you succeed or fail.
 
