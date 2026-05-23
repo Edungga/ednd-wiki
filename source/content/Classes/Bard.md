@@ -63,9 +63,9 @@ When you reach Bard levels 4 and 10, you learn another cantrip of your choice fr
 
 **Spells Known of Level 1+**. You know four level 1 spells from the [[Arcane Spell List]]. 
 
-The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells you know increases as you gain Bard levels, as shown in the Spells Known column of the Bard Features table. Whenever that number increases, choose additional spells from the [[Arcane Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots.
 
-If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
+If another Bard feature gives you spells that you always know, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
 
 Changing Your Prepared Spells. Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.
 
