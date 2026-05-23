@@ -12,4 +12,4 @@ Spell List:
 tags:
   - Spell
 ---
-You extend your hand and trace a sigil of warding in the air. You have Resistance against Bludgeoning, Piercing, and Slashing damage for the duration.
+You extend your hand and trace a sigil of warding in the air, granting yourself [[Conditions#Warded]] for the duration.

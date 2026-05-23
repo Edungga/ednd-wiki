@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Conditions.md",
+                "file": "Spells/Blade Ward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditions"
+              "title": "Blade Ward"
             }
           }
         ]
@@ -172,13 +172,13 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Classes/Fighter.md",
     "Rules/Conditions.md",
+    "Classes/Fighter.md",
     "Spells/Spells.base",
     "Rules",
     "Green Flame Blade.md",
-    "Frostbite.md",
-    "Friends.md",
+    "Spells/Frostbite.md",
+    "Spells/Friends.md",
     "Spells/Fire Bolt.md",
     "Spells/Eldritch Blast.md",
     "Spells/Druidcraft.md",

@@ -122,6 +122,9 @@ Reduces the number required to score is a Critical Hit by the amount of Luck.
 For example. Luck 1 scores a Critical Hit on a roll of 19 or 20 on the d20, where a Luck 3 scores a critical hit on a roll on 17, 18, 19, or 20. 
 Gaining Luck from multiple sources, combine the points.
 
+## Warded
+Resistance against Bludgeoning, Piercing, and Slashing Damage
+
 
 # Debuff
 Debuffs are specific conditions that are typically negative
