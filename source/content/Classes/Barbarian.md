@@ -131,3 +131,8 @@ When you enter a Rage, you adopt the traits of a primal spirit. Your figure is a
 ## Path of the Zealot
 Barbarians who walk the Path of the Zealot receive boons from the old gods, Virtues, or some other Other Worldly power. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. 
 
+### 3rd Level: Divine Fury
+You can channel divine fury into your weapon strikes. While you're Raging, your Weapon Attacks deal extra Rage Die Damage. The extra Damage is Necrotic or Radiant; your choice.
+
+### 3rd Level: Endless War of Zeal
+Your soul is marked for endless battle. If a Spell, such as [[Raise Dead]], has the sole effect of restoring you to life, the caster doesn't need Material Components to cast the Spell on you. If the Spell would make you Undead in the process, you do not become Undead. Additionally, you do not suffer a Soul Scar when you Die, and any existing Soul Scars are removed.
