@@ -109,7 +109,8 @@ If a creature you can see within 10 feet of you hits you with an Attack, you can
 ## Path of the Berserker
 Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammelled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.
 
-
+### 3rd Level: Frenzy
+When you Rage you can opt to enter a Frenzy Rage. If you do so, for the duration of your Rage you can make a single Melee Weapon Attack as a Bonus Action on each of your turns after this one. When your Frenzy Rage ends, you gain one level of [[Conditions#Exhaustion (Condition)|Exhaustion (Condition)]].
 
 
 ## Path of the Primal Spirits
