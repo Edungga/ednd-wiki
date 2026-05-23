@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Background/Example Backgrounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Example Backgrounds"
             }
           }
         ]
@@ -170,12 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Classes/Fighter.md",
-    "Equipment/Weapon Mastery Properties.md",
-    "Feats/Feat.md",
     "index.md",
+    "Equipment/Weapon Mastery Properties.md",
+    "Classes/Fighter.md",
+    "Feats/Feat.md",
     "Background/Example Backgrounds.md",
     "Ancestries/Human.md",
     "Ancestries/Blessed Born.md",
