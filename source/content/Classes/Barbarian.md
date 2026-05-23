@@ -66,7 +66,10 @@ During this time, Attacks against you have Advantage.
 ## Level 3: Primal Path
 You choose a path that shapes the nature of your Rage, granting you features at 3rd level and again at 6th, 10th, and 14th levels.
 [[#Primal Paths|Primal Paths]]:
-- 
+- [[#Path of the Ancestors|Path of the Ancestors]]
+- [[#Path of the Beast|Path of the Beast]]
+- [[#path]]
+- [[#Path of the Zealot|Path of the Zealot]]
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
