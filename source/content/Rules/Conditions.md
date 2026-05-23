@@ -142,14 +142,18 @@ Debuffs are specific conditions that are typically negative
 Blindsight or Tremorsense cancel this out for the Range of those visions
 
 ## Charmed (Debuff)
-Actions Affected. Can’t Attack the Charmer or target the Charmer with harmful Abilities or Effects.
-Socially Affected. The Charmer has Advantage on any Check to interact socially with the creature.
+**Actions Affected**. Can’t Attack the Charmer or target the Charmer with harmful Abilities or Effects.
+**Socially Affected**. The Charmer has Advantage on any Check to interact socially with the creature.
 
 ## Deafened (Debuff)
 Can’t hear and automatically fails any Check that requires hearing.
 
 ## Feeble (Debuff)
-Deals half damage (rounded down) on Weapon Attacks using STR and on STR Checks and Saves, and cannot Cast Spells with Somatic Component
+**Weaker Attacks**. Deals half damage (rounded down) on Weapon Attacks using STR 
+
+STR Saves**. You have Disadvantage on DEX Saves.
+
+and on STR Checks and Saves, and cannot Cast Spells with Somatic Component
 
 ## Frightened  (Debuff)
 **Spooked**. Disadvantage on Checks and Attacks while the source of its fear is within Line of Sight.
