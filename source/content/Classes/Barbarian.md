@@ -129,5 +129,5 @@ When you enter a Rage, you adopt the traits of a primal spirit. Your figure is a
 
 
 ## Path of the Zealot
-Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon.
+Barbarians who walk the Path of the Zealot receive boons from the old gods, Virtues, or some other Other Worldly power. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. 
 
