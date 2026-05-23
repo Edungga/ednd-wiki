@@ -38,13 +38,14 @@
             "id": "4969eaeeee93e00f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "Table"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -199,9 +200,11 @@
   },
   "active": "4969eaeeee93e00f",
   "lastOpenFiles": [
-    "Spells/Acid Splash.md",
-    "Spells/Spells.base",
+    "Background/Languages.md",
     "index.md",
+    "The Setting/The Shrouded Realm of Callitè.md",
+    "Spells/Spells.base",
+    "Spells/Acid Splash.md",
     "Ancestries/Beast-folk.md",
     "Ancestries/Goliath.md",
     "Ancestries/Blessed Born.md",
