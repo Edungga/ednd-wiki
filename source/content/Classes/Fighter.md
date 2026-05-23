@@ -143,8 +143,8 @@ You augment your martial prowess with the ability to cast spells using the [[Arc
 | 5th           | 2              | 4            | 3   | -   | -   | -   |
 | 6th           | 2              | 4            | 3   | -   | -   | -   |
 | 7th           | 2              | 5            | 4   | 2   | -   | -   |
-| 8th           | 2              | 6            | 4   | 3   | -   | -   |
-| 9th           | 2              | 6            | 4   | 3   | -   | -   |
+| 8th           | 2              | 6            | 4   | 2   | -   | -   |
+| 9th           | 2              | 6            | 4   | 2   | -   | -   |
 | 10th          | 3              | 7            | 4   | 3   | -   | -   |
 | 11th          | 3              | 8            | 4   | 3   | -   | -   |
 | 12th          | 3              | 8            | 4   | 3   | -   | -   |
