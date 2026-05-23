@@ -18,7 +18,41 @@ Deaths Door. You lose Concentration and are Incapacitated
 If an imaginary line can be drawn from two enemies in your melee at opposite ends, and it crosses through you, you are considered Flanked. 
 Attacks against a Flanked creature have Advantage.
 
-Grappled 
+## Grappled 
+Speed 0. Your Speed is 0.
+
+Attacks Affected. You have Disadvantage on Attacks against any target other than the Grappler.
+
+Movable. The Grappler can drag or carry you when it Moves, but the Grappler suffers the Slowed [Debuff] while moving, unless you are Two or more Sizes smaller than the Grappler.
+
+Escape. While Grappled, you can make a DEX (Acrobatics) or STR (Athletics) Check against the Grappler’s STR (Athletics) Check at the end of each of your turns, ending the Condition on yourself on a success. The Condition also ends if the Grappler is Incapacitated [Condition] or if something removes you from the Grapple’s range.
+
+## Hidden
+**Concealed**. You aren’t affected by any effect that requires its target to be seen.
+
+**Surprise**. If you are Hidden when you roll Initiative, you have Advantage on the roll.
+
+**Attacks Affected**. Attacks against you have Disadvantage, and your Attacks have Advantage.
+
+**Ending the Condition**. The Condition ends on you immediately after any of the following occurrences:
+- You make a sound louder than a whisper/cast a Spell with a Verbal Component
+- An Enemy finds you
+- You make an Attack 
+- Or you aren’t Heavily Obscured or behind any Cover
+
+## Incapacitated
+**Inactive**. You can’t Move or take Actions, Bonus Actions, or Reactions.
+
+**Speed 0**. Your Speed is 0 and can’t change.
+
+**No Concentration**. Your Concentration is broken.
+
+**Speechless**. You are Silenced [Debuff]
+
+**Surprised**. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll
+
+
+
 
 
 # Buff
