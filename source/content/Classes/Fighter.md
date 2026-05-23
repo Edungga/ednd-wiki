@@ -22,10 +22,12 @@
 
 ## Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 **Weapon Proficiencies**: Martial weapons
+
 **Armor Training**: Light and Medium armor and Shields
 
-
+---
 # Class Features
 
 | Level | Proficiency Bonus | Weapon Mastery | Features                                                                                                                        |
@@ -74,7 +76,6 @@ The archetype you choose grants you features at 3rd level and again at 7th, 10th
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
-
 
 ## Level 5: Extra Attack
 You can attack twice instead of once whenever you take the Attack action on your turn.
@@ -165,7 +166,7 @@ You augment your martial prowess with the ability to cast spells using the [[Arc
 
 **Spell Slots**. The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your Arcane Spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-**Spells Known of 1st-Level and Higher**. You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation spells on the Arcane Spell List.
+**Spells Known of 1st-Level and Higher**. You know three 1st-level Arcane spells of your choice.
 The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more arcane spells of 1st level or higher. Each of these spells must be an abjuration or evocation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
 The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
 Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you're replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic.
