@@ -85,14 +85,25 @@ Your Walk Speed increases by 10 feet.
 Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.
 
 ### 3rd Level: Ancestral Protectors 
-
 Spectral Warriors appear when you Rage. While you're Raging, the first creature you hit with an Attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has Disadvantage on any Attacks against creatures other than you, and if the target hits a creature other than you with an Attack, that creature has Resistance to the damage dealt by the Attack. The effect on the target ends early if your Rage ends.
 
 
 
 ## Path of the Beast
+Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian. 
+Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters.
 
+### 3rd Level: Form of the Beast
+When you enter your Rage, you can transform, revealing the bestial power within you. Until the Rage ends, you manifest a Natural Weapon. It counts as a Simple Melee Weapon for you, and you add your STR modifier to the Attack and Damage rolls when you Attack with it. 
 
+You choose the weapon’s form each time you Rage:
+- **Bite**. Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1 Rage Die Piercing Damage on a hit. Once on each of your turns when you damage a creature with this bite, you Heal HP equal to your Proficiency Bonus.
+
+Claws. Each of your hands transforms into a claw, which you can use as a Melee Weapon if it’s empty. It deals 1 Rage Die Slashing damage on a hit. Once on each of your turns when you Attack with a claw using the Attack Action, you can make one additional Claw Attack as part of the same Action.
+
+Tail. You grow a lashing, spiny tail, which deals 1 Rage Die Piercing damage on a hit and has the Reach Property. 
+
+[Reaction] If a creature you can see within 10ft of you hits you with an Attack, you can swipe your tail and roll a Rage Die, applying a bonus to your AC equal to the number rolled for that Attack, potentially causing the Attack to miss you.
 
 
 ## Path of the Berserker
