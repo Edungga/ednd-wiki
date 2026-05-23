@@ -1,5 +1,4 @@
-![[Spells.base]]
-
+![
 ````
 dataview
 LIST
