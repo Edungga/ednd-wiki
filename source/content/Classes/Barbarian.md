@@ -21,3 +21,11 @@ Weapon Proficiencies: Martial weapons
 Armor Training: Shields
 
 # Class Features
+|       |                   |          |       |
+| ----- | ----------------- | -------- | ----- |
+| Level | Proficiency Bonus | Rage Die | Rages |
+| 1st   | +2                | 1d4      | 2     |
+| 2nd   | +2                | 1d4      | 2     |
+| 3rd   | +2                | 1d4      | 3     |
+| 4th   | +2                | 1d4      | 3     |
+| 5th   | +3                | 1d6      | 3     |
