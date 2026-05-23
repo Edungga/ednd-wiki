@@ -58,7 +58,7 @@ You have a mind for tactics on and off the battlefield. When you fail an ability
 Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success.
 
 ## Level 3: Martial Archetype
-At 3rd level, you choose an archetype from the list available that you strive to emulate in your combat styles and techniques. 
+You choose an archetype that you strive to emulate in your combat styles and techniques. 
 The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 [[#Martial Archetypes]]
 - [[#Battlemaster]]

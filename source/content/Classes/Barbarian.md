@@ -49,6 +49,8 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 ## Level 3: Primal Path
 You choose a path that shapes the nature of your Rage, granting you features at 3rd level and again at 6th, 10th, and 14th levels.
+[[#Primal Paths|Primal Paths]]:
+- 
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
@@ -58,3 +60,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ## Level 5: Fast Movement
 Your Walk Speed increases by 10 feet.
+
+
+---
+# Primal Paths
