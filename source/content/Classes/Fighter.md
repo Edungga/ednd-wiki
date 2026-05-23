@@ -99,7 +99,7 @@ Thanks to your athleticism, you have Advantage on Initiative rolls and Athletics
 In addition, immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
 
 ### Level 3: Improved Critical
-Your Weapon Attack Rolls can score a Critical Hit on a roll of 19 or 20
+Your Weapon Attack Rolls have 
 
 ## Echo Knight
 The Echo Knight has mastered the art of using reflection magics to summon the fading shades of unrealised timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes

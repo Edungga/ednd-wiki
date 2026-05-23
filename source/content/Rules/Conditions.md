@@ -119,7 +119,7 @@ Attacks Affected. Attacks against you have Disadvantage, and your Attacks have A
 
 ## Lucky
 Reduces the number required to score is a Critical Hit by the Lucky Level. For example. Lucky Level 1 scores a Critical Hit on a roll of 19 or 20 on the d20, where a Lucky Level 3 scores a critical hit on a roll on 17, 18, 19, or 20. 
-Gaining levels of Lucky [Buff] from multiple sources, combine the lucky levels.
+Gaining levels of Lucky from multiple sources, combine the lucky levels.
 
 
 
