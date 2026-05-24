@@ -220,9 +220,15 @@ When you complete a Long Rest, you may replace a Spell Known with another from t
 
 
 ## Order of Undying Thirst
+Legends speak of an ancient vampire who came to regret the many atrocities he committed when driven by thirst. He gathered to himself a group of vampire hunters, and after they vowed to scour the curse of vampirism from the world, passed his curse to them and instructed them in the power of ancient blood magic. Known as the Order of Undying Thirst, these Blood Hunters work tirelessly to carry out their founding vow to destroy all vampires.
 
+### Level 3: Rite of the Dead
+You learn the Rite of the Dead as part of your Crimson Rite feature. While that Rite is active on your Weapon, you gain the following benefits:
+Your Rite Damage is Necrotic Damage.
+Your Weapon absorbs Light/Sunlight, creating a radius of 20ft of Dim Light.
+When you hit a creature with this Weapon, it deals an additional Hemocraft Die Rite Damage
 
-### Level 3: 
+### Level 3:
 
 ---
 # Blood Curses
