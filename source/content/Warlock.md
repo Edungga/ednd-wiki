@@ -213,31 +213,23 @@ Once you use this invocation, you can't use it again until you finish a Short or
 
 You can breathe underwater, and you gain a Swim Speed equal to your Walk Speed.
 
-You can also cast Water Breathing without expending a Spell Slot once per Long Rest.
+You can also cast [[Water Breathing]] without expending a Spell Slot once per Long Rest.
 
-  
-
-### Gift of the Ever-Living Ones
-
-Prerequisite: Pact of the Chain feature
+## Gift of the Ever-Living Ones
+*Prerequisite: Pact of the Chain feature*
 
 Whenever you Heal while your Familiar is within 100ft of you, treat any dice rolled to determine the HP Healed as having rolled their maximum value for you.
 
-  
-
-### Gift of the Protectors
-
-Prerequisite: 9th level, Pact of the Tome feature
+## Gift of the Protectors
+*Prerequisite: 9th level, Pact of the Tome feature*
 
 A new page appears in your Grimoire. With your permission, a creature can use its Action to write its name on that page, which can contain a number of names equal to your Proficiency Bonus.
 
 When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a Long Rest.
 
-[Action] you can magically erase a name on the page by touching it.
+As an Action, you can magically erase a name on the page by touching it.
 
-  
-
-### Grasp of The Void
+## Grasp of The Void
 
 When you hit a creature with your Eldritch Blast, you can move that creature in a straight line 10ft closer to yourself.
 
