@@ -103,12 +103,12 @@ The Death domain is concerned with the forces that cause death, as well as the n
 Example Virtue's: [[The Virtue of Despair]], [[The Virtue of Sacrifice]], [[The Virtue of Wrath]]
 ### Level 3: Domain Spells
 
-| Cleric Level | Prepared Spells                                                      |
-| ------------ | -------------------------------------------------------------------- |
-| 3rd          | Blindness/Deafness, False Life, Ray of Enfeeblement, Ray of Sickness |
-| 5th          | Animate Dead, Vampiric Touch                                         |
-| 7th          | Blight, Death Ward                                                   |
-| 9th          | Antilife Shell, Cloudkill                                            |
+| Cleric Level | Prepared Spells                                                                      |
+| ------------ | ------------------------------------------------------------------------------------ |
+| 3rd          | [[Blindness/Deafness]], [[False Life]], [[Ray of Enfeeblement]], [[Ray of Sickness]] |
+| 5th          | [[Animate Dead]], [[Vampiric Touch]]                                                 |
+| 7th          | [[Blight]], [[Death Ward]]                                                           |
+| 9th          | [[Antilife Shell]], [[Cloudkill]]                                                    |
 
 ### Level 3: Eyes of the Gave
 You gain the ability to occasionally sense the presence of the undead, whose existence is an insult to the natural cycle of life. As a Magic Action, you can open your awareness to Magically detect Undead. Until the end of your next turn, you know the location of any Undead within 60ft of you that isn't behind Total Cover and that isn't protected from Divination Magic. This sense doesn't tell you anything about a creature's capabilities or identity.
@@ -132,10 +132,10 @@ Example Virtue's: [[The Virtue of Hope]], [[The Virtue of Mercy]], [[The Virtue 
 | 9th          | Greater Restoration, Mass Cure Wounds                     |
 
 ### Level 3: Disciple of Life
+Your healing spells are more effective. Whenever you use a Spell of 1st level or higher to restore Hit Points to a creature, the creature regains additional Hit Points equal to 2 + the spell's level.
 
-
-### Level 3: Channel Divinity - 
-
+### Level 3: Channel Divinity - Preserve Life
+As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
 
 
 ## Light Domain
