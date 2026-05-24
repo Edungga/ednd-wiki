@@ -127,6 +127,12 @@ When an enemy within 10ft is reduced to 0 Hit Points, you gain Temporary Hit Poi
 ### Level 3: Great Old One Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
+| Warlock Level | Spells                                                                                  |
+| ------------- | --------------------------------------------------------------------------------------- |
+| 3rd           | [[Detect Thoughts]], [[Dissonant Whispers]], [[Phantasmal Force]], [[Hideous Laughter]] |
+| 5th           | Clairvoyance, [[Sending]]                                                               |
+| 7th           | Dominate Beast, Eldritch Tentacles                                                      |
+| 9th           | Dominate Person, Telekineses                                                            |
 
 ### Level 3: 
 
