@@ -62,15 +62,10 @@ When you complete a Long Rest, you may replace a Spell Known with another from t
 **Spellcasting Focus**.  You can use an Arcane Focus as a Spellcasting Focus for Spells you know from this class.
 
 ## Level 2: Pact Boon
+Your Otherworldly Patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
-
-## Level 3: 
-
-
-## Level 1: 
-
-
-## Level 1: 
+## Level 3: Otherworldly Patron
+ 
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
@@ -81,3 +76,8 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ---
 # Eldritch Invocations
+
+
+
+---
+# Pact Boons
