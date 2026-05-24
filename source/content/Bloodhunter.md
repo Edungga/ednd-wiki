@@ -131,13 +131,13 @@ As a Bonus Action, you Curse a creature that you can see within 30ft of you, cau
 **Amplify**. This Curse lasts for 1 minute. The Cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
 
 ## Blood Curse of Corrosion
-*Prerequisite: 15th level, Order of the Mutant*
+*Prerequisite: 15th level*
 As a Bonus Action, you cause a creature within 30tf of you to become [[Conditions#Poisoned (Debuff)|Poisoned (Debuff)]]. The cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
 
 **Amplify**. The Cursed creature takes 4d6 Necrotic Damage when you inflict this Curse, and it takes this damage again each time it fails a CON Save to end the curse.
 
 ## Blood Curse of the Exorcist
-*Prerequisite: 15th level, Order of the Ghostslayer*
+*Prerequisite: 15th level*
 As a Bonus Action, you choose one creature you can see within 30 feet of you that is Possessed, [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]]. The target creature is no longer Possessed, [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]].
 
 **Amplify**. A creature that Possessed, [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] the target of your curse takes 3d6 Psychic Damage and must succeed on a WIS Save or be [[Conditions#Stunned (Debuff)|Stunned (Debuff)]] until the end of your next turn.
@@ -158,7 +158,7 @@ When a creature you can see within 30ft of you drops to 0 Hit Points, as a React
 **Amplify**. You can first cause the cursed creature to move up to half its speed, and you grant a bonus to its attack roll equal to your Hemocraft modifier (min 1).
 
 ## Blood Curse of the Howl
-*Prerequisite: 18th level, Order of the Lycan*
+*Prerequisite: 15th level
 As an Action, you unleash a bloodcurdling howl. Each creature within 30ft of you that can hear you must succeed on a WIS Save or become [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] of you until the end of your next turn. 
 
 If a creature fails its Save by 5 or more, it is [[Conditions#Stunned (Debuff)|Stunned (Debuff)]] while [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] in this way. A creature that succeeds on its Save is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by the howl.
@@ -176,7 +176,7 @@ As a Bonus Action, you curse a creature that you can see within 30 feet of you t
 **Amplify**. The cursed creature has Disadvantage on all CON Saves made to maintain Concentration until the end of your next turn.
 
 ## Blood Curse of the Soul Eater
-*Prerequisite: 18th level, Order of the Profane Soul*
+*Prerequisite: 15th level*
 When a creature that isn’t a construct or undead is reduced to 0 hit points within 30ft of you, as a Reaction you can offer their life energy to your patron in exchange for power. Until the end of your next turn, you make attacks with Advantage and you have Resistance to all Damage.
 
 **Amplify**. Additionally, you regain an expended warlock spell slot. Once you’ve amplified this blood curse, you must finish a Long Rest before you can amplify it again.
