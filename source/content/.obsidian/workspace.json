@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Higher Powers/Great Wyrms/Storm's Tyrant.md",
+                "file": "Classes/Bloodhunter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storm's Tyrant"
+              "title": "Bloodhunter"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Higher Powers/Great Wyrms/Storm's Tyrant.md",
+                "file": "Classes/Bloodhunter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Storm's Tyrant"
+              "title": "Outline of Bloodhunter"
             }
           }
         ],
