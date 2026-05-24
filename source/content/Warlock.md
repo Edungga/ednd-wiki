@@ -45,11 +45,11 @@ Additionally, when you gain a Level in this class, you can choose one of the Inv
 ## Level 1: Pact Magic
 Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. 
 
-**Cantrips**. You know [Eldritch Blast] and a Cantrip of your choice from the [[Arcane Spell List]], or two Cantrips of your choice from the [[Arcane Spell List]]. You learn additional Cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table. Whenever you gain levels in Warlock, you may replace a Cantrip you know with [[Eldritch Blast]] or a Cantrip of your choice from the [[Arcane Spell List]].
+**Cantrips**. You know [[Eldritch Blast]] and a Cantrip of your choice from the [[Arcane Spell List]], or two Cantrips of your choice from the [[Arcane Spell List]]. You learn additional Cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table. Whenever you gain levels in Warlock, you may replace a Cantrip you know with [[Eldritch Blast]] or a Cantrip of your choice from the [[Arcane Spell List]].
 
-Spell Slots. The Warlock table shows how many Spell Slots you have to cast your Warlock Spells of 1st through 5th Level. The table also shows what the level of those slots is; all of your Spell Slots are the same level. To cast one of your Warlock Spells of 1st level or higher, you must expend a Spell Slot. You regain all expended Spell Slots when you Finish a Short or Long Rest.
+**Spell Slots**. The Warlock table shows how many Spell Slots you have to cast your Warlock Spells of 1st through 5th Level. The table also shows what the level of those slots is; all of your Spell Slots are the same level. To cast one of your Warlock Spells of 1st level or higher, you must expend a Spell Slot. You regain all expended Spell Slots when you Finish a Short or Long Rest.
 
-Spells Known of 1st Level and Higher. You know two 1st Level Spells of your choice from the Arcane Spell List.
+**Spells Known of 1st Level and Higher**. You know two 1st Level Spells of your choice from the Arcane Spell List.
 
 The Spells Known column of the Warlock table shows when you learn more Warlock Spells of your choice. A Spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level.
 
