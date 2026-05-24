@@ -105,12 +105,12 @@ The magic of your patron ensures you always have certain spells ready; when you 
 ### Level 3: Fathomless Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
-| Warlock Level | Spells                                                      |
-| ------------- | ----------------------------------------------------------- |
-| 3rd           | Create or Destroy Water, Gust of Wind, Silence, Thunderwave |
-| 5th           | Lightining Bolt, Sleet Storm                                |
-| 7th           | Control Water, Summon Elemental (Water)                     |
-| 9th           | Dominate Person, Seeming                                    |
+| Warlock Level | Spells                                                                      |
+| ------------- | --------------------------------------------------------------------------- |
+| 3rd           | [[Create or Destroy Water]], [[Gust of Wind]], [[Silence]], [[Thunderwave]] |
+| 5th           | [[Lightning Bolt]], [[Sleet Storm]]                                         |
+| 7th           | [[Control Water]], [[Summon Elemental]] (Water only)                        |
+| 9th           | Bigby's hand (appears as a tentacle), [[Cone of Cold]]                      |
 
 ### Level 3: 
 
