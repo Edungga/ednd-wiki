@@ -138,6 +138,13 @@ The magic of your patron ensures you always have certain spells ready; when you 
 ### Level 3: Virtue Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
+| Warlock Level | Spells                             |
+| ------------- | ---------------------------------- |
+| 1st           | Cure Wounds, Guiding Bolt          |
+| 3rd           | Flaming Sphere, Lesser Restoration |
+| 5th           | Daylight, Revivify                 |
+| 7th           | Guardian of Faith, Wall of Fire    |
+| 9th           | Flame Strike, Greater Restoration  |
 
 ### Level 3: 
 
