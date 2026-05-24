@@ -249,18 +249,12 @@ Double the range of Warlock Spells and Features that can Curse a Target. Also, y
 ## Improved Pact Weapon
 *Prerequisite: Pact of the Blade feature*
 
-You can use any Weapon you summon with your Pact of the Blade feature as a Spellcasting Focus for your Warlock Spells.
+The weapon gains a +1 bonus to its Attack and Damage rolls, unless it is a Magic Weapon that already has a bonus to those rolls. Additionally, the weapon you conjure can be a Ranged Weapon.
 
-In addition, the weapon gains a +1 bonus to its Attack and Damage rolls, unless it is a Magic Weapon that already has a bonus to those rolls. Finally, the weapon you conjure can be a Ranged Weapon.
+## Investment of the Chain Master
+*Prerequisite: 5th level, Pact of the Chain feature*
 
-  
-
-### Investment of the Chain Master
-
-Prerequisite: 5th level, Pact of the Chain feature
-
-When you cast Find Familiar, you infuse the summoned Familiar with a measure of your eldritch power, granting the creature the following benefits:
-
+When you cast [[Find Familiar]], you infuse the summoned Familiar with a measure of your eldritch power, granting the creature the following benefits:
 - You no longer need to issue commands for the Familiar to act
     
 - It will now take its turn directly after you in initiative, and you no longer need to forgo an Attack for it to Attack.
@@ -520,7 +514,7 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 | *Tiny Aberration, Celestial, Dragon, Fey, Fiend, Ooze, or Undead (Choose when casting the Spell)*                                                                                                                                                                                                                                                                                                                                                                            |
 | **Armour Class**: 10 + your Spellcasting Ability modifier (Natural Armour)                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **Hit Points**: 5 + your Warlock level (the familiar has a number of Hit Dice [d4s] equal to your Warlock level)                                                                                                                                                                                                                                                                                                                                                             |
-| **Speed**: 40ft Walk, 40ft Fly                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Speed**: 40ft Walk                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | STR 3 (-4) \| DEX 14 (+2) \| CON 12 (+1) \| INT 11 (+0) \| WIS 14 (+2) \| CHA 8 (-1)                                                                                                                                                                                                                                                                                                                                                                                         |
 | Proficiency Bonus equals your bonus<br>                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Senses Darkvision 120 ft., passive Perception 12                                                                                                                                                                                                                                                                                                                                                                                                                             |
