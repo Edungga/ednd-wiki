@@ -256,18 +256,12 @@ The weapon gains a +1 bonus to its Attack and Damage rolls, unless it is a Magic
 
 When you cast [[Find Familiar]], you infuse the summoned Familiar with a measure of your eldritch power, granting the creature the following benefits:
 - **Aerial or Aquatic**. The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
+- **Quick Attack**. You no longer need to issue commands for the Familiar to take Actions.
+- **Your Save DC**. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+- **Resistance**. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
 
-**Quick Attack**. You no longer need to issue commands for the Familiar to take Actions.
-
-**Your Save DC**. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
-
-**Resistance**. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
-
-    
-
-### Lance of Lethargy
-
-When you hit a creature with your Eldritch Blast, you can reduce that creature's Speed by 10ft until the end of your next turn.
+## Lance of Lethargy
+When you hit a creature with one of yourt, you can reduce that creature's Speed by 10ft until the end of your next turn.
 
   
 
