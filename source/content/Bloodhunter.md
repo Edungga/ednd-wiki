@@ -106,7 +106,30 @@ Lycanthropy is an ancient curse that changes those afflicted into mindless Beast
 ### 3rd Level: Feral Senses
 You gain the improved senses of a natural predator. Add your Hemocraft die to any WIS (Perception) and WIS (Survival) Checks.
 
+#### 3rd Level: Lycanthopic Curse
+You learn to control the lycanthropic curse that courses through your veins. [Bonus Action] Shapechange into either the Beast or Hybrid form representative of your lycanthropic curse. You revert to your normal form if you fall Unconscious [Condition] or die, or after 1 hour.  You can do this once per Short or Long Rest, unless you make a Vital Sacrifice to do so again.
 
+Additionally, you are also a Shapechanger and have Vulnerability to Silvered Weapons
+
+##### Beast Form
+
+Use the stats of [wild shape](https://docs.google.com/document/d/1nFVGJQXMdQmXJjixuuN7HvYGkoJsric7H6iE2ljMsPA/edit#heading=h.h3jssehcj86t) from druid class; Wolf - , Bear - Brown Bear, Boar - Boar
+
+##### Hybrid Form
+
+While in Hybrid Form, you gain the following features:
+
+Feral Might. You have Advantage on STR Checks and Save, and you have a +1 bonus to Damage on Melee Attacks. This bonus increases to +2 at 11th level and to +3 at 18th level.
+
+Resilient Hide. You have Resistance to Bludgeoning, Piercing, and Slashing damage not made with Silvered Weapons. Additionally, while you are not wearing Heavy Armour, you have a +1 bonus to AC.
+
+Predatory Strikes. You can apply your Crimson Rite feature to your Unarmed Strikes, which you treat as one Weapon. You can use DEX instead of STR for the your Unarmed Strikes, which deal 1d6 Bludgeoning or Slashing Damage (your choice). This damage increases to 1d8 at 11th level.
+
+[Bonus Action] When you use the Attack Action to make an Unarmed Strike, you can make one additional Unarmed Strike
+
+Bloodlust. If you start your turn with fewer hit points than half your Hit Point Maximum, you must succeed on a DC 8 WIS or move directly toward the nearest creature and use the Attack Action against that creature. If you’re Concentrating on a Spell or are under an effect that prevents you from Concentrating (such as the barbarian’s Rage feature), you automatically fail.
+
+If you have your Extra Attack feature, you can choose whether to use it for this Attack. If more than one creature is equally near to you, roll randomly to determine your target. Once your attack is resolved, you regain control of yourself.
 
 ## Order of the Mutant
 
