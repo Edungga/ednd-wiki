@@ -123,6 +123,7 @@ A new page appears in your Grimoire containing a Blasphemous Prayer. You learn a
 
 ## Bond of the Talisman
 *Prerequisite: 12th level, Pact of the Talisman feature*
+
 As an Action, while someone else is wearing your talisman, Teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. 
 
 The wearer of your talisman can do the same thing, using their Action to Teleport to you. The Teleportation can be used a number of times equal to your Proficiency Bonus per Long Rest.
@@ -141,6 +142,7 @@ You can cast [[Hold Monster]] at will, without expending a Spell Slot or Materia
 
 ## Cloak of Flies
 *Prerequisite: 5th level*
+
 As a Bonus Action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5ft from you in every direction, but not through Total Cover. It lasts until you're [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]] or you dismiss it as a Bonus Action.
 
 The aura grants you Advantage on Intimidation Checks but Disadvantage on Persuasion or Deception Checks. Any other creature that starts its turn in the aura takes Poison Damage equal to your CHA modifier (min 1).
@@ -149,22 +151,19 @@ The aura grants you Advantage on Intimidation Checks but Disadvantage on Persuas
 You can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of yourself.
 
 ## Devouring Blade
-*Prerequisites: Level 12+ Warlock, [[*
+*Prerequisites: Level 12+ Warlock, [[#Thirsting Blade|Thirsting Blade]]*
 
 The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
 
 ## Dreadful Word
-Prerequisite: 7th level
+*Prerequisite: 7th level*
 
-You can cast Confusion once without expending a Spell Slot, once per Long Rest.
+You can cast [[Confusion]] once without expending a Spell Slot, once per Long Rest.
 
-  
+## Eldritch Armour
+*Prerequisite: Pact of the Blade feature, 5th level*
 
-### Eldritch Armour
-
-Prerequisite: Pact of the Blade feature, 5th level
-
-[Action - Magic] You can touch a suit of armour that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing Armour already. You are Trained with this suit of Armour until it's removed.
+As an Action ou can touch a suit of armour that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing Armour already. You are Trained with this suit of Armour until it's removed.
 
   
 
