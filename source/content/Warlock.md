@@ -281,31 +281,22 @@ When you hit a creature with your Pact Weapon, you can deal an extra 1d6 Necroti
 As a Bonus Action, you cause a psychic disturbance around creatures cursed by you. When you do so, you deal Psychic Damage to creatures cursed by you and each creature of your choice within 5ft of it. The Psychic Damage equals your Charisma modifier (min 1). 
 
 ## Mask of Many Faces
-You can cast Disguise Self at will, without expending a Spell Slot.
+You can cast [[Disguise Self]] at will, without expending a Spell Slot.
 
-  
+## Master of Hexes
+*Prerequisite: 15th Level, Spell or a Warlock feature that curses*
 
-### Master of Hexes
+When a creature Cursed by you dies, you can apply the curse to a different creature you can see within 30ft of you, provided you aren't [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]
 
-Prerequisite: 15th Level, Spell with the Curse Tag or a Warlock feature that curses
+## Master of Myriad Forms
+*Prerequisite: 5th level*
 
-When a creature Cursed by you dies, you can apply the curse to a different creature you can see within 30ft of you, provided you aren't Incapacitated [Condition].
+You can cast [[Alter Self]] at will, without expending a Spell Slot.
 
-  
+## Minions of Chaos
+*Prerequisite: 9th level*
 
-### Master of Myriad Forms
-
-Prerequisite: 5th level
-
-You can cast Alter Self at will, without expending a Spell Slot.
-
-  
-
-### Minions of Chaos
-
-Prerequisite: 9th level
-
-You can cast Summon Elemental once without expending a Spell Slot, once per Long Rest.
+You can cast [[Summon Elemental]] once without expending a Spell Slot, once per Long Rest.
 
   
 
