@@ -101,6 +101,9 @@ You learn the Rite of the Dawn as part of your Crimson Rite feature. While that 
 - You have Resistance to Necrotic Damage.
 - When you hit an Undead creature with this Weapon, it deals an additional hemocraft die Rite Damage
 
+### Level 3: Curse Specialist
+You learn to master blood curses. You gain an additional use of your Blood Maledict feature. In addition, your blood curses can target any creature, whether it has blood or not.
+
 
 ## Order of the Lycan
 Lycanthropy is an ancient curse that changes those afflicted into mindless Beasts with an unquenchable hunger for flesh. In order to combat these monsters, some Blood Hunters will purposefully contract this curse. These warriors willingly give their lives so that they may draw on this bestial power to rid the world of lycanthropes and other shapeshifting monsters.
