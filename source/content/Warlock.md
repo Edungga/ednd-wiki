@@ -138,16 +138,17 @@ The magic of your patron ensures you always have certain spells ready; when you 
 ### Level 3: Virtue Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
-| Warlock Level | Spells                             |
-| ------------- | ---------------------------------- |
-| 1st           | Cure Wounds, Guiding Bolt          |
-| 3rd           | Flaming Sphere, Lesser Restoration |
-| 5th           | Daylight, Revivify                 |
-| 7th           | Guardian of Faith, Wall of Fire    |
-| 9th           | Flame Strike, Greater Restoration  |
+| Warlock Level | Spells                                                                                          |
+| ------------- | ----------------------------------------------------------------------------------------------- |
+| 3rd           | [[Aid]], [[Cure Wounds]], [[Guiding Bolt]], [[Lesser Restoration]], [[Light]], [[Sacred Flame]] |
+| 5th           | [[Daylight]], [[Revivify]]                                                                      |
+| 7th           | [[Guardian of Faith]], [[Wall of Fire]]                                                         |
+| 9th           | [[Greater Restoration]], [[Summon Celestial]]                                                   |
 
-### Level 3: 
+### Level 3: Healing Light
+You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
 
+As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of Hit Points equal to the roll's total. Your pool regains all expended dice when you finish a Long Rest.
 
 ## [[Higher Powers of Callitè#Undead Beings|Undead]]
 ### Level 3: Undead Spells
