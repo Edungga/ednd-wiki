@@ -188,13 +188,20 @@ As a Bonus Action, you can expend one use of your Channel Divinity to you Telepo
 
 
 ## War Domain
+War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage
 
 Example Virtue's: [[The Virtue of Resolve]], [[The Virtue of Wrath]], [[The Virtue of Despair]]
 ### Level 3: Domain Spells
 
+| Cleric Level | Prepared Spells                                                |
+| ------------ | -------------------------------------------------------------- |
+| 3rd          | Divine Favour, Magic Weapon, Shield of Faith, Spiritual Weapon |
+| 5th          | Crusader's Mantle, Spirit Guardians                            |
+| 7th          | Freedom of Movement, Stoneskin                                 |
+| 9th          | Flame Strike, Hold Monster                                     |
 
-
-### Level 3: 
+### Level 3: War Priest
+As a Bonus Action, you can make one attack with a weapon or an Unarmed Strike. You can use this Bonus Action a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Short or Long Rest.
 
 ### Level 3: Channel Divinity - 
 
