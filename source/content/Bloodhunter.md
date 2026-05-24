@@ -106,7 +106,7 @@ Lycanthropy is an ancient curse that changes those afflicted into mindless Beast
 ### 3rd Level: Feral Senses
 You gain the improved senses of a natural predator. Add your Hemocraft die to any WIS (Perception) and WIS (Survival) Checks.
 
-### 3rd Level: Lycanthopic Curse
+### Level 3:: Lycanthopic Curse
 You have been infected with a curse based on a Beast of CR 1 or lower. Once chosen, this Beast cannot be changed.
 
 As a Bonus Action you can Shapechange into either the Beast or Hybrid form representative of your lycanthropic curse. You revert to your normal form if you are [[#Incapacitated (Condition)]], after 1 hour, or if you choose to as a Bonus Action.
@@ -141,7 +141,7 @@ While in Hybrid Form, you gain the following features:
 ## Order of the Mutant
 The process of undertaking the Hunter’s Bane ritual is a painful, scarring, and sometimes fatal experience. Those who survive are irrevocably changed - and not always for the better. Over generations of experimentation, a splinter order of blood hunters honed the way in which hemocraft alters the body, using corrupted alchemy and toxic elixirs to alter their blood even further. Over time, they have modified their capabilities in battle, becoming something beyond what they once were. Calling themselves the Order of the Mutant, these blood hunters now specialise in assessing the strengths and weaknesses of their foes, altering their biology to be best prepared for any conflict.
 
-### 3rd Level: Mutagencraft
+### Level 3: Mutagencraft
 You learn to master forbidden alchemical formulas, known as Mutagens, that can temporarily alter your mental and physical abilities.
 
 **Formulas Known**. You know four [[#Mutagen Formulae|Mutagen Formulae]], learning more as you gain Bloodhunter Levels. Additionally, when you gain a Bloodhunter Level, you can replace one formula you already know with a new mutagen formula.
@@ -165,9 +165,16 @@ You learn to master forbidden alchemical formulas, known as Mutagens, that can t
 
 
 ## Order of Profane Soul
+Blood hunters belonging to the Order of the Profane Soul have pushed the limits of hemocraft for use against some of the most terrifying creatures corrupting the world. Ancient fiends and cruel magic-users have long counted on their ability to meld into the background and escape those who hunt them, vanishing into noble courts without a trace, or bending the minds of the most stalwart warriors with but a glance. So the blood hunters who founded this order trusted to their resilience as they delved into the same well of corrupting arcane knowledge, making pacts with lesser evils to better combat the greater threats. And though they might have traded a part of themselves for their power, the members of this order know the benefits of that power far outweigh the price.
+
+
+
 
 
 ## Order of Undying Thirst
+
+
+
 
 ---
 # Blood Curses
@@ -244,7 +251,6 @@ When a creature that isn’t a construct or undead is reduced to 0 hit points wi
 ## Aether
 *Prerequisite: 11th Level*
 You have a flying speed of 20 feet for 1 hour. However, you have disadvantage on Strength checks and Dexterity checks during this time.
-
 
 ## Alluring
 Your skin and voice become malleable, allowing you to enhance your appearance and presence. You have advantage on Charisma checks. However, you have disadvantage on initiative rolls.
