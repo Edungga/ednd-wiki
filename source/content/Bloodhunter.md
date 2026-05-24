@@ -42,3 +42,5 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 3rd   | +2                | d4            | 2                  | Bloodhunter Order                   |
 | 4th   | +2                | d4            | 2                  | Feat / ASI                          |
 | 5th   | +3                | d6            | 3                  | Extra Attack                        |
+
+## Level 1: Hunter's Bane
