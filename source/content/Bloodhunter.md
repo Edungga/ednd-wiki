@@ -154,6 +154,15 @@ You learn to master forbidden alchemical formulas, known as Mutagens, that can t
 
 **Unstable**. Mutagens are designed for the specific biology of the character who concocted them, and your Mutagens have no effect on other creatures. They are also unstable by nature, losing their potency over time and becoming inert if not used before you finish your next Short or Long Rest.
 
+| Bloodhunter Level | Mutagens Concocted | Formulae Known |
+| ----------------- | ------------------ | -------------- |
+| 3rd               | 1                  | 4              |
+| 7th               | 2                  | 5              |
+| 11th              | 3                  | 6              |
+| 15th              | 4                  | 7              |
+| 18th              | 5                  | 8              |
+
+
 
 ## Order of Profane Soul
 
