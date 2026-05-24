@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Higher Powers/Higher Powers of Callitè.md",
+                "file": "The Lantern King.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Higher Powers of Callitè"
+              "title": "The Lantern King"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Higher Powers/Higher Powers of Callitè.md",
+                "file": "The Lantern King.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Higher Powers of Callitè"
+              "title": "Outline of The Lantern King"
             }
           }
         ],
@@ -172,9 +172,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "The Setting/Higher Powers/Higher Powers of Callitè.md",
+    "The Lantern King.md",
     "Classes/Bloodhunter.md",
     "The Setting/Higher Powers/The Virtues/The Virtue of Despair.md",
-    "The Setting/Higher Powers/Higher Powers of Callitè.md",
     "The Setting/Higher Powers/The Virtues/The Virtue of Compassion.md",
     "The Setting/Higher Powers/The Virtues/The Virtue of Sacrifice.md",
     "The Setting/Higher Powers/The Virtues/The Virtue of Wrath.md",
@@ -200,7 +201,6 @@
     "Spells/Cantrips/Word of Radiance.md",
     "Spells/Cantrips/Vicious Mockery.md",
     "Spells/Cantrips/True Strike.md",
-    "Spells/Cantrips/Toll the Dead.md",
     "Spells/Cantrips",
     "Rules",
     "Background",
