@@ -144,7 +144,7 @@ The process of undertaking the Hunter’s Bane ritual is a painful, scarring, an
 ### 3rd Level: Mutagencraft
 You learn to master forbidden alchemical formulas, known as Mutagens, that can temporarily alter your mental and physical abilities.
 
-**Formulas Known**. You know four Mutagen Formulas, learning more as you gain Bloodhunter Levels. Additionally, when you gain a Bloodhunter Level, you can replace one formula you already know with a new mutagen formula.
+**Formulas Known**. You know four [[#Mutagen Formulae|Mutagen Formulae]], learning more as you gain Bloodhunter Levels. Additionally, when you gain a Bloodhunter Level, you can replace one formula you already know with a new mutagen formula.
 
 **Concoct Mutagen**. At the end of a Short or Long Rest, you can concoct one Mutagen. You will be able to concoct more as you gain Bloodhunter Levels, as shown on the Mutagencraft table below.
 
@@ -231,6 +231,7 @@ When a creature that isn’t a construct or undead is reduced to 0 hit points wi
 **Amplify**. Additionally, you regain an expended warlock spell slot. Once you’ve amplified this blood curse, you must finish a Long Rest before you can amplify it again.
 
 ---
-# Mutagen Forumla
+# Mutagen Formulae
+
 
 
