@@ -388,32 +388,24 @@ Three new pages appears in your Grimoire, each containing a [[Spells#Cantrips|Ca
 
 You can cast [[Freedom of Movement]] once without expending a Spell Slot, once per Long Rest.
 
-  
+## Undying Servitude
+*Prerequisite: 5th level*
 
-### Undying Servitude
+You can cast [[Animate Dead]] once without expending a Spell Slot, once per Long Rest.
 
-Prerequisite: 5th level
+## Visions of Distant Realms
+Prerequisite: Level 9
 
-You can cast Animate Dead once without expending a Spell Slot, once per Long Rest.
-
-  
-
-### Visions of Distant Realms
-
-Prerequisite: 15th level
-
-You can cast Arcane Eye at will, without expending a Spell Slot.
+You can cast [[Arcane Eye]] at will, without expending a Spell Slot.
 
 ### Voice of the Chain Master
+*Prerequisite: Pact of the Chain feature*
 
-Prerequisite: Pact of the Chain feature
+You can communicate telepathically with your Familiar and perceive through your Familiar's senses as long as you are on the same plane of existence. 
 
-You can communicate telepathically with your Familiar and perceive through your Familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your Familiar's senses, you can also speak through your Familiar in your own voice, even if your Familiar is normally incapable of speech.
+Additionally, while perceiving through your Familiar's senses, you can also speak through your Familiar in your own voice, even if your Familiar is normally incapable of speech.
 
-  
-
-### Ward against the Undead
-
+## Ward against the Undead
 If an Undead targets you with an Attack, that creature must make a WIS Save against your spell save DC. On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the Attack. On a successful save, the creature is Immune to this effect for 24 hours.
 
 [Reaction] Pass this ward to an Ally you can see within 30ft that is targeted by an Attack from an Undead Creature, lasting until the end of your next turn. During this time you do not benefit from this feature.
