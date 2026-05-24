@@ -81,12 +81,16 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | Warlock Level | Spells                                                                              |
 | ------------- | ----------------------------------------------------------------------------------- |
 | 3rd           | [[Calm Emotions]], [[Faerie Fire]], [[Misty Step]], [[Phantasmal Force]], [[Sleep]] |
-| 5th           | Blink, Plant Growth                                                                 |
-| 7th           | Dominate Beast, Greater Invisibility                                                |
-| 9th           | Dominate Person, Seeming                                                            |
+| 5th           | [[Blink]], [[Plant Growth]]                                                         |
+| 7th           | [[Dominate Beast]], [[Greater Invisibility]]                                        |
+| 9th           | [[Dominate Person]], [[Seeming]]                                                    |
 
-### Level 3: 
+### Level 3: Steps of the Fey
+Your patron grants you the ability to move between the boundaries of the planes. You can cast [[Misty Step]] without expending a spell slot a number of times equal to your CHA modifier (min 1), and you regain all expended uses when you finish a Long Rest.
 
+In addition, whenever you cast that spell, you can choose one of the following additional effects.
+- **Refreshing Step**. Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains 1d10 Temporary Hit Points.
+- **Taunting Step**. Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have Disadvantage on attack rolls against creatures other than you until the start of your next turn.
 
 
 ## [[Higher Powers of Callitè#Elemental Powers|Elemental Powers]]
