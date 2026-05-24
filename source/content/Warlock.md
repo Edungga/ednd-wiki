@@ -238,10 +238,10 @@ When you hit a creature with your Eldritch Blast, you can move that creature in 
 As a Bonus Action, Curse creature you can see within 30ft. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. 
 
 Until the curse ends, you gain the following benefits:
-- Your Attacks against the Cursed Creature have [[Conditions#Luck|Luck 1]]
+- Your Attacks against the Cursed Creature have [[Conditions#Luck (Buff)|Luck 1]]
 - If the cursed target dies, you regain Hit Points equal to your Warlock level + your CHA modifier (min 1).
 
-### Hexer
+## Hexer
 *Prerequisite: Spell or a Warlock feature that Curses*
 
 Double the range of Warlock Spells and Features that can Curse a Target. Also, you can add your CHA modifier (min 1) to Concentration checks to maintain a Spell with the Curse Tag.
