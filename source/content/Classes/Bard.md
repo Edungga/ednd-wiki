@@ -170,7 +170,7 @@ Gain Proficiency with Martial Weapons and Armour Training with Medium Armour.
 Additionally, you may use any Weapon you are Proficient in as a Spellcasting Focus to cast Arcane Spells.
 
 ### Level 3: Combat Inspiration
-You can use your wit to turn the tide of battle. As a Reaction to you or a creature within your Bardic Inspiration Range being hit with an Attack, you can spend a use of your Bardic Inspiration die for one of the following effects:
+You can use your wit to turn the tide of battle. As a Reaction to a creature within your Bardic Inspiration Range being hit with an Attack, you can spend a use of your Bardic Inspiration die for one of the following effects:
 - **Defend**. Roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
 - **Endure**. Roll the Bardic Inspiration die and subtract the number rolled to the attack's damage against the target.
 - **Offense**. Roll the Bardic Inspiration die and add the number rolled to the attack's damage against the target.
