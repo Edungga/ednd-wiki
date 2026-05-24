@@ -230,17 +230,15 @@ When any creature whose name is on the page is reduced to 0 Hit Points but not k
 As an Action, you can magically erase a name on the page by touching it.
 
 ## Grasp of The Void
-
 When you hit a creature with your Eldritch Blast, you can move that creature in a straight line 10ft closer to yourself.
 
-  
-
-### Hexblades Curse
+## Hexblades Curse
 
 Prerequisite: Pact of the Blade feature
 
-[Bonus Action - Magic] Curse creature you can see within 30ft. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are Incapacitated [Condition]. Until the curse ends, you gain the following benefits:
+As a Bonus Action, Curse creature you can see within 30ft. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. 
 
+Until the curse ends, you gain the following benefits:
 - Give you Lucky [Buff] level 1 on Attacks against the cursed target
     
 - If the cursed target dies, you regain Hit Points equal to your Warlock level + your CHA modifier (min 1).
