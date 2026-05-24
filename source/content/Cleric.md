@@ -106,7 +106,12 @@ The Death domain is concerned with the forces that cause death, as well as the n
 Example Virtue's: 
 ### Level 3: Domain Spells
 
-
+| Cleric Level | Prepared Spells                                                      |
+| ------------ | -------------------------------------------------------------------- |
+| 3rd          | Blindness/Deafness, False Life, Ray of Enfeeblement, Ray of Sickness |
+| 5th          | Animate Dead, Vampiric Touch                                         |
+| 7th          | Blight, Death Ward                                                   |
+| 9th          | Antilife Shell, Cloudkill                                            |
 
 ### Level 3: 
 
