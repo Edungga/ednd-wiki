@@ -180,6 +180,26 @@ You strike a bargain with an otherworldly being of your choice, granting you a b
 
 ### Level 3: Pact Magic
 
+| Bloodhunter Level | Cantrips Known | Spells Known | Spell Slots | Slot Level |
+| ----------------- | -------------- | ------------ | ----------- | ---------- |
+| 3rd               | 2              | 2            | 1           | 1st        |
+| 4th               | 2              | 2            | 1           | 1st        |
+| 5th               | 2              | 3            | 1           | 1st        |
+| 6th               | 2              | 3            | 2           | 1st        |
+| 7th               | 2              | 4            | 2           | 2nd        |
+| 8th               | 2              | 4            | 2           | 2nd        |
+| 9th               | 2              | 5            | 2           | 2nd        |
+| 10th              | 3              | 5            | 2           | 2nd        |
+| 11th              | 3              | 6            | 2           | 2nd        |
+| 12th              | 3              | 6            | 2           | 2nd        |
+| 13th              | 3              | 7            | 2           | 3rd        |
+| 14th              | 3              | 7            | 2           | 3rd        |
+| 15th              | 3              | 8            | 2           | 3rd        |
+| 16th              | 3              | 8            | 2           | 3rd        |
+| 17th              | 3              | 9            | 2           | 3rd        |
+| 18th              | 3              | 9            | 2           | 3rd        |
+| 19th              | 3              | 10           | 2           | 4th        |
+| 20th              | 3              | 11           | 2           | 4th        |
 
 
 ## Order of Undying Thirst
