@@ -178,7 +178,7 @@ Example Virtue's: [[The Virtue of Mercy]], [[The Virtue of Sacrifice]], [[The Vi
 As a Magic action, you can choose yourself or a willing creature within 30 feet of yourself to have Advantage on Dexterity (Stealth) checks. This blessing lasts until you finish a Long Rest or you use this feature again.
 
 ### Level 3: Channel Divinity - Invoke Duplicity
-As a Bonus Action, you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the Incapacitated condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+As a Bonus Action, you can expend one use of your Channel Divinity to you Teleport up to 30ft to an unoccupied space leaving behind a perfect visual illusion of yourself.. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
 **Cast Spells**. You can cast spells as though you were in the illusion's space, but you must use your own senses.
 
