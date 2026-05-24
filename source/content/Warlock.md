@@ -179,21 +179,15 @@ When you hit a creature with your Pact Weapon, you can expend a Warlock Spell Sl
 ## Eldritch Spear
 Your Warlock Cantrips with a range of at least 10ft have their range increased by 30 times your Warlock Level.
 
-  
-
-### Eyes of the Rune Keeper
-
+## Eyes of the Rune Keeper
 The irises of your eyes are ringed with glowing elder runes. You can read and understand any written words, symbols, or scripts as if they were written in your native tongue.
 
-  
-
-### Far Scribe
-
-Prerequisite: 5th level, Pact of the Tome feature
+## Far Scribe
+*Prerequisite: 5th level, Pact of the Tome feature*
 
 A new page appears in your Grimoire. With your permission, a creature can use its Action to write its name on that page, which can contain a number of names equal to your Proficiency Bonus.
 
-You can cast the Sending Spell, targeting a creature whose name is on the page, without using a Spell Slot and without using Material Components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
+You can cast the [[Sending]] Spell, targeting a creature whose name is on the page, without using a Spell Slot and without using Material Components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
 
 [Action] you can magically erase a name on the page by touching it.
 
