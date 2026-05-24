@@ -622,13 +622,21 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 | STR 3 (-4) | DEX 14 (+2) | CON 12 (+1) | INT 11 (+0) | WIS 14 (+2) | CHA 8 (-1) |
 | ---------- | ----------- | ----------- | ----------- | ----------- | ---------- |
 
+
+| Proficiency Bonus equals your bonus<br>                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Senses Darkvision 120 ft., passive Perception 12                                                                                                                                                                                                                                                                                                                                                                                    |     |
+| Languages Telepathy 120 ft. (only between you and the familiar)                                                                                                                                                                                                                                                                                                                                                                     |     |
+| ACTIONS<br>**Eldritch Strike**. Melee Spell Attack: your Spell Attack Modifier to hit, reach 5 ft., one target. Hit: 2 + half your Warlock level (round up) Damage of a type determined by the Familiar’s creature type: Aberration or Ooze (Acid), Celestial (Radiant), Dragon (Fire), Fey (Psychic), Fiend (Poison), or Undead (Necrotic).<br>Invisibility. The Familiar becomes Invisible [Buff] until the end of its next turn. |     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |
+
+
 Senses Darkvision 120 ft., passive Perception 12
 Languages Telepathy 120 ft. (only between you and the familiar)
 Proficiency Bonus equals your bonus
 
 ACTIONS
-Eldritch Strike. Melee Spell Attack: your Spell Attack Modifier to hit, reach 5 ft., one target. Hit: 2 + half your Warlock level (round up) Damage of a type determined by the Familiar’s creature type: Aberration or Ooze (Acid), Celestial (Radiant), Dragon (Fire), Fey (Psychic), Fiend (Poison), or Undead (Necrotic).
-Invisibility. The Familiar becomes Invisible [Buff] until the end of its next turn.
+
 
 REACTIONS
 Deliver Spell. When you cast a Spell with a Range of touch, the Familiar can deliver the Spell with its touch.
