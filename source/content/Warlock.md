@@ -77,34 +77,41 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 ## [[Higher Powers of Callitè#Archfae|Archfae]]
 ### Level 3: Archfae Spells
 
+| Warlock Level | Spells                               |
+| ------------- | ------------------------------------ |
+| 1st           | Faerie Fire, Power Word: Sleep       |
+| 3rd           | Calm Emotion, Misty Step             |
+| 5th           | Blink, Plant Growth                  |
+| 7th           | Dominate Beast, Greater Invisibility |
+| 9th           | Dominate Person, Seeming             |
 
 ### Level 3: 
 
 
 
 ## [[Higher Powers of Callitè#Elemental Powers|Elemental Powers]]
-### Level 3: Archfae Spells
+### Level 3: Elemental Spells
 
 
 ### Level 3: 
 
 
 ## [[Higher Powers of Callitè#Fathomless Beings|Fathomless]]
-### Level 3: Archfae Spells
+### Level 3: Fathomless Spells
 
 
 ### Level 3: 
 
 
 ## [[Higher Powers of Callitè#Fiends|Fiend]]
-### Level 3: Archfae Spells
+### Level 3: Fiend Spells
 
 
 ### Level 3: 
 
 
 ## [[Higher Powers of Callitè#Great Old Ones|Great Old One]]
-### Level 3: Archfae Spells
+### Level 3: Great Old One Spells
 
 
 ### Level 3: 
@@ -112,21 +119,21 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 
 ## [[Higher Powers of Callitè#Great Wyrms|Great Wyrm]]
-### Level 3: Archfae Spells
+### Level 3: Great Wyrm Spells
 
 
 ### Level 3: 
 
 
 ## [[Higher Powers of Callitè#The Virtues|The Virtues]]
-### Level 3: Archfae Spells
+### Level 3: Virtue Spells
 
 
 ### Level 3: 
 
 
 ## [[Higher Powers of Callitè#Undead Beings|Undead]]
-### Level 3: Archfae Spells
+### Level 3: Undead Spells
 
 
 ### Level 3: 
