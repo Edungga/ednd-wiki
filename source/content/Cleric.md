@@ -103,7 +103,7 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your WIS mod
 ## Death Domain
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to Undead creatures.
 
-Example Virtue's: [[The Virtue of Despair]]
+Example Virtue's: [[The Virtue of Despair]], [[The Virtue of Sacrifice]], [[The Virtue of Wrath]]
 ### Level 3: Domain Spells
 
 | Cleric Level | Prepared Spells                                                      |
@@ -120,9 +120,11 @@ You can use this feature a number of times equal to your WIS modifier (min 1) pe
 ### Level 3: Channel Divinity - Touch of Death
 You can use Channel Divinity to destroy another creature's life force by touch. When a creature within 30ft of you is hit with an Attack, as a Reaction you can use Channel Divinity to deal extra Necrotic Damage to the target. The damage equals 5 + twice your Cleric level.
 
-## Life Domain
 
-Example Virtue's: 
+## Life Domain
+The Life domain focuses on the vibrant positive energy that sustains all life. 
+
+Example Virtue's: [[The Virtue of Hope]], [[me]]
 ### Level 3: Domain Spells
 
 
