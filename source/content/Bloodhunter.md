@@ -137,12 +137,9 @@ When a creature you can see within 30ft of you drops to 0 Hit Points, as a React
 
 **Amplify**. You can first cause the cursed creature to move up to half its speed, and you grant a bonus to its attack roll equal to your Hemocraft modifier (min 1).
 
-  
-
-### Blood Curse of the Howl
-
-Prerequisite: 18th level, Order of the Lycan
-As an Action, you unleash a bloodcurdling howl. Each creature within 30ft of you that can hear you must succeed on a WIS Save or become Frightened [Debuff] of you until the end of your next turn. If a creature fails its Save by 5 or more, it is Stunned [Debuff] while Frightened [Debuff] in this way. A creature that succeeds on its Save is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by the howl.
+## Blood Curse of the Howl
+*Prerequisite: 18th level, Order of the Lycan*
+As an Action, you unleash a bloodcurdling howl. Each creature within 30ft of you that can hear you must succeed on a WIS Save or become [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] of you until the end of your next turn. If a creature fails its Save by 5 or more, it is [[Conditions#Stunned (Debuff)|Stunned (Debuff)]] while [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] in this way. A creature that succeeds on its Save is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by the howl.
 
 Amplify. The range of this curse increases to 60ft.
 
