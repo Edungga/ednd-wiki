@@ -230,9 +230,13 @@ You learn the Rite of the Dead as part of your Crimson Rite feature. While that 
 
 ### Level 3: Vampiric Nature
 The ancient disease of your Order has irreparably changed your physiology, you gain the following:
+
 **Deathless**. You are Undead. Additionally, you do not need to breathe.
-Darkvision. You are able to see in Mundane Darkness or Dim Light as Normal.
-Spider Climb. You gain a Climb Speed equal to your Walk Speed. At 7th level, this becomes a Spider Climb Speed
+
+**Darkvision**. You have Darkvision with a range of 120 feet. If you already have Darkvision, that ranges increases by 120 feet.
+
+**Spider Climb**. You gain a Climb Speed equal to your Walk Speed. At 7th level, this becomes a Spider Climb Speed
+
 Sunlight Sensitivity. You have Disadvantage on Attacks and WIS (Perception) Checks that rely on sight when you, the target of your Attack, or whatever you are trying to see is in direct Sunlight
 Fangs. Your teeth elongate into fangs which count as Natural Weapons for you. These fangs use your STR modifier and deal Hemocraft Die Piercing Damage.
 
