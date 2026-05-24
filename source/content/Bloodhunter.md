@@ -170,8 +170,12 @@ Blood hunters belonging to the Order of the Profane Soul have pushed the limits 
 ### Level 3: Otherworldly Patron
 You strike a bargain with an otherworldly being of your choice, granting you a benefit based on your chosen pact.
 
+Archfae. 
 
-### Level 3: Pact 
+
+### Level 3: Pact Magic
+
+
 
 ## Order of Undying Thirst
 
