@@ -36,6 +36,9 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 5th   | +3                | -                               | 3              | 6            | 2           | 3rd        | 5                 |
 
 ## Level 1: Eldritch Invocations
+In your study of occult lore, you have unearthed [[#Eldritch Invocations|Eldritch Invocations]], fragments of forbidden knowledge that imbue you with an abiding magical ability.
+You gain two Eldritch Invocations of your choice. When you gain certain Warlock Levels, you gain additional Invocations, as shown in the Invocations Known column of the Warlock table. A Level prerequisite refers to your level in this class.
+Additionally, when you gain a Level in this class, you can choose one of the Invocations you know and replace it with another Invocation that you could learn at that level.
 
 
 ## Level 1: Pact Magic
