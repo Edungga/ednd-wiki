@@ -88,15 +88,12 @@ When you cast Eldritch Blast, add your CHA modifier (min 1) to the damage it dea
 You may cast [[Locate Animals or Plants]], [[Locate Creature]], or [[Locate Object]] without expending a Spell Slot or Material components once per Long Rest.
 
 ## Armour of Hexes
-Prerequisite: 9th Level, Spell or a Warlock feature that curses
+*Prerequisite: 9th Level, Spell or a Warlock feature that curses*
 
-When you are targeted with an Attack by a creature Cursed by you, as a Reaction you can roll 1d6. On a 4 or higher, the Attack instead misses you, regardless of its roll.
+When you are hit with an Attack by a creature Cursed by you, as a Reaction you can roll 1d6. On a 4 or higher, the Attack instead misses you, regardless of its roll.
 
-  
-
-### Armour of Shadows
-
-You can cast Mage Armour on yourself at will, without expending a Spell Slot or Material Components.
+## Armour of Shadows
+You can cast [[Mage Armour]] on yourself at will, without expending a Spell Slot or Material Components.
 
   
 
