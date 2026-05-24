@@ -169,3 +169,22 @@ Each time you gain a level, you can replace one technique you know with a differ
 
 ---
 # Conducting Techniques
+
+Aria of Suspense (Ansia). [Action] You build an air of tension and paranoia with subtle, droning tones. You expend and roll a Bardic Inspiration die. For the next 10 minutes, any creatures of your choice within 60 feet cannot be Surprised [Debuff], and gain a bonus on Saves against traps and environmental hazards equal to your Bardic Inspiration die roll.
+Crash (Marcato). [Reaction] You learn how to harness and amplify the roar of a well-placed blow into a violent explosion of sound. When a creature other than yourself within 60 feet of you hits with an Attack, you can use your Reaction to expend and roll a Bardic Inspiration die. The target of the triggering attack must make a STR Save against your Spell Save DC or take Thunder damage equal to the number you rolled and be knocked Prone [Condition].
+
+Dirge of Dread (Finale). [Reaction] You play a terrifying dirge to accompany a deathblow, striking fear into the hearts of your nearby enemies. When an ally brings a creature within 60 feet to 0 Hit Points, you can use your Reaction to expend and roll a Bardic Inspiration die. Select a number of creatures within 15 feet of the triggering ally equal to the number rolled. Each target must make a WIS Save against your Spell Save DC or become Frightened [Debuff] of the triggering ally until the end of that ally's next turn. After the effect ends, or the Save is successful, targeted creatures are immune to Dirge of Dread for the next 24 hours.
+
+Dissonance (Discordia). [Reaction] Summoning a harsh, discordant tone, you muddle the mind of an opponent, lessening their defences. When a creature within 60 feet is forced to make a Save, you can use your Reaction to expend and roll a Bardic Inspiration die. You reduce their Save by half of the number rolled (rounded down). You can use this feature after the creature makes its Save roll, but before the DM determines a success or failure.
+
+Guiding Tone (Fermata). [Bonus Action] You drag a sharp, powerful chord through the mind of a creature, forcing it to suddenly stumble in a direction you wish. As a Bonus Action, you expend and roll a Bardic Inspiration die and select a creature other than yourself within 60 feet. The target must succeed on a WIS Save against your Spell Save DC or take Psychic damage equal to half of the number rolled and be pushed 10ft in a direction you choose. A target can fail the Save voluntarily.
+
+Hasten Tempo (Accelerando). [Action] Your manipulation of tempo and song can inspire others to act more quickly. You can use your Action on your turn to choose one creature other than yourself within 60 feet. Expend and roll a Bardic Inspiration die, the creature becomes Hasted [Buff] for a number of rounds equal to half of the number rolled (rounded down, minimum of 1). A creature cannot be affected by Hasten Tempo again until they've finished a Long Rest.
+
+Hymm of Harmony (Armonia). The melodies surrounding your allies promote rapid recovery. When a creature that has a Bardic Inspiration die from you regains any Hit Points, they can expend and roll their inspiration die to regain additional Hit Points equal to the number rolled.
+
+Majestic Anthem (Maestoso). [Action] Pulled from the chaos, you muster an uplifting melody that bolsters the resolve of your allies. You can expend and roll a Bardic Inspiration die as an Action, and all other creatures you choose within 60ft gain Temporary Hit Points equal to the number rolled plus your CHA modifier (minimum of 1). 
+
+Resonance (Risonanza). [Bonus Action] You shape the harmonic vibrations of a weapon's movements into a dangerous, sonic enhancement. Using a Bonus Action, you can expend and roll a Bardic Inspiration die, choosing one Weapon within 60ft of you. Until the end of your next turn, all Attacks with that Weapon deal additional Thunder damage equal to half of the number rolled (rounded down, minimum of 1).
+
+Sprint (Presto). The song you conjure can stir the winds, pushing along those who require expedient travel. A creature that has a Bardic Inspiration die from you can expend and roll their Bardic Inspiration to increase their speed for that turn. A roll of 1-4 increases their speed of 10 feet, a roll of 5-8 increases their speed by 15 feet, and a roll of 9-12 increases their speed by 20 feet.
