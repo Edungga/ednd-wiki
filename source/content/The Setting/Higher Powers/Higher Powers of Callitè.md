@@ -25,7 +25,7 @@ Ancient entities beneath the ocean the Mourning Isles
 - [[The Drowned Choir]]
 # Fiends
 - [[The Magistrate of Blood]]
-- 
+- [[Carrion]]
 # Elemental Powers
 
 # Great Old Ones

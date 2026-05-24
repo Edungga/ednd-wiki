@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Magistrate of Blood.md",
+                "file": "Carrion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Magistrate of Blood"
+              "title": "Carrion"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Magistrate of Blood.md",
+                "file": "Carrion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Magistrate of Blood"
+              "title": "Outline of Carrion"
             }
           }
         ],
@@ -173,7 +173,8 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "The Setting/Higher Powers/Higher Powers of Callitè.md",
-    "The Magistrate of Blood.md",
+    "Carrion.md",
+    "The Setting/Higher Powers/Fiends/The Magistrate of Blood.md",
     "The Setting/Higher Powers/Fiends",
     "The Setting/Higher Powers/Fathomless Beings",
     "The Setting/Higher Powers/Fathomless Beings/The Drowned Choir.md",
@@ -203,7 +204,6 @@
     "Classes/Barbarian.md",
     "Spells/Spells.base",
     "Rules/Soul Scar.md",
-    "Feats/Feat.md",
     "Spells/Cantrips",
     "Rules",
     "Background",
