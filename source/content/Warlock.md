@@ -98,12 +98,12 @@ In addition, whenever you cast that spell, you can choose one of the following a
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 Choose one of the following for your Patrons element; Water, Earth, Fire, Air
 
-| Warlock Level | Water Spells    | Earth Spells                | Fire Spells                  | Air Spells                | All                                            |
-| ------------- | --------------- | --------------------------- | ---------------------------- | ------------------------- | ---------------------------------------------- |
-| 3rd           | Blur, Fog Cloud | Earth Tremor, Earthen Grasp | Burning Hands, Scorching Ray | Gust of Wind, Thunderwave | [[Detect Good and Evil]], [[Phantasmal Force]] |
-| 5th           | Sleet Storm     | Meld into Stone             | Fireball                     |                           | Create Food and Water                          |
-| 7th           | Control Water   | Stone Shape                 | Fire Shield                  |                           | Phantasmal Killer                              |
-| 9th           | Cone of Cold    | Wall of Stone               | Flame Strike                 |                           | Creation                                       |
+| Warlock Level | Water Spells            | Earth Spells                    | Fire Spells                  | Air Spells                | All                                            |
+| ------------- | ----------------------- | ------------------------------- | ---------------------------- | ------------------------- | ---------------------------------------------- |
+| 3rd           | [[Blur]], [[Fog Cloud]] | [[Earth Tremor]], Earthen Grasp | Burning Hands, Scorching Ray | Gust of Wind, Thunderwave | [[Detect Good and Evil]], [[Phantasmal Force]] |
+| 5th           | [[Sleet Storm]]         | [[Meld into Stone]]             | Fireball                     | Wind Wall                 | Create Food and Water                          |
+| 7th           | [[Control Water]]       | [[Stone Shape]]                 | Fire Shield                  | Greater Invisibility      | Phantasmal Killer                              |
+| 9th           | [[Cone of Cold]]        | [[Wall of Stone]]               | Flame Strike                 | Seeming                   | Creation                                       |
 
 ### Level 3: 
 
