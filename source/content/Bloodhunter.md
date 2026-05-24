@@ -89,25 +89,20 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ---
 # Bloodhunter Orders
-### Blood Curse of the Anxious
+## Blood Curse of the Anxious
+As a Bonus Action, you harry the body or mind of a creature within 30ft of you, making them susceptible to forceful influence. Until the end of your next turn, CHA (Intimidation) Checks made against the Cursed creature have Advantage.
 
-[Bonus Action - Magic] You harry the body or mind of a creature within 30ft of you, making them susceptible to forceful influence. Until the end of your next turn, CHA (Intimidation) Checks made against the Cursed creature have Advantage.
+**Amplify**. The next WIS Save the Cursed creature makes before this curse ends has Disadvantage.
 
-Amplify. The next WIS Save the Cursed creature makes before this curse ends has Disadvantage.
-
-  
-
-### Blood Curse of Binding
-
-[Bonus Action - Magic] You attempt to bind a Large or smaller creature you can see within 30ft of you, which must make a STR Save. On a failure, the Cursed creature’s Speed is reduced to 0 and it can’t use Reactions until the end of your next turn.
+## Blood Curse of Binding
+As a Bonus Action, you attempt to bind a Large or smaller creature you can see within 30ft of you, which must make a STR Save. On a failure, the Cursed creature’s Speed is reduced to 0 and it can’t use Reactions until the end of your next turn.
 
 Amplify. This Curse lasts for 1 minute and can affect any creature regardless of size. The Cursed creature can repeat the Save at the end of each of its turns, ending the Curse on itself on a success.
 
   
 
 ### Blood Curse of Bloated Agony
-
-[Bonus Action - Magic] You Curse a creature that you can see within 30ft of you, causing its body to swell until the end of your next turn. For the duration, the creature has Disadvantage on STR and DEX Checks, and takes 1d8 Necrotic Damage if it makes more than one Attack during its turn.
+As a Bonus Action, you Curse a creature that you can see within 30ft of you, causing its body to swell until the end of your next turn. For the duration, the creature has Disadvantage on STR and DEX Checks, and takes 1d8 Necrotic Damage if it makes more than one Attack during its turn.
 
 Amplify. This Curse lasts for 1 minute. The Cursed creature can make a CON Save  at the end of each of its turns, ending the Curse on itself on a success.
 
@@ -116,8 +111,7 @@ Amplify. This Curse lasts for 1 minute. The Cursed creature can make a CON Save�
 ### Blood Curse of Corrosion
 
 Prerequisite: 15th level, Order of the Mutant
-
-[Bonus Action - Magic] You cause a creature within 30tf of you to become Poisoned [Debuff]. The cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
+As a Bonus Action, you cause a creature within 30tf of you to become Poisoned [Debuff]. The cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
 
 Amplify. The Cursed creature takes 4d6 Necrotic Damage when you inflict this Curse, and it takes this damage again each time it fails a CON Save to end the curse.
 
@@ -126,8 +120,7 @@ Amplify. The Cursed creature takes 4d6 Necrotic Damage when you inflict this Cur
 ### Blood Curse of the Exorcist
 
 Prerequisite: 15th level, Order of the Ghostslayer
-
-[Bonus Action - Magic] You choose one creature you can see within 30 feet of you that is Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff]. The target creature is no longer Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff].
+As a Bonus Action, you choose one creature you can see within 30 feet of you that is Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff]. The target creature is no longer Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff].
 
 Amplify. A creature that Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff] the target of your curse takes 3d6 Psychic Damage and must succeed on a WIS Save or be Stunned [Debuff] until the end of your next turn.
 
