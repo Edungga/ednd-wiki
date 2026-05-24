@@ -37,7 +37,7 @@ We also have some Home Rules to spice things up a bit
 - Ranger
 - Rogue
 - Sorcerer
-- Warlock
+- [[Warlock]]
 - Wizard
 
 
