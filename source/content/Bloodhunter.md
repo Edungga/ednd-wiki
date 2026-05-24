@@ -101,20 +101,17 @@ As a Bonus Action, you harry the body or mind of a creature within 30ft of you, 
 **Amplify**. The next WIS Save the Cursed creature makes before this curse ends has Disadvantage.
 
 ## Blood Curse of Binding
-As a Bonus Action, you attempt to bind a Large or smaller creature you can see within 30ft of you, which must make a STR Save. On a failure, the Cursed creature’s Speed is reduced to 0 and it can’t use Reactions until the end of your next turn.
+As a Bonus Action, you attempt to bind a creature no more than one size Larger than you that you can see within 30ft of you, which must make a STR Save. On a failure, the Cursed creature’s Speed is reduced to 0 and it can’t use Reactions until the end of your next turn.
 
-Amplify. This Curse lasts for 1 minute and can affect any creature regardless of size. The Cursed creature can repeat the Save at the end of each of its turns, ending the Curse on itself on a success.
+**Amplify**. This Curse lasts for 1 minute and can affect any creature regardless of size. The Cursed creature can repeat the Save at the end of each of its turns, ending the Curse on itself on a success.
 
 ## Blood Curse of Bloated Agony
 As a Bonus Action, you Curse a creature that you can see within 30ft of you, causing its body to swell until the end of your next turn. For the duration, the creature has Disadvantage on STR and DEX Checks, and takes 1d8 Necrotic Damage if it makes more than one Attack during its turn.
 
-Amplify. This Curse lasts for 1 minute. The Cursed creature can make a CON Save  at the end of each of its turns, ending the Curse on itself on a success.
+**Amplify**. This Curse lasts for 1 minute. The Cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
 
-  
-
-### Blood Curse of Corrosion
-
-Prerequisite: 15th level, Order of the Mutant
+## Blood Curse of Corrosion
+*Prerequisite: 15th level, Order of the Mutant*
 As a Bonus Action, you cause a creature within 30tf of you to become Poisoned [Debuff]. The cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
 
 Amplify. The Cursed creature takes 4d6 Necrotic Damage when you inflict this Curse, and it takes this damage again each time it fails a CON Save to end the curse.
