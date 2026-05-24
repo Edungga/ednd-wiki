@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bloodhunter.md",
+                "file": "Classes/Bloodhunter.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bloodhunter.md",
+                "file": "Classes/Bloodhunter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,10 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Ancestries/Dwarf.md",
-    "Bloodhunter.md",
+    "Classes/Bloodhunter.md",
     "Rules/Conditions.md",
     "Classes/Fighter.md",
     "Classes/Bard.md",
