@@ -141,9 +141,15 @@ As a Magic action, you present your Holy Symbol and expend a use of your Channel
 ## Light Domain
 Domains of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun.
 
-Example Virtue's: 
+Example Virtue's: [[The Virtue of Hope]], [[The Virtue of Resolve]], [[The Virtue of Wrath]]
 ### Level 3: Domain Spells
 
+| Cleric Level | Prepared Spells                                       |
+| ------------ | ----------------------------------------------------- |
+| 3rd          | Burning Hands, Faerie Fire Moonbeam, See Invisibility |
+| 5th          | Daylight, Fireball                                    |
+| 7th          | Guardian of Faith, Wall of Fire                       |
+| 9th          | Flame Strike, Scrying                                 |
 
 
 ### Level 3: 
