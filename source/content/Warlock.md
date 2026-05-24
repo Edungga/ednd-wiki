@@ -105,14 +105,12 @@ The magic of your patron ensures you always have certain spells ready; when you 
 ### Level 3: Fathomless Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
-|               |                                      |
-| ------------- | ------------------------------------ |
-| Warlock Level | Spells                               |
-| 1st           | Faerie Fire, Power Word: Sleep       |
-| 3rd           | Calm Emotion, Misty Step             |
-| 5th           | Blink, Plant Growth                  |
-| 7th           | Dominate Beast, Greater Invisibility |
-| 9th           | Dominate Person, Seeming             |
+| Warlock Level | Spells                                                      |
+| ------------- | ----------------------------------------------------------- |
+| 3rd           | Create or Destroy Water, Gust of Wind, Silence, Thunderwave |
+| 5th           | Lightining Bolt, Sleet Storm                                |
+| 7th           | Control Water, Summon Elemental (Water)                     |
+| 9th           | Dominate Person, Seeming                                    |
 
 ### Level 3: 
 
