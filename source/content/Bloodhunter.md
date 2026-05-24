@@ -174,9 +174,9 @@ You strike a bargain with an otherworldly being of your choice, granting you a b
 - **Fathomless**. You can breathe underwater. Additionally, once per turn when you damage a creature with a weapon for which you have an active Crimson Rite, you can reduce that creature’s speed by 10 feet until the start of your next turn.
 - **Fiend**. While using the Rite of the Flame, you can treat a roll of 1 as a 2 on the Rite Damage die.
 - **Genie**. As a Bonus Action, spend one use of your [[#Level 1 Hemocraft|Hemocraft]] to give yourself a 30ft Fly Speed lasting Hemocraft ability modifier (min 1) rounds.
-- **Great Old One**. When you score a critical hit against a creature, that creature and any other creatures of your choice within 10ft of it are [[Conditions]] of you until the end of your next turn.
+- **Great Old One**. When you score a critical hit against a creature, that creature and any other creatures of your choice within 10ft of it are [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] of you until the end of your next turn.
 - Great Wyrm. 
-- Undead. [Reaction] When you take Necrotic Damage, you can halve that Damage. In addition, your appearance changes to reflect some aspect of your patron while you have any Crimson Rite active.
+- Undead. When you take Necrotic Damage, you can halve that Damage. In addition, your appearance changes to reflect some aspect of your patron while you have any Crimson Rite active.
 
 ### Level 3: Pact Magic
 
