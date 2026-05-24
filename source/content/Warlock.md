@@ -145,16 +145,15 @@ As a Bonus Action, you can surround yourself with a magical aura that looks like
 
 The aura grants you Advantage on Intimidation Checks but Disadvantage on Persuasion or Deception Checks. Any other creature that starts its turn in the aura takes Poison Damage equal to your CHA modifier (min 1).
 
-  
+## Devil's Sight
+You can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of yourself.
 
-### Devil's Sight
+## Devouring Blade
+*Prerequisites: Level 12+ Warlock, [[*
 
-You can see normally in Darkness, both Supernatural and Mundane.
+The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
 
-  
-
-### Dreadful Word
-
+## Dreadful Word
 Prerequisite: 7th level
 
 You can cast Confusion once without expending a Spell Slot, once per Long Rest.
