@@ -164,7 +164,7 @@ As a Magic action, you present your Holy Symbol and expend a use of your Channel
 ## Trickery Domain
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge to direct confrontation.
 
-Example Virtue's: 
+Example Virtue's: [[The Virtue of Mercy]] , [[The Virtue of Despair]]
 ### Level 3: Domain Spells
 
 
@@ -177,7 +177,7 @@ Example Virtue's:
 
 ## War Domain
 
-Example Virtue's: 
+Example Virtue's: [[The Virtue of Resolve]], [[The Virtue of Wrath]], [[The Virtue of Despair]]
 ### Level 3: Domain Spells
 
 
