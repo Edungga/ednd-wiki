@@ -135,15 +135,20 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 9th           | [[Dominate Person]], [[Telekineses]]                                                    |
 
 ### Level 3: Awakened Mind
-You can form a telepathic connection between your mind and the mind of another. You don't need to share a Language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one Language. 
+You can form a telepathic connection between your mind and the mind of another. As a Bonus Action, choose one creature you can see within 60 feet of yourself. You and the chosen creature can communicate telepathically with each other. You don't need to share a Language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one Language. 
 
-As a Bonus Action, choose one creature you can see within 60 feet of yourself. You and the chosen creature can communicate telepathically with each other. 
 The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you use this feature to connect with a different creature.
 
 ## [[Higher Powers of Callitè#Great Wyrms|Great Wyrm]]
 ### Level 3: Great Wyrm Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
+| Warlock Level | Spells                                                                        |
+| ------------- | ----------------------------------------------------------------------------- |
+| 3rd           | [[Absorb Elements]], [[Chromatic Orb]], [[Dragons Breath]], [[Scorching Ray]] |
+| 5th           | [[Fireball]], [[Lightning Bolt]]                                              |
+| 7th           | [[Vitriolic Sphere]], [[Wall of Fire]]                                        |
+| 9th           | Dominate Person, Cone of Cold                                                 |
 
 ### Level 3: 
 
