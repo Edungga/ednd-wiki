@@ -202,16 +202,14 @@ As a Bonus Action, touch a willing creature and perceive through its senses unti
 While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are [[Conditions#Blinded (Debuff)|Blinded (Debuff)]] and [[Conditions#Deafened (Debuff)|Deafened (Debuff)]] to your own surroundings.
 
 ## Ghostly Gaze
+*Prerequisite: 7th level*
 
-Prerequisite: 7th level
-
-[Bonus Action - Magic] Gain the ability to see through solid objects to a range of 30ft. Within that range, you have Darkvision if you don't already have it. This special sight lasts for 1 minute or until your Concentration ends (as if you were Concentrating on a Spell). During that time, you perceive objects as ghostly, transparent images.
+As a Bonus Action, you gain the ability to see through solid objects to a range of 30ft. Within that range, you have Darkvision if you don't already have it. This special sight lasts for 1 minute or until your Concentration ends (as if you were Concentrating on a Spell). During that time, you perceive objects as ghostly, transparent images.
 
 Once you use this invocation, you can't use it again until you finish a Short or Long Rest.
 
-### Gift of the Depths
-
-Prerequisite: 5th level
+## Gift of the Depths
+*Prerequisite: 5th level*
 
 You can breathe underwater, and you gain a Swim Speed equal to your Walk Speed.
 
