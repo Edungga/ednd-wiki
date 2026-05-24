@@ -121,25 +121,16 @@ You can cast [[Compulsion]] once without expending a Spell Slot, once per Long R
 
 A new page appears in your Grimoire containing a Blasphemous Prayer. You learn a [[Cleric#Level 2 Channel Divinity|Channel Divinity]] option of your choice from the options available in the [[Cleric]] [[Cleric#Divine Domains|Divine Domains]] 2nd Level. Once you use this Channel Divinity, you can not do so again until you complete a Short or Long Rest.
 
-  
-  
-  
-
-### Bond of the Talisman
-
-Prerequisite: 12th level, Pact of the Talisman feature
-
-[Action - Magic] While someone else is wearing your talisman, Teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. 
+## Bond of the Talisman
+*Prerequisite: 12th level, Pact of the Talisman feature*
+As an Action, while someone else is wearing your talisman, Teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. 
 
 The wearer of your talisman can do the same thing, using their Action to Teleport to you. The Teleportation can be used a number of times equal to your Proficiency Bonus per Long Rest.
 
-  
+## Book of Ancient Secrets
+*Prerequisite: Pact of the Tome feature*
 
-### Book of Ancient Secrets
-
-Prerequisite: Pact of the Tome feature
-
-You can now inscribe magical rituals in your Grimoire. Choose two 1st Level Spells that have the Ritual Tag from any Spell List. The Spells appear in the Grimoire and don't count against the number of Spells you know. With your Grimoire in hand, you can cast the chosen Spells as Rituals. You can't cast the Spells except as Rituals, unless you've learned them by other means. 
+You can now inscribe magical rituals in your Grimoire. Choose two 1st Level Ritual Spells that have the Ritual Tag from any Spell List. The Spells appear in the Grimoire and don't count against the number of Spells you know. With your Grimoire in hand, you can cast the chosen Spells as Rituals. You can't cast the Spells except as Rituals, unless you've learned them by other means. 
 
 On your adventures, you can add other ritual spells to your Grimoire. When you find such a Spell, you can add it to the book if the Spell's Level is equal to or less than half your Warlock Level (rounded up) and if you can spare the time to transcribe the Spell. For each level of the Spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
