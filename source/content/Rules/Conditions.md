@@ -43,8 +43,6 @@ Attacks against a Flanked creature have Advantage.
 ## Incapacitated (Condition)
 **Inactive**. You can’t Move or take Actions, Bonus Actions, or Reactions.
 
-**Speed 0**. Your Speed is 0 and can’t change.
-
 **No Concentration**. Your Concentration is broken.
 
 **Speechless**. You are [[#Silenced (Debuff)]]
