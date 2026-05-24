@@ -139,6 +139,7 @@ As a Magic action, you present your Holy Symbol and expend a use of your Channel
 
 
 ## Light Domain
+Domains of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun.
 
 Example Virtue's: 
 ### Level 3: Domain Spells
