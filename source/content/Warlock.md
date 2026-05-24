@@ -269,9 +269,9 @@ You have received knowledge from an elder entity of the multiverse, allowing you
 
 ## Lance of Lethargy
 Choose one of your known Warlock cantrips that deals damage. When you hit a creature with that Cantrip, you can reduce that creature's Speed by 10ft until the end of your next turn.
-Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 
 **Repeatable**. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+
 ## Lifedrinker
 *Prerequisite: 9th level, Pact of the Blade feature*
 
@@ -351,45 +351,26 @@ As a Bonus Action, Teleport up to 30ft to an unoccupied space you can see within
 ## Repelling Blast
 Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 
-Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Repeatable**. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
-### Sculptor of Flesh
+## Sculptor of Flesh
+*Prerequisite: 7th level*
 
-Prerequisite: 7th level
+You can cast [[Polymorph]] once without expending a Spell Slot, once per Long Rest.
 
-You can cast Polymorph once without expending a Spell Slot, once per Long Rest.
+## Sign of Ill Omen
+*Prerequisite: 5th level*
 
-  
+You can cast [[Bestow Curse]] once without expending a Spell Slot, once per Long Rest.
 
-### Shroud of Shadow
+## Thief of Five Fates
+You can cast [[Bane]] once without expending a Spell Slot, once per Long Rest.
 
-Prerequisite: 13th level
-
-You can cast Invisibility at will, without expending a Spell Slot.
-
-  
-
-### Sign of Ill Omen
-
-Prerequisite: 5th level
-
-You can cast Bestow Curse once without expending a Spell Slot, once per Long Rest.
-
-  
-
-### Thief of Five Fates
-
-You can cast Bane once without expending a Spell Slot, once per Long Rest.
-
-  
-
-### Thirsting Blade
-
-Prerequisite: 5th level, Pact of the Blade feature
+## Thirsting Blade
+*Prerequisite: 5th level, Pact of the Blade feature*
 
 You can Attack with your Pact Weapon twice, instead of once, whenever you take the Attack Action on your turn. 
 
-At 11th Level, this increases to three times, instead of twice, whenever you take the Attack Action on your turn.
 
   
 
