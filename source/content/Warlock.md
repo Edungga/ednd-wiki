@@ -98,6 +98,13 @@ In addition, whenever you cast that spell, you can choose one of the following a
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 Choose one of the following for your Patrons element; Water, Earth, Fire, Air
 
+| Warlock Level | Water Spells                         | Earth Spells | Fire Spells | Air Spells | All                  |
+| ------------- | ------------------------------------ | ------------ | ----------- | ---------- | -------------------- |
+| 3rd           | Calm Emotion, Misty Step             |              |             |            | Detect Good and Evil |
+| 5th           | Blink, Plant Growth                  |              |             |            |                      |
+| 7th           | Dominate Beast, Greater Invisibility |              |             |            |                      |
+| 9th           | -                                    | -            | -           | -          | Wish                 |
+
 ### Level 3: 
 
 
