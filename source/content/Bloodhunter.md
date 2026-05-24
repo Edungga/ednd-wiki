@@ -224,11 +224,17 @@ Legends speak of an ancient vampire who came to regret the many atrocities he co
 
 ### Level 3: Rite of the Dead
 You learn the Rite of the Dead as part of your Crimson Rite feature. While that Rite is active on your Weapon, you gain the following benefits:
-Your Rite Damage is Necrotic Damage.
-Your Weapon absorbs Light/Sunlight, creating a radius of 20ft of Dim Light.
-When you hit a creature with this Weapon, it deals an additional Hemocraft Die Rite Damage
+- Your Rite Damage is Necrotic Damage.
+- Your Weapon absorbs Light/Sunlight, creating a radius of 20ft of Dim Light.
+- When you hit a creature with this Weapon, it deals an additional Hemocraft Die Rite Damage
 
-### Level 3:
+### Level 3: Vampiric Nature
+The ancient disease of your Order has irreparably changed your physiology, you gain the following:
+**Deathless**. You are Undead. Additionally, you do not need to breathe.
+Darkvision. You are able to see in Mundane Darkness or Dim Light as Normal.
+Spider Climb. You gain a Climb Speed equal to your Walk Speed. At 7th level, this becomes a Spider Climb Speed
+Sunlight Sensitivity. You have Disadvantage on Attacks and WIS (Perception) Checks that rely on sight when you, the target of your Attack, or whatever you are trying to see is in direct Sunlight
+Fangs. Your teeth elongate into fangs which count as Natural Weapons for you. These fangs use your STR modifier and deal Hemocraft Die Piercing Damage.
 
 ---
 # Blood Curses
