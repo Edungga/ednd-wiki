@@ -151,6 +151,15 @@ You learn how to use your wit to distract, confuse, and otherwise sap the confid
 When a creature that you can see within 60ft of you makes a Check, Attack, or Damage roll, you can use your Reaction and expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the Check or Attack succeeds or fails. The creature is Immune if it can't hear you or if it's Immune to being [[Conditions#Charmed (Debuff)|Charmed (Debuff)]].
 
 ## College of Maestro
+The College of the Maestro calls to those who enjoy enabling their companions to become even more adept, working in unison with your sonata. It refines those of raw talent into majestic performers who can pluck the thoughts from a mind like a musical note, amplify the fears of lesser beings through sourceless, ominous tones, and seemingly stretch time by commanding the tempo of a heartbeat. Maestros become heroes who can take the chaos of the world and carve it as they see fit by controlling the vibrations of music that subtly guide the realm
+
+## 3rd Level: Battle Muse
+You gain one additional use of your Bardic Inspiration feature.
+
+## 3rd Level: Symphony of Conflict
+You've been trained in the bardic art of magically manipulating the sounds of combat into a concert of powerful melodies that can alter the very battlefield around you.
+You learn 2 conducting techniques of your choice, which are detailed under "Conducting Techniques" below. All techniques require at least one free hand, baton, or wand to utilise. For these techniques to function, you must be able to see your target, and they must be able to hear you.
+Each time you gain a level, you can replace one technique you know with a different one.
 
 
 ## College of Valour
