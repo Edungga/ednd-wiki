@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Rules/Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acid Splash"
+              "title": "Actions"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Rules/Actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acid Splash"
+              "title": "Outline of Actions"
             }
           }
         ],
@@ -172,6 +172,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Cantrips/Acid Splash.md",
+    "Rules/Actions.md",
     "Spells/Spells.md",
     "index.md",
     "Classes/Bloodhunter.md",
@@ -194,12 +196,10 @@
     "Spells/Cantrips/Spare the Dying.md",
     "Spells/Cantrips/Shocking Grasp.md",
     "Spells/Cantrips/Shillelagh.md",
-    "Spells/Cantrips/Acid Splash.md",
     "Spells/Cantrips",
     "Spells/Cantrips/Shape Water.md",
     "Spells/Cantrips/Sapping Sting.md",
     "Spells/Cantrips/Sacred Flame.md",
-    "Spells/Cantrips/Resistance.md",
     "Rules",
     "Background",
     "The Setting",
