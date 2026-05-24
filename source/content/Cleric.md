@@ -75,10 +75,11 @@ You can use your Channel Divinity a number of times equal to your Proficiency Bo
 
 Some Channel Divinity effects require a Save. When you use such an effect from this class, the DC is your cleric Spell Save DC.
 ### Channel Divinity: Turn Undead
-[Action - Magic] Present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 ft of you must make a WIS Save. If the creature fails its Save, it is Dazed [Debuff] for 1 minute or until it takes any damage.
-While Dazed in this way, the only Action the creature can take is the Dash Action, and if it Moves, it must end that Move farther from you than where it started.
+As a Magic action, you present your Holy Symbol and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it is [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] and Incapacitated conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the Incapacitated condition, or if you die.
 ### Channel Divinity: Divine Spark
-[Action - Magic] Point your holy symbol at another creature you can see within 30ft of yourself and focus your divine energy at them. Roll a number of d8s equal to your Proficiency Bonus and add the rolls together. You either Heal the creature equal to that total or force the creature to make a CON Save. On a failed Save, the creature takes Radiant or Necrotic Damage equal to the total, and on a successful Save, the creature takes half as much Damage (rounded down).
+As a Magic Action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a CON Save. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+
+You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 
 
 ## Level 3: Divine Domain
