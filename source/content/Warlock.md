@@ -298,35 +298,23 @@ You can cast [[Alter Self]] at will, without expending a Spell Slot.
 
 You can cast [[Summon Elemental]] once without expending a Spell Slot, once per Long Rest.
 
-  
+## Mire the Mind
+*Prerequisite: 5th level*
 
-### Mire the Mind
+You can cast [[Slow]] once without expending a Spell Slot, once per Long Rest.
 
-Prerequisite: 5th level
+## Misty Visions
+You can cast [[Silent Image]] at will, without expending a Spell Slot or Material Components.
 
-You can cast Slow once without expending a Spell Slot, once per Long Rest.
+## One with Shadows
+*Prerequisite: 5th level*
 
-  
+While you're in an area of Dim Light or Darkness, you can cast [[Invisibility]] on yourself without expending a spell slot.
 
-### Misty Visions
+## Otherworldly Leap
+You can cast [[Jump]] at will, without expending a Spell Slot.
 
-You can cast Silent Image at will, without expending a Spell Slot or Material Components.
-
-  
-
-### One with Shadows
-
-Prerequisite: 5th level
-
-[Action - Magic] When you are in an area of Dim Light or Darkness, you can become Invisible [Buff] until you move, take an Action, Bonus Action, or Reaction.
-
-  
-
-### Otherworldly Leap
-
-You can cast Jump at will, without expending a Spell Slot.
-
-### Otherworldly Rider
+## Otherworldly Rider
 
 Prerequisite: 7th level, Pact of the Chain feature
 
