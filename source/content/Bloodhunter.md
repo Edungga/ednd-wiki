@@ -288,23 +288,22 @@ Your Strength score increases by 3, as does your maximum for that score. However
 Your weapon attacks score a critical hit on a roll of 19 or 20. However, you have disadvantage on Strength saving throws.
 
 ## Rapidity
+Your speed increases by 15 feet. However, you have disadvantage on Intelligence checks. At 15th level, your speed increases by an additional 15 feet.
 
-Your speed increases by 10 feet. However, you have disadvantage on Intelligence checks. At 15th level, your speed increases by an additional 5 feet.
-Reconstruction
-
-Prerequisite: 7th level
+## Reconstruction
+*Prerequisite: 7th level*
 For 1 hour, at the start of each of your turns when you have at least 1 hit point but fewer hit points than half your hit point maximum, you regain hit points equal to your proficiency bonus. However, your speed is reduced by 10 feet during this time.
-Sagacity
 
+## Sagacity
 Your Intelligence score increases by 3, as does your maximum for that score. However, you have disadvantage on Charisma saving throws. Your Intelligence score and your maximum increase by 4 if you consume this mutagen at 11th level, and by 5 at 18th level.
-Shielded
 
+## Shielded
 You have resistance to slashing damage, and you have vulnerability to bludgeoning damage.
-Unbreakable
 
+## Unbreakable
 You have resistance to bludgeoning damage, and you have vulnerability to piercing damage.
-Vermillion
 
-You gain an additional use of your Blood Maledict feature. However, you have disadvantage on death saving throws.
+## Vermillion
+You gain an additional use of [[#Level 1 Hemocraft|Haemocraft]]. However, you have disadvantage on death saving throws.
 
 
