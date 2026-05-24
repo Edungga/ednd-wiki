@@ -139,30 +139,24 @@ When a creature you can see within 30ft of you drops to 0 Hit Points, as a React
 
 ## Blood Curse of the Howl
 *Prerequisite: 18th level, Order of the Lycan*
-As an Action, you unleash a bloodcurdling howl. Each creature within 30ft of you that can hear you must succeed on a WIS Save or become [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] of you until the end of your next turn. If a creature fails its Save by 5 or more, it is [[Conditions#Stunned (Debuff)|Stunned (Debuff)]] while [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] in this way. A creature that succeeds on its Save is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by the howl.
+As an Action, you unleash a bloodcurdling howl. Each creature within 30ft of you that can hear you must succeed on a WIS Save or become [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] of you until the end of your next turn. 
 
-Amplify. The range of this curse increases to 60ft.
+If a creature fails its Save by 5 or more, it is [[Conditions#Stunned (Debuff)|Stunned (Debuff)]] while [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] in this way. A creature that succeeds on its Save is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by the howl.
 
-  
+**Amplify**. The range of this curse increases to 60ft.
 
-### Blood Curse of the Marked
+## Blood Curse of the Marked
 As a Bonus Action, you mark a creature that you can see within 30ft of you. Until the end of your turn, whenever you hit the Cursed creature with a Weapon for which you have an active crimson rite, you roll an additional hemocraft die when determining the extra damage from the rite.
 
-Amplify. The next Attack you make against the target before the end of your turn has Advantage.
+**Amplify**. The next Attack you make against the target before the end of your turn has Advantage.
 
-  
-
-### Blood Curse of the Muddled Mind
+## Blood Curse of the Muddled Mind
 As a Bonus Action, you curse a creature that you can see within 30 feet of you that is Concentrating on a Spell or using a feature that requires Concentration. That creature has Disadvantage on the next CON Save it makes to maintain Concentration before the end of your next turn.
 
-Amplify. The cursed creature has Disadvantage on all CON Saves made to maintain Concentration until the end of your next turn.
+**Amplify**. The cursed creature has Disadvantage on all CON Saves made to maintain Concentration until the end of your next turn.
 
-  
-
-### Blood Curse of the Soul Eater
-
-Prerequisite: 18th level, Order of the Profane Soul
-
-[Reaction - Magic] When a creature that isn’t a construct or undead is reduced to 0 hit points within 30ft of you, you can offer their life energy to your patron in exchange for power. Until the end of your next turn, you make attacks with Advantage and you have Resistance to all Damage.
+## Blood Curse of the Soul Eater
+*Prerequisite: 18th level, Order of the Profane Soul*
+When a creature that isn’t a construct or undead is reduced to 0 hit points within 30ft of you, as a Reaction you can offer their life energy to your patron in exchange for power. Until the end of your next turn, you make attacks with Advantage and you have Resistance to all Damage.
 
 Amplify. Additionally, you regain an expended warlock spell slot. Once you’ve amplified this blood curse, you must finish a Long Rest before you can amplify it again.
