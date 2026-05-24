@@ -269,25 +269,25 @@ You have resistance to fire damage and vulnerability to cold damage.
 You have resistance to cold damage and vulnerability to fire damage.
 
 ## Impermeable
-
 You have resistance to piercing damage and vulnerability to slashing damage.
-Mobility
 
+## Mobility
 You have immunity to the grappled and restrained conditions. However, you have disadvantage on Strength checks. At 11th level, you are also immune to the paralyzed condition.
-Nighteye
 
-You have darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 60 feet. However, you have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
-Percipient
+## Nighteye
+You have darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 60 feet. However, you have disadvantage on Attacks and Checks that rely on sight when you, the target is in direct sunlight.
 
+## Percipient
 You have advantage on Wisdom checks. However, you have disadvantage on Charisma checks.
-Potency
 
+## Potency
 Your Strength score increases by 3, as does your maximum for that score. However, you have disadvantage on Dexterity saving throws. Your Strength score and your maximum increase by 4 if you consume this mutagen at 11th level, and by 5 at 18th level.
-Precision
 
-Prerequisite: 11th level
+## Precision
+*Prerequisite: 11th level*
 Your weapon attacks score a critical hit on a roll of 19 or 20. However, you have disadvantage on Strength saving throws.
-Rapidity
+
+## Rapidity
 
 Your speed increases by 10 feet. However, you have disadvantage on Intelligence checks. At 15th level, your speed increases by an additional 5 feet.
 Reconstruction
