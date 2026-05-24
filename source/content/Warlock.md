@@ -371,10 +371,7 @@ You can cast [[Bane]] once without expending a Spell Slot, once per Long Rest.
 
 You can Attack with your Pact Weapon twice, instead of once, whenever you take the Attack Action on your turn. 
 
-
-  
-
-### Tomb of Eternal Ice
+## Tomb of Eternal Ice
 
 Prerequisite: 5th level
 
