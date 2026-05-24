@@ -242,32 +242,33 @@ When a creature that isn’t a construct or undead is reduced to 0 hit points wi
 ---
 # Mutagen Formulae
 ## Aether
-
-Prerequisite: 11th Level
+*Prerequisite: 11th Level*
 You have a flying speed of 20 feet for 1 hour. However, you have disadvantage on Strength checks and Dexterity checks during this time.
-Alluring
 
+
+## Alluring
 Your skin and voice become malleable, allowing you to enhance your appearance and presence. You have advantage on Charisma checks. However, you have disadvantage on initiative rolls.
-Celerity
 
+## Celerity
 Your Dexterity score increases by 3, as does your maximum for that score. However, you have disadvantage on Wisdom saving throws. Your Dexterity score and your maximum increase by 4 if you consume this mutagen at 11th level, and by 5 at 18th level.
-Conversant
 
+## Conversant
 You have advantage on Intelligence checks. However, you have disadvantage on Wisdom checks.
-Cruelty
 
-Prerequisite: 11th level
+## Cruelty
+*Prerequisite: 11th level*
 When you use the Attack action, you can make one additional weapon attack as a bonus action. However, you have disadvantage on Intelligence, Wisdom, and Charisma saving throws.
-Deftness
 
+## Deftness
 You have advantage on Dexterity checks. However, you have disadvantage on Wisdom checks.
-Embers
 
+## Embers
 You have resistance to fire damage and vulnerability to cold damage.
-Gelid
 
+## Gelid
 You have resistance to cold damage and vulnerability to fire damage.
-Impermeable
+
+## Impermeable
 
 You have resistance to piercing damage and vulnerability to slashing damage.
 Mobility
