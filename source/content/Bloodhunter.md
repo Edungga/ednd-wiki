@@ -180,6 +180,8 @@ You strike a bargain with an otherworldly being of your choice, granting you a b
 - **Great Wyrm**. When you successfully target a creature with a [[#Blood Curses|Blood Curse]], the next time you hit that creature with an attack while the curse is in effect, the attack deals additional damage equal to your Hemocraft Die.
 - **Undead**. When you take Necrotic Damage, you can halve that Damage. In addition, your appearance changes to reflect some aspect of your patron while you have any Crimson Rite active.
 
+Moreover, whenever you use [[#Level 1 Hunter's Bane|Hunter's Bane]] to analyse a creature that shares a creature type with your Patron, you add your Hemocraft Die to your Check.
+
 ### Level 3: Pact Magic
 Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. 
 
@@ -233,7 +235,7 @@ You learn the Rite of the Dead as part of your Crimson Rite feature. While that 
 ### Level 3: Vampiric Nature
 The ancient disease of your Order has irreparably changed your physiology, you gain the following:
 
-**Deathless**. You are Undead. Additionally, you do not need to breathe. Moreover, whenever you use [[#Level 1 Hunter's Bane|Hunters Bane]] to analyse an Undead creature, you add your Hemocraft Die to your Check.
+**Deathless**. You are Undead. Additionally, you do not need to breathe. Moreover, whenever you use [[#Level 1 Hunter's Bane|Hunter's Bane]] to analyse an Undead creature, you add your Hemocraft Die to your Check.
 
 **Darkvision**. You have Darkvision with a range of 120 feet. If you already have Darkvision, that ranges increases by 120 feet.
 
