@@ -48,21 +48,25 @@ You learn additional Cantrips of your choice at higher levels, as shown in the C
 
 **Prepared Spells of 1st+ Level**. You prepare the list of Spells of 1st level and higher that are available for you to cast with this feature. When you do so, choose a number of Spells from the Divine Spell List equal to your WIS modifier + your Cleric level (min 1 spell). The Spells must be of a level for which you have Spell Slots.
 
-For example, if you are a 3rd Level Cleric, you have four 1st Level and two 2nd Level Spell Slots. With a Wisdom of 16, your list of Prepared Spells can include six Spells of 1st or 2nd level, in any combination. If you prepare the 1st Level Spell Cure Wounds, you can cast it using a 1st Level or 2nd Level slot. 
+**Changing Your Prepared Spells**. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
 
-Casting the Spell doesn't remove it from your Prepared Spells, and you can change your Prepared Spells after a Long Rest. 
+**Spellcasting Ability**. Wisdom is your Spellcasting Ability for your Cleric Spells.
 
-Spellcasting Ability. Wisdom is your Spellcasting Ability for your Cleric Spells.
+**Spell save DC** = 8 + your Proficiency Bonus + your WIS modifier
 
-Spell save DC = 8 + your Proficiency Bonus + your WIS modifier
+**Spell attack modifier** = your Proficiency Bonus + your WIS modifier
 
-Spell attack modifier = your Proficiency Bonus + your WIS modifier
-
-Spellcasting Focus. You can use a Holy Symbol as a Spellcasting Focus for the Spells you prepare for this class.
+**Spellcasting Focus**. You can use a Holy Symbol as a Spellcasting Focus for the Spells you prepare for this class.
 
 
 ## Level 1: Holy Order
+You have dedicated yourself to one of the following sacred roles, either on your own or as part of a religious order. Choose one of the following options:
 
+Protector. Trained for battle, you gain Martial Weapon Proficiency and Heavy Armour Training. 
+
+Scholar. Studying and teaching about lore of the gods and the multiverse, you gain Proficiency in two of the following Skills of your choice: Arcana, Deception, History, Nature, Persuasion, and Religion. Whenever you make a Check using either Skill, you gain a bonus to the check equal to your WIS Modifier. 
+
+Thaumaturge. Delving deeper into your divine magical abilities, you know one extra Cantrip from the Divine Spell List. In addition, you regain one expended use of your Channel Divinity whenever you finish a Short Rest.
 
 ## Level 2: Channel Divinity
 
