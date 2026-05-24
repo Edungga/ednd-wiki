@@ -34,14 +34,14 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 ---
 # Class Features
-|       |                   |               |                    |                                                                                |
-| ----- | ----------------- | ------------- | ------------------ | ------------------------------------------------------------------------------ |
+
 | Level | Proficiency Bonus | Hemocraft Die | Blood Curses Known | Features                                                                       |
+| ----- | ----------------- | ------------- | ------------------ | ------------------------------------------------------------------------------ |
 | 1st   | +2                | d4            | 1                  | [[#Level 1 Hunter's Bane\|Hunter's Bane]], [[#Level 1 Hemocraft\|Hemocraft]]   |
 | 2nd   | +2                | d4            | 2                  | [[#Level 2 Fighting Style\|Fighting Style]], [[#Crimson Rites\|Crimson Rites]] |
-| 3rd   | +2                | d4            | 2                  | [[#]]                                                                          |
-| 4th   | +2                | d4            | 2                  | Feat / ASI                                                                     |
-| 5th   | +3                | d6            | 3                  | Extra Attack                                                                   |
+| 3rd   | +2                | d4            | 2                  | [[#Level 3 Bloodhunter Orders\|Bloodhunter Order]]                             |
+| 4th   | +2                | d4            | 2                  | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]              |
+| 5th   | +3                | d6            | 3                  | [[#Level 5 Extra Attack\|Extra Attack]]                                        |
 
 ## Level 1: Hunter's Bane
 You have survived the Hunter’s Bane - a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it. 
@@ -78,7 +78,7 @@ You choose one Rite from the Crimson Rites below when you first gain this featur
 - **Rite of the Oracle**. Your Rite Damage is Psychic Damage. (Prerequisite: 14th level)
 - **Rite of the Roar**. Your Rite Damage is Thunder Damage. (Prerequisite: 14th level)
 
-## 3rd Level 3: Bloodhunter Orders
+## Level 3: Bloodhunter Orders
 You commit to an order of Bloodhunter whose philosophy will guide you throughout your life. The order you choose grants you features at certain levels.
 
 ## Level 4: Ability Score Improvement
