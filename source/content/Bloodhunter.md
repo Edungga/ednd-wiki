@@ -89,6 +89,12 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ---
 # Bloodhunter Orders
+
+
+---
+# Blood Curses
+As a blood hunter, you have access to a range of blood curses that can tax the resilience of any foe.
+
 ## Blood Curse of the Anxious
 As a Bonus Action, you harry the body or mind of a creature within 30ft of you, making them susceptible to forceful influence. Until the end of your next turn, CHA (Intimidation) Checks made against the Cursed creature have Advantage.
 
@@ -99,9 +105,7 @@ As a Bonus Action, you attempt to bind a Large or smaller creature you can see w
 
 Amplify. This Curse lasts for 1 minute and can affect any creature regardless of size. The Cursed creature can repeat the Save at the end of each of its turns, ending the Curse on itself on a success.
 
-  
-
-### Blood Curse of Bloated Agony
+## Blood Curse of Bloated Agony
 As a Bonus Action, you Curse a creature that you can see within 30ft of you, causing its body to swell until the end of your next turn. For the duration, the creature has Disadvantage on STR and DEX Checks, and takes 1d8 Necrotic Damage if it makes more than one Attack during its turn.
 
 Amplify. This Curse lasts for 1 minute. The Cursed creature can make a CON Save  at the end of each of its turns, ending the Curse on itself on a success.
@@ -155,24 +159,21 @@ Amplify. You can first cause the Cursed creature to Shift Move, and you grant a 
 ### Blood Curse of the Howl
 
 Prerequisite: 18th level, Order of the Lycan
-
-[Action - Magic] You unleash a bloodcurdling howl. Each creature within 30ft of you that can hear you must succeed on a WIS Save or become Frightened [Debuff] of you until the end of your next turn. If a creature fails its Save by 5 or more, it is Stunned [Debuff] while Frightened [Debuff] in this way. A creature that succeeds on its Save is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by the howl.
+As an Action, you unleash a bloodcurdling howl. Each creature within 30ft of you that can hear you must succeed on a WIS Save or become Frightened [Debuff] of you until the end of your next turn. If a creature fails its Save by 5 or more, it is Stunned [Debuff] while Frightened [Debuff] in this way. A creature that succeeds on its Save is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by the howl.
 
 Amplify. The range of this curse increases to 60ft.
 
   
 
 ### Blood Curse of the Marked
-
-[Bonus Action - Magic] You mark a creature that you can see within 30ft of you. Until the end of your turn, whenever you hit the Cursed creature with a Weapon for which you have an active crimson rite, you roll an additional hemocraft die when determining the extra damage from the rite.
+As a Bonus Action, you mark a creature that you can see within 30ft of you. Until the end of your turn, whenever you hit the Cursed creature with a Weapon for which you have an active crimson rite, you roll an additional hemocraft die when determining the extra damage from the rite.
 
 Amplify. The next Attack you make against the target before the end of your turn has Advantage.
 
   
 
 ### Blood Curse of the Muddled Mind
-
-[Bonus Action - Magic] You curse a creature that you can see within 30 feet of you that is Concentrating on a Spell or using a feature that requires Concentration. That creature has Disadvantage on the next CON Save it makes to maintain Concentration before the end of your next turn.
+As a Bonus Action, you curse a creature that you can see within 30 feet of you that is Concentrating on a Spell or using a feature that requires Concentration. That creature has Disadvantage on the next CON Save it makes to maintain Concentration before the end of your next turn.
 
 Amplify. The cursed creature has Disadvantage on all CON Saves made to maintain Concentration until the end of your next turn.
 
@@ -185,6 +186,3 @@ Prerequisite: 18th level, Order of the Profane Soul
 [Reaction - Magic] When a creature that isn’t a construct or undead is reduced to 0 hit points within 30ft of you, you can offer their life energy to your patron in exchange for power. Until the end of your next turn, you make attacks with Advantage and you have Resistance to all Damage.
 
 Amplify. Additionally, you regain an expended warlock spell slot. Once you’ve amplified this blood curse, you must finish a Long Rest before you can amplify it again.
-
----
-# Blood Curses
