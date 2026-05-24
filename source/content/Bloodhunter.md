@@ -183,14 +183,19 @@ Through occult ceremony, you have formed a pact with a mysterious entity to gain
 
 **Cantrips**. You know Eldritch Blast and a Cantrip of your choice from the [[Arcane Spell List]], or two Cantrips of your choice from the [[Arcane Spell List]]. You learn additional Cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Pact Magic Table below. Whenever you gain levels in Bloodhunter, you may replace a Cantrip you know with Eldritch Blast or a Cantrip of your choice from the [[Arcane Spell List]].
 
-**Spell Slots**. The Pact Magic Table below shows how many Spell Slots you have to cast your Bloodhunter Spells of 1st through 5th Level. The table also shows what the level of those slots is; all of your Spell Slots are the same level. To cast one of your Bloodhunter Spells of 1st level or higher, you must expend a Spell Slot. You regain all expended Spell Slots when you Finish a Short or Long Rest.
-Spells Known of 1st Level and Higher. You know two 1st Level Spells of your choice from the Arcane Spell List.
+**Spell Slots**. The Pact Magic Table below shows how many Spell Slots you have to cast your Bloodhunter Spells and what the level of those slots is; all of your Spell Slots are the same level. To cast one of your Bloodhunter Spells of 1st level or higher, you must expend a Spell Slot. You regain all expended Spell Slots when you Finish a Short or Long Rest.
+
+**Spells Known of 1st Level and Higher**. You know two 1st Level Spells of your choice from the [[Arcane Spell List]].
 The Spells Known column of the Pact Magic Table below shows when you learn more Bloodhunter Spells of your choice. A Spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level.
 When you complete a Long Rest, you may replace a Spell Known with another from the Arcane Spell List.
-Spellcasting Ability. Intelligence is your Spellcasting Ability for your Bloodhunter Spells. 
-Spell Save DC = 8 + your Proficiency Bonus + your INT modifier
-Spell Attack modifier = your Proficiency Bonus + your INT modifier
-Spellcasting Focus.  You can use an Arcane Focus or a Rite Weapon as a Spellcasting Focus for Spells you know from this class.
+
+**Spellcasting Ability**. Intelligence or Wisdom is your Spellcasting Ability for your Bloodhunter Spells. 
+
+**Spell Save DC** = 8 + your Proficiency Bonus + your Spellcasting Ability modifier
+
+**Spell Attack modifier** = your Proficiency Bonus + your Spellcasting Ability modifier
+
+**Spellcasting Focus**.  You can use an Arcane Focus or a Rite Weapon as a Spellcasting Focus for Spells you know from this class.
 
 | Bloodhunter Level | Cantrips Known | Spells Known | Spell Slots | Slot Level |
 | ----------------- | -------------- | ------------ | ----------- | ---------- |
