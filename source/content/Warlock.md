@@ -626,11 +626,13 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 | **REACTIONS**<br>**Deliver Spell**. When you cast a Spell with a Range of touch, the Familiar can deliver the Spell with its touch. To do so, the Familiar must be within 120ft of you.                                                                                                                                                                                                                                                                                      |
 
 ## The Pact of the Talisman
+Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. The wearer can add a d4 to any d20 roll once on each of their turns.
 
+If you lose the talisman, you can perform a 1 hour ceremony to receive a replacement from your patron. This ceremony can be performed during a Long Rest, and it destroys the previous amulet. The talisman turns to ash when you die.
 
 ## The Pact of the Tome
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or Long Rest. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 
-**Cantrips and Rituals**. When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+**Cantrips and Rituals**. When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any spell list, and they must be spells you don't already know. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
-Spellcasting Focus. You can use the book as a Spellcasting Focus.
+**Spellcasting Focus**. You can use the book as a Spellcasting Focus.
