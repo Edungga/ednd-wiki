@@ -51,3 +51,14 @@ Whenever you make a Survival Checks to track Fey, Fiends, or Undead, as well as 
 The Hunter’s Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a Save to resist the feature’s effects. 
 
 **Hemocraft save DC** = 8 + your Proficiency Bonus + your INT or WIS modifier
+
+## Level 1: Hemomancy
+You gain the ability to channel-or sometimes sacrifice-a part of your vital essence to curse and manipulate creatures through hemocraft magic. You know one  of your choice. You learn additional Blood Curses of your choice at certain levels, as noted in the Blood Curses Known column of the Bloodhunter table.
+You can use this feature Proficiency Bonus times per Short or Long Rest
+Vital Sacrifice. Each time you use your Blood Curse feature, you choose which curse to invoke from the curses you know. While invoking a Blood Curse, but before it affects the target, you can make a Vital Sacrifice to Amplify the curse by taking Necrotic Damage equal to one roll of your Hemocraft Die. This Damage can’t be reduced in any way. An Amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to blood curses unless you have amplified the curse.
+
+
+
+
+---
+# Blood Curse
