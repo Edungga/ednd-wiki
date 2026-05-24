@@ -19,4 +19,5 @@ The Virtues are understood as vast unseen wills bound to powerful truths within 
 Ancient beings tied to primal places, emotions, seasons, stories, and forgotten pacts. They are not inherently good or evil, but operate according to strange and often inhuman rules.
 - [[The Lantern King]]
 - [[Queen of Thorns]]
-# Fathomless 
+# Fathomless Beings
+- [[He Who Sleeps Beneath Tides]]
