@@ -93,10 +93,8 @@ If you have a Domain Spell that doesn't appear on the Divine Spell List, the Spe
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
-
-
 ## Level 5: Smite Undead
-You can cause your Turn Undead feature to smite the undying; whenever you use Turn Undead, you can roll a number of d8s equal to your WIS modifier (min 1) and add the rolls together. Each Undead that fails its Save against that use of Turn Undead takes Radiant Damage equal to the roll’s total.
+Whenever you use Turn Undead, you can roll a number of d8s equal to your WIS modifier (min 1) and add the rolls together. Each Undead that fails its Save against that use of Turn Undead takes Radiant Damage equal to the roll’s total. This damage doesn't end the turn effect.
 
 
 ---
