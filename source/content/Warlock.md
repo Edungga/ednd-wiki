@@ -597,3 +597,5 @@ You have Trusight 60ft.
 
 ---
 # Pact Boons
+## The Pact of the Blade
+As a Bonus Action, you can conjure a pact weapon in your hand
