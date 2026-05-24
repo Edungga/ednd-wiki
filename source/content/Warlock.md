@@ -189,21 +189,15 @@ A new page appears in your Grimoire. With your permission, a creature can use it
 
 You can cast the [[Sending]] Spell, targeting a creature whose name is on the page, without using a Spell Slot and without using Material Components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
 
-[Action] you can magically erase a name on the page by touching it.
+As an Action, you can magically erase a name on the page by touching it.
 
-  
-
-### Fiendish Vigor
-
-You can cast False Life on yourself at will as a 1st Level Spell, without expending a Spell Slot or Material Components. When this Spell is cast using this feature, it replaces any existing Temp HP. 
+## Fiendish Vigor
+You can cast [[False Life]] on yourself at will as a 1st Level Spell, without expending a Spell Slot or Material Components. When this Spell is cast using this feature, it replaces any existing Temp HP. 
 
 Additionally, when you cast False Life you do not need to roll, instead gaining the maximum number of Temp HP.
 
-  
-
-### Gaze of Two Minds
-
-[Bonus Action - Magic] Touch a willing Humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your Action on subsequent turns to maintain this connection, extending the Duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are Blinded [Debuff] and Deafened [Debuff] to your own surroundings.
+## Gaze of Two Minds
+As a Bonus Action, touch a willing Humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your Action on subsequent turns to maintain this connection, extending the Duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are Blinded [Debuff] and Deafened [Debuff] to your own surroundings.
 
   
 
