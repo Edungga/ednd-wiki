@@ -28,7 +28,7 @@ Ancient entities beneath the ocean the Mourning Isles
 - [[Carrion]]
 # Elemental Powers
 - [[Ashkar, the Ember Sultan]]
-- 
+- [[The Pale Regent of Winters Glass]]
 # Great Old Ones
 
 # Great Wyrms
