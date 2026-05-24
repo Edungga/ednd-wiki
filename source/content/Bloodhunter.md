@@ -134,11 +134,10 @@ While in Hybrid Form, you gain the following features:
 
 **Resilient Hide**. You have Resistance to Bludgeoning, Piercing, and Slashing damage not made with Silvered Weapons. Additionally, while you are not wearing Heavy Armour, you have a +1 bonus to AC.
 
-**Savage Strikes**. You grow terrifying fangs and claws. Your unarmed strikes gain the Finesse property. On hit, they deal piercing or slashing damage equal to your Rite Die.
+**Savage Strikes**. You grow terrifying fangs and claws. Your Unarmed Strikes gain the Finesse property and count as a Weapon. On hit, they deal piercing or slashing damage equal to your Hemocraft Die.
 
-**Predatory Strikes**. You can apply your Crimson Rite feature to your Unarmed Strikes, which you treat as one Weapon. You can use DEX instead of STR for the your Unarmed Strikes, which deal 1d6 Bludgeoning or Slashing Damage (your choice). This damage increases to 1d8 at 11th level.
+**Wild Fury**. You can use your Bonus Action on each turn to make an Unarmed Strike or take the Dash action. Should you Dash, you must move toward a Hostile creature you can see.
 
-When you use the Attack Action to make an Unarmed Strike, you can make one additional Unarmed Strike as a Bonus Action.
 
 **Bloodlust**. If you start your turn with fewer hit points than half your Hit Point Maximum, you must succeed on a DC 8 WIS or move directly toward the nearest creature and use the Attack Action against that creature. If you’re Concentrating on a Spell or are under an effect that prevents you from Concentrating (such as the barbarian’s Rage feature), you automatically fail.
 
