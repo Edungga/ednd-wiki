@@ -130,22 +130,11 @@ The wearer of your talisman can do the same thing, using their Action to Telepor
 ## Book of Ancient Secrets
 *Prerequisite: Pact of the Tome feature*
 
-You can now inscribe magical rituals in your Grimoire. Choose two 1st Level Ritual Spells that have the Ritual Tag from any Spell List. The Spells appear in the Grimoire and don't count against the number of Spells you know. With your Grimoire in hand, you can cast the chosen Spells as Rituals. You can't cast the Spells except as Rituals, unless you've learned them by other means. 
+You can now inscribe magical rituals in your Grimoire. Choose two 1st Level Ritual Spells from any Spell List. The Spells appear in the Grimoire and don't count against the number of Spells you know. With your Grimoire in hand, you can cast the chosen Spells as Rituals. You can't cast the Spells except as Rituals, unless you've learned them by other means. 
 
 On your adventures, you can add other ritual spells to your Grimoire. When you find such a Spell, you can add it to the book if the Spell's Level is equal to or less than half your Warlock Level (rounded up) and if you can spare the time to transcribe the Spell. For each level of the Spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
-  
-
-### Burning Hex
-
-Prerequisite: Spell with the Curse Tag or a Warlock feature that curses
-
-[Bonus Action - Magic] Cause targets cursed by you within 60ft to take Fire Damage equal to your CHA modifier (min 1).
-
-  
-
-### Chains of Tarterus
-
+## Chains of Tarterus
 Prerequisite: 15th level, Pact of the Chain feature
 
 You can cast Hold Monster at will, without expending a Spell Slot or Material Components. You must finish a Long Rest before you can use this Invocation on the same creature again.
