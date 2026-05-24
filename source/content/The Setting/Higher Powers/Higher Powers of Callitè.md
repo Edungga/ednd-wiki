@@ -31,6 +31,7 @@ Ancient entities beneath the ocean the Mourning Isles
 - [[The Pale Regent of Winters Glass]]
 # Great Old Ones
 - [[The Worm Beneath]]
+- [[Their Unknown Crown of Stars]]
 # Great Wyrms
-
+- [[Vaelorath the Hollow Flame]]
 # Undead Beings
