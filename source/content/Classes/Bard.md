@@ -158,8 +158,14 @@ You gain one additional use of your Bardic Inspiration feature.
 
 ## 3rd Level: Symphony of Conflict
 You've been trained in the bardic art of magically manipulating the sounds of combat into a concert of powerful melodies that can alter the very battlefield around you.
-You learn 2 conducting techniques of your choice, which are detailed under "Conducting Techniques" below. All techniques require at least one free hand, baton, or wand to utilise. For these techniques to function, you must be able to see your target, and they must be able to hear you.
+You learn 2 [[#Conducting Techniques]] of your choice. All techniques require at least one free hand, baton, or wand to utilise. For these techniques to function, you must be able to see your target, and they must be able to hear you.
 Each time you gain a level, you can replace one technique you know with a different one.
 
 
 ## College of Valour
+
+
+
+
+---
+# Conducting Techniques
