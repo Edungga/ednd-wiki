@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cleric.md",
+                "file": "Classes/Cleric.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cleric.md",
+                "file": "Classes/Cleric.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,10 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Rules/Conditions.md",
-    "Cleric.md",
+    "Classes/Cleric.md",
     "Classes/Warlock.md",
     "Classes/Fighter.md",
     "index.md",
