@@ -27,7 +27,8 @@ Ancient entities beneath the ocean the Mourning Isles
 - [[The Magistrate of Blood]]
 - [[Carrion]]
 # Elemental Powers
-
+- [[Ashkar, the Ember Sultan]]
+- 
 # Great Old Ones
 
 # Great Wyrms

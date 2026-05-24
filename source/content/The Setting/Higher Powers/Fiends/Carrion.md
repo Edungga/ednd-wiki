@@ -5,6 +5,6 @@ A monstrous demon birthed from war, famine, and mass graves.
 The Carrion Prince appears differently to everyone:
 - a starving king,
 - a beast wearing armor,
-- or a mound of corpses speaking with many mouths.
+- a mound of corpses speaking with many mouths.
 
 Where armies die in great numbers, its influence grows.
