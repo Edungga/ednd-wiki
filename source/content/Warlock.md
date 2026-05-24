@@ -105,6 +105,14 @@ The magic of your patron ensures you always have certain spells ready; when you 
 ### Level 3: Fathomless Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
+|               |                                      |
+| ------------- | ------------------------------------ |
+| Warlock Level | Spells                               |
+| 1st           | Faerie Fire, Power Word: Sleep       |
+| 3rd           | Calm Emotion, Misty Step             |
+| 5th           | Blink, Plant Growth                  |
+| 7th           | Dominate Beast, Greater Invisibility |
+| 9th           | Dominate Person, Seeming             |
 
 ### Level 3: 
 
@@ -165,9 +173,7 @@ Your Patron has infused you with a Draconic Spark, a fraction of its power. Anci
 | Red           | Fire        |
 | Silver        | Cold        |
 | White         | Cold        |
-| Dragon Turtle | Fire        |
 | Gemstone      | Psychic     |
-
 
 Once chosen it cannot be changed and grants you the benefits below:
 - You gain Resistance to the damage type of your Draconic Spark.
