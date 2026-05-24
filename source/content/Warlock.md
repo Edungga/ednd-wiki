@@ -247,8 +247,7 @@ Until the curse ends, you gain the following benefits:
 Double the range of Warlock Spells and Features that can Curse a Target. Also, you can add your CHA modifier (min 1) to Concentration checks to maintain a Spell with the Curse Tag.
 
 ## Improved Pact Weapon
-
-Prerequisite: Pact of the Blade feature
+*Prerequisite: Pact of the Blade feature*
 
 You can use any Weapon you summon with your Pact of the Blade feature as a Spellcasting Focus for your Warlock Spells.
 
