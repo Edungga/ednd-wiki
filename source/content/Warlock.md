@@ -625,8 +625,12 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 | **ACTIONS**<br>**Eldritch Strike**. Melee Spell Attack: your Spell Attack Modifier to hit, reach 5 ft., one target. Hit: 2 + half your Warlock level (round up) Damage of a type determined by the Familiar’s creature type: Aberration or Ooze (Acid), Celestial (Radiant), Dragon (Fire), Fey (Psychic), Fiend (Poison), or Undead (Necrotic).<br>**Invisibility**. The Familiar becomes [[Conditions#Invisible (Buff)\|Invisible (Buff)]] until the end of its next turn. |
 | **REACTIONS**<br>**Deliver Spell**. When you cast a Spell with a Range of touch, the Familiar can deliver the Spell with its touch. To do so, the Familiar must be within 120ft of you.                                                                                                                                                                                                                                                                                      |
 
-
-
-
-
 ## The Pact of the Talisman
+
+
+## The Pact of the Tome
+Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or Long Rest. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
+
+**Cantrips and Rituals**. When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+
+Spellcasting Focus. You can use the book as a Spellcasting Focus.
