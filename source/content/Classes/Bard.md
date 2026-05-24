@@ -148,7 +148,7 @@ You gain Proficiency with three Skills, Tools, or Languages of your choice
 
 ### 3rd Level: Cutting Words
 You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. 
-When a creature that you can see within 60ft of you makes a Check or Attack, you can use your Reaction and expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the Check or Attack succeeds or fails. The creature is Immune if it can't hear you or if it's Immune to being [[Conditions#Charmed (Debuff)|Charmed (Debuff)]].
+When a creature that you can see within 60ft of you makes a Check, Attack, or Damage roll, you can use your Reaction and expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the DM determines whether the Check or Attack succeeds or fails. The creature is Immune if it can't hear you or if it's Immune to being [[Conditions#Charmed (Debuff)|Charmed (Debuff)]].
 
 ## College of Maestro
 
