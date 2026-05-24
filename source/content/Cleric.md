@@ -83,8 +83,7 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 
 
 ## Level 3: Divine Domain
-You fully devote yourself to one of [[Higher Powers of Callitè#The Seven Virtues|The Seven Virtues]], shaping your Divine Domain
-choose a Domain shaped by your choice of Virtue and the gifts they grant you. Your choice grants you Domain Spells and other features when you choose it. It also grants you additional ways to use Channel Divinity when you gain that feature at 3rd level, and additional benefits at certain Cleric levels.
+You choose a Domain shaped by one of [[Higher Powers of Callitè#The Seven Virtues|The Seven Virtues]]. Your choice grants you Domain Spells, an additional way to use Channel Divinity and other features when you choose it. It also grants you additional ways to use Channel Divinity when you gain that feature at 3rd level, and additional benefits at certain Cleric levels.
 
 **Domain Spells**. Each Domain has a list of Spells, called Domain Spells, that you gain at the Cleric levels noted in the Domain description. Once you gain a Domain spell, you always have it prepared, and it doesn't count against the number of Spells you can prepare each day.
 If you have a Domain Spell that doesn't appear on the Divine Spell List, the Spell is a Divine Spell for you.
