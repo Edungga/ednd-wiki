@@ -40,4 +40,4 @@ Ancient, intelligent, and extraordinarily rare. Most are remembered as disasters
 - [[Vaelorath the Hollow Flame]]
 # Undead Beings
 Some beings refused death so completely they became something worse.
-- [[Lady Seraphel, The Crimson Drawger]]
+- [[Lady Seraphel, The Crimson Widow]]

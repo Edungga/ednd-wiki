@@ -1,7 +1,7 @@
 # Overview
 The world was not always so grim.
 
-Once, kingdoms flourished beneath radiant banners, knightly rode openly across the countryside, and miracles were said to descend from the heavens. But centuries ago came The Long Dark, a slow collapse of civilisation brought about by plague, famine, and war.
+Once, kingdoms flourished beneath radiant banners, knightly rode openly across the countryside, and miracles were said to descend from the heavens. But centuries ago came [[The Long Dark]], a slow collapse of civilisation brought about by plague, famine, and war.
 
 Now the world is fractured into isolated duchies, forgotten villages, and haunted forests. 
 
