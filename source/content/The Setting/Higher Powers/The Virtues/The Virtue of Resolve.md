@@ -4,6 +4,12 @@ Resolve is endurance against impossible odds. It is stubborn defiance in the fac
 
 Many knights, guards, and survivors unknowingly devote themselves to Resolve long before gaining any supernatural power from it.
 # Followers
-- 
+- oath-bound warriors,
+- guardians,
+- monster hunters,
+- martyrs
 # Symbols
-- 
+- Iron nails
+- Stone towers
+- Chains
+- Shields bearing cracks
