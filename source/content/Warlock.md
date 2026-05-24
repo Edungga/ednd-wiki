@@ -49,20 +49,28 @@ Through occult ceremony, you have formed a pact with a mysterious entity to gain
 
 **Spell Slots**. The Warlock table shows how many Spell Slots you have to cast your Warlock Spells of 1st through 5th Level. The table also shows what the level of those slots is; all of your Spell Slots are the same level. To cast one of your Warlock Spells of 1st level or higher, you must expend a Spell Slot. You regain all expended Spell Slots when you Finish a Short or Long Rest.
 
-**Spells Known of 1st Level and Higher**. You know two 1st Level Spells of your choice from the Arcane Spell List.
-
+**Spells Known of 1st Level and Higher**. You know two 1st Level Spells of your choice from the [[Arcane Spell List]].
 The Spells Known column of the Warlock table shows when you learn more Warlock Spells of your choice. A Spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level.
-
 When you complete a Long Rest, you may replace a Spell Known with another from the Arcane Spell List.
 
-Spellcasting Ability. Charisma is your Spellcasting Ability for your Warlock Spells. 
+**Spellcasting Ability**. Charisma is your Spellcasting Ability for your Warlock Spells. 
 
-Spell Save DC = 8 + your Proficiency Bonus + your CHA modifier
+**Spell Save DC** = 8 + your Proficiency Bonus + your CHA modifier
 
-Spell Attack modifier = your Proficiency Bonus + your CHA modifier
+**Spell Attack modifier** = your Proficiency Bonus + your CHA modifier
 
-Spellcasting Focus.  You can use an Arcane Focus as a Spellcasting Focus for Spells you know from this class.
+**Spellcasting Focus**.  You can use an Arcane Focus as a Spellcasting Focus for Spells you know from this class.
 
+## Level 1: 
+
+
+## Level 1: 
+
+
+## Level 1: 
+
+
+## Level 1: 
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
