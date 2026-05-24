@@ -103,7 +103,7 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your WIS mod
 ## Death Domain
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to Undead creatures.
 
-Example Virtue's: 
+Example Virtue's: [[The Virtue of Despair]]
 ### Level 3: Domain Spells
 
 | Cleric Level | Prepared Spells                                                      |
