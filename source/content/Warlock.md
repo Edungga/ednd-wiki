@@ -77,13 +77,12 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 ## [[Higher Powers of Callitè#Archfae|Archfae]]
 ### Level 3: Archfae Spells
 
-| Warlock Level | Spells                               |
-| ------------- | ------------------------------------ |
-| 1st           | Faerie Fire, Power Word: Sleep       |
-| 3rd           | Calm Emotion, Misty Step             |
-| 5th           | Blink, Plant Growth                  |
-| 7th           | Dominate Beast, Greater Invisibility |
-| 9th           | Dominate Person, Seeming             |
+| Warlock Level | Spells                                                              |
+| ------------- | ------------------------------------------------------------------- |
+| 3rd           | [[Calm Emotions]], Faerie Fire, Misty Step, Phantasmal Force, Sleep |
+| 5th           | Blink, Plant Growth                                                 |
+| 7th           | Dominate Beast, Greater Invisibility                                |
+| 9th           | Dominate Person, Seeming                                            |
 
 ### Level 3: 
 
