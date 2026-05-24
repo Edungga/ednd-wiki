@@ -82,7 +82,7 @@ Attacks against a Flanked creature have Advantage.
 **Ending Condition**. At the end of your turn, you are no longer Surprised
 
 ## Unconscious (Condition)
-Inert. You are [[#Incapacitated (Condition)]]and [[#Prone (Condition)]], and you drop whatever you’re holding. When this Condition ends, you remain Prone.
+**Inert**. You are [[#Incapacitated (Condition)]] and [[#Prone (Condition)]], and you drop whatever you’re holding. When this Condition ends, you remain Prone.
 
 **Speed 0**. Your Speed is 0 and can’t change.
 
