@@ -103,6 +103,10 @@ You learn the Rite of the Dawn as part of your Crimson Rite feature. While that 
 ## Order of the Lycan
 Lycanthropy is an ancient curse that changes those afflicted into mindless Beasts with an unquenchable hunger for flesh. In order to combat these monsters, some Blood Hunters will purposefully contract this curse. These warriors willingly give their lives so that they may draw on this bestial power to rid the world of lycanthropes and other shapeshifting monsters.
 
+### 3rd Level: Feral Senses
+You gain the improved senses of a natural predator. Add your Hemocraft die to any WIS (Perception) and WIS (Survival) Checks.
+
+
 
 ## Order of the Mutant
 
