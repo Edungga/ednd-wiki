@@ -135,7 +135,7 @@ Example Virtue's: [[The Virtue of Hope]], [[The Virtue of Mercy]], [[The Virtue 
 Your healing spells are more effective. Whenever you use a Spell of 1st level or higher to restore Hit Points to a creature, the creature regains additional Hit Points equal to 2 + the spell's level.
 
 ### Level 3: Channel Divinity - Preserve Life
-As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
+As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum. You can't use this feature on an Undead or a Construct.
 
 
 ## Light Domain
