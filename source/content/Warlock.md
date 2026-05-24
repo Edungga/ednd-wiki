@@ -75,22 +75,62 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 ---
 # Otherworldly Patrons
 ## [[Higher Powers of Callitè#Archfae|Archfae]]
+### Level 3: Archfae Spells
+
+
+### Level 3: 
+
 
 
 ## [[Higher Powers of Callitè#Elemental Powers|Elemental Powers]]
+### Level 3: Archfae Spells
+
+
+### Level 3: 
+
 
 ## [[Higher Powers of Callitè#Fathomless Beings|Fathomless]]
+### Level 3: Archfae Spells
+
+
+### Level 3: 
+
 
 ## [[Higher Powers of Callitè#Fiends|Fiend]]
+### Level 3: Archfae Spells
+
+
+### Level 3: 
+
 
 ## [[Higher Powers of Callitè#Great Old Ones|Great Old One]]
+### Level 3: Archfae Spells
+
+
+### Level 3: 
+
 
 
 ## [[Higher Powers of Callitè#Great Wyrms|Great Wyrm]]
+### Level 3: Archfae Spells
+
+
+### Level 3: 
+
 
 ## [[Higher Powers of Callitè#The Virtues|The Virtues]]
+### Level 3: Archfae Spells
+
+
+### Level 3: 
+
 
 ## [[Higher Powers of Callitè#Undead Beings|Undead]]
+### Level 3: Archfae Spells
+
+
+### Level 3: 
+
 
 ---
 # Eldritch Invocations
