@@ -611,6 +611,13 @@ When you cast the spell, you choose one of the normal forms for your familiar or
 
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
 ### Pact Familiar
+*Tiny Aberration, Celestial, Dragon, Fey, Fiend, Ooze, or Undead (Choose when casting the Spell)*
+
+**Armour Class**: 10 + your Spellcasting Ability modifier (Natural Armour)
+**Hit Points**: 5 + your Warlock level (the familiar has a number of Hit Dice [d4s] equal to your Warlock level)
+**Speed**: 40ft Walk, 40ft Fly
+
+
 
 
 ## The Pact of the Talisman
