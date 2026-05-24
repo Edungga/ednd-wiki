@@ -105,8 +105,8 @@ Choose one of the following for your Patrons element; Water, Earth, Fire, Air
 | 7th           | [[Control Water]]       | [[Stone Shape]]                     | [[Fire Shield]]                      | [[Greater Invisibility]]          | [[Phantasmal Killer]]                          |
 | 9th           | [[Cone of Cold]]        | [[Wall of Stone]]                   | [[Flame Strike]]                     | [[Seeming]]                       | [[Creation]]                                   |
 
-### Level 3: 
-
+### Level 3: Genie's Vessel
+Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie's Vessel table.
 
 ## [[Higher Powers of Callitè#Fathomless Beings|Fathomless]]
 ### Level 3: Fathomless Spells
