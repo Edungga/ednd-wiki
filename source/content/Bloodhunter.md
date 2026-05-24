@@ -92,7 +92,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 ## Order of the Ghostslayer
 The Order of the Ghostslayer is the oldest of the blood hunter orders, its members having originally rediscovered the secrets of hemocraft and refined them for combat against the scourge of undeath. Ghostslayers seek out and study the moment of death, obsessing over the mystery of the transition from life, and the unholy power that can cause the dead to rise once more. These zealous blood hunters make it their life’s work to destroy the scourge of undeath wherever it is found, tuning their abilities to engage undead creatures and those who manipulate the necromancy that creates them.
 
-### 3rd Level: Rite of the Dawn
+### Level 3: Rite of the Dawn
 You learn the Rite of the Dawn as part of your Crimson Rite feature. While that Rite is active on your Weapon, you gain the following benefits:
 - Your Rite Damage is Radiant Damage. 
 - Your Weapon sheds Bright Light out to a radius of 20ft.
@@ -103,10 +103,10 @@ You learn the Rite of the Dawn as part of your Crimson Rite feature. While that 
 ## Order of the Lycan
 Lycanthropy is an ancient curse that changes those afflicted into mindless Beasts with an unquenchable hunger for flesh. In order to combat these monsters, some Blood Hunters will purposefully contract this curse. These warriors willingly give their lives so that they may draw on this bestial power to rid the world of lycanthropes and other shapeshifting monsters.
 
-### 3rd Level: Feral Senses
+### Level 3: Feral Senses
 You gain the improved senses of a natural predator. Add your Hemocraft die to any WIS (Perception) and WIS (Survival) Checks.
 
-### Level 3:: Lycanthopic Curse
+### Level 3: Lycanthopic Curse
 You have been infected with a curse based on a Beast of CR 1 or lower. Once chosen, this Beast cannot be changed.
 
 As a Bonus Action you can Shapechange into either the Beast or Hybrid form representative of your lycanthropic curse. You revert to your normal form if you are [[#Incapacitated (Condition)]], after 1 hour, or if you choose to as a Bonus Action.
@@ -167,14 +167,16 @@ You learn to master forbidden alchemical formulas, known as Mutagens, that can t
 ## Order of Profane Soul
 Blood hunters belonging to the Order of the Profane Soul have pushed the limits of hemocraft for use against some of the most terrifying creatures corrupting the world. Ancient fiends and cruel magic-users have long counted on their ability to meld into the background and escape those who hunt them, vanishing into noble courts without a trace, or bending the minds of the most stalwart warriors with but a glance. So the blood hunters who founded this order trusted to their resilience as they delved into the same well of corrupting arcane knowledge, making pacts with lesser evils to better combat the greater threats. And though they might have traded a part of themselves for their power, the members of this order know the benefits of that power far outweigh the price.
 
+### Level 3: Otherworldly Patron
+You strike a bargain with an otherworldly being of your choice, granting you a benefit based on your chosen pact.
 
 
-
+### Level 3: Pact 
 
 ## Order of Undying Thirst
 
 
-
+### Level 3: 
 
 ---
 # Blood Curses
