@@ -372,28 +372,21 @@ You can cast [[Bane]] once without expending a Spell Slot, once per Long Rest.
 You can Attack with your Pact Weapon twice, instead of once, whenever you take the Attack Action on your turn. 
 
 ## Tomb of Eternal Ice
+*Prerequisite: 5th level*
 
-Prerequisite: 5th level
-
-[Reaction] When you take Damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 Temporary Hit Points per Warlock Level, which take as much of the triggering damage as possible. Immediately after you take the Damage, you gain Vulnerability to Fire damage, and you are Incapacitated [Condition]. These effects, including any remaining Temporary hit Points, all end when the ice melts.
+When you take Damage, as a Reaction you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 Temporary Hit Points per Warlock Level, which takes as much of the triggering damage as possible. Immediately after you take the Damage, you gain Vulnerability to Fire damage, and you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. These effects, including any remaining Temporary hit Points, all end when the ice melts.
 
 Once you use this Invocation, you can't use it again until you finish a Short or Long Rest.
 
-  
+## Tome of Ancient Secrets
+*Prerequisite: Pact of the Tome feature*
 
-### Tome of Ancient Secrets
+Three new pages appears in your Grimoire, each containing a [[Spells#Cantrips|Cantrips]] of your choice from any Spell List. These Cantrips count as Warlock Spells for you, but do not count against your number of Cantrips Known. 
 
-Prerequisite: Pact of the Tome feature
+## Trickster's Escape
+*Prerequisite: 7th level*
 
-Three new pages appears in your Grimoire, each containing a Cantrip of your choice from any Spell List. These Cantrips count as Warlock Spells for you, but do not count against your number of Cantrips Known. 
-
-  
-
-### Trickster's Escape
-
-Prerequisite: 7th level
-
-You can cast Freedom of Movement once without expending a Spell Slot, once per Long Rest.
+You can cast [[Freedom of Movement]] once without expending a Spell Slot, once per Long Rest.
 
   
 
