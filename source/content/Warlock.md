@@ -617,6 +617,13 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 **Hit Points**: 5 + your Warlock level (the familiar has a number of Hit Dice [d4s] equal to your Warlock level)
 **Speed**: 40ft Walk, 40ft Fly
 
+| Pact Familiar                                                                                                    |     |
+| ---------------------------------------------------------------------------------------------------------------- | --- |
+| Pact Familiar    Tiny Aberration, Celestial, Dragon, Fey, Fiend, Ooze, or Undead (Choose when casting the Spell) |     |
+| Armour Class: 10 + your Spellcasting Ability modifier (Natural Armour)                                           |     |
+| Hit Points: 5 + your Warlock level (the familiar has a number of Hit Dice [d4s] equal to your Warlock level)     |     |
+| Speed: 40ft Walk, 40ft Fly                                                                                       |     |
+
 
 
 
