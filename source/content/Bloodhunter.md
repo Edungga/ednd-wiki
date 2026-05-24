@@ -1,15 +1,15 @@
 # Core Traits
 **Primary Ability**: Strength or Dexterity & Intelligence or Wisdom
 
-**Hit Point Die**: D12 per Barbarian level
+**Hit Point Die**: D10 per Bloodhunter level
 
-**Hit Points at Level 1**: 12 + Con. modifier
+**Hit Points at Level 1**: 10 + Con. modifier
 
-**Hit Points per additional Barbarian Level**: D12 + your Con. modifier, or, 7 + your Con. modifier
+**Hit Points per additional Bloodhunter Level**: D10+ your Con. modifier, or, 6 + your Con. modifier
 
-**Saving Throw Proficiencies**: Strength, Constitution
+**Saving Throw Proficiencies**: Dexterity, Intelligence
 
-**Skill Proficiencies**: Choose 3: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival.
+**Skill Proficiencies**: Choose 3: Acrobatics, Arcana, Athletics, History, Insight, Investigation, Religion, and Survival
 
 **Weapon Proficiencies**: Simple and Martial weapons
 
