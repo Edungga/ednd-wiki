@@ -113,10 +113,11 @@ Example Virtue's:
 | 7th          | Blight, Death Ward                                                   |
 | 9th          | Antilife Shell, Cloudkill                                            |
 
-### Level 3: 
+### Level 3: Reaper
+You learn one Necromancy Cantrip of your choice from any Spell List. When you cast a Necromancy Cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5ft of each other.
 
-### Level 3: Channel Divinity - 
-
+### Level 3: Channel Divinity - Touch of Death
+You can use Channel Divinity to destroy another creature's life force by touch. When a creature within 30ft of you is hit with an Attack, as a Reaction you can use Channel Divinity to deal extra Necrotic Damage to the target. The damage equals 5 + twice your Cleric level.
 
 ## Life Domain
 
