@@ -598,4 +598,6 @@ You have Trusight 60ft.
 ---
 # Pact Boons
 ## The Pact of the Blade
-As a Bonus Action, you can conjure a pact weapon in your hand
+As a Bonus Action, you can conjure a pact weapon in your hand - a Simple or Martial Melee weapon of your choice with which you bond - or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it.
+
+Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
