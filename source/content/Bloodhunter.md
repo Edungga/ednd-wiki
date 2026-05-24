@@ -7,7 +7,7 @@
 
 **Hit Points per additional Bloodhunter Level**: D10+ your Con. modifier, or, 6 + your Con. modifier
 
-**Saving Throw Proficiencies**: Dexterity, Intelligence
+**Saving Throw Proficiencies**: Constitution, Intelligence
 
 **Skill Proficiencies**: Choose 3: Acrobatics, Arcana, Athletics, History, Insight, Investigation, Religion, and Survival
 
@@ -49,4 +49,5 @@ You have survived the Hunter’s Bane - a dangerous, long-guarded ritual that al
 Whenever you make a Survival Checks to track Fey, Fiends, or Undead, as well as on INT Checks to recall information about such creatures, you treat a roll of 7 or lower on the d20 as an 8.
 
 The Hunter’s Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a Save to resist the feature’s effects. 
-Hemocraft save DC = 8 + your Proficiency Bonus + your INT modifier
+
+**Hemocraft save DC** = 8 + your Proficiency Bonus + your INT or WIS modifier
