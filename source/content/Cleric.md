@@ -99,3 +99,4 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your WIS mod
 
 ---
 # Divine Domains
+
