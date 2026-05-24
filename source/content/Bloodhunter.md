@@ -128,6 +128,8 @@ You take on the form of the Beast your curse is based upon:
 #### Hybrid Form
 While in Hybrid Form, you gain the following features:
 
+**Bestial Physiology**. Your walking speed increases by 10 feet and you gain a climb speed equal to your walking speed.
+
 **Feral Might**. You have Advantage on STR Checks and Save, and you have a +1 bonus to Damage on Melee Attacks. This bonus increases to +2 at 11th level and to +3 at 18th level.
 
 **Resilient Hide**. You have Resistance to Bludgeoning, Piercing, and Slashing damage not made with Silvered Weapons. Additionally, while you are not wearing Heavy Armour, you have a +1 bonus to AC.
