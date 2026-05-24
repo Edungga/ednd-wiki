@@ -229,3 +229,8 @@ As a Bonus Action, you curse a creature that you can see within 30 feet of you t
 When a creature that isn’t a construct or undead is reduced to 0 hit points within 30ft of you, as a Reaction you can offer their life energy to your patron in exchange for power. Until the end of your next turn, you make attacks with Advantage and you have Resistance to all Damage.
 
 **Amplify**. Additionally, you regain an expended warlock spell slot. Once you’ve amplified this blood curse, you must finish a Long Rest before you can amplify it again.
+
+---
+# Mutagen Forumla
+
+
