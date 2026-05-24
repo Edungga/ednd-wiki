@@ -11,13 +11,17 @@
 
 **Skill Proficiencies**: Choose 3: Acrobatics, Arcana, Athletics, History, Insight, Investigation, Religion, and Survival
 
+**Tool Proficiencies**: Alchemist's supplies, Harvesting Kit
+
 **Weapon Proficiencies**: Simple and Martial weapons
 
 **Armor Training**: Light and Medium armor and Shields
 
-**Starting Equipment**: Choose A or B: 
-- (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or 
-- (B) 75 GP
+**Starting Equipment**: 
+- a martial weapon or two simple weapons
+- a light crossbow and 20 bolts
+- studded leather armor or scale mail armor
+- an explorer’s pack and alchemist’s supplies
 
 ## Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
