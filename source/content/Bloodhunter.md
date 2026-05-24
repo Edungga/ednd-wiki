@@ -141,6 +141,13 @@ While in Hybrid Form, you gain the following features:
 ## Order of the Mutant
 The process of undertaking the Hunter’s Bane ritual is a painful, scarring, and sometimes fatal experience. Those who survive are irrevocably changed - and not always for the better. Over generations of experimentation, a splinter order of blood hunters honed the way in which hemocraft alters the body, using corrupted alchemy and toxic elixirs to alter their blood even further. Over time, they have modified their capabilities in battle, becoming something beyond what they once were. Calling themselves the Order of the Mutant, these blood hunters now specialise in assessing the strengths and weaknesses of their foes, altering their biology to be best prepared for any conflict.
 
+### 3rd Level: Mutagencraft
+You learn to master forbidden alchemical formulas, known as Mutagens that can temporarily alter your mental and physical abilities.
+Formulas Known. You know four Mutagen Formulas, learning more as you gain Bloodhunter Levels. Additionally, when you gain a Bloodhunter Level, you can replace one formula you already know with a new mutagen formula.
+Concoct Mutagen. At the end of a Short or Long Rest, you can concoct one Mutagen. You willbe able to concoct moreas you gain Bloodhunter Levels, as shown on the Mutagencraft table below.
+Consume. [Bonus Action] You consume a Mutagen, whose effects and side effects last until you finish a Short or Long Rest unless otherwise specified. 
+Flush. [Action] While one or more Mutagens are affecting you, you can focus and flush all Mutagens from your system, ending their effects and side effects.
+Unstable. Mutagens are designed for the specific biology of the character who concocted them, and your Mutagens have no effect on other creatures. They are also unstable by nature, losing their potency over time and becoming inert if not used before you finish your next Short or Long Rest.
 
 
 ## Order of Profane Soul
