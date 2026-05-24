@@ -24,6 +24,7 @@ Ancient entities beneath the ocean the Mourning Isles
 - [[He Who Sleeps Beneath Tides]]
 - [[The Drowned Choir]]
 # Fiends
+Subtle, manipulative, and terrifyingly patient.
 - [[The Magistrate of Blood]]
 - [[Carrion]]
 # Elemental Powers
