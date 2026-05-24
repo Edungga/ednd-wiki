@@ -163,32 +163,20 @@ You can cast [[Confusion]] once without expending a Spell Slot, once per Long Re
 ## Eldritch Armour
 *Prerequisite: Pact of the Blade feature, 5th level*
 
-As an Action ou can touch a suit of armour that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing Armour already. You are Trained with this suit of Armour until it's removed.
+As an Action you can touch a suit of armour that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing Armour already. You are Trained with this suit of Armour until it's removed.
 
-  
-
-### Eldritch Mind
-
+## Eldritch Mind
 You have Advantage on CON Saves that you make to maintain your Concentration on a Spell.
 
-  
+## Eldritch Sight
+You can cast [[Detect Magic]] at will, without expending a Spell Slot or Material Components.
 
-### Eldritch Sight
-
-You can cast Detect Magic at will, without expending a Spell Slot or Material Components.
-
-  
-
-### Eldritch Smite
-
-Prerequisite: 5th level, Pact of the Blade feature
+## Eldritch Smite
+*Prerequisite: 5th level, Pact of the Blade feature*
 
 When you hit a creature with your Pact Weapon, you can expend a Warlock Spell Slot to deal an extra 1d8 Force Damage to the target, plus another 1d8 per level of the Spell Slot, and you can knock the target Prone if it is Huge or smaller.
 
-  
-
-### Eldritch Spear
-
+## Eldritch Spear
 Your Warlock Cantrips with a range of at least 10ft have their range increased by 30 times your Warlock Level.
 
   
