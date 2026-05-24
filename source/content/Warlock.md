@@ -276,14 +276,11 @@ Choose one of your known Warlock cantrips that deals damage. When you hit a crea
 When you hit a creature with your Pact Weapon, you can deal an extra 1d6 Necrotic Damage. You heal equal to the Necrotic Damage dealt in that Attack.
 
 ## Maddening Hex
-*Prerequisite: 5th level, Spell  or a Warlock feature that Curses*
+*Prerequisite: 5th level, Spell or a Warlock feature that Curses*
 
-[Bonus Action - Magic] Cause a psychic disturbance around the target cursed by you. When you do so, you deal Psychic Damage to the cursed target and each creature of your choice within 5ft of it. The Psychic Damage equals your Charisma modifier (min 1). To use this Invocation, you must be able to see the cursed target, and it must be within 30ft of you.
+As a Bonus Action, you cause a psychic disturbance around creatures cursed by you. When you do so, you deal Psychic Damage to creatures cursed by you and each creature of your choice within 5ft of it. The Psychic Damage equals your Charisma modifier (min 1). 
 
-  
-
-### Mask of Many Faces
-
+## Mask of Many Faces
 You can cast Disguise Self at will, without expending a Spell Slot.
 
   
