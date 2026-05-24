@@ -36,10 +36,10 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | Level | Proficiency Bonus | Features                                                                                     | Bardic Die | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | -------------------------------------------------------------------------------------------- | ---------- | -------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2                | [[#Level 1 Bardic Inspiration\|Bardic Inspiration]], [[#Level 1 Spellcasting\|Spellcasting]] | d6         | 2        | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | [[#Level 2 Jack of All Trades]], [[#Level 2 Expertise\|Expertise]]                           | d6         | 2        | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                | [[#Level 3 Bard College]], [[#Level 3 Song of Rest]]                                         | d6         | 2        | 7            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | [[#Level 2 Jack of All Trades\|Jack of All Trades]], [[#Level 2 Expertise\|Expertise]]       | d6         | 2        | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | [[#Level 3 Bard College\|Bard College]], [[#Level 3 Song of Rest\|Song of Rest]]             | d6         | 2        | 7            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
 | 4th   | +2                | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                            | d6         | 3        | 8            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                | Font of Inspiration                                                                          | d8         | 3        | 10           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | [[#Level 5 Font of Inspiration\|Font of Inspiration]]                                        | d8         | 3        | 10           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 
 ## Level 1: Bardic Inspiration
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
