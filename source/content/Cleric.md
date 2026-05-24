@@ -152,13 +152,17 @@ Example Virtue's: [[The Virtue of Hope]], [[The Virtue of Resolve]], [[The Virtu
 | 9th          | Flame Strike, Scrying                                 |
 
 
-### Level 3: 
+### Level 3: Warding Flare
+When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a Reaction to impose Disadvantage on the attack roll, causing light to flare before it hits or misses.
 
-### Level 3: Channel Divinity - 
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
+### Level 3: Channel Divinity - Radiance of the Dawn
+As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to emit a flash of light in a 30-foot Emanation originating from yourself. Any magical Darkness—such as that created by the Darkness spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to 2d10 plus your Cleric level on a failed save or half as much damage on a successful one.
 
 
 ## Trickery Domain
+The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge to direct confrontation.
 
 Example Virtue's: 
 ### Level 3: Domain Spells
