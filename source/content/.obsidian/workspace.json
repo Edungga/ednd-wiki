@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Actions.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actions"
+              "title": "The Shrouded Realm of Callitè"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Actions.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Actions"
+              "title": "Outline of The Shrouded Realm of Callitè"
             }
           }
         ],
@@ -172,8 +172,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Spells/Cantrips/Acid Splash.md",
     "Rules/Actions.md",
+    "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.md",
     "index.md",
     "Classes/Bloodhunter.md",
