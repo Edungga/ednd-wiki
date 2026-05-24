@@ -125,23 +125,18 @@ You take on the form of the Beast your curse is based upon:
 
 **Features**. Your Beast Form retains all features from your class, race, and other sources, including the ability to use Blood Rites. It can use all these features as long as the Beast would also be physically capable of doing so. However, you do not retain special Senses, such as Darkvision, unless your Beast Form also has that same special Sense.
 
-
-
-Use the stats of [wild shape](https://docs.google.com/document/d/1nFVGJQXMdQmXJjixuuN7HvYGkoJsric7H6iE2ljMsPA/edit#heading=h.h3jssehcj86t) from druid class; Wolf - , Bear - Brown Bear, Boar - Boar
-
-##### Hybrid Form
-
+#### Hybrid Form
 While in Hybrid Form, you gain the following features:
 
-Feral Might. You have Advantage on STR Checks and Save, and you have a +1 bonus to Damage on Melee Attacks. This bonus increases to +2 at 11th level and to +3 at 18th level.
+**Feral Might**. You have Advantage on STR Checks and Save, and you have a +1 bonus to Damage on Melee Attacks. This bonus increases to +2 at 11th level and to +3 at 18th level.
 
-Resilient Hide. You have Resistance to Bludgeoning, Piercing, and Slashing damage not made with Silvered Weapons. Additionally, while you are not wearing Heavy Armour, you have a +1 bonus to AC.
+**Resilient Hide**. You have Resistance to Bludgeoning, Piercing, and Slashing damage not made with Silvered Weapons. Additionally, while you are not wearing Heavy Armour, you have a +1 bonus to AC.
 
-Predatory Strikes. You can apply your Crimson Rite feature to your Unarmed Strikes, which you treat as one Weapon. You can use DEX instead of STR for the your Unarmed Strikes, which deal 1d6 Bludgeoning or Slashing Damage (your choice). This damage increases to 1d8 at 11th level.
+**Predatory Strikes**. You can apply your Crimson Rite feature to your Unarmed Strikes, which you treat as one Weapon. You can use DEX instead of STR for the your Unarmed Strikes, which deal 1d6 Bludgeoning or Slashing Damage (your choice). This damage increases to 1d8 at 11th level.
 
 [Bonus Action] When you use the Attack Action to make an Unarmed Strike, you can make one additional Unarmed Strike
 
-Bloodlust. If you start your turn with fewer hit points than half your Hit Point Maximum, you must succeed on a DC 8 WIS or move directly toward the nearest creature and use the Attack Action against that creature. If you’re Concentrating on a Spell or are under an effect that prevents you from Concentrating (such as the barbarian’s Rage feature), you automatically fail.
+**Bloodlust**. If you start your turn with fewer hit points than half your Hit Point Maximum, you must succeed on a DC 8 WIS or move directly toward the nearest creature and use the Attack Action against that creature. If you’re Concentrating on a Spell or are under an effect that prevents you from Concentrating (such as the barbarian’s Rage feature), you automatically fail.
 
 If you have your Extra Attack feature, you can choose whether to use it for this Attack. If more than one creature is equally near to you, roll randomly to determine your target. Once your attack is resolved, you regain control of yourself.
 
