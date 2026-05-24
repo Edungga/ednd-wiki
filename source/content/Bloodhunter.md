@@ -78,6 +78,9 @@ You choose one Rite from the Crimson Rites below when you first gain this featur
 - **Rite of the Oracle**. Your Rite Damage is Psychic Damage. (Prerequisite: 14th level)
 - **Rite of the Roar**. Your Rite Damage is Thunder Damage. (Prerequisite: 14th level)
 
+## 3rd Level: Bloodhunter Orders
+You commit to an order of Bloodhunter whose philosophy will guide you throughout your life. The order you choose grants you features at certain levels.
+
 ---
 # Bloodhunter Orders
 
