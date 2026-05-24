@@ -76,13 +76,14 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 # Otherworldly Patrons
 ## [[Higher Powers of Callitè#Archfae|Archfae]]
 ### Level 3: Archfae Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
-| Warlock Level | Spells                                                              |
-| ------------- | ------------------------------------------------------------------- |
-| 3rd           | [[Calm Emotions]], Faerie Fire, Misty Step, Phantasmal Force, Sleep |
-| 5th           | Blink, Plant Growth                                                 |
-| 7th           | Dominate Beast, Greater Invisibility                                |
-| 9th           | Dominate Person, Seeming                                            |
+| Warlock Level | Spells                                                                              |
+| ------------- | ----------------------------------------------------------------------------------- |
+| 3rd           | [[Calm Emotions]], [[Faerie Fire]], [[Misty Step]], [[Phantasmal Force]], [[Sleep]] |
+| 5th           | Blink, Plant Growth                                                                 |
+| 7th           | Dominate Beast, Greater Invisibility                                                |
+| 9th           | Dominate Person, Seeming                                                            |
 
 ### Level 3: 
 
@@ -90,6 +91,7 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ## [[Higher Powers of Callitè#Elemental Powers|Elemental Powers]]
 ### Level 3: Elemental Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
 
 ### Level 3: 
@@ -97,6 +99,7 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ## [[Higher Powers of Callitè#Fathomless Beings|Fathomless]]
 ### Level 3: Fathomless Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
 
 ### Level 3: 
@@ -104,6 +107,7 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ## [[Higher Powers of Callitè#Fiends|Fiend]]
 ### Level 3: Fiend Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
 
 ### Level 3: 
@@ -111,6 +115,7 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ## [[Higher Powers of Callitè#Great Old Ones|Great Old One]]
 ### Level 3: Great Old One Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
 
 ### Level 3: 
@@ -119,6 +124,7 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ## [[Higher Powers of Callitè#Great Wyrms|Great Wyrm]]
 ### Level 3: Great Wyrm Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
 
 ### Level 3: 
@@ -126,6 +132,7 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ## [[Higher Powers of Callitè#The Virtues|The Virtues]]
 ### Level 3: Virtue Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
 
 ### Level 3: 
@@ -133,6 +140,7 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ## [[Higher Powers of Callitè#Undead Beings|Undead]]
 ### Level 3: Undead Spells
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
 
 ### Level 3: 
