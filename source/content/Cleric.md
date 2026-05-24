@@ -83,7 +83,7 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 
 
 ## Level 3: Divine Domain
-You choose a Domain shaped by one of [[Higher Powers of Callitè#The Seven Virtues|The Seven Virtues]]. Your choice grants you Domain Spells, an additional way to use Channel Divinity and other features when you choose it. It also grants you additional ways to use Channel Divinity when you gain that feature at 3rd level, and additional benefits at certain Cleric levels.
+You choose a Domain shaped by one of [[Higher Powers of Callitè#The Seven Virtues|The Seven Virtues]]. Your choice grants you Domain Spells, an additional way to use Channel Divinity, and other features when you choose it. It also grants you additional benefits at certain Cleric levels.
 
 **Domain Spells**. Each Domain has a list of Spells, called Domain Spells, that you gain at the Cleric levels noted in the Domain description. Once you gain a Domain spell, you always have it prepared, and it doesn't count against the number of Spells you can prepare each day.
 If you have a Domain Spell that doesn't appear on the Divine Spell List, the Spell is a Divine Spell for you.
@@ -93,6 +93,10 @@ If you have a Domain Spell that doesn't appear on the Divine Spell List, the Spe
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
+
+
+## Level 5: Smite Undead
+You can cause your Turn Undead feature to smite the undying; whenever you use Turn Undead, you can roll a number of d8s equal to your WIS modifier (min 1) and add the rolls together. Each Undead that fails its Save against that use of Turn Undead takes Radiant Damage equal to the roll’s total.
 
 
 ---
