@@ -31,7 +31,7 @@ Those who clung too tightly to the voices of the old gods were said to lose them
 Their cathedrals still stand, hollow, cold, and abandoned.
 
 Today ones Faith survives in another form. Across the realm, people devote themselves to Virtues: Unseen wills tied not to dominion or creation, but to powerful human truths. 
-[[The Virtue of Mercy|Mercy]]. [[The Virtue of Resolve|Resolve]]. [[The Virtue of Wrath|Wrath]]. [[comp. Sacrifice. Despair. Hope.
+[[The Virtue of Mercy|Mercy]]. [[The Virtue of Resolve|Resolve]]. [[The Virtue of Wrath|Wrath]]. [[The Virtue of Compassion|Compassion]]. [[The Virtue of Sacrifice|Sacrifice]]. [[The Virtue of Despair|Despair]]. [[The Virtue of Hope|Hope]].
 
 No one claims the Virtues are gods. They do not speak in thunder or send chosen kings. Instead they are felt - in moments of unbearable courage, in acts of selfless kindness, in vows upheld long after reason says to abandon them.
 
