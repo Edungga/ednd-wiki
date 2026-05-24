@@ -117,10 +117,9 @@ Additionally, you are also a Shapechanger and have Vulnerability to Silvered Wea
 #### Beast Form
 You take on the form of the Beast your curse is based upon:
 
-**Statistics**. When you Shapechange, use the stats of the beasts [[Wild Shape]] stat block
-your statistics are replaced by those of your Beast, but you retain your hit points, alignment, personality, and Intelligence, Wisdom, and Charisma scores. You retain your skill and saving throw proficiencies, and gain the Beast's. If you share a proficiency, use the higher bonus.
+**Statistics**. When you Shapechange, use the stats of the beasts [[Wild Shape]] stat block.
 
-**Cursed Form**. Your Beast Form's natural weapons use your Rite Die as their damage die and your Rite save DC for any saving throws, unless their innate bonuses are higher.
+**Cursed Form**. Your Beast Form's natural weapons use your Rite Die as their damage die and your Rite save DC for any Saves, unless their innate bonuses are higher.
 
 **Equipment**. When you Shift, you choose if your equipment merges with your Beast Form or if it falls to the ground. You can only merge with equipment that you can wear or carry.
 
