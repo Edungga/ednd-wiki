@@ -260,12 +260,17 @@ When you cast [[Find Familiar]], you infuse the summoned Familiar with a measure
 - **Your Save DC**. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 - **Resistance**. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
 
+## Lessons of the First Ones
+*Prerequisite: Level 2*
+
+You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
+
+**Repeatable**. You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+
 ## Lance of Lethargy
-When you hit a creature with one of yourt, you can reduce that creature's Speed by 10ft until the end of your next turn.
+Choose one of your known Warlock cantrips that deals damage. When you hit a creature with that Cantrip, you can reduce that creature's Speed by 10ft until the end of your next turn.
 
-  
-
-### Lifedrinker
+## Lifedrinker
 
 Prerequisite: 9th level, Pact of the Blade feature
 
