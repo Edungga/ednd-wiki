@@ -79,15 +79,11 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 ---
 # Eldritch Invocations
 
-### Agonising Blast
-
+## Agonising Blast
 When you cast Eldritch Blast, add your CHA modifier (min 1) to the damage it deals on a hit.
 
-  
-
-### Almanac’s Magic Map
-
-Prerequisite: Pact of the Tome feature
+## Almanac’s Magic Map
+*Prerequisite: Pact of the Tome feature*
 
 You may cast Locate Animals or Plants, Locate Creature, or Locate Object without expending a Spell Slot or Material components once per Long Rest.
 
