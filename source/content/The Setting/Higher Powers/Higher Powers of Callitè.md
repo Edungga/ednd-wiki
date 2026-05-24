@@ -30,7 +30,7 @@ Ancient entities beneath the ocean the Mourning Isles
 - [[Ashkar, the Ember Sultan]]
 - [[The Pale Regent of Winters Glass]]
 # Great Old Ones
-- [[The Wo]]
+- [[The Worm Beneath]]
 # Great Wyrms
 
 # Undead Beings
