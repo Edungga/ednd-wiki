@@ -40,9 +40,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ## Level 1: Spellcasting
 
 
+
+## Level 1: Divine Order
+
+
 ## Level 2: Channel Divinity
 
-
+## Level 3: 
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 

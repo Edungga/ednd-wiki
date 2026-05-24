@@ -270,7 +270,7 @@ You can cast [[Compulsion]] once without expending a Spell Slot, once per Long R
 ## Blasphemous Prayer
 *Prerequisite: 5th Level, Pact of the Tome feature*
 
-A new page appears in your Grimoire containing a Blasphemous Prayer. You learn a [[Cleric#Level 2 Channel Divinity|Channel Divinity]] option of your choice from the options available in the [[Cleric]] [[Cleric#Divine Domains|Divine Domains]] 2nd Level. Once you use this Channel Divinity, you can not do so again until you complete a Short or Long Rest.
+A new page appears in your Grimoire containing a Blasphemous Prayer. You learn a [[Cleric#Level 2 Channel Divinity|Channel Divinity]] option of your choice from the options available in the [[Cleric]] [[Cleric#Divine Domains|Divine Domains]] 3rd Level. Once you use this Channel Divinity, you can not do so again until you complete a Short or Long Rest.
 
 ## Bond of the Talisman
 *Prerequisite: 12th level, Pact of the Talisman feature*

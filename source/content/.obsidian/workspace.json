@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Warlock.md",
+                "file": "Cleric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warlock"
+              "title": "Cleric"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Warlock.md",
+                "file": "Cleric.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Warlock"
+              "title": "Outline of Cleric"
             }
           }
         ],
@@ -172,10 +172,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Classes/Warlock.md",
     "Cleric.md",
     "Classes/Fighter.md",
     "index.md",
-    "Classes/Warlock.md",
     "Classes/Bloodhunter.md",
     "Rules/Conditions.md",
     "The Setting/Higher Powers/Higher Powers of Callitè.md",
