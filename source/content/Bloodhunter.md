@@ -272,7 +272,7 @@ You have resistance to cold damage and vulnerability to fire damage.
 You have resistance to piercing damage and vulnerability to slashing damage.
 
 ## Mobility
-You have immunity to the grappled and restrained conditions. However, you have disadvantage on Strength checks. At 11th level, you are also immune to the paralyzed condition.
+You have immunity to being [[Conditions#Grappled (Condition)|Grappled (Condition)]] and [[Conditions#Restrained (Condition)|Restrained (Condition)]]. However, you have disadvantage on Strength checks. At 11th level, you are also immune to being [[Conditions#Paralysed (Debuff)|Paralysed (Debuff)]].
 
 ## Nighteye
 You have darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 60 feet. However, you have disadvantage on Attacks and Checks that rely on sight when you, the target is in direct sunlight.
@@ -304,6 +304,6 @@ You have resistance to slashing damage, and you have vulnerability to bludgeonin
 You have resistance to bludgeoning damage, and you have vulnerability to piercing damage.
 
 ## Vermillion
-You gain an additional use of [[#Level 1 Hemocraft|Haemocraft]]. However, you have disadvantage on death saving throws.
+You gain an additional use of [[#Level 1 Hemocraft|Haemocraft]]. However, you have disadvantage on Death Saves.
 
 
