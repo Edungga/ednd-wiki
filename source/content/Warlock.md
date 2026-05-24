@@ -29,13 +29,16 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 | Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
 | ----- | ----------------- | ------------------------------- | -------------- | ------------ | ----------- | ---------- | ----------------- |
-| 1st   | +2                | Otherworldly Patron, Pact Magic | 2              | 2            | 1           | 1st        | -                 |
-| 2nd   | +2                | Eldritch Invocations            | 2              | 3            | 2           | 1st        | 2                 |
+| 1st   | +2                | Otherworldly Patron, Pact Magic | 2              | 2            | 1           | 1st        | 1                 |
+| 2nd   | +2                |                                 | 2              | 3            | 2           | 1st        | 2                 |
 | 3rd   | +2                | Pact Boon                       | 2              | 4            | 2           | 2nd        | 3                 |
 | 4th   | +2                | Feat / ASI                      | 3              | 5            | 2           | 2nd        | 4                 |
 | 5th   | +3                | -                               | 3              | 6            | 2           | 3rd        | 5                 |
 
-## Level 1: 
+## Level 1: Eldritch Invocations
+
+
+## Level 1: Pact Magic
 
 
 
