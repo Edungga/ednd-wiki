@@ -31,3 +31,14 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 **Weapon Proficiencies**: simple weapons, martial weapons
 
 **Armor Training**: light armor, medium armor, shields
+
+---
+# Class Features
+|       |                   |               |                    |                                     |
+| ----- | ----------------- | ------------- | ------------------ | ----------------------------------- |
+| Level | Proficiency Bonus | Hemocraft Die | Blood Curses Known | Features                            |
+| 1st   | +2                | d4            | 1                  | Hunter's Bane, Blood Curses         |
+| 2nd   | +2                | d4            | 2                  | Fighting Style [Feat], Crimson Rite |
+| 3rd   | +2                | d4            | 2                  | Bloodhunter Order                   |
+| 4th   | +2                | d4            | 2                  | Feat / ASI                          |
+| 5th   | +3                | d6            | 3                  | Extra Attack                        |
