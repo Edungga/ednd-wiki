@@ -89,16 +89,19 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ---
 # Bloodhunter Orders
-Order of the Ghostslayer
+## Order of the Ghostslayer
 
 
-Order of the Lycan
+## Order of the Lycan
 
 
-Order of the Mutant
+## Order of the Mutant
 
 
-Order of Profane Soul, Order of Undying Thirst
+## Order of Profane Soul
+
+
+## Order of Undying Thirst
 
 ---
 # Blood Curses

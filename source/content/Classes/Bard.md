@@ -33,13 +33,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Features                            | Bardic Die | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | ----------------------------------- | ---------- | -------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st   | +2                | Bardic Inspiration, Spellcasting    | d6         | 2        | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Jack of All Trades, Magical Secrets | d6         | 2        | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                | Bard College                        | d6         | 2        | 7            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                | Feat / ASI                          | d6         | 3        | 8            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                | Font of Inspiration                 | d8         | 3        | 10           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| Level | Proficiency Bonus | Features                                                                                     | Bardic Die | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | -------------------------------------------------------------------------------------------- | ---------- | -------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | [[#Level 1 Bardic Inspiration\|Bardic Inspiration]], [[#Level 1 Spellcasting\|Spellcasting]] | d6         | 2        | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Jack of All Trades, Magical Secrets                                                          | d6         | 2        | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | Bard College                                                                                 | d6         | 2        | 7            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Feat / ASI                                                                                   | d6         | 3        | 8            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | Font of Inspiration                                                                          | d8         | 3        | 10           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 
 ## Level 1: Bardic Inspiration
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
@@ -52,7 +52,7 @@ Once within the next hour when the creature fails a D20 Test, the creature can r
 
 **At Higher Levels**. Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
 
-## 1st Level: Spellcasting
+## Level 1: Spellcasting
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.
 
 **Cantrips**. You know two cantrips of your choice from the [[Arcane Spell List]].
