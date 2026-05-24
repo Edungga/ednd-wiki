@@ -379,6 +379,7 @@ Your speed increases by 15 feet. However, you have disadvantage on Intelligence 
 
 ## Reconstruction
 *Prerequisite: 7th level*
+
 For 1 hour, at the start of each of your turns when you have at least 1 hit point but fewer hit points than half your hit point maximum, you regain hit points equal to your proficiency bonus. However, your speed is reduced by 10 feet during this time.
 
 ## Sagacity

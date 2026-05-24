@@ -85,15 +85,12 @@ When you cast Eldritch Blast, add your CHA modifier (min 1) to the damage it dea
 ## Almanac’s Magic Map
 *Prerequisite: Pact of the Tome feature*
 
-You may cast Locate Animals or Plants, Locate Creature, or Locate Object without expending a Spell Slot or Material components once per Long Rest.
+You may cast [[Locate Animals or Plants]], [[Locate Creature]], or [[Locate Object]] without expending a Spell Slot or Material components once per Long Rest.
 
-  
+## Armour of Hexes
+Prerequisite: 9th Level, Spell or a Warlock feature that curses
 
-### Armour of Hexes
-
-Prerequisite: 9th Level, Spell with the Curse Tag or a Warlock feature that curses
-
-[Reaction] When you are targeted with an Attack by a creature Cursed by you, you can roll 1d6. On a 4 or higher, the Attack instead misses you, regardless of its roll.
+When you are targeted with an Attack by a creature Cursed by you, as a Reaction you can roll 1d6. On a 4 or higher, the Attack instead misses you, regardless of its roll.
 
   
 
