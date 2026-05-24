@@ -197,11 +197,11 @@ You can cast [[False Life]] on yourself at will as a 1st Level Spell, without ex
 Additionally, when you cast False Life you do not need to roll, instead gaining the maximum number of Temp HP.
 
 ## Gaze of Two Minds
-As a Bonus Action, touch a willing Humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your Action on subsequent turns to maintain this connection, extending the Duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are Blinded [Debuff] and Deafened [Debuff] to your own surroundings.
+As a Bonus Action, touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your Action on subsequent turns to maintain this connection, extending the Duration until the end of your next turn. 
 
-  
+While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are [[Conditions#Blinded (Debuff)|Blinded (Debuff)]] and [[Conditions#Deafened (Debuff)|Deafened (Debuff)]] to your own surroundings.
 
-### Ghostly Gaze
+## Ghostly Gaze
 
 Prerequisite: 7th level
 
