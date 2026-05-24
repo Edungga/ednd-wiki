@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cleric.md",
+                "file": "Warlock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cleric"
+              "title": "Warlock"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cleric.md",
+                "file": "Warlock.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cleric"
+              "title": "Outline of Warlock"
             }
           }
         ],
@@ -172,8 +172,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "index.md",
     "Cleric.md",
+    "index.md",
     "Warlock.md",
     "Classes/Bloodhunter.md",
     "Classes/Fighter.md",
