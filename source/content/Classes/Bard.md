@@ -36,9 +36,9 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | Level | Proficiency Bonus | Features                                                                                     | Bardic Die | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | -------------------------------------------------------------------------------------------- | ---------- | -------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2                | [[#Level 1 Bardic Inspiration\|Bardic Inspiration]], [[#Level 1 Spellcasting\|Spellcasting]] | d6         | 2        | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | [[#2nd Level Jack of All Trades\|Jack of All Trades]], [[#Level 2 Expertise\|Expertise]]     | d6         | 2        | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                | [[#3rd Level Bard College\|Bard College]], [[#3rd Level Song of Rest\| Song of Rest]]        | d6         | 2        | 7            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                | Feat / ASI                                                                                   | d6         | 3        | 8            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | [[#Level 2 Jack of All Trades]], [[#Level 2 Expertise\|Expertise]]                           | d6         | 2        | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | [[#Level 3 Bard College]], [[#Level 3 Song of Rest]]                                         | d6         | 2        | 7            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                            | d6         | 3        | 8            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
 | 5th   | +3                | Font of Inspiration                                                                          | d8         | 3        | 10           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 
 ## Level 1: Bardic Inspiration
@@ -85,13 +85,13 @@ You can add half your Proficiency Bonus, rounded down, to any Check you make tha
 ## Level 3: Bard College
 You delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th level.
 
-## Level 2: Song of Rest
+## Level 3: Song of Rest
 You gain another method of using your Bardic Inspiration. As a Bonus Action, you can heal another creature within your Bardic Inspiration Range. That creature Heals one of your Bardic Inspiration dice + your CHA modifier.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
-## 5th Level: Font of Inspiration
+## Level 5: Font of Inspiration
 **Spell Slot Conversion**. When you have no uses of Bardic Inspiration left, you can give yourself uses by expending a Spell Slot. You regain a number of uses equal to the Spell Slot expended (i.e. by expending a 2nd Level Spell Slot, you regain 2 uses of Bardic Inspiration). 
 You cannot gain more uses than your maximum. You can do this only once per turn (no action required).
 
