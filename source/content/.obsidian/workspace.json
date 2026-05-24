@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warlock.md",
+                "file": "Cleric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warlock"
+              "title": "Cleric"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warlock.md",
+                "file": "Cleric.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Warlock"
+              "title": "Outline of Cleric"
             }
           }
         ],
@@ -172,10 +172,11 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Classes/Bloodhunter.md",
-    "Warlock.md",
-    "Classes/Fighter.md",
     "index.md",
+    "Cleric.md",
+    "Warlock.md",
+    "Classes/Bloodhunter.md",
+    "Classes/Fighter.md",
     "The Setting/Higher Powers/Higher Powers of Callitè.md",
     "The Setting/Higher Powers/Great Wyrms/Storm's Tyrant.md",
     "The Setting/The Shrouded Realm of Callitè.md",
@@ -204,7 +205,6 @@
     "The Setting/Higher Powers/The Virtues/The Virtue of Sacrifice.md",
     "The Setting/Higher Powers/The Virtues/The Virtue of Wrath.md",
     "The Setting/Higher Powers/The Virtues/The Virtue of Resolve.md",
-    "The Setting/Higher Powers/The Virtues/The Virtue of Mercy.md",
     "The Setting/Higher Powers/The Virtues",
     "The Setting/Higher Powers",
     "Spells/Spells.base"

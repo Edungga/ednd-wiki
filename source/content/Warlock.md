@@ -111,19 +111,13 @@ You can cast [[Speak with Animals]] at will, without expending a Spell Slot.
 ## Beguiling Influence
 You gain Proficiency and Expertise in the Deception and Persuasion Skills.
 
-  
+## Bewitching Whispers
+*Prerequisite: 7th level*
 
-### Bewitching Whispers
+You can cast [[Compulsion]] once without expending a Spell Slot, once per Long Rest.
 
-Prerequisite: 7th level
-
-You can cast Compulsion once without expending a Spell Slot, once per Long Rest.
-
-  
-
-### Blasphemous Prayer
-
-Prerequisite: 5th Level, Pact of the Tome feature
+## Blasphemous Prayer
+*Prerequisite: 5th Level, Pact of the Tome feature*
 
 A new page appears in your Grimoire containing a Blasphemous Prayer. You learn Channel Divinity option of your choice from the options available in the Cleric [Divine Domains](https://docs.google.com/document/d/1nFVGJQXMdQmXJjixuuN7HvYGkoJsric7H6iE2ljMsPA/edit#heading=h.564qzz44hs1t) at 2nd Level. Once you use this Channel Divinity, you can not do so again until you complete a Short or Long Rest.
 
