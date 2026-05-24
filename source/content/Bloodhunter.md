@@ -55,9 +55,9 @@ You gain the ability to channel-or sometimes sacrifice-a part of your vital esse
 
 You can use this feature Proficiency Bonus times per Short or Long Rest
 
+**Hemocraft Ability**. INT or WIS, your choice
 
-
-**Hemocraft save DC** = 8 + your Proficiency Bonus + your INT or WIS modifier
+**Hemocraft save DC** = 8 + your Proficiency Bonus + your Hemocraft Ability modifier
 
 **Vital Sacrifice**. Each time you use your Blood Curse feature, you choose which curse to invoke from the curses you know. While invoking a Blood Curse, but before it affects the target, you can make a Vital Sacrifice to Amplify the curse by taking Necrotic Damage equal to one roll of your Hemocraft Die. An Amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to blood curses unless you have amplified the curse.
 
@@ -233,7 +233,7 @@ You learn the Rite of the Dead as part of your Crimson Rite feature. While that 
 ### Level 3: Vampiric Nature
 The ancient disease of your Order has irreparably changed your physiology, you gain the following:
 
-**Deathless**. You are Undead. Additionally, you do not need to breathe. Moreover, whenever you use Sinister Insight to analyse an Undead creature, you add your Hemocraft Die to your Check.
+**Deathless**. You are Undead. Additionally, you do not need to breathe. Moreover, whenever you use [[#Level 1 Hunter's Bane|Hunters Bane]] to analyse an Undead creature, you add your Hemocraft Die to your Check.
 
 **Darkvision**. You have Darkvision with a range of 120 feet. If you already have Darkvision, that ranges increases by 120 feet.
 
