@@ -136,7 +136,7 @@ While in Hybrid Form, you gain the following features:
 
 **Predatory Strikes**. You can apply your Crimson Rite feature to your Unarmed Strikes, which you treat as one Weapon. You can use DEX instead of STR for the your Unarmed Strikes, which deal 1d6 Bludgeoning or Slashing Damage (your choice). This damage increases to 1d8 at 11th level.
 
-[Bonus Action] When you use the Attack Action to make an Unarmed Strike, you can make one additional Unarmed Strike
+When you use the Attack Action to make an Unarmed Strike, you can make one additional Unarmed Strike as a Bonus Action.
 
 **Bloodlust**. If you start your turn with fewer hit points than half your Hit Point Maximum, you must succeed on a DC 8 WIS or move directly toward the nearest creature and use the Attack Action against that creature. If you’re Concentrating on a Spell or are under an effect that prevents you from Concentrating (such as the barbarian’s Rage feature), you automatically fail.
 
