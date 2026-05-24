@@ -14,3 +14,4 @@ The Virtues are understood as vast unseen wills bound to powerful truths within 
 - [[The Virtue of Sacrifice]]
 - [[The Virtue of Compassion]]
 - [[The Virtue of Despair]]
+
