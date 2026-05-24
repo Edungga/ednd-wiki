@@ -271,16 +271,12 @@ You have received knowledge from an elder entity of the multiverse, allowing you
 Choose one of your known Warlock cantrips that deals damage. When you hit a creature with that Cantrip, you can reduce that creature's Speed by 10ft until the end of your next turn.
 
 ## Lifedrinker
+*Prerequisite: 9th level, Pact of the Blade feature*
 
-Prerequisite: 9th level, Pact of the Blade feature
+When you hit a creature with your Pact Weapon, you can deal an extra 1d6 Necrotic Damage. You heal equal to the Necrotic Damage dealt in that Attack.
 
-When you hit a creature with your Pact Weapon, the creature takes extra 1d6 Necrotic Damage. You heal equal to the Necrotic Damage dealt in that Attack.
-
-  
-
-### Maddening Hex
-
-Prerequisite: 5th level, Spell with the Curse Tag or a Warlock feature that curses
+## Maddening Hex
+*Prerequisite: 5th level, Spell  or a Warlock feature that Curses*
 
 [Bonus Action - Magic] Cause a psychic disturbance around the target cursed by you. When you do so, you deal Psychic Damage to the cursed target and each creature of your choice within 5ft of it. The Psychic Damage equals your Charisma modifier (min 1). To use this Invocation, you must be able to see the cursed target, and it must be within 30ft of you.
 
