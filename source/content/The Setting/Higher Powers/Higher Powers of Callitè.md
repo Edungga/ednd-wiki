@@ -20,7 +20,7 @@ Ancient beings tied to primal places, emotions, seasons, stories, and forgotten 
 - [[The Lantern King]]
 - [[Queen of Thorns]]
 # Fathomless Beings
-Ancient entities beneath the ocean the Mourning Isles
+Ancient entities beneath the ocean past the [[Mourning Isles]]
 - [[He Who Sleeps Beneath Tides]]
 - [[The Drowned Choir]]
 # Fiends

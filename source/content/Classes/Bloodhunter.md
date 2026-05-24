@@ -177,12 +177,12 @@ Blood hunters belonging to the Order of the Profane Soul have pushed the limits 
 ### Level 3: Otherworldly Patron
 You strike a bargain with an otherworldly being of your choice, granting you a benefit based on your chosen pact.
 - [[Higher Powers of Callitè#Archfae|Archfae]]. When you damage a creature with a Rite Weapon, that creature glows with faint light until the end of your next turn. For the duration, the creature gains no benefit from any cover or from being [[Conditions#Invisible (Buff)|Invisible (Buff)]].
-- [[Higher Powers of Callitè#The Virtues|Celestial]]. As a Bonus Action, spend one use of your [[#Level 1 Hemocraft|Hemocraft]] to heal a creature you can see within 60ft. The creature regains a number of Hit Points equal to your Hemocraft Die + Hemocraft ability modifier (min 1)
-- **Fathomless**. You can breathe underwater. Additionally, once per turn when you damage a creature with a weapon for which you have an active Crimson Rite, you can reduce that creature’s speed by 10 feet until the start of your next turn.
-- **Fiend**. While using the Rite of the Flame, you can treat a roll of 1 as a 2 on the Rite Damage die.
+- [[Higher Powers of Callitè#Fathomless Beings|Fathomless]]. You can breathe underwater. Additionally, once per turn when you damage a creature with a weapon for which you have an active Crimson Rite, you can reduce that creature’s speed by 10 feet until the start of your next turn.
+- ****. While using the Rite of the Flame, you can treat a roll of 1 as a 2 on the Rite Damage die.
 - **Genie**. As a Bonus Action, spend one use of your [[#Level 1 Hemocraft|Hemocraft]] to give yourself a 30ft Fly Speed lasting Hemocraft ability modifier (min 1) rounds.
 - **Great Old One**. When you score a critical hit against a creature, that creature and any other creatures of your choice within 10ft of it are [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] of you until the end of your next turn.
 - **Great Wyrm**. When you successfully target a creature with a [[#Blood Curses|Blood Curse]], the next time you hit that creature with an attack while the curse is in effect, the attack deals additional damage equal to your Hemocraft Die.
+- [[Higher Powers of Callitè#The Virtues|The Virtues]]. As a Bonus Action, spend one use of your [[#Level 1 Hemocraft|Hemocraft]] to heal a creature you can see within 60ft. The creature regains a number of Hit Points equal to your Hemocraft Die + Hemocraft ability modifier (min 1)
 - **Undead**. When you take Necrotic Damage, you can halve that Damage. In addition, your appearance changes to reflect some aspect of your patron while you have any Crimson Rite active.
 
 Moreover, whenever you use [[#Level 1 Hunter's Bane|Hunter's Bane]] to analyse a creature that shares a creature type with your Patron, you add your Hemocraft Die to your Check.
