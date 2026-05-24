@@ -101,17 +101,67 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your WIS mod
 # Divine Domains
 
 ## Death Domain
+The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to Undead creatures.
+
 Example Virtue's: 
+### Level 3: Domain Spells
+
+
+
+### Level 3: 
+
+### Level 3: Channel Divinity - 
+
 
 ## Life Domain
+
 Example Virtue's: 
+### Level 3: Domain Spells
+
+
+
+### Level 3: 
+
+### Level 3: Channel Divinity - 
+
+
 
 ## Light Domain
+
 Example Virtue's: 
+### Level 3: Domain Spells
+
+
+
+### Level 3: 
+
+### Level 3: Channel Divinity - 
+
+
 
 ## Trickery Domain
+
 Example Virtue's: 
+### Level 3: Domain Spells
+
+
+
+### Level 3: 
+
+### Level 3: Channel Divinity - 
+
+
 
 ## War Domain
+
 Example Virtue's: 
+### Level 3: Domain Spells
+
+
+
+### Level 3: 
+
+### Level 3: Channel Divinity - 
+
+
 
