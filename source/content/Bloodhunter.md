@@ -134,6 +134,8 @@ While in Hybrid Form, you gain the following features:
 
 **Resilient Hide**. You have Resistance to Bludgeoning, Piercing, and Slashing damage not made with Silvered Weapons. Additionally, while you are not wearing Heavy Armour, you have a +1 bonus to AC.
 
+**Savage Strikes**. You grow terrifying fangs and claws. Your unarmed strikes gain the Finesse property. On hit, they deal piercing or slashing damage equal to your Rite Die.
+
 **Predatory Strikes**. You can apply your Crimson Rite feature to your Unarmed Strikes, which you treat as one Weapon. You can use DEX instead of STR for the your Unarmed Strikes, which deal 1d6 Bludgeoning or Slashing Damage (your choice). This damage increases to 1d8 at 11th level.
 
 When you use the Attack Action to make an Unarmed Strike, you can make one additional Unarmed Strike as a Bonus Action.
