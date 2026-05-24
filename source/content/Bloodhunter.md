@@ -44,7 +44,9 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 5th   | +3                | d6            | 3                  | [[#Level 5 Extra Attack\|Extra Attack]]                                        |
 
 ## Level 1: Hunter's Bane
-You have survived the Hunter’s Bane - a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it. 
+You have survived the Hunter’s Bane - a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it granting the following.
+
+Occult Lore
 
 Whenever you make a Survival Checks to track non-Humanoid creatures, as well as on INT Checks to recall information about such creatures, you treat a roll of 7 or lower on the d20 as an 8.
 
@@ -231,7 +233,7 @@ You learn the Rite of the Dead as part of your Crimson Rite feature. While that 
 ### Level 3: Vampiric Nature
 The ancient disease of your Order has irreparably changed your physiology, you gain the following:
 
-**Deathless**. You are Undead. Additionally, you do not need to breathe. Moreover, whenever you use Sinister Insight to analyze an Undead creature, you add your Rite Die to your ability check.
+**Deathless**. You are Undead. Additionally, you do not need to breathe. Moreover, whenever you use Sinister Insight to analyse an Undead creature, you add your Hemocraft Die to your Check.
 
 **Darkvision**. You have Darkvision with a range of 120 feet. If you already have Darkvision, that ranges increases by 120 feet.
 
