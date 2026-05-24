@@ -57,7 +57,11 @@ You gain the ability to channel-or sometimes sacrifice-a part of your vital esse
 
 You can use this feature Proficiency Bonus times per Short or Long Rest
 
-**Vital Sacrifice**. Each time you use your Blood Curse feature, you choose which curse to invoke from the curses you know. While invoking a Blood Curse, but before it affects the target, you can make a Vital Sacrifice to Amplify the curse by taking Necrotic Damage equal to one roll of your Hemocraft Die. This Damage can’t be reduced in any way. An Amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to blood curses unless you have amplified the curse.
+**Vital Sacrifice**. Each time you use your Blood Curse feature, you choose which curse to invoke from the curses you know. While invoking a Blood Curse, but before it affects the target, you can make a Vital Sacrifice to Amplify the curse by taking Necrotic Damage equal to one roll of your Hemocraft Die. An Amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to blood curses unless you have amplified the curse.
+
+## Level 2: Fighting Style
+You have honed your martial prowess and gain a [[Feat#Fighting_Style|Fighting Style Feat]] of your choice
+
 
 
 ---
