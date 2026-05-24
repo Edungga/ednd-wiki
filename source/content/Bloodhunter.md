@@ -81,9 +81,117 @@ You choose one Rite from the Crimson Rites below when you first gain this featur
 ## 3rd Level: Bloodhunter Orders
 You commit to an order of Bloodhunter whose philosophy will guide you throughout your life. The order you choose grants you features at certain levels.
 
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
+
+## Level 5: Extra Attack
+You can attack twice instead of once whenever you take the Attack action on your turn.
+
 ---
 # Bloodhunter Orders
+### Blood Curse of the Anxious
 
+[Bonus Action - Magic] You harry the body or mind of a creature within 30ft of you, making them susceptible to forceful influence. Until the end of your next turn, CHA (Intimidation) Checks made against the Cursed creature have Advantage.
+
+Amplify. The next WIS Save the Cursed creature makes before this curse ends has Disadvantage.
+
+  
+
+### Blood Curse of Binding
+
+[Bonus Action - Magic] You attempt to bind a Large or smaller creature you can see within 30ft of you, which must make a STR Save. On a failure, the Cursed creature’s Speed is reduced to 0 and it can’t use Reactions until the end of your next turn.
+
+Amplify. This Curse lasts for 1 minute and can affect any creature regardless of size. The Cursed creature can repeat the Save at the end of each of its turns, ending the Curse on itself on a success.
+
+  
+
+### Blood Curse of Bloated Agony
+
+[Bonus Action - Magic] You Curse a creature that you can see within 30ft of you, causing its body to swell until the end of your next turn. For the duration, the creature has Disadvantage on STR and DEX Checks, and takes 1d8 Necrotic Damage if it makes more than one Attack during its turn.
+
+Amplify. This Curse lasts for 1 minute. The Cursed creature can make a CON Save  at the end of each of its turns, ending the Curse on itself on a success.
+
+  
+
+### Blood Curse of Corrosion
+
+Prerequisite: 15th level, Order of the Mutant
+
+[Bonus Action - Magic] You cause a creature within 30tf of you to become Poisoned [Debuff]. The cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
+
+Amplify. The Cursed creature takes 4d6 Necrotic Damage when you inflict this Curse, and it takes this damage again each time it fails a CON Save to end the curse.
+
+  
+
+### Blood Curse of the Exorcist
+
+Prerequisite: 15th level, Order of the Ghostslayer
+
+[Bonus Action - Magic] You choose one creature you can see within 30 feet of you that is Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff]. The target creature is no longer Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff].
+
+Amplify. A creature that Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff] the target of your curse takes 3d6 Psychic Damage and must succeed on a WIS Save or be Stunned [Debuff] until the end of your next turn.
+
+  
+
+### Blood Curse of Exposure
+
+[Reaction - Magic] When a creature you can see within 30ft of you takes damage from an Attack or Spell, you can temporarily weaken its resilience. Until the end of the target’s next turn, it loses Resistance to all the Damage Types dealt by the triggering Attack or Spell (including for that triggering effect).
+
+Amplify. The target instead loses Immunity to the Damage Types of the triggering Attack or Spell, but has Resistance to those damage types until the end of its next turn.
+
+  
+  
+  
+
+### Blood Curse of the Eyeless
+
+[Reaction - Magic] When a creature you can see within 30ft of you makes an Attack, you can roll one Hemocraft Die and subtract the number rolled from the creature’s Attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the Attack hits or misses. The creature is Immune to this curse if it is immune to being Blinded [Debuff].
+
+Amplify. You apply this Curse to all the creature’s Attack rolls until the end of the creature’s turn. You roll separately for each affected Attack.
+
+  
+
+### Blood Curse of the Fallen Puppet
+
+[Reaction - Magic] When a creature you can see within 30ft of you drops to 0 Hit Points, you can instil that creature with a final act of aggression. The creature immediately makes one Weapon Attack against a target of your choice within its Range.
+
+Amplify. You can first cause the Cursed creature to Shift Move, and you grant a bonus to its Attack roll equal to your INT modifier (min 1).
+
+  
+
+### Blood Curse of the Howl
+
+Prerequisite: 18th level, Order of the Lycan
+
+[Action - Magic] You unleash a bloodcurdling howl. Each creature within 30ft of you that can hear you must succeed on a WIS Save or become Frightened [Debuff] of you until the end of your next turn. If a creature fails its Save by 5 or more, it is Stunned [Debuff] while Frightened [Debuff] in this way. A creature that succeeds on its Save is immune to this blood curse for the next 24 hours. You can choose any number of creatures you can see to be unaffected by the howl.
+
+Amplify. The range of this curse increases to 60ft.
+
+  
+
+### Blood Curse of the Marked
+
+[Bonus Action - Magic] You mark a creature that you can see within 30ft of you. Until the end of your turn, whenever you hit the Cursed creature with a Weapon for which you have an active crimson rite, you roll an additional hemocraft die when determining the extra damage from the rite.
+
+Amplify. The next Attack you make against the target before the end of your turn has Advantage.
+
+  
+
+### Blood Curse of the Muddled Mind
+
+[Bonus Action - Magic] You curse a creature that you can see within 30 feet of you that is Concentrating on a Spell or using a feature that requires Concentration. That creature has Disadvantage on the next CON Save it makes to maintain Concentration before the end of your next turn.
+
+Amplify. The cursed creature has Disadvantage on all CON Saves made to maintain Concentration until the end of your next turn.
+
+  
+
+### Blood Curse of the Soul Eater
+
+Prerequisite: 18th level, Order of the Profane Soul
+
+[Reaction - Magic] When a creature that isn’t a construct or undead is reduced to 0 hit points within 30ft of you, you can offer their life energy to your patron in exchange for power. Until the end of your next turn, you make attacks with Advantage and you have Resistance to all Damage.
+
+Amplify. Additionally, you regain an expended warlock spell slot. Once you’ve amplified this blood curse, you must finish a Long Rest before you can amplify it again.
 
 ---
 # Blood Curses
