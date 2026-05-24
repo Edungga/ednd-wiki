@@ -134,18 +134,14 @@ You can now inscribe magical rituals in your Grimoire. Choose two 1st Level Ritu
 
 On your adventures, you can add other ritual spells to your Grimoire. When you find such a Spell, you can add it to the book if the Spell's Level is equal to or less than half your Warlock Level (rounded up) and if you can spare the time to transcribe the Spell. For each level of the Spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
-## Chains of Tarterus
-Prerequisite: 15th level, Pact of the Chain feature
+## Chains from Below
+*Prerequisite: 15th level, Pact of the Chain feature*
 
-You can cast Hold Monster at will, without expending a Spell Slot or Material Components. You must finish a Long Rest before you can use this Invocation on the same creature again.
+You can cast [[Hold Monster]] at will, without expending a Spell Slot or Material Components. You must finish a Long Rest before you can use this Invocation on the same creature again.
 
-  
-
-### Cloak of Flies
-
-Prerequisite: 5th level
-
-[Bonus Action - Magic] you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5ft from you in every direction, but not through Total Cover. It lasts until you're Incapacitated [Condition] or you dismiss it as a Bonus Action.
+## Cloak of Flies
+*Prerequisite: 5th level*
+As a Bonus Action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5ft from you in every direction, but not through Total Cover. It lasts until you're [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]] or you dismiss it as a Bonus Action.
 
 The aura grants you Advantage on Intimidation Checks but Disadvantage on Persuasion or Deception Checks. Any other creature that starts its turn in the aura takes Poison Damage equal to your CHA modifier (min 1).
 
