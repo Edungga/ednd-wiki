@@ -233,16 +233,13 @@ As an Action, you can magically erase a name on the page by touching it.
 When you hit a creature with your Eldritch Blast, you can move that creature in a straight line 10ft closer to yourself.
 
 ## Hexblades Curse
-
-Prerequisite: Pact of the Blade feature
+*Prerequisite: Pact of the Blade feature*
 
 As a Bonus Action, Curse creature you can see within 30ft. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. 
 
 Until the curse ends, you gain the following benefits:
-- Give you Lucky [Buff] level 1 on Attacks against the cursed target
-    
+- Your Attacks against the Cursed Creature have [[Conditions#Luck|Luck 1]]
 - If the cursed target dies, you regain Hit Points equal to your Warlock level + your CHA modifier (min 1).
-    
 
   
 
