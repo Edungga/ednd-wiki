@@ -10,7 +10,8 @@ Followers of Hope are often:
 Hope is not naïve optimism. In this world, Hope survives despite suffering, not in ignorance of it.
 
 # Symbols
-Candles
-Lanterns
-Dawn imagery
-Embers protected by cupped hands
+* Candles
+* Lanterns
+* Dawn imagery
+* Embers protected by cupped hands
+
