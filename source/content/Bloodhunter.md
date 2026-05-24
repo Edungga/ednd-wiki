@@ -139,6 +139,8 @@ While in Hybrid Form, you gain the following features:
 **Bloodlust**. If you start your turn with fewer hit points than half your Hit Point Maximum, you must succeed on a DC 8 WIS or move directly toward the nearest creature and use the Attack Action against that creature. If you’re Concentrating on a Spell or are under an effect that prevents you from Concentrating (such as the barbarian’s Rage feature), you automatically fail.
 
 ## Order of the Mutant
+The process of undertaking the Hunter’s Bane ritual is a painful, scarring, and sometimes fatal experience. Those who survive are irrevocably changed - and not always for the better. Over generations of experimentation, a splinter order of blood hunters honed the way in which hemocraft alters the body, using corrupted alchemy and toxic elixirs to alter their blood even further. Over time, they have modified their capabilities in battle, becoming something beyond what they once were. Calling themselves the Order of the Mutant, these blood hunters now specialise in assessing the strengths and weaknesses of their foes, altering their biology to be best prepared for any conflict.
+
 
 
 ## Order of Profane Soul
