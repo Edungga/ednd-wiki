@@ -118,9 +118,9 @@ As a Bonus Action, you cause a creature within 30tf of you to become [[Condition
 
 ## Blood Curse of the Exorcist
 *Prerequisite: 15th level, Order of the Ghostslayer*
-As a Bonus Action, you choose one creature you can see within 30 feet of you that is Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff]. The target creature is no longer Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff].
+As a Bonus Action, you choose one creature you can see within 30 feet of you that is Possessed, [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]]. The target creature is no longer Possessed, [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]].
 
-Amplify. A creature that Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff] the target of your curse takes 3d6 Psychic Damage and must succeed on a WIS Save or be Stunned [Debuff] until the end of your next turn.
+**Amplify**. A creature that Possessed, [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] the target of your curse takes 3d6 Psychic Damage and must succeed on a WIS Save or be [[Conditions#Stunned (Debuff)|Stunned (Debuff)]] until the end of your next turn.
 
   
 
