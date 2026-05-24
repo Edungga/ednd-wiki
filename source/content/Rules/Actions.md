@@ -19,3 +19,12 @@ Whenever you use your Unarmed Strike, choose one of the following options for it
 When you take the Dash action, you gain extra movement for the current turn. The increase equals your Speed after applying any modifiers. 
 
 If you have a special speed, such as a Fly Speed or Swim Speed, you can use that speed instead of your Speed when you take this action. You choose which speed to use each time you take it.
+
+# Disengage
+If you take the Disengage action, your movement doesn't provoke Opportunity Attacks for the rest of the current turn.
+
+
+# Dodge
+lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has Disadvantage if you can see the attacker, and you make Dexterity saving throws with Advantage.
+
+You lose these benefits if you have the Incapacitated condition or if your Speed is 0.
