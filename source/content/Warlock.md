@@ -148,10 +148,31 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 3rd           | [[Absorb Elements]], [[Chromatic Orb]], [[Dragons Breath]], [[Scorching Ray]] |
 | 5th           | [[Fireball]], [[Lightning Bolt]]                                              |
 | 7th           | [[Vitriolic Sphere]], [[Wall of Fire]]                                        |
-| 9th           | Dominate Person, Cone of Cold                                                 |
+| 9th           | [[Dominate Person]], [[Cone of Cold]]                                         |
 
-### Level 3: 
+### Level 3: Draconic Spark
+Your Patron has infused you with a Draconic Spark, a fraction of its power. Ancient dragons can impart any element, but they usually bestow the element that matches their breath weapon. Choose from the below table.
 
+| Patron        | Damage Type |
+| ------------- | ----------- |
+| Black         | Acid        |
+| Blue          | Lighting    |
+| Brass         | Fire        |
+| Bronze        | Lightning   |
+| Copper        | Acid        |
+| Gold          | Fire        |
+| Green         | Poison      |
+| Red           | Fire        |
+| Silver        | Cold        |
+| White         | Cold        |
+| Dragon Turtle | Fire        |
+| Gemstone      | Psychic     |
+
+
+Once chosen it cannot be changed and grants you the benefits below:
+- You gain Resistance to the damage type of your Draconic Spark.
+- When you cast a Warlock spell, you can cause it to deal the damage type of your Draconic Spark in place of the normal damage type dealt by that spell.
+- You learn to speak, read, and write, Draconic.
 
 ## [[Higher Powers of Callitè#The Virtues|The Virtues]]
 ### Level 3: Virtue Spells
