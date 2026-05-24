@@ -23,3 +23,12 @@ Ancient beings tied to primal places, emotions, seasons, stories, and forgotten 
 Ancient entities beneath the ocean the Mourning Isles
 - [[He Who Sleeps Beneath Tides]]
 - [[The Drowned Choir]]
+# Fiends
+
+# Elemental Powers
+
+# Great Old Ones
+
+# Great Wyrms
+
+# Undead Beings
