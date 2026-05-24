@@ -106,7 +106,16 @@ Choose one of the following for your Patrons element; Water, Earth, Fire, Air
 | 9th           | [[Cone of Cold]]        | [[Wall of Stone]]                   | [[Flame Strike]]                     | [[Seeming]]                       | [[Creation]]                                   |
 
 ### Level 3: Genie's Vessel
-Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie's Vessel table.
+Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is.
+
+While you are touching the vessel, you can use it in the following ways:
+- **Bottled Respite**: As an Action, you can vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20ft radius cylinder, 20ft high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your Proficiency Bonus. You exit the vessel early if you use a Bonus Action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a Long Rest.
+- **Genie's Wrath**: Once during each of your turns when you hit with an Attack, you can deal extra Damage to the target equal to your Proficiency Bonus. The type of this Damage is determined by your patron: Bludgeoning (Earth), Thunder (Air), Fire (Fire), or Cold (Water).
+
+The vessel's AC equals your Spell Save DC. Its Hit Points equal your Warlock Level + your Proficiency Bonus, and it is Immune to Poison and Psychic Damage.
+
+If the vessel is destroyed or you lose it, you can perform a 1 hour ceremony to receive a replacement from your patron. This ceremony can be performed during a Long Rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.
+
 
 ## [[Higher Powers of Callitè#Fathomless Beings|Fathomless]]
 ### Level 3: Fathomless Spells
