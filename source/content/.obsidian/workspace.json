@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bloodhunter.md",
+                "file": "Classes/Bard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloodhunter"
+              "title": "Bard"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bloodhunter.md",
+                "file": "Classes/Bard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bloodhunter"
+              "title": "Outline of Bard"
             }
           }
         ],
@@ -172,9 +172,9 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Bloodhunter.md",
     "Classes/Barbarian.md",
     "Classes/Fighter.md",
-    "Bloodhunter.md",
     "Classes/Bard.md",
     "index.md",
     "Spells/Spells.md",

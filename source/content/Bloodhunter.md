@@ -112,15 +112,12 @@ As a Bonus Action, you Curse a creature that you can see within 30ft of you, cau
 
 ## Blood Curse of Corrosion
 *Prerequisite: 15th level, Order of the Mutant*
-As a Bonus Action, you cause a creature within 30tf of you to become Poisoned [Debuff]. The cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
+As a Bonus Action, you cause a creature within 30tf of you to become [[Conditions#Poisoned (Debuff)|Poisoned (Debuff)]]. The cursed creature can make a CON Save at the end of each of its turns, ending the Curse on itself on a success.
 
-Amplify. The Cursed creature takes 4d6 Necrotic Damage when you inflict this Curse, and it takes this damage again each time it fails a CON Save to end the curse.
+**Amplify**. The Cursed creature takes 4d6 Necrotic Damage when you inflict this Curse, and it takes this damage again each time it fails a CON Save to end the curse.
 
-  
-
-### Blood Curse of the Exorcist
-
-Prerequisite: 15th level, Order of the Ghostslayer
+## Blood Curse of the Exorcist
+*Prerequisite: 15th level, Order of the Ghostslayer*
 As a Bonus Action, you choose one creature you can see within 30 feet of you that is Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff]. The target creature is no longer Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff].
 
 Amplify. A creature that Charmed [Debuff], Frightened [Debuff], or Possessed [Debuff] the target of your curse takes 3d6 Psychic Damage and must succeed on a WIS Save or be Stunned [Debuff] until the end of your next turn.
