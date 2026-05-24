@@ -41,4 +41,4 @@ Ancient, intelligent, and extraordinarily rare. Most are remembered as disasters
 # Undead Beings
 Some beings refused death so completely they became something worse.
 - [[Lady Seraphel, The Crimson Widow]]
-- [[The Black Shepherd]]
+- [[The Last Shepherd]]
