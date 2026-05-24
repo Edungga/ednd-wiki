@@ -6,7 +6,8 @@ Its followers believe cruelty is easy, but mercy requires true strength.
 
 Mercy is deeply respected in a brutal world, though many see its followers as tragically soft-hearted.
 
-Followers
+# Followers
+- 
 battlefield medics,
 caretakers,
 judges,
