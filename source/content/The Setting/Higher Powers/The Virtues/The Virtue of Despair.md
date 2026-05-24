@@ -7,9 +7,11 @@ Its followers believe suffering strips away comforting lies and reveals the worl
 Yet Despair is not necessarily evil. Many who survive unimaginable tragedy find themselves touched by it whether they wish to be or not.
 # Followers
 - grave keepers,
-- survivors of catastrophe,
 - hermits,
 - failed prophets,
 - and those who have seen too much.
 # Symbols
-- 
+- Black veils
+- Extinguished candles
+- Empty circles
+- Broken mirrors
