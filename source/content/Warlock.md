@@ -130,12 +130,12 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | Warlock Level | Spells                                                                                  |
 | ------------- | --------------------------------------------------------------------------------------- |
 | 3rd           | [[Detect Thoughts]], [[Dissonant Whispers]], [[Phantasmal Force]], [[Hideous Laughter]] |
-| 5th           | Clairvoyance, [[Sending]]                                                               |
-| 7th           | Dominate Beast, Eldritch Tentacles                                                      |
-| 9th           | Dominate Person, Telekineses                                                            |
+| 5th           | [[Clairvoyance]], [[Sending]]                                                           |
+| 7th           | [[Dominate Beast]], [[Eldritch Tentacles]]                                              |
+| 9th           | [[Dominate Person]], [[Telekineses]]                                                    |
 
-### Level 3: 
-
+### Level 3: Awakened Mind
+You can telepathically speak to any creature you can see within 60ft of you. You don't need to share a Language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one Language.
 
 
 ## [[Higher Powers of Callitè#Great Wyrms|Great Wyrm]]
