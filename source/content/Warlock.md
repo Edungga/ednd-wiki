@@ -269,7 +269,9 @@ You have received knowledge from an elder entity of the multiverse, allowing you
 
 ## Lance of Lethargy
 Choose one of your known Warlock cantrips that deals damage. When you hit a creature with that Cantrip, you can reduce that creature's Speed by 10ft until the end of your next turn.
+Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 
+**Repeatable**. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 ## Lifedrinker
 *Prerequisite: 9th level, Pact of the Blade feature*
 
@@ -337,23 +339,19 @@ When you cast Find Steed this way, use the below Otherworldly Steed stat block i
 | **REACTIONS**<br>**Deliver Spell**. When you cast a Spell with a Range of touch, the Familiar can deliver the Spell with its touch. To do so, the Familiar must be within 120ft of you.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ## Rebuke of the Talisman
-Prerequisite: Pact of the Talisman feature
+*Prerequisite: Pact of the Talisman feature*
 
-[Reaction] When the wearer of your talisman is hit by an attacker you can see, you can deal Psychic Damage to the attacker equal to your Proficiency Bonus and push it up to 10ft away from the talisman's wearer.
+When the wearer of your talisman is hit by an attacker you can see, as a Reaction you can deal Psychic Damage to the attacker equal to your Proficiency Bonus and push it up to 10ft away from the talisman's wearer.
 
-  
+## Relentless Hex
+*Prerequisite: 7th level, Spell or a Warlock feature that curses*
 
-### Relentless Hex
+As a Bonus Action, Teleport up to 30ft to an unoccupied space you can see within 5ft of the target cursed by you. To teleport in this way, you must be able to see the cursed target
 
-Prerequisite: 7th level, Spell with the Curse Tag or a Warlock feature that curses
+## Repelling Blast
+Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 
-[Bonus Action - Magic] Teleport up to 30ft to an unoccupied space you can see within 5ft of the target cursed by you. To teleport in this way, you must be able to see the cursed target
-
-  
-
-### Repelling Blast
-
-When you hit a creature with Eldritch Blast, you can push the creature up to 10ft away from you in a straight line.
+Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ### Sculptor of Flesh
 
