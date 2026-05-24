@@ -108,6 +108,8 @@ Lycanthropy is an ancient curse that changes those afflicted into mindless Beast
 ### Level 3: Feral Senses
 You gain the improved senses of a natural predator. Add your Hemocraft die to any WIS (Perception) and WIS (Survival) Checks.
 
+Moreover, whenever you use [[#Level 1 Hunter's Bane|Hunter's Bane]] to analyse a Beast, Monstrosity, or a Shapeshifter, you add your Hemocraft Die to your Check.
+
 ### Level 3: Lycanthopic Curse
 You have been infected with a curse based on a Beast of CR 1 or lower. Once chosen, this Beast cannot be changed.
 
