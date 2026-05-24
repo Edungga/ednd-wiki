@@ -109,11 +109,12 @@ You gain the improved senses of a natural predator. Add your Hemocraft die to an
 #### 3rd Level: Lycanthopic Curse
 You have been infected with a curse based on a Beast of CR 1 or lower. Once chosen, this Beast cannot be changed.
 
-As a Bonus Action you can Shapechange into either the Beast or Hybrid form representative of your lycanthropic curse. You revert to your normal form if you fall [[Conditions#Unconscious (Condition)|Unconscious (Condition)]], die, or after 1 hour.  You can do this once per Short or Long Rest, unless you make a Vital Sacrifice to do so again.
+As a Bonus Action you can Shapechange into either the Beast or Hybrid form representative of your lycanthropic curse. You revert to your normal form if you are [[#Incapacitated (Condition)]], after 1 hour, or if you choose to as a Bonus Action.
+You can do this once per Short or Long Rest, unless you make a Vital Sacrifice to do so again.
 
 Additionally, you are also a Shapechanger and have Vulnerability to Silvered Weapons
 
-##### Beast Form
+#### Beast Form
 
 Use the stats of [wild shape](https://docs.google.com/document/d/1nFVGJQXMdQmXJjixuuN7HvYGkoJsric7H6iE2ljMsPA/edit#heading=h.h3jssehcj86t) from druid class; Wolf - , Bear - Brown Bear, Boar - Boar
 
