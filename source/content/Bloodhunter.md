@@ -71,14 +71,12 @@ While the Rite is in effect, Attacks you make with this Weapon are Supernatural,
 
 You choose one Rite from the Crimson Rites below when you first gain this feature. You learn an additional Crimson Rite at 7th level, and again at 14th level.
 ### Crimson Rites
-- Rite of the Flame. Your Rite Damage is Fire Damage.
-- Rite of the Frozen. Your Rite Damage is Cold Damage.
-- Rite of the Plague. Your Rite Damage is Poison Damage.
-- Rite of the Storm. Your Rite Damage is Lightning Damage. (Prerequisite: 14th level)
-
-Rite of the Oracle. Your Rite Damage is Psychic Damage. (Prerequisite: 14th level)
-
-Rite of the Roar. Your Rite Damage is Thunder Damage. (Prerequisite: 14th level)
+- **Rite of the Flame**. Your Rite Damage is Fire Damage.
+- **Rite of the Frozen**. Your Rite Damage is Cold Damage.
+- **Rite of the Plague**. Your Rite Damage is Poison Damage.
+- **Rite of the Storm**. Your Rite Damage is Lightning Damage. (Prerequisite: 14th level)
+- **Rite of the Oracle**. Your Rite Damage is Psychic Damage. (Prerequisite: 14th level)
+- **Rite of the Roar**. Your Rite Damage is Thunder Damage. (Prerequisite: 14th level)
 
 ---
 # Bloodhunter Orders
