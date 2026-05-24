@@ -69,6 +69,16 @@ You have dedicated yourself to one of the following sacred roles, either on your
 **Thaumaturge**. Delving deeper into your divine magical abilities, you know one extra Cantrip from the [[Divine Spell List]]. 
 
 ## Level 2: Channel Divinity
+You gain the ability to channel divine energy, using that energy to fuel magical effects. You start with two such effects: Turn Undead and Divine Spark. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+
+You can use your Channel Divinity a number of times equal to your Proficiency Bonus per Long Rest.
+
+Some Channel Divinity effects require a Save. When you use such an effect from this class, the DC is your cleric Spell Save DC.
+### Channel Divinity: Turn Undead
+[Action - Magic] Present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 ft of you must make a WIS Save. If the creature fails its Save, it is Dazed [Debuff] for 1 minute or until it takes any damage.
+While Dazed in this way, the only Action the creature can take is the Dash Action, and if it Moves, it must end that Move farther from you than where it started.
+### Channel Divinity: Divine Spark
+[Action - Magic] Point your holy symbol at another creature you can see within 30ft of yourself and focus your divine energy at them. Roll a number of d8s equal to your Proficiency Bonus and add the rolls together. You either Heal the creature equal to that total or force the creature to make a CON Save. On a failed Save, the creature takes Radiant or Necrotic Damage equal to the total, and on a successful Save, the creature takes half as much Damage (rounded down).
 
 
 ## Level 3: Divine Domain
