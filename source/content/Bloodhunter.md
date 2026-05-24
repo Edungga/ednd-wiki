@@ -26,6 +26,8 @@
 ## Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
-**Weapon Proficiencies**: Martial weapons
+**Tool Proficiencies**: Alchemist's supplies, Harvesting Kit
 
-**Armor Training**: Shields
+**Weapon Proficiencies**: simple weapons, martial weapons
+
+**Armor Training**: light armor, medium armor, shields

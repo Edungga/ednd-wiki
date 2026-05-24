@@ -26,6 +26,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 **Armor Training**: Shields
 
+---
 # Class Features
 
 | Level | Proficiency Bonus | Rage Die | Rages | Features                                                                                                                  |

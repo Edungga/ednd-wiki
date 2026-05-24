@@ -30,6 +30,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 **Armor Training**: Light armor
 
+---
 # Class Features
 
 | Level | Proficiency Bonus | Features                            | Bardic Die | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
