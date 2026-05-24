@@ -90,6 +90,14 @@ You can attack twice instead of once whenever you take the Attack action on your
 ---
 # Bloodhunter Orders
 ## Order of the Ghostslayer
+The Order of the Ghostslayer is the oldest of the blood hunter orders, its members having originally rediscovered the secrets of hemocraft and refined them for combat against the scourge of undeath. Ghostslayers seek out and study the moment of death, obsessing over the mystery of the transition from life, and the unholy power that can cause the dead to rise once more. These zealous blood hunters make it their life’s work to destroy the scourge of undeath wherever it is found, tuning their abilities to engage undead creatures and those who manipulate the necromancy that creates them.
+
+### 3rd Level: Rite of the Dawn
+You learn the Rite of the Dawn as part of your Crimson Rite feature. While that Rite is active on your Weapon, you gain the following benefits:
+- Your Rite Damage is Radiant Damage. 
+- Your Weapon sheds Bright Light out to a radius of 20ft.
+- You have Resistance to Necrotic Damage.
+When you hit an Undead creature with this Weapon, it deals an additional hemocraft die Rite Damage
 
 
 ## Order of the Lycan
