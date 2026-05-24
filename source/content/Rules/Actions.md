@@ -23,8 +23,8 @@ If you have a special speed, such as a Fly Speed or Swim Speed, you can use that
 # Disengage
 If you take the Disengage action, your movement doesn't provoke Opportunity Attacks for the rest of the current turn.
 
-
 # Dodge
-lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has Disadvantage if you can see the attacker, and you make Dexterity saving throws with Advantage.
-
-You lose these benefits if you have the Incapacitated condition or if your Speed is 0.
+lf you take the Dodge action, you gain the following benefits until the start of your next turn: 
+- Any Attack made against you has Disadvantage if you can see the attacker
+- you make DEX Saves with Advantage.
+You lose these benefits if you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]] or if your Speed is 0.
