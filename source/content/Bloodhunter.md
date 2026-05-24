@@ -132,16 +132,11 @@ While in Hybrid Form, you gain the following features:
 
 **Feral Might**. You have Advantage on STR Checks and Save, and you have a +1 bonus to Damage on Melee Attacks. This bonus increases to +2 at 11th level and to +3 at 18th level.
 
-**Resilient Hide**. You have Resistance to Bludgeoning, Piercing, and Slashing damage not made with Silvered Weapons. Additionally, while you are not wearing Heavy Armour, you have a +1 bonus to AC.
-
 **Savage Strikes**. You grow terrifying fangs and claws. Your Unarmed Strikes gain the Finesse property and count as a Weapon. On hit, they deal piercing or slashing damage equal to your Hemocraft Die.
 
 **Wild Fury**. You can use your Bonus Action on each turn to make an Unarmed Strike or take the Dash action. Should you Dash, you must move toward a Hostile creature you can see.
 
-
 **Bloodlust**. If you start your turn with fewer hit points than half your Hit Point Maximum, you must succeed on a DC 8 WIS or move directly toward the nearest creature and use the Attack Action against that creature. If you’re Concentrating on a Spell or are under an effect that prevents you from Concentrating (such as the barbarian’s Rage feature), you automatically fail.
-
-If you have your Extra Attack feature, you can choose whether to use it for this Attack. If more than one creature is equally near to you, roll randomly to determine your target. Once your attack is resolved, you regain control of yourself.
 
 ## Order of the Mutant
 
