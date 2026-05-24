@@ -62,11 +62,11 @@ You learn additional Cantrips of your choice at higher levels, as shown in the C
 ## Level 1: Holy Order
 You have dedicated yourself to one of the following sacred roles, either on your own or as part of a religious order. Choose one of the following options:
 
-Protector. Trained for battle, you gain Martial Weapon Proficiency and Heavy Armour Training. 
+**Protector**. Trained for battle, you gain Martial Weapon Proficiency and Heavy Armour Training. 
 
-Scholar. Studying and teaching about lore of the gods and the multiverse, you gain Proficiency in two of the following Skills of your choice: Arcana, Deception, History, Nature, Persuasion, and Religion. Whenever you make a Check using either Skill, you gain a bonus to the check equal to your WIS Modifier. 
+**Scholar**. Studying and teaching about lore of the gods and the world, you gain Proficiency in two of the following Skills of your choice: Arcana, Deception, History, Nature, Persuasion, and Religion. Whenever you make a Check using either Skill, you gain a bonus to the check equal to your WIS Modifier. 
 
-Thaumaturge. Delving deeper into your divine magical abilities, you know one extra Cantrip from the Divine Spell List. In addition, you regain one expended use of your Channel Divinity whenever you finish a Short Rest.
+**Thaumaturge**. Delving deeper into your divine magical abilities, you know one extra Cantrip from the [[Divine Spell List]]. 
 
 ## Level 2: Channel Divinity
 
