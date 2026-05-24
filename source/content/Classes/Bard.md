@@ -169,7 +169,12 @@ Bards of the College of Valour are daring storytellers whose tales keep alive th
 Gain Proficiency with Martial Weapons and Armour Training with Medium Armour.
 Additionally, you may use any Weapon you are Proficient in as a Spellcasting Focus to cast Arcane Spells.
 
+### Level 3: Combat Inspiration
+You can use your wit to turn the tide of battle. A creature that has a Bardic Inspiration die from you can use it for one of the following effects.
 
+**Defence**. When the creature is hit by an attack roll, that creature can use its Reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
+
+**Offense**. Immediately after the creature hits a target with an attack roll, the creature can roll the Bardic Inspiration die and add the number rolled to the attack's damage against the target.
 
 
 ---
