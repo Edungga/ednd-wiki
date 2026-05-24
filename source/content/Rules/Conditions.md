@@ -153,7 +153,7 @@ Can’t hear and automatically fails any Check that requires hearing.
 
 **Casting Affected**. Cannot Cast Spells with Somatic Component
 
-## Frightened  (Debuff)
+## Frightened (Debuff)
 **Spooked**. Disadvantage on Checks and Attacks while the source of its fear is within Line of Sight.
 **Movement Affected**. You can’t willingly move closer to the source of the fear.
 

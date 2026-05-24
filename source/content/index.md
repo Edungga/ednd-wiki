@@ -27,11 +27,11 @@ We also have some Home Rules to spice things up a bit
 
 ## Classes
 - [[Barbarian]] - up to lvl 5
-- [[Bard]]
-- [[Bloodhunter]]
-- [[Cleric]]
+- [[Bard]] - up to lvl 5
+- [[Bloodhunter]] - up to lvl 5
+- [[Cleric]] - up to lvl 5
 - [[Druid]]
-- [[Fighter]] - up to lvl 5 excluding noting Eldrich Knight spells
+- [[Fighter]] - up to lvl 5
 - [[Monk]]
 - [[Paladin]]
 - [[Ranger]]
