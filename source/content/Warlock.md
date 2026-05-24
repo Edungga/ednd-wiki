@@ -257,16 +257,12 @@ The weapon gains a +1 bonus to its Attack and Damage rolls, unless it is a Magic
 When you cast [[Find Familiar]], you infuse the summoned Familiar with a measure of your eldritch power, granting the creature the following benefits:
 - **Aerial or Aquatic**. The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
-**Quick Attack**. As a Bonus Action, you can command the familiar to take the Attack action.
-
+**Quick Attack**. You no longer need to issue commands for the Familiar to take Actions.
 
 **Your Save DC**. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
-Resistance. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
+**Resistance**. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
 
-- You no longer need to issue commands for the Familiar to act
-    
-- It will now take its turn directly after you in initiative, and you no longer need to forgo an Attack for it to Attack.
     
 
 ### Lance of Lethargy
@@ -516,6 +512,8 @@ You learn the [[Find Familiar]] spell and can cast it as a Magic action without 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: Imp, Pseudodragon, Quasit, Skeleton, Slaad Tadpole, Sphinx of Wonder, Sprite, or Venomous Snake (use the [[#Pact Familiar|Pact Familiar]] stat block below).
 
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+
+Your Familiar shares your initiative in combat
 ### Pact Familiar
 
 | Pact Familiar                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
