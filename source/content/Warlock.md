@@ -408,21 +408,15 @@ Additionally, while perceiving through your Familiar's senses, you can also spea
 ## Ward against the Undead
 If an Undead targets you with an Attack, that creature must make a WIS Save against your spell save DC. On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the Attack. On a successful save, the creature is Immune to this effect for 24 hours.
 
-[Reaction] Pass this ward to an Ally you can see within 30ft that is targeted by an Attack from an Undead Creature, lasting until the end of your next turn. During this time you do not benefit from this feature.
+Pass this ward to an Ally you can see within 30ft that is targeted by an Attack from an Undead Creature as a Reaction, lasting until the end of your next turn. During this time you do not benefit from this feature.
 
-  
+## Whispers of the Grave
+*Prerequisite: 5th level*
 
-### Whispers of the Grave
+You can cast [[Speak with Dead]] at will, without expending a Spell Slot.
 
-Prerequisite: 5th level
-
-You can cast Speak with Dead at will, without expending a Spell Slot.
-
-  
-
-### Witch Sight
-
-Prerequisite: 15th level
+## Witch Sight
+*Prerequisite: 15th level*
 
 You have Trusight 60ft.
 
