@@ -74,7 +74,16 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 
 ---
 # Otherworldly Patrons
+## [[Higher Powers of Callitè#Archfae|Archfae]]
 
+
+## [[Higher Powers of Callitè#Elemental Powers|Elemental Powers]].
+- [[Higher Powers of Callitè#Fathomless Beings|Fathomless]]
+- [[Higher Powers of Callitè#Fiends|Fiend]]
+- [[Higher Powers of Callitè#Great Old Ones|Great Old One]]
+- [[Higher Powers of Callitè#Great Wyrms|Great Wyrm]]
+- [[Higher Powers of Callitè#The Virtues|The Virtues]]
+## [[Higher Powers of Callitè#Undead Beings|Undead]]
 
 ---
 # Eldritch Invocations
