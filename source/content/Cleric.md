@@ -164,15 +164,27 @@ As a Magic action, you present your Holy Symbol and expend a use of your Channel
 ## Trickery Domain
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge to direct confrontation.
 
-Example Virtue's: [[The Virtue of Mercy]] , [[The Virtue of Despair]]
+Example Virtue's: [[The Virtue of Mercy]], [[The Virtue of Sacrifice]], [[The Virtue of Despair]]
 ### Level 3: Domain Spells
 
+| Cleric Level | Prepared Spells                                               |
+| ------------ | ------------------------------------------------------------- |
+| 3rd          | Charm Person, Disguise Self, Mirror Image, Pass without Trace |
+| 5th          | Blink, Dispel Magic                                           |
+| 7th          | Dimension Door, Polymorph                                     |
+| 9th          | Dominate Person, Modify Memory                                |
 
+### Level 3: Blessing of the Trickster
+As a Magic action, you can choose yourself or a willing creature within 30 feet of yourself to have Advantage on Dexterity (Stealth) checks. This blessing lasts until you finish a Long Rest or you use this feature again.
 
-### Level 3: 
+### Level 3: Channel Divinity - Invoke Duplicity
+As a Bonus Action, you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the Incapacitated condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
-### Level 3: Channel Divinity - 
+**Cast Spells**. You can cast spells as though you were in the illusion's space, but you must use your own senses.
 
+**Distract**. When both you and your illusion are within 5 feet of a creature that can see the illusion, you have Advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+
+**Move**. As a Bonus Action, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
 
 
 ## War Domain
