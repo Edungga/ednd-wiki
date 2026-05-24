@@ -96,7 +96,7 @@ In addition, whenever you cast that spell, you can choose one of the following a
 ## [[Higher Powers of Callitè#Elemental Powers|Elemental Powers]]
 ### Level 3: Elemental Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
-
+Choose one of the following for your Patrons element; Water, Earth, Fire, Air
 
 ### Level 3: 
 
