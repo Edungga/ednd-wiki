@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warlock.md",
+                "file": "Classes/Warlock.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warlock.md",
+                "file": "Classes/Warlock.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,7 +173,7 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Classes/Bloodhunter.md",
-    "Warlock.md",
+    "Classes/Warlock.md",
     "Classes/Fighter.md",
     "Rules/Conditions.md",
     "Cleric.md",
