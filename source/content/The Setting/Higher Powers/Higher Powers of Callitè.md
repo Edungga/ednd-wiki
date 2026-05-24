@@ -28,11 +28,16 @@ Subtle, manipulative, and terrifyingly patient.
 - [[The Magistrate of Blood]]
 - [[Carrion]]
 # Elemental Powers
+Ancient elemental sovereigns lingering in isolated places where the world has thinned.
 - [[Ashkar, the Ember Sultan]]
 - [[The Pale Regent of Winters Glass]]
 # Great Old Ones
+Things that should not exist within mortal understanding.
 - [[The Worm Beneath]]
 - [[Their Unknown Crown of Stars]]
 # Great Wyrms
+Ancient, intelligent, and extraordinarily rare. Most are remembered as disasters rather than creatures.
 - [[Vaelorath the Hollow Flame]]
 # Undead Beings
+Some beings refused death so completely they became something worse.
+- [[Lady]]
