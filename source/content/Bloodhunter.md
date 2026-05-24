@@ -52,7 +52,7 @@ The Hunter’s Bane also empowers your body to control and shape hemocraft magic
 
 **Hemocraft save DC** = 8 + your Proficiency Bonus + your INT or WIS modifier
 
-## Level 1: Hemomancy
+## Level 1: Hemocraft
 You gain the ability to channel-or sometimes sacrifice-a part of your vital essence to curse and manipulate creatures through hemocraft magic. You know one [[#Blood Curses|Blood Curse]] of your choice. You learn additional Blood Curses of your choice at certain levels, as noted in the Blood Curses Known column of the Bloodhunter table.
 
 You can use this feature Proficiency Bonus times per Short or Long Rest
@@ -62,7 +62,23 @@ You can use this feature Proficiency Bonus times per Short or Long Rest
 ## Level 2: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting_Style|Fighting Style Feat]] of your choice
 
+## 2nd Level: Crimson Rite
+You learn to invoke a rite of hemocraft that infuses your weapon strikes with elemental energy. 
 
+As a Bonus Action, you can activate any rite you know on one Weapon you’re holding. The effect of the Rite lasts until you finish a Short or Long Rest. When you activate a Rite, you take Necrotic Damage equal to one roll of your Hemocraft Die. This Damage can’t be reduced in any way.
+
+While the Rite is in effect, Attacks you make with this Weapon are Supernatural, and deal extra Damage equal to your Hemocraft Die of the type determined by the chosen Rite. A Weapon can hold only one active Rite at a time. Other creatures can’t gain the benefit of your Rite.
+
+You choose one Rite from the Crimson Rites below when you first gain this feature. You learn an additional Crimson Rite at 7th level, and again at 14th level.
+### Crimson Rites
+- Rite of the Flame. Your Rite Damage is Fire Damage.
+- Rite of the Frozen. Your Rite Damage is Cold Damage.
+- Rite of the Plague. Your Rite Damage is Poison Damage.
+- Rite of the Storm. Your Rite Damage is Lightning Damage. (Prerequisite: 14th level)
+
+Rite of the Oracle. Your Rite Damage is Psychic Damage. (Prerequisite: 14th level)
+
+Rite of the Roar. Your Rite Damage is Thunder Damage. (Prerequisite: 14th level)
 
 ---
 # Bloodhunter Orders
