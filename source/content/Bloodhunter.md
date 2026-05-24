@@ -132,13 +132,10 @@ When a creature you can see within 30ft of you makes an Attack, as a Reaction yo
 
 **Amplify**. You apply this Curse to all the creature’s Attack rolls until the end of the creature’s turn. You roll separately for each affected Attack.
 
-  
+## Blood Curse of the Fallen Puppet
+When a creature you can see within 30ft of you drops to 0 Hit Points, as a Reaction you can instil that creature with a final act of aggression. The creature immediately makes one Weapon Attack against a target of your choice within its Range.
 
-### Blood Curse of the Fallen Puppet
-
-[Reaction - Magic] When a creature you can see within 30ft of you drops to 0 Hit Points, you can instil that creature with a final act of aggression. The creature immediately makes one Weapon Attack against a target of your choice within its Range.
-
-Amplify. You can first cause the Cursed creature to Shift Move, and you grant a bonus to its Attack roll equal to your INT modifier (min 1).
+**Amplify**. You can first cause the cursed creature to move up to half its speed, and you grant a bonus to its attack roll equal to your Hemocraft modifier (min 1).
 
   
 
