@@ -170,10 +170,9 @@ Blood hunters belonging to the Order of the Profane Soul have pushed the limits 
 ### Level 3: Otherworldly Patron
 You strike a bargain with an otherworldly being of your choice, granting you a benefit based on your chosen pact.
 - Archfae. 
-- Celestial. As a Bonus Action, spend one use of your [[#Level 1 Hemocraft|Hemocraft]] to heal a creature you can see within 60ft. The creature regains a number of Hit Points equal to your Hemocraft Die + INT modifier (min 1)
-
-Fiend. While using the Rite of the Flame, you can treat a roll of 1 as a 2 on the Rite Damage die.
-Genie. [Bonus Action] Expend one use of your Blood Curse to give yourself a 30ft Fly Speed lasting INT modifier (min 1) rounds.
+- Celestial. As a Bonus Action, spend one use of your [[#Level 1 Hemocraft|Hemocraft]] to heal a creature you can see within 60ft. The creature regains a number of Hit Points equal to your Hemocraft Die + Hemocraft ability modifier (min 1)
+- Fiend. While using the Rite of the Flame, you can treat a roll of 1 as a 2 on the Rite Damage die.
+- Genie. As a Bonus Action, spend one use of your [[#Level 1 Hemocraft|Hemocraft]] to give yourself a 30ft Fly Speed lasting INT modifier (min 1) rounds.
 
 Great Old One. When you score a critical hit against a creature, that creature and any other creatures of your choice within 10ft of it are Frightened [Debuff] of you until the end of your next turn.
 Great Wyrm. 
