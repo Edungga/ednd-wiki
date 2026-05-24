@@ -46,7 +46,8 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ## Level 1: Hunter's Bane
 You have survived the Hunter’s Bane - a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it..
 
-Occult Lore. Whenever you make a Survival Checks to track non-Humanoid creatures, as well as on INT Checks to recall information about such creatures, you treat a roll of 7 or lower on the d20 as an 8.
+**Occult Lore**. Whenever you take the Search to analyse non-Humanoid creatures, you treat a roll of 7 or lower on the d20 as an 8.
+
 Sinister Insight. Whenever you make a Survival Checks to track non-Humanoid creatures, as well as on INT Checks to recall information about such creatures, you treat a roll of 7 or lower on the d20 as an 8.
 
 Whenever you make a Survival Checks to track non-Humanoid creatures, as well as on INT Checks to recall information about such creatures, you treat a roll of 7 or lower on the d20 as an 8.
