@@ -241,17 +241,12 @@ Until the curse ends, you gain the following benefits:
 - Your Attacks against the Cursed Creature have [[Conditions#Luck|Luck 1]]
 - If the cursed target dies, you regain Hit Points equal to your Warlock level + your CHA modifier (min 1).
 
-  
-
 ### Hexer
-
-Prerequisite: Spell with the Curse Tag or a Warlock feature that curses
+*Prerequisite: Spell or a Warlock feature that Curses*
 
 Double the range of Warlock Spells and Features that can Curse a Target. Also, you can add your CHA modifier (min 1) to Concentration checks to maintain a Spell with the Curse Tag.
 
-  
-
-### Improved Pact Weapon
+## Improved Pact Weapon
 
 Prerequisite: Pact of the Blade feature
 
