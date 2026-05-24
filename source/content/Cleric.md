@@ -13,14 +13,27 @@
 
 **Weapon Proficiencies**: Simple weapons
 
-Armor Training: Light and Medium armor and Shields
+**Armor Training**: Light and Medium armor and Shields
 
-Starting Equipment: Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, 7 GP; or (B) 110 GP
-Multiclassing
+**Starting Equipment**: Choose A or B: 
+- (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, 7 GP; or 
+- (B) 110 GP
+
+## Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
-Armor Training: Light and Medium armor and Shields
 
+**Armor Training**: Light and Medium armor and Shields
 
+---
+# Class Features
+|       |                   |                                           |          |     |     |     |     |     |     |     |     |     |
+| ----- | ----------------- | ----------------------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Level | Proficiency Bonus | Features                                  | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +2                | Spellcasting, Divine Domain, Holy Order   | 3        | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Channel Divinity, Domain Channel Divinity | 3        | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | Domain Spells                             | 3        | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Feat / ASI                                | 4        | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | Smite Undead, Domain Spells               | 4        | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 
 
 
