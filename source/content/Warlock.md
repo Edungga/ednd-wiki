@@ -98,12 +98,12 @@ In addition, whenever you cast that spell, you can choose one of the following a
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 Choose one of the following for your Patrons element; Water, Earth, Fire, Air
 
-| Warlock Level | Water Spells            | Earth Spells                    | Fire Spells                  | Air Spells                | All                                            |
-| ------------- | ----------------------- | ------------------------------- | ---------------------------- | ------------------------- | ---------------------------------------------- |
-| 3rd           | [[Blur]], [[Fog Cloud]] | [[Earth Tremor]], Earthen Grasp | Burning Hands, Scorching Ray | Gust of Wind, Thunderwave | [[Detect Good and Evil]], [[Phantasmal Force]] |
-| 5th           | [[Sleet Storm]]         | [[Meld into Stone]]             | Fireball                     | Wind Wall                 | Create Food and Water                          |
-| 7th           | [[Control Water]]       | [[Stone Shape]]                 | Fire Shield                  | Greater Invisibility      | Phantasmal Killer                              |
-| 9th           | [[Cone of Cold]]        | [[Wall of Stone]]               | Flame Strike                 | Seeming                   | Creation                                       |
+| Warlock Level | Water Spells            | Earth Spells                        | Fire Spells                          | Air Spells                        | All                                            |
+| ------------- | ----------------------- | ----------------------------------- | ------------------------------------ | --------------------------------- | ---------------------------------------------- |
+| 3rd           | [[Blur]], [[Fog Cloud]] | [[Earth Tremor]], [[Earthen Grasp]] | [[Burning Hands]], [[Scorching Ray]] | [[Gust of Wind]], [[Thunderwave]] | [[Detect Good and Evil]], [[Phantasmal Force]] |
+| 5th           | [[Sleet Storm]]         | [[Meld into Stone]]                 | [[Fireball]]                         | [[Wind Wall]]                     | [[Create Food and Water]]                      |
+| 7th           | [[Control Water]]       | [[Stone Shape]]                     | [[Fire Shield]]                      | [[Greater Invisibility]]          | [[Phantasmal Killer]]                          |
+| 9th           | [[Cone of Cold]]        | [[Wall of Stone]]                   | [[Flame Strike]]                     | [[Seeming]]                       | [[Creation]]                                   |
 
 ### Level 3: 
 
@@ -119,8 +119,17 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 7th           | [[Control Water]], [[Summon Elemental]] (Water only)                        |
 | 9th           | Bigby's hand (appears as a tentacle), [[Cone of Cold]]                      |
 
-### Level 3: 
+### Level 3: Tentacle of the Deeps
 
+
+### Level 3: Tentacle of the Deeps
+You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
+
+When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to 2d8.
+
+As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack.
+
+You can summon the tentacle a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## [[Higher Powers of Callitè#Fiends|Fiend]]
 ### Level 3: Fiend Spells
