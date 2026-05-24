@@ -101,15 +101,17 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your WIS mod
 # Divine Domains
 
 ## Death Domain
-
+Example Virtue's: 
 
 ## Life Domain
-
+Example Virtue's: 
 
 ## Light Domain
-
+Example Virtue's: 
 
 ## Trickery Domain
-
+Example Virtue's: 
 
 ## War Domain
+Example Virtue's: 
+
