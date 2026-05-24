@@ -163,6 +163,11 @@ Each time you gain a level, you can replace one technique you know with a differ
 
 
 ## College of Valour
+Bards of the College of Valour are daring storytellers whose tales keep alive the memory of the great heroes of the past. These Bards sing the deeds of the mighty, both past and present, in vaulted halls or to crowds gathered around great bonfires.	They travel the land to witness great events firsthand and to ensure that the memory of these events doesn’t pass from the world. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old.
+
+### 3rd Level: Martial Training
+Gain Proficiency with Martial Weapons and Armour Training with Medium Armour.
+Additionally, you may use any Weapon you are Proficient in as a Spellcasting Focus to cast Arcane Spells.
 
 
 
@@ -190,4 +195,5 @@ Each time you gain a level, you can replace one technique you know with a differ
 
 **Sprint (Presto)**. The song you conjure can stir the winds, pushing along those who require expedient travel. A creature that has a Bardic Inspiration die from you can expend and roll their Bardic Inspiration to increase their speed for that turn. 
 - A roll of 1-4 increases their speed of 10 feet, 
-- a roll of 5-8 increases their speed by 15 feet, and a roll of 9-12 increases their speed by 20 feet.
+- a roll of 5-8 increases their speed by 15 feet, 
+- and a roll of 9+ increases their speed by 20 feet.
