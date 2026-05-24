@@ -24,7 +24,8 @@ Ancient entities beneath the ocean the Mourning Isles
 - [[He Who Sleeps Beneath Tides]]
 - [[The Drowned Choir]]
 # Fiends
-
+- [[The Magistrate of Blood]]
+- 
 # Elemental Powers
 
 # Great Old Ones
