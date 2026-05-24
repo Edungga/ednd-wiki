@@ -122,23 +122,15 @@ As a Bonus Action, you choose one creature you can see within 30 feet of you tha
 
 **Amplify**. A creature that Possessed, [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] or [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] the target of your curse takes 3d6 Psychic Damage and must succeed on a WIS Save or be [[Conditions#Stunned (Debuff)|Stunned (Debuff)]] until the end of your next turn.
 
-  
+## Blood Curse of Exposure
+When a creature you can see within 30ft of you takes damage from an Attack or Spell, as a Reaction you can temporarily weaken its resilience. Until the end of the target’s next turn, it loses Resistance to all the Damage Types dealt by the triggering Attack or Spell (including for that triggering effect).
 
-### Blood Curse of Exposure
+**Amplify**. The target instead loses Immunity to the Damage Types of the triggering Attack or Spell, but has Resistance to those damage types until the end of its next turn.
 
-[Reaction - Magic] When a creature you can see within 30ft of you takes damage from an Attack or Spell, you can temporarily weaken its resilience. Until the end of the target’s next turn, it loses Resistance to all the Damage Types dealt by the triggering Attack or Spell (including for that triggering effect).
+## Blood Curse of the Eyeless
+When a creature you can see within 30ft of you makes an Attack, as a Reaction you can roll one Hemocraft Die and subtract the number rolled from the creature’s Attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the Attack hits or misses. The creature is Immune to this curse if it is immune to being [[Conditions#Blinded (Debuff)|Blinded (Debuff)]].
 
-Amplify. The target instead loses Immunity to the Damage Types of the triggering Attack or Spell, but has Resistance to those damage types until the end of its next turn.
-
-  
-  
-  
-
-### Blood Curse of the Eyeless
-
-[Reaction - Magic] When a creature you can see within 30ft of you makes an Attack, you can roll one Hemocraft Die and subtract the number rolled from the creature’s Attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the Attack hits or misses. The creature is Immune to this curse if it is immune to being Blinded [Debuff].
-
-Amplify. You apply this Curse to all the creature’s Attack rolls until the end of the creature’s turn. You roll separately for each affected Attack.
+**Amplify**. You apply this Curse to all the creature’s Attack rolls until the end of the creature’s turn. You roll separately for each affected Attack.
 
   
 
