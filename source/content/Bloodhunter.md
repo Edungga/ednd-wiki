@@ -46,7 +46,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ## Level 1: Hunter's Bane
 You have survived the Hunter’s Bane - a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it. 
 
-Whenever you make a Survival Checks to track creatures that are not Humanoid or Beast, as well as on INT Checks to recall information about such creatures, you treat a roll of 7 or lower on the d20 as an 8.
+Whenever you make a Survival Checks to track non-Humanoid creatures, as well as on INT Checks to recall information about such creatures, you treat a roll of 7 or lower on the d20 as an 8.
 
 The Hunter’s Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a Save to resist the feature’s effects. 
 
