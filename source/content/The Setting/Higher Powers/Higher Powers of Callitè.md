@@ -38,6 +38,7 @@ Things that should not exist within mortal understanding.
 # Great Wyrms
 Ancient, intelligent, and extraordinarily rare. Most are remembered as disasters rather than creatures.
 - [[Vaelorath the Hollow Flame]]
+- [[Storm's Tyrant]]
 # Undead Beings
 Some beings refused death so completely they became something worse.
 - [[Lady Seraphel, The Crimson Widow]]
