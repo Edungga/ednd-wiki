@@ -80,8 +80,10 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 # Eldritch Invocations
 
 ## Agonising Blast
-When you cast Eldritch Blast, add your CHA modifier (min 1) to the damage it deals on a hit.
+Choose one of your known Warlock cantrips that deals damage. Add your CHA modifier (min 1) to the damage it deals on a hit.
 
+**Repeatable**. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+ 
 ## Almanac’s Magic Map
 *Prerequisite: Pact of the Tome feature*
 
@@ -95,30 +97,18 @@ When you are hit with an Attack by a creature Cursed by you, as a Reaction you c
 ## Armour of Shadows
 You can cast [[Mage Armour]] on yourself at will, without expending a Spell Slot or Material Components.
 
-  
+## Ascendant Step
+*Prerequisite: 5th level*
 
-### Ascendant Step
+You can cast [[Levitate]] on yourself at will, without expending a Spell Slot or Material Components.
 
-Prerequisite: 5th level
-
-You can cast Levitate on yourself at will, without expending a Spell Slot or Material Components.
-
-  
-
-### Aspect of the Moon
-
+## Aspect of the Moon
 You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a Long Rest, you can spend all 8 hours doing light activity, such as reading and keeping watch.
 
-  
+## Beast Speech
+You can cast [[Speak with Animals]] at will, without expending a Spell Slot.
 
-### Beast Speech
-
-You can cast Speak with Animals at will, without expending a Spell Slot.
-
-  
-
-### Beguiling Influence
-
+## Beguiling Influence
 You gain Proficiency and Expertise in the Deception and Persuasion Skills.
 
   
