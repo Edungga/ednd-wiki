@@ -119,8 +119,8 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 7th           | [[Control Water]], [[Summon Elemental]] (Water only)                        |
 | 9th           | Bigby's hand (appears as a tentacle), [[Cone of Cold]]                      |
 
-### Level 3: Tentacle of the Deeps
-
+### Level 3: Gift of the Sea
+You gain a swimming speed of 40 feet, and you can breathe underwater.
 
 ### Level 3: Tentacle of the Deeps
 You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
