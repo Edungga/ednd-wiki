@@ -5,7 +5,7 @@ Casting Time: Action
 Range: Self
 Components: S
 Duration: Instantaneous
-Spell List: "[[Primal Spell List|Primal]]"
+Spell List: Primal
 tags:
   - Spell
 ---
@@ -17,9 +17,9 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
 
-| School      | Spell Circle | Casting Time | Range | Components | Duration      | Spell List                              |
-| ----------- | ------------ | ------------ | ----- | ---------- | ------------- | --------------------------------------- |
-| Conjuration | Cantrip      | Action       | Self  | S          | Instantaneous | [[Primal Spell List\|Primal]] |
+| School      | Spell Circle | Casting Time | Range | Components | Duration      | Spell List |
+| ----------- | ------------ | ------------ | ----- | ---------- | ------------- | ---------- |
+| Conjuration | Cantrip      | Action       | Self  | S          | Instantaneous | Primal     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->

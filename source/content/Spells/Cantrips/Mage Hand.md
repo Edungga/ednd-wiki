@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 30 ft
 Components: V,S
 Duration: 1 minute
-Spell List: "[[Arcane Spell List|Arcane]]"
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -17,9 +17,9 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
 
-| School      | Spell Circle | Casting Time | Range | Components | Duration | Spell List                              |
-| ----------- | ------------ | ------------ | ----- | ---------- | -------- | --------------------------------------- |
-| Conjuration | Cantrip      | Action       | 30 ft | V,S        | 1 minute | [[Arcane Spell List\|Arcane]] |
+| School      | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
+| ----------- | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
+| Conjuration | Cantrip      | Action       | 30 ft | V,S        | 1 minute | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->

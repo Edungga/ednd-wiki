@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 120 ft
 Components: S, M (a copper wire)
 Duration: Instantaneous
-Spell List: "[[Arcane Spell List|Arcane]]"
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -17,9 +17,9 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
 
-| School        | Spell Circle | Casting Time | Range  | Components           | Duration      | Spell List                              |
-| ------------- | ------------ | ------------ | ------ | -------------------- | ------------- | --------------------------------------- |
-| Transmutation | Cantrip      | Action       | 120 ft | S, M (a copper wire) | Instantaneous | [[Arcane Spell List\|Arcane]] |
+| School        | Spell Circle | Casting Time | Range  | Components           | Duration      | Spell List |
+| ------------- | ------------ | ------------ | ------ | -------------------- | ------------- | ---------- |
+| Transmutation | Cantrip      | Action       | 120 ft | S, M (a copper wire) | Instantaneous | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
