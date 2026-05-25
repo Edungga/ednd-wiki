@@ -85,7 +85,11 @@ You stay in that form for a number of hours equal to half your Druid level or un
 
 When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 
-When choosing known forms, you may look in the Monster Manual or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
+| Druid Level | Known Forms | Max CR | Fly Speed |
+| ----------- | ----------- | ------ | --------- |
+| 2           | 4           | 1/4    | No        |
+| 4           | 6           | 1/2    | No        |
+| 8           | 8           | 1      | Yes       |
 
 # Level 3: Druidic Grove
 
