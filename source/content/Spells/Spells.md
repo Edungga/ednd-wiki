@@ -6,9 +6,9 @@
 
 # Cantrips
 
-<!-- QueryToSerialize: table School
+<!-- QueryToSerialize: table School, spell-circle
 FROM "Spells"
-WHERE
+WHERE spell-circle ==
 -->
 <!-- SerializedQuery: table School FROM "Spells" -->
 
