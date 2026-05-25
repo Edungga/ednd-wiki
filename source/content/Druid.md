@@ -143,19 +143,19 @@ You have access to an additional Wild Shape form, choose one of the following; W
 
 #### Lycan
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Large Monstrosity*                                  |
-| **Armour Class**: 12 + your WIS modifier             |
-| **Hit Points**: 40 + five times your Druid level     |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Large Monstrosity*                                                                                                                                                                                                                                                                                                                                                          |
+| **Armour Class**: 12 + your WIS modifier                                                                                                                                                                                                                                                                                                                                     |
+| **Hit Points**: 40 + five times your Druid level                                                                                                                                                                                                                                                                                                                             |
+| **Speed**: 40ft Walk                                                                                                                                                                                                                                                                                                                                                         |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                                                                                                                                                                                                                                                                                                 |
+| **Skills**                                                                                                                                                                                                                                                                                                                                                                   |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                                                                                                                                                                                                         |
+| **TRAITS**<br>Pack Tactics. The werewolf has Advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isnt [[Conditions#Incapacitated (Condition)\|Incapacitated (Condition)]].                                                                                                                 |
+| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Attacks: one with its Bite and one with its Claws.<br>**Bite**. Melee Weapon Attack: your Spell Attack Modifier to hit, reach 5ft, one target. Hit: 1d8 + 4 Piercing Damage<br>**Claw**. Melee Weapon Attack: your Spell Attack Modifier to hit, reach 5ft, one target. Hit: 2d4 + 4 Slashing Damage |
+| **BONUS ACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                                                                               |
+| **REACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                                                                                   |
 
 #### Owlbear
 
