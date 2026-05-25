@@ -34,7 +34,7 @@ While you aren't wearing armor or wielding a Shield, your base Armor Class equal
 ## Level 1: Martial Arts
 Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are any Weapons you have Proficiency with.
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons, and you aren't wearing armour ( you can wield a Shield.
+You gain the following benefits while you are unarmed or wielding only Monk weapons, and you aren't wearing armour ( you can wield a Shield).
 
 **The only Guns you need**. Your Unarmed Strikes are Monk weapons and count as Melee Weapons.
 
@@ -42,4 +42,19 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 
 **Martial Arts Die**. You can roll 1d6 in place of the normal damage of your Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
-**Dexterous Attacks**. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
+**Dexterous Attacks**. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
+
+## Ki
+Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Ki. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table.
+
+You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
+
+When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points.
+
+Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.
+
+Flurry of Blows. You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
+
+Patient Defense. You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
+
+Step of the Wind. You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
