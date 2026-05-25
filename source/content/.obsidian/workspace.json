@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/spell test.md",
+                "file": "Spells/Spells.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "spell test"
+              "title": "Spells"
             }
           }
         ]
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/spell test.md",
+                "file": "Spells/Spells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for spell test"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/spell test.md",
+                "file": "Spells/Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of spell test"
+              "title": "Outline of Spells"
             }
           }
         ]
@@ -217,10 +217,10 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "9264ae25c996f316",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Spells/Cantrips/Acid Splash.md",
     "Spells/spell test.md",
+    "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
     "Spells/Spells.md",
     "Rules/Conditions.md",

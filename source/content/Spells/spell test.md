@@ -1,10 +1,5 @@
 
 
-<!-- QueryToSerialize: table School
-FROM "Spells"
--->
-<!-- SerializedQuery: table School FROM "Spells" -->
-
 | File                                                      | School        |
 | --------------------------------------------------------- | ------------- |
 | [[Acid Splash]]           | Evocation     |
