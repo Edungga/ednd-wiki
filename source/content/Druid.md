@@ -91,7 +91,11 @@ When you reach certain Druid levels, your number of known forms and the maximum 
 | 4           | 6           | 1/2    | No        |
 | 8           | 8           | 1      | Yes       |
 
-Rules While Shape. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
+**Rules While Shapechanged**. While in a Beast form, you retain your personality, memories, and ability to speak, and the following rules apply:
+
+
+
+No Spellcasting. You can't cast spells, but shape-shifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
 
 # Level 3: Druidic Grove
 
