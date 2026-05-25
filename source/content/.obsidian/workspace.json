@@ -35,8 +35,7 @@
               "title": "All Spells List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e5a0230f05b1b0d2",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/All Spells List.md",
+                "file": "Spells/Spells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for All Spells List"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -191,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/All Spells List.md",
+                "file": "Spells/Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of All Spells List"
+              "title": "Outline of Spells"
             }
           }
         ]
@@ -219,10 +218,10 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "ddfdfff9348f06a3",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Spells/Spells.md",
     "Spells/All Spells List.md",
+    "Spells/Spells.md",
     "Spells/Spells.base",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/spell test.md",
