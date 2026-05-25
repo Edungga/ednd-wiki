@@ -38,12 +38,12 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 
 
-# Level 1: Druidic Initiate
+## Level 1: Druidic Initiate
 You know the secret language of druids, you learn Sylvan or another language of your choice. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 INT (Investigation) Check but can't decipher it without magic.
 
 In addition, your mystical connection to nature gives you a bonus to your Arcana and Nature checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 
-# Level 1: Spellcasting
+## Level 1: Spellcasting
 Drawing on the primeval essence of nature itself, you can cast spells to shape that essence to your will.
 
 **Cantrips**. You know two [[Spells#Cantrips|Cantrips]] of your choice from the [[Primal Spell List]]. Whenever you gain a Druid level, you can replace one of your Cantrips with another Cantrip of your choice from the Primal Spell List.
@@ -64,16 +64,17 @@ You can change your list of Prepared Spells when you finish a Long Rest. 
 
 **Spellcasting Focus**. You can use a Druid Focus as a Spellcasting Focus for the Spells you prepare for this class.
 
-# Level 2: Primal Surge
+## Level 2: Primal Surge
 Your control over the powers of nature have granted you access to Primal Surges.
 
+**Number of Uses**. You can use Primal Surges a number of times equal to your Proficiency Bonus. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
-Wild Companion
+### Wild Companion
 You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of [[#Level 2 Wild Shape|Wild Shape]] to cast the [[Find Familiar]] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
-# Level 2: Wild Shape
+### Wild Shape
 The power of nature allows you to assume the form of an animal. As a Bonus Action, you Shapechange into a Beast form that you have learned for this feature (see [[Wild Shape]]). 
 
 You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or die. You can also leave the form early as a Bonus Action.
@@ -96,7 +97,7 @@ Game Statistics. Your game statistics are replaced by the Beast's stat block, bu
 
 No Spellcasting. You can't cast spells, but shape-shifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
 
-# Level 3: Druidic Grove
+## Level 3: Druidic Grove
 
 
 ## Level 4: Ability Score Improvement
