@@ -68,8 +68,7 @@
               "title": "Spells"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +217,7 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "9264ae25c996f316",
   "lastOpenFiles": [
     "Spells/Cantrips/Acid Splash.md",
     "Spells/spell test.md",
