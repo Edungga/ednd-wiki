@@ -1,7 +1,7 @@
 {
   "foldersToScan": [],
   "ignoredFolders": [],
-  "disableAutomaticUpdates": true,
+  "disableAutomaticUpdates": false,
   "showRefreshButton": true,
   "foldersToForceUpdate": [],
   "showErrorNotifications": true,
