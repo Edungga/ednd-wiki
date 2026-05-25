@@ -49,7 +49,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 **Warden**. Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
 
 # Level 1: Spellcasting
-Drawing on the primaeval essence of nature itself, you can cast spells to shape that essence to your will.
+Drawing on the primeval essence of nature itself, you can cast spells to shape that essence to your will.
 
 **Cantrips**. You know two [[Spells#Cantrips|Cantrips]] of your choice from the [[Primal Spell List]]. Whenever you gain a Druid level, you can replace one of your Cantrips with another Cantrip of your choice from the Primal Spell List.
 
