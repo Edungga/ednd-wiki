@@ -36,4 +36,4 @@ When you take the Help action, you do one of the following.
 
 **Assist an Attack Roll**. You momentarily distract an enemy within 5 feet of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn
 
-Stabilise. You can Attempt to Stabilise a [[Conditions#Dying (Condition)|Dying (Condition)]] Creature in your Melee Range. You must make a WIS (Medicine) Check DC 10, on a success they are no longer Dying [Condition]
+**Stabilise**. You can Attempt to Stabilise a [[Conditions#Dying (Condition)|Dying (Condition)]]. Creature in your Melee Range. You must make a WIS (Medicine) Check DC 10, on a success they are no longer [[Conditions#Dying (Condition)|Dying (Condition)]] 
