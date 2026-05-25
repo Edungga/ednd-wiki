@@ -16,12 +16,12 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 ## Badger
-| Wild Shape                                           |
+| Badger - Wild Shape                                  |
 | ---------------------------------------------------- |
 | *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
+| **Armour Class**: 8 + your WIS modifier              |
+| **Hit Points**: 5 + your Druid level                 |
+| **Speed**: 20ft Walk, 20ft Burrow                    |
 | STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
 | **Skills**                                           |
 | **Senses** Darkvision 120 ft., passive Perception 12 |
