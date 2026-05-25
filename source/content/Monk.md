@@ -102,7 +102,7 @@ You become attuned to an elemental Axiom; Water, Earth, Fire, or Air. You gain t
 Air. You learn the Air Bend and Air Burst Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Air) Forms.
 
 ### Level 3: Elemental Manipulation
-YOu 
+You know the Cantrips, they all count as  
 
 
 
@@ -111,7 +111,7 @@ YOu
 
 ---
 # Forms
-You Monk abilities fuelled by Ki
+You Monk abilities fuelled by [[#Level 2 Ki]]
 ## Basic Forms
 ### Flurry of Blows
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
