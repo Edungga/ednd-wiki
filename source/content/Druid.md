@@ -75,7 +75,15 @@ You can summon a nature spirit that assumes an animal form to aid you. As a Magi
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
 # Level 2: Wild Shape
+The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.
 
+**Number of Uses**. You can use Wild Shape a number of times equal to your Proficiency Bonus. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+
+**Known Forms**. You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
+
+When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
+
+When choosing known forms, you may look in the Monster Manual or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
 
 # Level 3: Druidic Grove
 
