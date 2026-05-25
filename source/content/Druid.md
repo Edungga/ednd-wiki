@@ -150,8 +150,10 @@ Changeable as the moon, a Druid of this circle might prowl as a great cat one ni
 | 7th         | [[Fount of Moonlight]]         |
 | 9th         | [[Mass Cure Wounds]]           |
 
-### Level 3: Grove of 
+### Level 3: Grove of Shifters
 
+
+While you are Wild Shaped, you can Shapechange into another form as a Bonus Action without expending another use of your Wild Shape feature. Changing forms in this way does not reset the timer for how long you can be Wild Shaped for, the duration is based on when you first Wild Shaped.
 
 
 
