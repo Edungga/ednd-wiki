@@ -34,9 +34,9 @@ While you aren't wearing armor or wielding a Shield, your base Armor Class equal
 ## Level 1: Martial Arts
 Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are any Weapons you have Proficiency with.
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons, and you aren't wearing armour or wielding a Shield.
+You gain the following benefits while you are unarmed or wielding only Monk weapons, and you aren't wearing armour ( you can wield a Shield.
 
-**The only Guns you need**. Your Unarmed Strikes count as Melee Weapons
+**The only Guns you need**. Your Unarmed Strikes are Monk weapons and count as Melee Weapons.
 
 **Bonus Unarmed Strike**. You can make an Unarmed Strike as a Bonus Action.
 
