@@ -16,19 +16,17 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 ## Badger
-| Badger - Wild Shape                                                                 |
-| ----------------------------------------------------------------------------------- |
-| *Tiny Beast*                                                                        |
-| **Armour Class**: 8 + your WIS modifier                                             |
-| **Hit Points**: 5 + your Druid level                                                |
-| **Speed**: 20ft Walk, 20ft Burrow                                                   |
-| STR 10 (0)  \|  DEX 11 (0)  \|  CON 16 (+3)                                         |
-| **Skills** Perception +3                                                            |
-| **Senses** Darkvision 30 ft., Passive Perception 13                                 |
-| **TRAITS**<br>**test**.                                                             |
-| **ACTIONS**<br>**Bite**. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage. |
-| **BONUS ACTIONS**<br>**test**.                                                      |
-| **REACTIONS**<br>**test**.                                                          |
+| Badger - Wild Shape                                                                                       |
+| --------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                              |
+| **Armour Class**: 8 + your WIS modifier                                                                   |
+| **Hit Points**: 5 + your Druid level                                                                      |
+| **Speed**: 20ft Walk, 20ft Burrow                                                                         |
+| STR 10 (0)  \|  DEX 11 (0)  \|  CON 16 (+3)                                                               |
+| **Skills** Perception +3                                                                                  |
+| **Senses** Darkvision 30 ft., Passive Perception 13                                                       |
+| **TRAITS**<br>**Keen Smell**. The Badger has advantage on ability checks that rely on its sense of smell. |
+| **ACTIONS**<br>**Bite**. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.                       |
 
 ## Bat
 
