@@ -77,19 +77,20 @@ The power of nature allows you to assume the form of an animal. As a Bonus Actio
 
 You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or die. You can also leave the form early as a Bonus Action.
 
-| Wild Shape                                                                           |
-| ------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                         |
-| **Armour Class**: 9 + your WIS modifier (Natural Armour)                             |
-| **Hit Points**: 2 + your Druid level                                                 |
-| **Speed**: 40ft Walk                                                                 |
-| STR 3 (-4) \| DEX 14 (+2) \| CON 12 (+1) \| INT 11 (+0) \| WIS 14 (+2) \| CHA 8 (-1) |
-| Proficiency Bonus equals your bonus<br>                                              |
-| Senses Darkvision 120 ft., passive Perception 12                                     |
-| Languages Telepathy 120 ft. (only between you and the familiar)                      |
-| **ACTIONS**<br>**test**.                                                             |
-| **BONUS ACTIONS**<br>**test**.                                                       |
-| **REACTIONS**<br>**test**.                                                           |
+| Wild Shape                                                      |
+| --------------------------------------------------------------- |
+| *Tiny Beast*                                                    |
+| **Armour Class**: 9 + your WIS modifier (Natural Armour)        |
+| **Hit Points**: 2 + your Druid level                            |
+| **Speed**: 40ft Walk                                            |
+| \|  STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)  \|            |
+| Senses Darkvision 120 ft., passive Perception 12                |
+| Languages Telepathy 120 ft. (only between you and the familiar) |
+| **ACTIONS**<br>**test**.                                        |
+| **BONUS ACTIONS**<br>**test**.                                  |
+| **REACTIONS**<br>**test**.                                      |
+| **REACTIONS**<br>**test**.                                      |
+|                                                                 |
 
 
 
