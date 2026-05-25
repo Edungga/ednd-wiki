@@ -129,10 +129,10 @@ If you have no [[#Level 2 Primal Surge|Primal Surges]] left, you can expend a Sp
 You have access to an additional Wild Shape form, choose one of the following; Wendigo, Lycan, Owlbear, or Displacer Beas
 #### Wendigo
 
-| Wild Shape                                           |
+| Wendigo - Wild Shape                                 |
 | ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
+| *Large Monstrosity*                                  |
+| **Armour Class**: 30 + two times your WIS modifier   |
 | **Hit Points**: 2 + your Druid level                 |
 | **Speed**: 40ft Walk                                 |
 | STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
