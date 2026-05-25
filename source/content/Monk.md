@@ -86,7 +86,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 ## Way of the Elements
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
 
-### Level 3: Elemental Attunement
+### Level 3: Ki Form - Elemental Attunement
 At the start of your turn, you can expend 1 Ki to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. You gain the following benefits while this feature is active.
 
 
@@ -101,6 +101,8 @@ You become attuned to an elemental Axiom; Water, Earth, Fire, or Air. You gain t
 
 Air. You learn the Air Bend and Air Burst Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Air) Forms.
 
+### Level 3: Elemental Manipulation
+YOu 
 
 
 
