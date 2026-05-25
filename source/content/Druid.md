@@ -53,3 +53,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 # Level 3: Druidic Grove
 
 
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
+
+
+## Level 5: Wild Resurgence
+
+
+---
+# Druidic Grove
+
