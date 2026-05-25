@@ -1,6 +1,5 @@
 ---
 School:
-  - Transmutation
 Spell Circle:
   - Cantrip
 Casting Time: Action

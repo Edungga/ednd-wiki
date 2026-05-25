@@ -1,6 +1,5 @@
 ---
-School:
-  - Abjuration
+School: Abjuration
 Spell Circle:
   - Cantrip
 Casting Time: Bonus Action

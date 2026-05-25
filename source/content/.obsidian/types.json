@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "School": "multitext",
+    "School": "text",
     "Spell Circle": "multitext",
     "Spell List": "multitext"
   }

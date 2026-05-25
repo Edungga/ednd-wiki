@@ -1,6 +1,5 @@
 ---
-School:
-  - Evocation
+School: Evocation
 Spell Circle:
   - Cantrip
 Casting Time: Action
