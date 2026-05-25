@@ -20,6 +20,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+      - property: Spell List
+        direction: DESC
       - property: Spell Circle
         direction: DESC
       - property: School

@@ -34,9 +34,35 @@
               "icon": "lucide-file",
               "title": "Acid Splash"
             }
+          },
+          {
+            "id": "2939a016fb840101",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Spells/Spells.base",
+                "viewName": "All Spells"
+              },
+              "icon": "lucide-table",
+              "title": "Spells"
+            }
+          },
+          {
+            "id": "79d553baffce01e1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Spells/Spells.base",
+                "viewName": "All Spells"
+              },
+              "icon": "lucide-table",
+              "title": "Spells"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/Spells.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Acid Splash"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -157,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/Spells.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acid Splash"
+              "title": "Outline of Spells"
             }
           }
         ]
@@ -185,8 +211,10 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "c36e1f0312291a9b",
+  "active": "2939a016fb840101",
   "lastOpenFiles": [
+    "Spells/Cantrips/Acid Splash.md",
+    "Spells/Spells.base",
     "Spells/Spells.md",
     "index.md",
     "Spells/Primal Spell List.md",
@@ -194,8 +222,6 @@
     "Spells/Divine Spell List.md",
     "Spells/All Spells List.md",
     "Spells/spell test.md",
-    "Spells/Spells.base",
-    "Spells/Cantrips/Acid Splash.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
     "Classes/Warlock.md",
@@ -219,7 +245,6 @@
     "The Setting/Higher Powers/Fiends/The Magistrate of Blood.md",
     "The Setting/Higher Powers/Fiends",
     "The Setting/Higher Powers/Fathomless Beings",
-    "The Setting/Higher Powers/Fathomless Beings/The Drowned Choir.md",
     "The Setting/Higher Powers/Archfae",
     "The Setting/Higher Powers/The Virtues",
     "The Setting/Higher Powers"
