@@ -28,13 +28,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Features                                                                                                            | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | ---------------------------------------------------------------------------------------------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st   | +2            [[#Level 1 Druidic\|Druidic]], [[#Level 1 Primal Order\|Primal Order]], [[#Level 1 Spellcasting\|Spellcasting]]  ,  ,  ,  | 2        | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Wild Shape, Of                                                                                                      | 2        | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                |                                                                                                                     | 2        | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                | Wild Shape Fo                                                                                                       | 3        | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                | Grove Spell                                                                                                         | 3        | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| Level | Proficiency Bonus | Features                                                                                                        | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | --------------------------------------------------------------------------------------------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | [[#Level 1 Druidic\|Druidic]], [[#Level 1 Primal Order\|Primal Order]], [[#Level 1 Spellcasting\|Spellcasting]] | 2        | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                |                                                                                                                 | 2        | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                |                                                                                                                 | 2        | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                |                                                                                                                 | 3        | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                |                                                                                                                 | 3        | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 
 
 
