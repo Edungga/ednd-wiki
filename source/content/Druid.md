@@ -143,14 +143,14 @@ Druids of the Circle of the Moon draw on lunar magic to transform themselves. Th
 Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood.
 ### Level 3: Grove Spells
 
-| Druid Level | Spells                            |
-| ----------- | --------------------------------- |
-| 3rd         | [[Cure Wounds]], [[Moon Beam]]    |
-| 5th         | Conjure Animals                   |
-| 7th         | [[Fount of Moonlight]]            |
-| 9th         | Commune with Nature, Cone of Cold |
+| Druid Level | Spells                         |
+| ----------- | ------------------------------ |
+| 3rd         | [[Cure Wounds]], [[Moon Beam]] |
+| 5th         | [[Conjure Animals]]            |
+| 7th         | [[Fount of Moonlight]]         |
+| 9th         | [[Mass Cure Wounds]]           |
 
-### Level 3: 
+### Level 3: Grove of 
 
 
 
