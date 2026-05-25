@@ -6,6 +6,12 @@
 
 # Cantrips
 
+<!-- QueryToSerialize: table School
+FROM "Spells"
+WHERE 
+-->
+<!-- SerializedQuery: table School FROM "Spells" -->
+
 
 # 1st Circle
 

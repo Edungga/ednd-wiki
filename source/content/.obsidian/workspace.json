@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Spells List.md",
+                "file": "Spells/Spells.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "All Spells List"
+              "title": "Spells"
             }
           }
         ]
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Spells List.md",
+                "file": "Spells/Spells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for All Spells List"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Spells List.md",
+                "file": "Spells/Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of All Spells List"
+              "title": "Outline of Spells"
             }
           }
         ]
@@ -220,10 +220,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Spells/Spells.base",
-    "All Spells List.md",
+    "Spells/All Spells List.md",
     "Spells/Spells.md",
     "Spells/spell test.md",
+    "Spells/Spells.base",
     "Spells/Cantrips/Acid Splash.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
