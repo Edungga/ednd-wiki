@@ -32,7 +32,7 @@ We also have some Home Rules to spice things up a bit
 - [[Cleric]] - up to lvl 5
 - [[Druid]] - 1 level
 - [[Fighter]] - up to lvl 5
-- [[Monk]]
+- [[Monk]] - up to lvl 5
 - [[Paladin]]
 - [[Ranger]]
 - [[Rogue]]

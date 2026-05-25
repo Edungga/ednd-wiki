@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monk.md",
+                "file": "Paladin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monk"
+              "title": "Paladin"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monk.md",
+                "file": "Paladin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Monk"
+              "title": "Outline of Paladin"
             }
           }
         ],
@@ -172,9 +172,10 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
-    "Classes/Fighter.md",
-    "Monk.md",
     "index.md",
+    "Paladin.md",
+    "Classes/Monk.md",
+    "Classes/Fighter.md",
     "Druid.md",
     "Rules/Wild Shapes.md",
     "Find Familiar.md",
@@ -198,7 +199,6 @@
     "Spells/Cantrips/Word of Radiance.md",
     "Spells/Cantrips/Vicious Mockery.md",
     "Spells/Cantrips/True Strike.md",
-    "Spells/Cantrips/Toll the Dead.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
