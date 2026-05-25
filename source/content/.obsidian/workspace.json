@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Spells/Cantrips/Control Flames.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spells"
+              "title": "Backlinks for Control Flames"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Spells/Cantrips/Control Flames.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of Control Flames"
             }
           }
         ]
@@ -198,10 +198,10 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "2939a016fb840101",
+  "active": "a90268c1b5ffb0e5",
   "lastOpenFiles": [
-    "Spells/Cantrips/Control Flames.md",
     "Spells/Spells.base",
+    "Spells/Cantrips/Control Flames.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.md",
     "Spells/All Spells List.md",
