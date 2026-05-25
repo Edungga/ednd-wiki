@@ -47,7 +47,7 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 ## Level 2: Ki
 Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Ki. Your Monk level determines the number of points you have, as shown in the Ki Points column of the Monk Features table.
 
-You can expend these points to enhance or fuel certain Monk features known as [[#Forms|Forms]]. You start by knowing the three [[#Basic Forms|Basic Forms]]: Flurry of Blows, Patient Defense, and Step of the Wind.
+You can expend these points to enhance or fuel certain Monk features known as [[#Forms|Forms]]. You start by knowing the three [[#Basic Forms|Basic Forms]]: [[#Flurry of Blows|Flurry of Blows]], [[#Patient Defense|Patient Defense]], and [[#.
 
 When you regain all expended Ki, when you finish a Short or Long Rest.
 
