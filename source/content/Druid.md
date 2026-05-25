@@ -153,7 +153,7 @@ Changeable as the moon, a Druid of this circle might prowl as a great cat one ni
 ### Level 3: Grove of Shifters
 You can channel lunar magic when you assume a Wild Shape form, granting you the benefits below.
 
-**Stronger Forms**. The CR limit for your [[Wild Shapes#|Wild Shape]] Beast forms increases to be your . 
+**Stronger Forms**. The CR limit for your [[Wild Shapes#|Wild Shape]] Beast forms increases to be your Druid level divided by 3 (round down). 
 
 **Ever-shifting**. While you are Wild Shaped, you can Shapechange into another form as a Bonus Action without expending another [[#Level 2 Primal Surge|Primal Surge]]. Changing forms in this way does not reset the timer for how long you can be Wild Shaped for, the duration is based on when you first Wild Shaped. Similarly, your Hit Points remain the same when Shapechanging this way.
 
