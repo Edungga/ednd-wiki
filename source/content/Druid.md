@@ -28,25 +28,20 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Features                                                                                                                          | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st   | +2                | [[#Level 1 Druidic Initiate\|Druidic Initiate]], [[#Level 1 Primal Order\|Primal Order]], [[#Level 1 Spellcasting\|Spellcasting]] | 2        | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                |                                                                                                                                   | 2        | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                |                                                                                                                                   | 2        | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                |                                                                                                                                   | 3        | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                |                                                                                                                                   | 3        | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| Level | Proficiency Bonus | Features                                                                                 | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ---------------------------------------------------------------------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | [[#Level 1 Druidic Initiate\|Druidic Initiate]], [[#Level 1 Spellcasting\|Spellcasting]] | 2        | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                |                                                                                          | 2        | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                |                                                                                          | 2        | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                |                                                                                          | 3        | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                |                                                                                          | 3        | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 
 
 
 # Level 1: Druidic Initiate
 You know the secret language of druids, you learn Sylvan or another language of your choice. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 INT (Investigation) Check but can't decipher it without magic.
 
-# Level 1: Primal Order
-You have dedicated yourself to one of the following sacred roles of your choice.
-
-**Magician**. You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
-
-**Warden**. Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
+In addition, your mystical connection to nature gives you a bonus to your Arcana and Nature checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 
 # Level 1: Spellcasting
 Drawing on the primeval essence of nature itself, you can cast spells to shape that essence to your will.
