@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/spell test.md",
+                "file": "Spells/Spells.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for spell test"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/spell test.md",
+                "file": "Spells/Spells.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of spell test"
+              "title": "Outline of Spells"
             }
           }
         ]
@@ -217,10 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "3328d2389bc552df",
   "lastOpenFiles": [
-    "Spells/Spells.base",
     "Spells/spell test.md",
+    "Spells/Spells.base",
     "Spells/Cantrips/Acid Splash.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",

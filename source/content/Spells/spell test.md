@@ -1,5 +1,5 @@
 
 ``` dataview
-table School
+table School, Spell-Circle, Casting-Time, Range, Components, Duration
 
 ```
