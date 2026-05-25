@@ -11,6 +11,22 @@ Spell List:
 tags:
   - Spell
 ---
+
+<!-- QueryToSerialize: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List"
+FROM "Spells"
+WHERE file.name = this.file.name
+FLATTEN spell-list
+-->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
+
+| School        | Spell Circle | Casting Time | Range | Components | Duration                            | Spell List |
+| ------------- | ------------ | ------------ | ----- | ---------- | ----------------------------------- | ---------- |
+| Transmutation | Cantrip      | Action       | 60 ft | S          | Instantaneous or 1 hour (see below) | Arcane     |
+| Transmutation | Cantrip      | Action       | 60 ft | S          | Instantaneous or 1 hour (see below) | Primal     |
+
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
+
 You manipulate a Mundane flame that you can see within Range and that fits within a 5ft cube in one of the following ways:
 - You instantaneously expand the flame 5ft in one direction, provided that fuel is present in the new location
 - You instantaneously extinguish the flames within the cube
