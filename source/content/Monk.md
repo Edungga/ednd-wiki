@@ -90,5 +90,16 @@ You can attack twice instead of once whenever you take the Attack action on your
 # Monastic Traditions
 
 ## Way of the Elements
-You follow a monastic tradition that teaches you to harness a chosen element. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
+You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
 
+### Level 3: Elemental Attunement
+You become attuned to an elemental Axiom; Water, Earth, Fire, or Air. You gain the following traits based of your Elemental Attunement:
+
+- Water. You learn the Water Bend and Ice Shard Ki Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Water) Forms.
+    
+- Earth. You learn the Earth Bend and Launch Stone Ki Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Earth) Forms.
+    
+- Fire. You learn the Fire Bend and Conjure Flame Ki Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Fire) Forms.
+    
+
+Air. You learn the Air Bend and Air Burst Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Air) Forms.
