@@ -36,6 +36,8 @@ Your practice of martial arts gives you mastery of combat styles that use your U
 
 You gain the following benefits while you are unarmed or wielding only Monk weapons, and you aren't wearing armour or wielding a Shield.
 
+The only Guns you need. 
+
 **Bonus Unarmed Strike**. You can make an Unarmed Strike as a Bonus Action.
 
 **Martial Arts Die**. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
