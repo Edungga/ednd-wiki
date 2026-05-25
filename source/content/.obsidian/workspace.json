@@ -41,16 +41,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "Spells/Arcane Spell List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Arcane Spell List"
+            }
+          },
+          {
+            "id": "61d313202e7478fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spells/Cantrips/Acid Splash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acid Splash"
+            }
+          },
+          {
+            "id": "47ecd939977e4fae",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Spells/Spells.base",
+                "viewName": "All Spells"
+              },
+              "icon": "lucide-table",
               "title": "Spells"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "Spells/Cantrips/Acid Splash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spells"
+              "title": "Backlinks for Acid Splash"
             }
           },
           {
@@ -171,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "Spells/Cantrips/Acid Splash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of Acid Splash"
             }
           }
         ]
@@ -199,10 +226,12 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "4c62cf010c8c8d9e",
+  "active": "61d313202e7478fa",
   "lastOpenFiles": [
-    "index.md",
+    "Spells/Arcane Spell List.md",
     "Spells/Spells.base",
+    "Spells/Spells.md",
+    "index.md",
     "Spells/Cantrips/Word of Radiance.md",
     "Spells/Cantrips/Vicious Mockery.md",
     "Spells/Cantrips/True Strike.md",
@@ -225,9 +254,6 @@
     "Spells/Cantrips/Poison Spray.md",
     "Spells/Cantrips/Mould Earth.md",
     "Spells/Cantrips/Minor Illusion.md",
-    "Spells/Cantrips/Message.md",
-    "Spells/Cantrips/Mending.md",
-    "Spells/Cantrips/Magic Stone.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
