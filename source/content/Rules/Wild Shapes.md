@@ -30,7 +30,6 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-
 ## Bat
 
 | Bat - Wild Shape                                                                                                                                                                                                           |
@@ -43,6 +42,54 @@
 | **Senses** Blindsight 60 ft., Passive Perception 11                                                                                                                                                                        |
 | **TRAITS**<br>**Echolocation.** When you make a Check that uses its hearing, treat a d20 roll of 9 or lower as a 10. It loses this benefit and its Blindsight if it is [[Conditions#Deafened (Debuff)\|Deafened (Debuff)]] |
 | **ACTIONS**<br>**Bite**. Melee Attack Roll: +4 to hit, reach 5 ft. Hit: 1 Piercing damage.                                                                                                                                 |
+
+# Blood Hawk
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+# Boar
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+# Camel
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
 
 ## Cat
 
@@ -58,6 +105,22 @@
 | **TRAITS**<br>**Jumper**. The cat's jump distance is determined using its Dexterity rather than its Strength.                                                                              |
 | **ACTIONS**<br>**Scratch**. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.                                                                                                     |
 | **REACTIONS**<br>**Reflexive Fall**. When the Cat falls, it can reduce any falling damage it takes by its Dexterity score (15). If it reduces this damage to 0, the Cat lands on its feet. |
+
+# Consa
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
 
 # Crab
 
