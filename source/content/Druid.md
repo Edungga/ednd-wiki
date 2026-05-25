@@ -91,6 +91,8 @@ When you reach certain Druid levels, your number of known forms and the maximum 
 | 4           | 6           | 1/2    | No        |
 | 8           | 8           | 1      | Yes       |
 
+Rules While Shape. While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
+
 # Level 3: Druidic Grove
 
 
