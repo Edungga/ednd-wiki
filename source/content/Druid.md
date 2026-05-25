@@ -126,7 +126,7 @@ If you have no [[#Level 2 Primal Surge|Primal Surges]] left, you can expend a Sp
 | 9th         | Commune with Nature, Cone of Cold |
 
 ### Level 3: Form of the Blood Moon
-You have access to an additional Wild Shape form, choose one of the following; Wendigo, Lycan, Owlbear, or Displacer Beas
+You have access to an additional Wild Shape form, choose one of the following; Wendigo, Lycan, Owlbear, or Displacer Beast
 #### Wendigo
 
 | Wendigo - Wild Shape                                                                                                                                                                                                                                                                                                      |
@@ -138,10 +138,10 @@ You have access to an additional Wild Shape form, choose one of the following; W
 | STR 19 (+4)  \|  DEX 16 (+3)  \|  CON 15 (+2)                                                                                                                                                                                                                                                                             |
 | **Skills** Athletics +7, Perception, +5, Stealth +6, Survival +5                                                                                                                                                                                                                                                          |
 | **Senses** Darkvision 120 ft., passive Perception 15                                                                                                                                                                                                                                                                      |
-| **TRAITS**<br>**test**.                                                                                                                                                                                                                                                                                                   |
+| **TRAITS**<br>**Magic Resistance**. The wendigo has advantage on saving throws against spells and other magical effects.                                                                                                                                                                                                  |
 | **ACTIONS**<br>**Multiattack** (*Requires 5th+ Level*). Can make two Attacks: one with its Bite and one with its Claws.<br>**Bite**. Melee Weapon Attack: +7 to hit, reach 5ft, one target. Hit: 1d8 + 4 Piercing Damage<br>**Claw**. Melee Weapon Attack: +7 to hit, reach 5ft, one target. Hit: 2d4 + 4 Slashing Damage |
-| **BONUS ACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                            |
-| **REACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                                |
+
+Lycan
 
 
 ## Elemental Grove
