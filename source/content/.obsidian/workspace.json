@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "All Spells List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "All Spells List"
             }
           }
         ]
@@ -68,7 +68,8 @@
               "title": "Spells"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "Spells/Spells.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "Spells/Spells.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,12 +218,13 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "a446b5778dec2714",
   "lastOpenFiles": [
+    "All Spells List.md",
+    "Spells/Spells.md",
     "Spells/spell test.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
-    "Spells/Spells.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
     "index.md",

@@ -1,49 +1,10 @@
+[[All Spells List]]
+
 [[Arcane Spell List]]
 [[Divine Spell List]]
 [[Primal Spell List]]
+
 # Cantrips
-| name                 | School        | Casting Time                                     | Range                 | Components                                                                                 | Duration                            |
-| -------------------- | ------------- | ------------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------- |
-| [[Acid Splash]]      | Evocation     | Action                                           | 60 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Blade Ward]]       | Abjuration    | Bonus Action                                     | Self                  | V,S                                                                                        | Concentration, up to 1 minute       |
-| [[Chill Touch]]      | Necromancy    | Action                                           | 60 ft                 | S                                                                                          | Instantaneous                       |
-| [[Control Flames]]   | Transmutation | Action                                           | 60 ft                 | S                                                                                          | Instantaneous or 1 hour (see below) |
-| [[Dancing Lights]]   | Evocation     | Action                                           | 120 ft                | V, S, M (a bit of phosphorus or wychwood, or a bioluminescent creature such as a glowworm) | Concentration up to 10 minutes      |
-| [[Druidcraft]]       | Transmutation | Action                                           | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Eldritch Blast]]   | Evocation     | Action                                           | 120 ft                | V,S                                                                                        | Instantaneous                       |
-| [[Fire Bolt]]        | Evocation     | Action                                           | 120 ft                | V,S                                                                                        | Instantaneous                       |
-| [[Friends]]          | Enchantment   | Action                                           | 10 ft                 | S, M (a small amount of makeup applied to the face as this spell is cast)                  | Concentration up to 1 minute        |
-| [[Frostbite]]        | Evocation     | Action                                           | 60 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Guidance]]         | Divination    | Reaction, to an Ally within Range making a Check | Touch                 | V,S                                                                                        | Instantaneous                       |
-| [[Gust]]             | Transmutation | Action                                           | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Light]]            | Evocation     | Action                                           | Touch                 | V,S                                                                                        | 1 hour                              |
-| [[Lightning Lure]]   | Evocation     | Action                                           | 15 ft                 | S                                                                                          | Instantaneous                       |
-| [[Mage Hand]]        | Conjuration   | Action                                           | 30 ft                 | V,S                                                                                        | 1 minute                            |
-| [[Magic Stone]]      | Transmutation | Action                                           | 60 ft                 | S, M (small stones or pebbles)                                                             | Instantaneous                       |
-| [[Mending]]          | Transmutation | 1 minute                                         | Touch                 | V,S                                                                                        | Instantaneous                       |
-| [[Message]]          | Transmutation | Action                                           | 120 ft                | S, M (a copper wire)                                                                       | Instantaneous                       |
-| [[Minor Illusion]]   | Illusion      | Action                                           | 30 ft                 | S, M (a bit of fleece)                                                                     | 1 minute                            |
-| [[Mould Earth]]      | Transmutation | Action                                           | 30 ft                 | S                                                                                          | Instantaneous or 1 hour (see below) |
-| [[Poison Spray]]     | Necromancy    | Action                                           | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Prestidigitation]] | Transmutation | Action                                           | 15 ft                 | V,S                                                                                        | 1 hour                              |
-| [[Primal Savagery]]  | Transmutation | Action                                           | Self                  | S                                                                                          | Instantaneous                       |
-| [[Produce Flame]]    | Conjuration   | Action                                           | Self                  | S                                                                                          | Instantaneous                       |
-| [[Ray of Frost]]     | Evocation     | Action                                           | 60 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Resistance]]       | Abjuration    | Reaction, to an Ally within Range making a Save  | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Sacred Flame]]     | Evocation     | Action                                           | 60 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Sapping Sting]]    | Necromancy    | Action                                           | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Shape Water]]      | Transmutation | Action                                           | 60 ft                 | V,S                                                                                        | Instantaneous or 1 hour (see below) |
-| [[Shillelagh]]       | Transmutation | Action                                           | Self                  | V, S, M (shamrock leaf and a bludgeoning Melee Weapon)                                     | Instantaneous                       |
-| [[Shocking Grasp]]   | Evocation     | Action                                           | Touch                 | V,S                                                                                        | Instantaneous                       |
-| [[Spare the Dying]]  | Necromancy    | Action                                           | 15 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Sword Burst]]      | Conjuration   | Action                                           | Self (5 ft emination) | V,S                                                                                        | Instantaneous                       |
-| [[Thaumaturgy]]      | Transmutation | Action                                           | 30 ft                 | V                                                                                          | 1 minute                            |
-| [[Thorn Whip]]       | Conjuration   | Action                                           | 30 ft                 | V, S, M (the stem of a plant with thorns)                                                  | Instantaneous                       |
-| [[Thunderclap]]      | Evocation     | Action                                           | Self (5 ft emination) | S                                                                                          | Instantaneous                       |
-| [[Toll the Dead]]    | Necromancy    | Action                                           | 60 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[True Strike]]      | Divination    | Bonus Action                                     | 30 ft                 | S                                                                                          | 1 round                             |
-| [[Vicious Mockery]]  | Enchantment   | Action                                           | 60 ft                 | V                                                                                          | Instantaneous                       |
-| [[Word of Radiance]] | Evocation     | Action                                           | Self (5 ft emination) | V, M (a sunburst token)                                                                    | Instantaneous                       |
 
 
 # 1st Circle

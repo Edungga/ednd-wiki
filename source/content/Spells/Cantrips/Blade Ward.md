@@ -1,7 +1,6 @@
 ---
 School: Abjuration
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Bonus Action
 Range: Self
 Components: V,S

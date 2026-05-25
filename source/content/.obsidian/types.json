@@ -4,7 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "School": "text",
-    "Spell Circle": "multitext",
+    "Spell Circle": "text",
     "Spell List": "multitext"
   }
 }
