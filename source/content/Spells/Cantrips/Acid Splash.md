@@ -5,7 +5,6 @@ Casting Time: Action
 Range: 60 ft
 Components: V,S
 Duration: Instantaneous
-Spell List List:
 Spell List: Arcane
 tags:
   - Spell
