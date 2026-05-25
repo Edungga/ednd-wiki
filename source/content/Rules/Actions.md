@@ -70,3 +70,12 @@ The Influence Checks table suggests which ability check to make based on how you
 
 **Setting the DC**. The minimum DC for the check is 15 or the creature’s INT or WIS score, whichever is higher. Outcome. If your Check succeeds, the creature does as asked. If your check fails, you must wait to make the same request again. The default wait time is 24 hours, which the DM may shorten or extend depending on the circumstances.
 ## Attitude
+### Friendly
+A Friendly creature views you favorably. You have advantage on an ability check to influence a Friendly creature.
+### Indifferent
+An Indifferent creature has no desire to help or hinder you. Indifferent is the default attitude of a monster.
+### Hostile
+A Hostile creature views you unfavorably. You have Disadvantage on an ability check to influence a Hostile creature.
+
+
+# Interact
