@@ -5,9 +5,7 @@ Casting Time: 1 minute
 Range: Touch
 Components: V,S
 Duration: Instantaneous
-Spell List:
-  - Divine
-  - Primal
+Spell List: Arcane, Divine, Primal
 tags:
   - Spell
 ---

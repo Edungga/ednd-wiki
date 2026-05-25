@@ -5,8 +5,7 @@ Casting Time: Bonus Action
 Range: 30 ft
 Components: S
 Duration: 1 round
-Spell List:
-  - Arcane
+Spell List: Arcane
 tags:
   - Spell
 ---

@@ -5,9 +5,7 @@ Casting Time: Action
 Range: 15 ft
 Components: V,S
 Duration: Instantaneous
-Spell List:
-  - Divine
-  - Primal
+Spell List: Divine, Primal
 tags:
   - Spell
 ---
