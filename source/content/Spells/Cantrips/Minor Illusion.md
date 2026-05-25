@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 30 ft
 Components: S, M (a bit of fleece)
 Duration: 1 minute
-Spell List: Arcane
+Spell List: "[[Arcane Spell List|Arcane]]"
 tags:
   - Spell
 ---

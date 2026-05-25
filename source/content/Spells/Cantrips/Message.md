@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 120 ft
 Components: S, M (a copper wire)
 Duration: Instantaneous
-Spell List: Arcane
+Spell List: "[[Arcane Spell List|Arcane]]"
 tags:
   - Spell
 ---
