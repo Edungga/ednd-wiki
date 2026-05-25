@@ -23,12 +23,12 @@ You adopt a particular style of fighting as your speciality. Choose one of the f
 **Healing Rerolls**. Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 ## Magic Initiate
-**Two Cantrips**. You learn two [[Spells#Cantrips|Cantrips]] of your choice from the [[arc]] [[Divine Spell List]], 
-Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this feat's spells (choose when you select this feat).
+**Two Cantrips**. You learn two [[Spells#Cantrips|Cantrips]] of your choice from the [[Arcane Spell List]], [[Divine Spell List]], or [[Primal Spell List]]. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this feat's spells (choose when you select this feat).
 
 **Level 1 Spell**. Choose a level 1 Spell from the same list you selected for this feat's Cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
 
 **Spell Change**. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+
 **Repeatable**. You can take this feat more than once, but you must choose a different spell list each time.
 
 ## Savage Attacker
@@ -36,11 +36,14 @@ You've trained to deal particularly damaging strikes. Once per turn when you hit
 
 ## Skilled
 You gain Proficiency in any combination of three Skills or tools of your choice.
+
 **Repeatable**. You can take this feat more than once.
 
 ## Tavern Brawler
 **Enhanced Unarmed Strike**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
+
 **Damage Rerolls**. Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.
+
 **Improvised Weaponry**. You have proficiency with Improvised Weapons.
 **Push**. When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also push it 5ft. 
 
