@@ -145,9 +145,9 @@ Changeable as the moon, a Druid of this circle might prowl as a great cat one ni
 
 | Druid Level | Spells                            |
 | ----------- | --------------------------------- |
-| 3rd         | Hold Person, Spike Growth         |
-| 5th         | Sleet Storm, Slow                 |
-| 7th         | Freedom of Movement, Ice Storm    |
+| 3rd         | [[Cure Wounds]], [[Moon Beam]]    |
+| 5th         | Conjure Animals                   |
+| 7th         | [[Fount of Moonlight]]            |
 | 9th         | Commune with Nature, Cone of Cold |
 
 ### Level 3: 
