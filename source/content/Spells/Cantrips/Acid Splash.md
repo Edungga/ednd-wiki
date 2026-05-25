@@ -6,7 +6,6 @@ Range: 60 ft
 Components: V,S
 Duration: Instantaneous
 Spell List List:
-  - Arcane
 Spell List: Arcane
 tags:
   - Spell
