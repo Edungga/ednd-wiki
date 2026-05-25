@@ -49,8 +49,7 @@
               "title": "Find Familiar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Wild Shapes.md",
+                "file": "Druid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wild Shapes"
+              "title": "Backlinks for Druid"
             }
           },
           {
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Wild Shapes.md",
+                "file": "Druid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wild Shapes"
+              "title": "Outline of Druid"
             }
           }
         ]
@@ -200,10 +199,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "f49659686d09e26d",
+  "active": "4670187c9d2e6012",
   "lastOpenFiles": [
-    "Druid.md",
     "Rules/Wild Shapes.md",
+    "Druid.md",
     "Find Familiar.md",
     "Classes/Warlock.md",
     "Classes/Bloodhunter.md",
