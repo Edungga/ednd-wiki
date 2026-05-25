@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Primal Spell List.md",
+                "file": "Spells/All Spells List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primal Spell List"
+              "title": "All Spells List"
             }
           },
           {
@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Primal Spell List.md",
+                "file": "Spells/Cantrips/Acid Splash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Primal Spell List"
+              "title": "Backlinks for Acid Splash"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Primal Spell List.md",
+                "file": "Spells/Cantrips/Acid Splash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Primal Spell List"
+              "title": "Outline of Acid Splash"
             }
           }
         ]
@@ -226,11 +226,13 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "9e82e7ede5e64219",
+  "active": "61d313202e7478fa",
   "lastOpenFiles": [
+    "Spells/Arcane Spell List.md",
+    "Spells/All Spells List.md",
     "Spells/Spells.md",
     "Spells/Divine Spell List.md",
-    "Spells/Arcane Spell List.md",
+    "Spells/Primal Spell List.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
     "index.md",
@@ -253,8 +255,6 @@
     "Spells/Cantrips/Produce Flame.md",
     "Spells/Cantrips/Primal Savagery.md",
     "Spells/Cantrips/Prestidigitation.md",
-    "Spells/Cantrips/Poison Spray.md",
-    "Spells/Cantrips/Mould Earth.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",

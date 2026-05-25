@@ -1,33 +1,29 @@
 
-<!-- QueryToSerialize: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration
+<!-- QueryToSerialize: table School, spell-circle as "Spell Circle"
 FROM "Spells"
 WHERE contains(spell-list,"Primal")
 -->
-<!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration FROM "Spells" WHERE contains(spell-list,"Primal") -->
+<!-- SerializedQuery: table School, spell-circle as "Spell Circle" FROM "Spells" WHERE contains(spell-list,"Primal") -->
 
-| File                                                    | School        | Spell Circle | Casting Time                                    | Range                 | Components                                                                                 | Duration                            |
-| ------------------------------------------------------- | ------------- | ------------ | ----------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------- |
-| [[Control Flames]]   | Transmutation | Cantrip      | Action                                          | 60 ft                 | S                                                                                          | Instantaneous or 1 hour (see below) |
-| [[Druidcraft]]           | Transmutation | Cantrip      | Action                                          | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Dancing Lights]]   | Evocation     | Cantrip      | Action                                          | 120 ft                | V, S, M (a bit of phosphorus or wychwood, or a bioluminescent creature such as a glowworm) | Concentration up to 10 minutes      |
-| [[Frostbite]]             | Evocation     | Cantrip      | Action                                          | 60 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Lightning Lure]]   | Evocation     | Cantrip      | Action                                          | 15 ft                 | S                                                                                          | Instantaneous                       |
-| [[Light]]                     | Evocation     | Cantrip      | Action                                          | Touch                 | V,S                                                                                        | 1 hour                              |
-| [[Magic Stone]]         | Transmutation | Cantrip      | Action                                          | 60 ft                 | S, M (small stones or pebbles)                                                             | Instantaneous                       |
-| [[Mending]]                 | Transmutation | Cantrip      | 1 minute                                        | Touch                 | V,S                                                                                        | Instantaneous                       |
-| [[Mould Earth]]         | Transmutation | Cantrip      | Action                                          | 30 ft                 | S                                                                                          | Instantaneous or 1 hour (see below) |
-| [[Poison Spray]]       | Necromancy    | Cantrip      | Action                                          | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Gust]]                       | Transmutation | Cantrip      | Action                                          | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Produce Flame]]     | Conjuration   | Cantrip      | Action                                          | Self                  | S                                                                                          | Instantaneous                       |
-| [[Ray of Frost]]       | Evocation     | Cantrip      | Action                                          | 60 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Primal Savagery]] | Transmutation | Cantrip      | Action                                          | Self                  | S                                                                                          | Instantaneous                       |
-| [[Sapping Sting]]     | Necromancy    | Cantrip      | Action                                          | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Shape Water]]         | Transmutation | Cantrip      | Action                                          | 60 ft                 | V,S                                                                                        | Instantaneous or 1 hour (see below) |
-| [[Shillelagh]]           | Transmutation | Cantrip      | Action                                          | Self                  | V, S, M (shamrock leaf and a bludgeoning Melee Weapon)                                     | Instantaneous                       |
-| [[Spare the Dying]] | Necromancy    | Cantrip      | Action                                          | 15 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Resistance]]           | Abjuration    | Cantrip      | Reaction, to an Ally within Range making a Save | 30 ft                 | V,S                                                                                        | Instantaneous                       |
-| [[Thorn Whip]]           | Conjuration   | Cantrip      | Action                                          | 30 ft                 | V, S, M (the stem of a plant with thorns)                                                  | Instantaneous                       |
-| [[Thunderclap]]         | Evocation     | Cantrip      | Action                                          | Self (5 ft emination) | S                                                                                          | Instantaneous                       |
+| File                                                    | School        | Spell Circle |
+| ------------------------------------------------------- | ------------- | ------------ |
+| [[Control Flames]]   | Transmutation | Cantrip      |
+| [[Druidcraft]]           | Transmutation | Cantrip      |
+| [[Dancing Lights]]   | Evocation     | Cantrip      |
+| [[Frostbite]]             | Evocation     | Cantrip      |
+| [[Lightning Lure]]   | Evocation     | Cantrip      |
+| [[Light]]                     | Evocation     | Cantrip      |
+| [[Magic Stone]]         | Transmutation | Cantrip      |
+| [[Mending]]                 | Transmutation | Cantrip      |
+| [[Mould Earth]]         | Transmutation | Cantrip      |
+| [[Poison Spray]]       | Necromancy    | Cantrip      |
+| [[Gust]]                       | Transmutation | Cantrip      |
+| [[Ray of Frost]]       | Evocation     | Cantrip      |
+| [[Sapping Sting]]     | Necromancy    | Cantrip      |
+| [[Shape Water]]         | Transmutation | Cantrip      |
+| [[Spare the Dying]] | Necromancy    | Cantrip      |
+| [[Resistance]]           | Abjuration    | Cantrip      |
+| [[Thunderclap]]         | Evocation     | Cantrip      |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE contains(spell-list,"Arcane") -->
