@@ -129,19 +129,19 @@ If you have no [[#Level 2 Primal Surge|Primal Surges]] left, you can expend a Sp
 You have access to an additional Wild Shape form, choose one of the following; Wendigo, Lycan, Owlbear, or Displacer Beas
 #### Wendigo
 
-| Wendigo - Wild Shape                                 |
-| ---------------------------------------------------- |
-| *Large Monstrosity*                                  |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 30 + two times your Druid level      |
-| **Speed**: 40ft Walk                                 |
-| STR 19 (+4)  \|  DEX 16 (+3)  \|  CON 15 (+2)        |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wendigo - Wild Shape                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *Large Monstrosity*                                                                                                                                                                                                                                                                                                                                                      |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                                                                                                                                                                  |
+| **Hit Points**: 30 + two times your Druid level                                                                                                                                                                                                                                                                                                                          |
+| **Speed**: 40ft Walk                                                                                                                                                                                                                                                                                                                                                     |
+| STR 19 (+4)  \|  DEX 16 (+3)  \|  CON 15 (+2)                                                                                                                                                                                                                                                                                                                            |
+| **Skills**                                                                                                                                                                                                                                                                                                                                                               |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                                                                                                                                                                                                     |
+| **TRAITS**<br>**test**.                                                                                                                                                                                                                                                                                                                                                  |
+| **ACTIONS**<br>**Multiattack** (*Requires 5th+ Level*). Can make two Attacks: one with its Bite and one with its Claws.<br>**Bite**. Melee Weapon Attack: your Spell Attack Modifier to hit, reach 5ft, one target. Hit: 1d8 + 4 Piercing Damage<br>**Claw**. Melee Weapon Attack: your Spell Attack Modifier to hit, reach 5ft, one target. Hit: 2d4 + 4 Slashing Damag |
+| **BONUS ACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                                                                           |
+| **REACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                                                                               |
 
 
 ## Elemental Grove
