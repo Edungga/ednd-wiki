@@ -8,7 +8,7 @@
 
 <!-- QueryToSerialize: table School
 FROM "Spells"
-WHERE 
+WHERE
 -->
 <!-- SerializedQuery: table School FROM "Spells" -->
 

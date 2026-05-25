@@ -1,3 +1,6 @@
+properties:
+  note.Spell Circle:
+    displayName: Circle
 views:
   - type: table
     name: All Spells
@@ -15,8 +18,8 @@ views:
       - Spell List
       - tags
     sort:
-      - property: file.name
-        direction: ASC
+      - property: Spell Circle
+        direction: DESC
       - property: School
         direction: DESC
     columnSize:

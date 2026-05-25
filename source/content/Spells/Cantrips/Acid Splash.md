@@ -1,6 +1,6 @@
 ---
 School: Evocation
-Spell Circle: Cantrip
+Circle: Cantrip
 Casting Time: Action
 Range: 60 ft
 Components: V,S
