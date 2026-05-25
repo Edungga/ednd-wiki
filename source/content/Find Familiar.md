@@ -29,4 +29,5 @@ creature: Bat
 
 ```statblock
 creature: Bat
+ac: 19
 ```
