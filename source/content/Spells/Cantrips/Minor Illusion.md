@@ -1,6 +1,5 @@
 ---
-School:
-  - Illusion
+School: Illusion
 Spell Circle:
   - Cantrip
 Casting Time: Action

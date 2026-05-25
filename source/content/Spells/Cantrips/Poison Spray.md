@@ -1,6 +1,5 @@
 ---
-School:
-  - Necromancy
+School: Necromancy
 Spell Circle:
   - Cantrip
 Casting Time: Action

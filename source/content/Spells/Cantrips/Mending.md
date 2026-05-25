@@ -1,6 +1,5 @@
 ---
-School:
-  - Transmutation
+School: Transmutation
 Spell Circle:
   - Cantrip
 Casting Time: 1 minute
