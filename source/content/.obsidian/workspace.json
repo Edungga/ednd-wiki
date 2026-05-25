@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Spells/Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Spells"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Spells/Spells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Spells/Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Spells"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "index.md",
     "Spells/Spells.md",
     "Spells/Primal Spell List.md",
     "Spells/Arcane Spell List.md",
@@ -182,7 +183,6 @@
     "Spells/Cantrips/Acid Splash.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
-    "index.md",
     "Classes/Warlock.md",
     "Classes/Fighter.md",
     "Classes/Bloodhunter.md",
