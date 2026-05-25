@@ -68,6 +68,9 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 Your Walk Speed increases by 10ft while you are not wearing Armour. This bonus increases when you reach certain Monk levels, as shown in the Monk table.
 
 
-Deflect Missiles
-[Reaction] Deflect or catch the missile when you are hit by a Ranged Weapon Attack. When you do so, the Damage you take from the Attack is reduced by 1d10 + your DEX modifier + your Monk level.
+## Level 3: Deflect Missiles
+You can use your Reaction to deflect or catch the missile when you are hit by a Ranged Weapon Attack. When you do so, the Damage you take from the Attack is reduced by 1d10 + your DEX modifier + your Monk level.
+
 If you reduce the Damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 Ki to make a Ranged Attack with a Range of 30/60 using the Weapon or piece of Ammunition you just caught, as part of the same Reaction. You make this Attack with Proficiency, regardless of your Weapon Proficiencies, and the missile counts as a Monk Weapon for the Attack.
+
+## Level 3: Monastic Traditions
