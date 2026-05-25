@@ -49,15 +49,10 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 
 You can expend these points to enhance or fuel certain Monk features known as [[#Forms|Forms]]. You start by knowing the three [[#Basic Forms|Basic Forms]]: Flurry of Blows, Patient Defense, and Step of the Wind.
 
-When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points.
+When you regain all expended Ki, when you finish a Short or Long Rest.
 
 Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.
 
-**Flurry of Blows**. You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
-
-**Patient Defense**. You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
-
-**Step of the Wind**. You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 
 ## Level 2: Uncanny Metabolism
 When you roll Initiative, you can regain all expended Ki. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
@@ -117,3 +112,4 @@ Air. You learn the Air Bend and Air Burst Forms and can use each without spendin
 # Forms
 You Monk abilities fuelled by Ki
 ## Basic Forms
+
