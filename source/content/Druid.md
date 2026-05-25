@@ -64,7 +64,11 @@ You can change your list of Prepared Spells when you finish a Long Rest. 
 
 **Spellcasting Focus**. You can use a Druid Focus as a Spellcasting Focus for the Spells you prepare for this class.
 
-# Level 2: Wild Companion
+# Level 2: Primal Surge
+Your control over the powers of nature have granted you access to
+
+
+Wild Companion
 You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of [[#Level 2 Wild Shape|Wild Shape]] to cast the [[Find Familiar]] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
