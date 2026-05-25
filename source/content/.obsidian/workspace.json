@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Primal Spell List.md",
+                "file": "Druid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primal Spell List"
+              "title": "Druid"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Druid.md",
+                "file": "Rules/Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Druid"
+              "title": "Actions"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Druid.md",
+                "file": "Rules/Actions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Druid"
+              "title": "Backlinks for Actions"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Druid.md",
+                "file": "Rules/Actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Druid"
+              "title": "Outline of Actions"
             }
           }
         ],
@@ -188,9 +188,10 @@
   },
   "active": "6491ddd969efb094",
   "lastOpenFiles": [
-    "Classes/Barbarian.md",
     "Druid.md",
     "Spells/Primal Spell List.md",
+    "Rules/Actions.md",
+    "Classes/Barbarian.md",
     "Spells/All Spells List.md",
     "Spells/Divine Spell List.md",
     "Spells/Arcane Spell List.md",
@@ -214,7 +215,6 @@
     "Spells/Cantrips/Shillelagh.md",
     "Spells/Cantrips/Shape Water.md",
     "Spells/Cantrips/Sapping Sting.md",
-    "Spells/Cantrips/Sacred Flame.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
