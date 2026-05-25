@@ -2,20 +2,21 @@
 # CR 1/4
 ## Baboon
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                   |
+| -------------------------------------------- |
+| *Tiny Beast*                                 |
+| **Armour Class**: 9 + your WIS modifier      |
+| **Hit Points**: 3 + your Druid level         |
+| **Speed**: 30ft Walk, 30ft Climb             |
+| STR 8 (-1)  \|  DEX 14 (+2)  \|  CON 11 (0)  |
+| **Skills** Acrobatics +6, Sleight of Hand +4 |
+| **Senses** Passive Perception 11             |
+| **TRAITS**<br>**test**.                      |
+| **ACTIONS**<br>**test**.                     |
+| **BONUS ACTIONS**<br>**test**.               |
+| **REACTIONS**<br>**test**.                   |
 ## Badger
+
 | Badger - Wild Shape                                                                                       |
 | --------------------------------------------------------------------------------------------------------- |
 | *Tiny Beast*                                                                                              |
