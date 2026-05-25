@@ -14,7 +14,9 @@ views:
       - Duration
       - Spell List
       - tags
-    sort: []
+    sort:
+      - property: School
+        direction: DESC
     columnSize:
       file.name: 136
       note.Casting Time: 135
