@@ -43,13 +43,13 @@
 
 ## Boar
 
-| Wild Shape                                           |
+| Boar - Wild Shape                                    |
 | ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
+| *Medium Beast*                                       |
+| **Armour Class**: 8 + your WIS modifier              |
+| **Hit Points**: 13 + your Druid level                |
 | **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| STR 13 (+1)  \|  DEX 11 (0)  \|  CON 12 (+1)         |
 | **Skills**                                           |
 | **Senses** Darkvision 120 ft., passive Perception 12 |
 | **TRAITS**<br>**test**.                              |
