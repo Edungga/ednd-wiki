@@ -5,8 +5,7 @@ Casting Time: Action
 Range: 10 ft
 Components: S, M (a small amount of makeup applied to the face as this spell is cast)
 Duration: Concentration up to 1 minute
-Spell List:
-  - Arcane
+Spell List: Arcane
 tags:
   - Spell
 ---

@@ -5,8 +5,7 @@ Casting Time: Reaction, to an Ally within Range making a Check
 Range: Touch
 Components: V,S
 Duration: Instantaneous
-Spell List:
-  - Divine
+Spell List: Divine
 tags:
   - Spell
 ---

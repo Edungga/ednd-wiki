@@ -5,9 +5,7 @@ Casting Time: Action
 Range: 15 ft
 Components: S
 Duration: Instantaneous
-Spell List:
-  - Arcane
-  - Primal
+Spell List: Arcane, Primal
 tags:
   - Spell
 ---

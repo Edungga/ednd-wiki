@@ -5,6 +5,6 @@
     "tags": "tags",
     "School": "text",
     "Spell Circle": "text",
-    "Spell List": "multitext"
+    "Spell List": "text"
   }
 }

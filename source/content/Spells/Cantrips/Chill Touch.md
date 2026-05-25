@@ -5,8 +5,7 @@ Casting Time: Action
 Range: 60 ft
 Components: S
 Duration: Instantaneous
-Spell List:
-  - Arcane
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -20,7 +19,7 @@ FLATTEN spell-list
 
 | School     | Spell Circle | Casting Time | Range | Components | Duration      | Spell List |
 | ---------- | ------------ | ------------ | ----- | ---------- | ------------- | ---------- |
-| Necromancy | Cantrip      | Action       | 60 ft | S          | Instantaneous | Arcane     |
+| Necromancy | Cantrip      | Action       | 60 ft | S          | Instantaneous | \-         |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->

@@ -6,7 +6,6 @@ Range: Touch
 Components: V,S
 Duration: Instantaneous
 Spell List:
-  - Arcane
   - Divine
   - Primal
 tags:

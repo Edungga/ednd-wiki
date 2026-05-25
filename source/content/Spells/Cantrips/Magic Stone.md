@@ -5,9 +5,7 @@ Casting Time: Action
 Range: 60 ft
 Components: S, M (small stones or pebbles)
 Duration: Instantaneous
-Spell List:
-  - Arcane
-  - Primal
+Spell List: Arcane, Primal
 tags:
   - Spell
 ---
