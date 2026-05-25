@@ -89,7 +89,7 @@ You gain proficiency in the Insight and Medicine skills and proficiency with the
 ### Level 3: Ki Form - Hand of Harm
 When you hit a creature with an Unarmed Strike and deal damage, you can expend 1 Ki Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
 ### Level 3: Ki Form - Hand of Healing
-As an action, you can expend 1 ki Point to touch a creature and restore a number of Hit Points equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
+As an action, you can expend 1 Ki Point to touch a creature and restore a number of Hit Points equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use [[#Flurry of Blows|Flurry of Blows]], you can replace one of the Unarmed Strikes with a use of this feature.
 
 ## Way of the Elements
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
@@ -108,12 +108,9 @@ You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] 
 Monks of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm
 ### Level 3: Open Hand Technique
 Whenever you hit a creature with an attack granted by your [[#Flurry of Blows|Flurry of Blows]], you can impose one of the following effects on that target.
-
-Addle. The target can't make Opportunity Attacks until the start of its next turn.
-
-Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
-
-Topple. The target must succeed on a Dexterity saving throw or have the Prone condition.
+- **Addle**. The target can't make Opportunity Attacks until the start of its next turn.
+- **Push**. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
+- **Topple**. The target must succeed on a Dexterity saving throw or have the Prone condition.
 
 # Way of the Shadow
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins.
