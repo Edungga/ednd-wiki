@@ -87,7 +87,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
 
 ### Level 3: Elemental Attunement
-At the start of your turn, you can expend 1 Ki to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the Incapacitated condition. You gain the following benefits while this feature is active.
+At the start of your turn, you can expend 1 Ki to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. You gain the following benefits while this feature is active.
 
 
 You become attuned to an elemental Axiom; Water, Earth, Fire, or Air. You gain the following traits based of your Elemental Attunement:
