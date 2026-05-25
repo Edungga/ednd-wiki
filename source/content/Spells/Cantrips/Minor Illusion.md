@@ -9,6 +9,21 @@ Spell List: "[[Arcane Spell List|Arcane]]"
 tags:
   - Spell
 ---
+
+<!-- QueryToSerialize: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List"
+FROM "Spells"
+WHERE file.name = this.file.name
+FLATTEN spell-list
+-->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
+
+| School   | Spell Circle | Casting Time | Range | Components             | Duration | Spell List                              |
+| -------- | ------------ | ------------ | ----- | ---------------------- | -------- | --------------------------------------- |
+| Illusion | Cantrip      | Action       | 30 ft | S, M (a bit of fleece) | 1 minute | [[Arcane Spell List\|Arcane]] |
+
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
+
 You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
 
 If a creature takes a Study action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.

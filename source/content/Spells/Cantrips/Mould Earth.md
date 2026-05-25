@@ -9,6 +9,21 @@ Spell List: "[[Arcane Spell List|Arcane]], [[Primal Spell List|Primal]]"
 tags:
   - Spell
 ---
+
+<!-- QueryToSerialize: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List"
+FROM "Spells"
+WHERE file.name = this.file.name
+FLATTEN spell-list
+-->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
+
+| School        | Spell Circle | Casting Time | Range | Components | Duration                            | Spell List                                                   |
+| ------------- | ------------ | ------------ | ----- | ---------- | ----------------------------------- | ------------------------------------------------------------ |
+| Transmutation | Cantrip      | Action       | 30 ft | S          | Instantaneous or 1 hour (see below) | [[Arcane Spell List\|Arcane]], [[Primal Spell List\|Primal]] |
+
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
+
 You manipulate a portion of dirt or stone that you can see within Range that fits within a 5ft cube in one of the following ways:
 - Instantaneously excavate the target area, move it along the ground, and deposit it up to 5ft away. This movement doesn't involve enough force to cause damage.
 - You cause shapes, colours, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.

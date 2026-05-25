@@ -9,6 +9,21 @@ Spell List: "[[Arcane Spell List|Arcane]], [[Primal Spell List|Primal]]"
 tags:
   - Spell
 ---
+
+<!-- QueryToSerialize: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List"
+FROM "Spells"
+WHERE file.name = this.file.name
+FLATTEN spell-list
+-->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
+
+| School        | Spell Circle | Casting Time | Range | Components | Duration      | Spell List                                                   |
+| ------------- | ------------ | ------------ | ----- | ---------- | ------------- | ------------------------------------------------------------ |
+| Transmutation | Cantrip      | Action       | 30 ft | V,S        | Instantaneous | [[Arcane Spell List\|Arcane]], [[Primal Spell List\|Primal]] |
+
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
+
 You seize the air and compel it to create one of the following effects at a point you can see within range:
 - One Medium or smaller creature that you choose must succeed on a STR Save or be pushed 5ft away from you.
 - You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10ft away from you. It isn't pushed with enough force to cause Damage.
