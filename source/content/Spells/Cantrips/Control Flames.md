@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 60 ft
 Components: S
 Duration: Instantaneous or 1 hour (see below)
-Spell List: "[[Arcane Spell List|Arcane]], [[Primal Spell List|Primal]]"
+Spell List: Arcane, Primal
 tags:
   - Spell
 ---
@@ -17,9 +17,9 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
 
-| School        | Spell Circle | Casting Time | Range | Components | Duration                            | Spell List                                                   |
-| ------------- | ------------ | ------------ | ----- | ---------- | ----------------------------------- | ------------------------------------------------------------ |
-| Transmutation | Cantrip      | Action       | 60 ft | S          | Instantaneous or 1 hour (see below) | [[Arcane Spell List\|Arcane]], [[Primal Spell List\|Primal]] |
+| School        | Spell Circle | Casting Time | Range | Components | Duration                            | Spell List     |
+| ------------- | ------------ | ------------ | ----- | ---------- | ----------------------------------- | -------------- |
+| Transmutation | Cantrip      | Action       | 60 ft | S          | Instantaneous or 1 hour (see below) | Arcane, Primal |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->

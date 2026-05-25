@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 120 ft
 Components: V, S, M (a bit of phosphorus or wychwood, or a bioluminescent creature such as a glowworm)
 Duration: Concentration up to 10 minutes
-Spell List: "[[Arcane Spell List|Arcane]], [[Primal Spell List|Primal]]"
+Spell List: Arcane, Primal
 tags:
   - Spell
 ---
@@ -17,9 +17,9 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
 
-| School    | Spell Circle | Casting Time | Range  | Components                                                                                 | Duration                       | Spell List                                                   |
-| --------- | ------------ | ------------ | ------ | ------------------------------------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
-| Evocation | Cantrip      | Action       | 120 ft | V, S, M (a bit of phosphorus or wychwood, or a bioluminescent creature such as a glowworm) | Concentration up to 10 minutes | [[Arcane Spell List\|Arcane]], [[Primal Spell List\|Primal]] |
+| School    | Spell Circle | Casting Time | Range  | Components                                                                                 | Duration                       | Spell List     |
+| --------- | ------------ | ------------ | ------ | ------------------------------------------------------------------------------------------ | ------------------------------ | -------------- |
+| Evocation | Cantrip      | Action       | 120 ft | V, S, M (a bit of phosphorus or wychwood, or a bioluminescent creature such as a glowworm) | Concentration up to 10 minutes | Arcane, Primal |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
