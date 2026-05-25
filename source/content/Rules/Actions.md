@@ -106,3 +106,20 @@ When you take the Study action, you make an Intelligence check to study your mem
 
 The Areas of Knowledge table suggests which skills are applicable to various areas of knowledge.
 
+|Skill|Areas|
+|---|---|
+|Arcana|Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities)|
+|History|Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids)|
+|Investigation|Traps, ciphers, riddles, and gadgetry|
+|Nature|Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants)|
+|Religion|Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead)|
+
+# Utilize
+You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilize action.
+
+## Lock Pick
+Sleight of hand Check against locks DC. You must have Thieves’ Tools or similar Equipment to attempt.
+If you are not using Thieves’ Tools, you have Disadvantage on the Check.
+You are using Thieves’ Tools, and have Proficiency in them, you may add your Proficiency Bonus to the result of the Check.
+
+
