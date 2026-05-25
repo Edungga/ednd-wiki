@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "3328d2389bc552df",
+            "id": "a446b5778dec2714",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -68,8 +68,7 @@
               "title": "Spells"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Spells/spell test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spells"
+              "title": "Backlinks for spell test"
             }
           },
           {
@@ -190,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Spells/spell test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of spell test"
             }
           }
         ]
@@ -217,11 +216,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3328d2389bc552df",
+  "active": "9264ae25c996f316",
   "lastOpenFiles": [
-    "Spells/spell test.md",
     "Spells/Spells.base",
+    "Spells/Spells.md",
     "Spells/Cantrips/Acid Splash.md",
+    "Spells/spell test.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
     "index.md",
@@ -251,7 +251,6 @@
     "The Setting/Higher Powers/Archfae/Queen of Thorns.md",
     "The Setting/Higher Powers/Archfae/The Lantern King.md",
     "The Setting/Higher Powers/Archfae",
-    "The Setting/Higher Powers/The Virtues/The Virtue of Despair.md",
     "The Setting/Higher Powers/The Virtues",
     "The Setting/Higher Powers"
   ]
