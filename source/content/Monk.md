@@ -44,7 +44,7 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 
 **Dexterous Attacks**. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
 
-## Ki
+## Level 2: Ki
 Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Ki. Your Monk level determines the number of points you have, as shown in the Ki Points column of the Monk Features table.
 
 You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
@@ -59,5 +59,6 @@ Some features that use Focus Points require your target to make a saving throw. 
 
 **Step of the Wind**. You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 
-## Level 3 : Unarmed Movement
+## Level 3: Unarmed Movement
 Your Walk Speed increases by 10ft while you are not wearing Armour. This bonus increases when you reach certain Monk levels, as shown in the Monk table.
+
