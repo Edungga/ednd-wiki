@@ -29,5 +29,15 @@
 | 5th   | +3                | 1d6          | 10        | +10 ft.             | 5           | Extra Attack                         |
 
 ## Level 1: Unarmoured Defence
-
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
+
+## Level 1: Martial Arts
+Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are any Weapons you have Proficiency with.
+
+You gain the following benefits while you are unarmed or wielding only Monk weapons, and you aren't wearing armour or wielding a Shield.
+
+**Bonus Unarmed Strike**. You can make an Unarmed Strike as a Bonus Action.
+
+**Martial Arts Die**. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
+
+**Dexterous Attacks**. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
