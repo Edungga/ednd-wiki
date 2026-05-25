@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat Methods.md",
+                "file": "Rules/Stat Methods.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,9 +186,9 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "6491ddd969efb094",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Stat Methods.md",
+    "Rules/Stat Methods.md",
     "index.md",
     "SPELL-TEMPLATE.md",
     "Spells/Spells.md",
