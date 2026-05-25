@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Divine Spell List.md",
+                "file": "Spells/Primal Spell List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divine Spell List"
+              "title": "Primal Spell List"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Divine Spell List.md",
+                "file": "Spells/Primal Spell List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Divine Spell List"
+              "title": "Backlinks for Primal Spell List"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Divine Spell List.md",
+                "file": "Spells/Primal Spell List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Divine Spell List"
+              "title": "Outline of Primal Spell List"
             }
           }
         ]
@@ -229,6 +229,7 @@
   "active": "9e82e7ede5e64219",
   "lastOpenFiles": [
     "Spells/Spells.md",
+    "Spells/Divine Spell List.md",
     "Spells/Arcane Spell List.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
@@ -254,7 +255,6 @@
     "Spells/Cantrips/Prestidigitation.md",
     "Spells/Cantrips/Poison Spray.md",
     "Spells/Cantrips/Mould Earth.md",
-    "Spells/Cantrips/Minor Illusion.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
