@@ -159,7 +159,7 @@ You have access to an additional Wild Shape form, choose one of the following; W
 
 #### Owlbear
 
-| OwlbWild Shape                                                                                                                                                                                                                                                                                                                                                                |
+| Owlbear - Wild Shape                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Large Monstrosity*                                                                                                                                                                                                                                                                                                                                                           |
 | **Armour Class**: 10 + your WIS modifier                                                                                                                                                                                                                                                                                                                                      |
@@ -173,19 +173,19 @@ You have access to an additional Wild Shape form, choose one of the following; W
 
 #### Displacer Beast
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Large Monstrosity*                                  |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + twice your Druid level           |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Large Monstrosity*                                                                                                                                                                                                                                                                                       |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                                                                                                   |
+| **Hit Points**: 2 + twice your Druid level                                                                                                                                                                                                                                                                |
+| **Speed**: 40ft Walk                                                                                                                                                                                                                                                                                      |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                                                                                                                                                                                                                              |
+| **Skills**                                                                                                                                                                                                                                                                                                |
+| **Senses** Darkvision 120 ft., passive Perception 11                                                                                                                                                                                                                                                      |
+| **TRAITS**<br>**Displacement**. Attack rolls against the displacer beast have Disadvantage, since it projects an illusion that makes it appear to be near its actual location. This trait is suppressed while the displacer beast is [[Conditions#Incapacitated (Condition)\|Incapacitated (Condition)]]. |
+| **ACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                  |
+| **BONUS ACTIONS**<br>**test**.                                                                                                                                                                                                                                                                            |
+| **REACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                |
 
 ## Elemental Grove
 
