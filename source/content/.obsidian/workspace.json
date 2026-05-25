@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "Spells/Divine Spell List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "Divine Spell List"
             }
           },
           {
@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/Divine Spell List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Acid Splash"
+              "title": "Backlinks for Divine Spell List"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/Divine Spell List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acid Splash"
+              "title": "Outline of Divine Spell List"
             }
           }
         ]
@@ -226,12 +226,12 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "61d313202e7478fa",
+  "active": "9e82e7ede5e64219",
   "lastOpenFiles": [
+    "Spells/Spells.md",
     "Spells/Arcane Spell List.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
-    "Spells/Spells.md",
     "index.md",
     "Spells/Cantrips/Word of Radiance.md",
     "Spells/Cantrips/Vicious Mockery.md",
