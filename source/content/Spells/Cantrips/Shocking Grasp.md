@@ -5,7 +5,7 @@ Casting Time: Action
 Range: Touch
 Components: V,S
 Duration: Instantaneous
-Spell List: Arcane
+Spell List: "[[Arcane Spell List|Arcane]]"
 tags:
   - Spell
 ---

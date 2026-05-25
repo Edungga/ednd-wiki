@@ -5,7 +5,7 @@ Casting Time: Action
 Range: Self (5 ft emination)
 Components: V,S
 Duration: Instantaneous
-Spell List: Arcane
+Spell List: "[[Arcane Spell List|Arcane]]"
 tags:
   - Spell
 ---

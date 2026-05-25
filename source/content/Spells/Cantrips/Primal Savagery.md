@@ -5,7 +5,7 @@ Casting Time: Action
 Range: Self
 Components: S
 Duration: Instantaneous
-Spell List: Primal
+Spell List: "[[Primal Spell List|Primal]]"
 tags:
   - Spell
 ---

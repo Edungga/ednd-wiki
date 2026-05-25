@@ -5,7 +5,7 @@ Casting Time: Reaction, to an Ally within Range making a Save
 Range: 30 ft
 Components: V,S
 Duration: Instantaneous
-Spell List: Divine, Primal
+Spell List: "[[Divine Spell List|Divine]], [[Primal Spell List|Primal]]"
 tags:
   - Spell
 ---
