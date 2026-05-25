@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Actions.md",
+                "file": "Rules/Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actions"
+              "title": "Conditions"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Actions.md",
+                "file": "Rules/Conditions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Actions"
+              "title": "Backlinks for Conditions"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Actions.md",
+                "file": "Rules/Conditions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Actions"
+              "title": "Outline of Conditions"
             }
           }
         ],
@@ -188,9 +188,9 @@
   },
   "active": "6491ddd969efb094",
   "lastOpenFiles": [
+    "Rules/Actions.md",
     "Druid.md",
     "Spells/Primal Spell List.md",
-    "Rules/Actions.md",
     "Classes/Barbarian.md",
     "Spells/All Spells List.md",
     "Spells/Divine Spell List.md",
