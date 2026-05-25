@@ -59,17 +59,15 @@ When you reach certain levels in this class, you learn another Cantrip of your c
 
 **Prepared Spells of 1st+ Level**. You prepare the list of Spells of 1st level and higher that are available for you to cast with this feature. When you do so, choose a number of Spells from the Primal Spell List  equal to your WIS modifier + your Druid level (min 1 spell). The Spells must be of a level for which you have Spell Slots.
 
-For example, if you are a 3rd Level Cleric, you have four 1st Level and two 2nd Level Spell Slots. With a Wisdom of 16, your list of Prepared Spells can include six Spells of 1st or 2nd level, in any combination. If you prepare the 1st Level Spell Cure Wounds, you can cast it using a 1st Level or 2nd Level slot. Casting the Spell doesn't remove it from your list of Prepared Spells.
-
 You can change your list of Prepared Spells when you finish a Long Rest. 
 
-Spellcasting Ability. Wisdom is your Spellcasting Ability for your Druid Spells.
+**Spellcasting Ability**. Wisdom is your Spellcasting Ability for your Druid Spells.
 
-Spell save DC = 8 + your Proficiency Bonus + your WIS modifier
+**Spell save DC** = 8 + your Proficiency Bonus + your WIS modifier
 
-Spell attack modifier = your Proficiency Bonus + your WIS modifier
+**Spell attack modifier** = your Proficiency Bonus + your WIS modifier
 
-Spellcasting Focus. You can use a Druid Focus as a Spellcasting Focus for the Spells you prepare for this class.
+**Spellcasting Focus**. You can use a Druid Focus as a Spellcasting Focus for the Spells you prepare for this class.
 
 # Level 2: Wild Companion
 
