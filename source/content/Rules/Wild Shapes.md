@@ -91,7 +91,7 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-# Cat
+## Cat
 
 | Cat - Wild Shape                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -106,7 +106,7 @@
 | **ACTIONS**<br>**Scratch**. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.                                                                                                     |
 | **REACTIONS**<br>**Reflexive Fall**. When the Cat falls, it can reduce any falling damage it takes by its Dexterity score (15). If it reduces this damage to 0, the Cat lands on its feet. |
 
-# Constrictor Snake
+## Constrictor Snake
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -122,7 +122,7 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-# Crab
+## Crab
 
 | Crab - Wild Shape                                                                  |
 | ---------------------------------------------------------------------------------- |
@@ -136,7 +136,7 @@
 | **TRAITS**<br>Amphibious. The crab can breathe air and water.                      |
 | **ACTIONS**<br>Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage. |
 
-# Deer
+## Deer
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -152,7 +152,7 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-# Draft Horse
+## Draft Horse
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -168,7 +168,7 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-# Eagle
+## Eagle
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -183,3 +183,36 @@
 | **ACTIONS**<br>**test**.                             |
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
+
+## Elk
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Frog
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
