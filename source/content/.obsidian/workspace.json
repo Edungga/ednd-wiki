@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Conditions.md",
+                "file": "Rules/Actions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conditions"
+              "title": "Backlinks for Actions"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Conditions.md",
+                "file": "Rules/Actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conditions"
+              "title": "Outline of Actions"
             }
           }
         ],
@@ -200,10 +200,10 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "8fe6d2dbda8a621a",
+  "active": "6491ddd969efb094",
   "lastOpenFiles": [
-    "Rules/Actions.md",
     "Rules/Conditions.md",
+    "Rules/Actions.md",
     "Druid.md",
     "Spells/Primal Spell List.md",
     "Classes/Barbarian.md",
