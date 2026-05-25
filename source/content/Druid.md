@@ -116,6 +116,14 @@ If you have no [[#Level 2 Primal Surge|Primal Surges]] left, you can expend a Sp
 
 ## Grove of Blood
 
+### Level 3: Grove Spells
+
+| Druid Level | Circle Wild Shapes                |
+| ----------- | --------------------------------- |
+| 3rd         | Hold Person, Spike Growth         |
+| 5th         | Sleet Storm, Slow                 |
+| 7th         | Freedom of Movement, Ice Storm    |
+| 9th         | Commune with Nature, Cone of Cold |
 
 
 ## Elemental Grove
