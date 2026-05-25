@@ -133,7 +133,7 @@ You have access to an additional Wild Shape form, choose one of the following; W
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Large Monstrosity*                                                                                                                                                                                                                                                                                                       |
 | **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                                                                                                                   |
-| **Hit Points**: 30 + two times your Druid level                                                                                                                                                                                                                                                                           |
+| **Hit Points**: 30 + twice your Druid level                                                                                                                                                                                                                                                                               |
 | **Speed**: 40ft Walk                                                                                                                                                                                                                                                                                                      |
 | STR 19 (+4)  \|  DEX 16 (+3)  \|  CON 15 (+2)                                                                                                                                                                                                                                                                             |
 | **Skills** Athletics +7, Perception, +5, Stealth +6, Survival +5                                                                                                                                                                                                                                                          |
@@ -145,9 +145,9 @@ You have access to an additional Wild Shape form, choose one of the following; W
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
-| *Tiny Beast*                                         |
+| *Large Monstrosity*                                  |
 | **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
+| **Hit Points**: 2 + twice your Druid level           |
 | **Speed**: 40ft Walk                                 |
 | STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
 | **Skills**                                           |
@@ -159,27 +159,27 @@ You have access to an additional Wild Shape form, choose one of the following; W
 
 #### Owlbear
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Large Monstrosity*                                                                                                                                                                                                                                                                                                                                              |
+| **Armour Class**: 10 + your WIS modifier                                                                                                                                                                                                                                                                                                                         |
+| **Hit Points**: 2 + twice your Druid level                                                                                                                                                                                                                                                                                                                       |
+| **Speed**: 40ft Walk                                                                                                                                                                                                                                                                                                                                             |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                                                                                                                                                                                                                                                                                     |
+| **Skills**                                                                                                                                                                                                                                                                                                                                                       |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                                                                                                                                                                                             |
+| **TRAITS**<br>**test**.                                                                                                                                                                                                                                                                                                                                          |
+| **ACTIONS**<br>**Multiattack** (Requires 5th+ Level). Can make two Attacks: one with its Beak and one with its Claws.<br>Beak. Melee Weapon Attack: your Spell Attack Modifier to hit, reach 5ft, one target. Hit: 1d10 + 5 Piercing Damage<br>Claw. Melee Weapon Attack: your Spell Attack Modifier to hit, reach 5ft, one target. Hit: 2d6 + 5 Slashing Damage |
+| **BONUS ACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                                                                   |
+| **REACTIONS**<br>**test**.                                                                                                                                                                                                                                                                                                                                       |
 
 #### Displacer Beast
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
-| *Tiny Beast*                                         |
+| *Large Monstrosity*                                  |
 | **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
+| **Hit Points**: 2 + twice your Druid level           |
 | **Speed**: 40ft Walk                                 |
 | STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
 | **Skills**                                           |
