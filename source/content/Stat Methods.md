@@ -5,7 +5,7 @@ using one of the pre-set arrays below
 - 17, 15, 13, 12, 10, 8
 
 # Point Buy
-Using the below table to math out your own 
+Using the below table to math out your own 34 point point buy
 
 | Score | Point Cost |
 | ----- | ---------- |
