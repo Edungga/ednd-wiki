@@ -1,6 +1,8 @@
 
 # CR 1/4
 
+
+
 ## Bat
 
 | Bat - Wild Shape                                                                                                                                                                                                           |
@@ -193,8 +195,8 @@
 | **Hit Points**: 2 + your Druid level                     |
 | **Speed**: 40ft Walk                                     |
 | STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)             |
+| **Skills**                                               |
 | **Senses** Darkvision 120 ft., passive Perception 12     |
-| Skills                                                   |
 | **TRAITS**<br>**test**.                                  |
 | **ACTIONS**<br>**test**.                                 |
 | **BONUS ACTIONS**<br>**test**.                           |
