@@ -102,7 +102,8 @@ When you reach certain Druid levels, your number of known forms and the max CR f
 **Objects**. Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
 
 ## Level 3: Druidic Grove
-You have a mystical connection to the land of your Grove, 
+You have a mystical connection to the land of your Grove that grants you features at certain Druid levels.
+
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
@@ -112,4 +113,11 @@ If you have no [[#Level 2 Primal Surge|Primal Surges]] left, you can expend a Sp
 
 ---
 # Druidic Grove
+
+## Grove of Blood
+
+
+
+## Elemental Grove
+
 
