@@ -196,7 +196,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "quartz-syncer:Quartz Syncer publication center": false
+      "quartz-syncer:Quartz Syncer publication center": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "77d080f692a2ab7d",
