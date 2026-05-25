@@ -65,7 +65,7 @@ You can change your list of Prepared Spells when you finish a Long Rest. 
 **Spellcasting Focus**. You can use a Druid Focus as a Spellcasting Focus for the Spells you prepare for this class.
 
 # Level 2: Primal Surge
-Your control over the powers of nature have granted you access to
+Your control over the powers of nature have granted you access to Primal Surges.
 
 
 Wild Companion
@@ -78,7 +78,7 @@ The power of nature allows you to assume the form of an animal. As a Bonus Actio
 
 You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or die. You can also leave the form early as a Bonus Action.
 
-**Number of Uses**. You can use Wild Shape a number of times equal to your Proficiency Bonus. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+
 
 **Known Forms**. You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
 
