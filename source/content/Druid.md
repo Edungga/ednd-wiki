@@ -94,11 +94,10 @@ When you reach certain Druid levels, your number of known forms and the max CR f
 - Hit Point Dice; 
 - Intelligence, Wisdom, and Charisma scores; 
 - class features; 
-- languages, feats, skill and save proficiencies, 
-- You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. 
-- If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
+- languages, feats, and Proficiency Bonus
+- You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
 
-No Spellcasting. You can't cast spells, but shape-shifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
+**No Spellcasting**. You can't cast spells, but shape-shifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
 
 ## Level 3: Druidic Grove
 
