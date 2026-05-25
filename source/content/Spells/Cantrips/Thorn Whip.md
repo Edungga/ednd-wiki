@@ -1,6 +1,5 @@
 ---
-School:
-  - Conjuration
+School: Conjuration
 Spell Circle:
   - Cantrip
 Casting Time: Action

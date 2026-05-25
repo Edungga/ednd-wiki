@@ -1,6 +1,5 @@
 ---
-School:
-  - Enchantment
+School: Enchantment
 Spell Circle:
   - Cantrip
 Casting Time: Action

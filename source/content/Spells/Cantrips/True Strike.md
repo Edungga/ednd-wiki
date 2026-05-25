@@ -1,6 +1,5 @@
 ---
-School:
-  - Divination
+School: Divination
 Spell Circle:
   - Cantrip
 Casting Time: Bonus Action
