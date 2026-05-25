@@ -84,18 +84,20 @@ You can attack twice instead of once whenever you take the Attack action on your
 # Monastic Traditions
 ## Way of Mercy
 Warriors of Mercy manipulate the life force of others. These Monks are often wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.
-
+### Level 3: Implements of Mercy
+You gain proficiency in the Insight and Medicine skills and proficiency with the Herbalism Kit. ### Level 3: Hand of Harm
+Once per turn when you hit a creature with an Unarmed Strike and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
+### Level 3: Hand of Healing
+As a Magic action, you can expend 1 Focus Point to touch a creature and restore a number of Hit Points equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
 
 ## Way of the Elements
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
-
 ### Level 3: Ki Form - Elemental Attunement
 At the start of your turn, you can expend 1 Ki to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. You gain the following benefits while this feature is active.
 
 **Reach**. When you make an Unarmed Strike, your reach is 10 feet greater than normal, as elemental energy extends from you.
 
 **Elemental Strikes**. Whenever you hit with your Unarmed Strike, you can cause it to deal your choice of Acid, Cold, Fire, Lightning, or Thunder damage rather than its normal damage type. When you deal one of these types with it, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
-
 ### Level 3: Elemental Manipulation
 You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, they all count as [[#Forms|Forms]] for you.
 
