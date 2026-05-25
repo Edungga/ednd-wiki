@@ -111,6 +111,8 @@ You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] 
 # Way of the Shadow
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins.
 
+Level 3: Shadow Arts
+You know three Grade 1 Way of Shadows Ki Forms, these do not count against the total number of forms you can know.
 
 
 
@@ -125,3 +127,9 @@ You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
 ### Step of the Wind
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+
+
+
+
+## Shadows Ki Forms
+### G
