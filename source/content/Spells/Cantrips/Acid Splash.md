@@ -11,14 +11,15 @@ tags:
   - Spell
 ---
 
-<!-- QueryToSerialize: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List"
+<!-- QueryToSerialize: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List"
 FROM "Spells"
-WHERE name = "Acid Splash"
+WHERE file.name = this.file.name
 -->
-<!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE name = "Acid Splash" -->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name -->
 
-| File | School | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
-| ---- | ------ | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
+| School    | Spell Circle | Casting Time | Range | Components | Duration      | Spell List               |
+| --------- | ------------ | ------------ | ----- | ---------- | ------------- | ------------------------ |
+| Evocation | Cantrip      | Action       | 60 ft | V,S        | Instantaneous | <ul><li>Arcane</li></ul> |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
