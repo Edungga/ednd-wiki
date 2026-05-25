@@ -1,5 +1,5 @@
 
 ``` dataview
-table
+table School
 
 ```

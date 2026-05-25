@@ -54,9 +54,22 @@
               "icon": "lucide-file",
               "title": "Acid Splash"
             }
+          },
+          {
+            "id": "3328d2389bc552df",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Spells/Spells.base",
+                "viewName": "All Spells"
+              },
+              "icon": "lucide-table",
+              "title": "Spells"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/spell test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Acid Splash"
+              "title": "Backlinks for spell test"
             }
           },
           {
@@ -177,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/spell test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acid Splash"
+              "title": "Outline of spell test"
             }
           }
         ]
@@ -204,9 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60d463b5730f9db5",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Spells.base",
     "Spells/spell test.md",
+    "Spells/Cantrips/Acid Splash.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
     "index.md",
@@ -237,10 +252,7 @@
     "The Setting/Higher Powers/Archfae/The Lantern King.md",
     "The Setting/Higher Powers/Archfae",
     "The Setting/Higher Powers/The Virtues/The Virtue of Despair.md",
-    "The Setting/Higher Powers/The Virtues/The Virtue of Compassion.md",
-    "The Setting/Higher Powers/The Virtues/The Virtue of Sacrifice.md",
     "The Setting/Higher Powers/The Virtues",
-    "The Setting/Higher Powers",
-    "Spells/Spells.base"
+    "The Setting/Higher Powers"
   ]
 }
