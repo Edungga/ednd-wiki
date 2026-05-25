@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/spell test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Acid Splash"
+              "title": "Backlinks for spell test"
             }
           },
           {
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/spell test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acid Splash"
+              "title": "Outline of spell test"
             }
           }
         ]
@@ -218,11 +218,11 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "60d463b5730f9db5",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Cantrips/Acid Splash.md",
     "Spells/spell test.md",
     "Spells/Spells.base",
-    "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
