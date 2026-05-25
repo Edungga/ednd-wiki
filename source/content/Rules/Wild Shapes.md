@@ -344,4 +344,99 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-## Giant Wolf 
+## Giant Wolf Spider
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Goat
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Hawk
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Jackal
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Octopus
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Owl
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
