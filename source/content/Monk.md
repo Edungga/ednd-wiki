@@ -111,8 +111,8 @@ You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] 
 # Way of the Shadow
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins.
 
-Level 3: Shadow Arts
-You know three Grade 1 Way of Shadows Ki Forms, these do not count against the total number of forms you can know.
+### Level 3: Shadow Arts
+You know three Grade 1 Way of Shadows Ki Forms.
 
 
 
@@ -143,4 +143,4 @@ You gain Darkvision with a range of 60 feet. If you already have Darkvision, its
 #### Displacement
 When targeted by an Attack or subjected to an effect that requires you to make a DEX Save, as a Reaction you can Teleport up to 30ft to an unoccupied space, possibly escaping the range of line of effect.
 #### Shadowy Figments.
-You know the [[Minor Illusion]] spell. Wisdom is your spellcasting ability for it.
+You know the [[Minor Illusion]] Cantrip, it count as a [[#Forms|Form]] for you.
