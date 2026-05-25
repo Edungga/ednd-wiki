@@ -132,10 +132,10 @@ You have access to an additional Wild Shape form, choose one of the following; W
 | Wendigo - Wild Shape                                 |
 | ---------------------------------------------------- |
 | *Large Monstrosity*                                  |
-| **Armour Class**: 30 + two times your WIS modifier   |
-| **Hit Points**: 2 + your Druid level                 |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 30 + two times your Druid level      |
 | **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| STR 19 (+4)  \|  DEX 16 (+3)  \|  CON 15 (+2)        |
 | **Skills**                                           |
 | **Senses** Darkvision 120 ft., passive Perception 12 |
 | **TRAITS**<br>**test**.                              |
