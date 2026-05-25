@@ -195,9 +195,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "quartz-syncer:Quartz Syncer publication center": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4670187c9d2e6012",
