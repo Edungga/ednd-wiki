@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Find Familiar.md",
+                "file": "Rules/Wild Shape.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Find Familiar"
+              "title": "Backlinks for Wild Shape"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Find Familiar.md",
+                "file": "Rules/Wild Shape.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Find Familiar"
+              "title": "Outline of Wild Shape"
             }
           }
         ]
@@ -200,12 +200,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "77d080f692a2ab7d",
+  "active": "f49659686d09e26d",
   "lastOpenFiles": [
+    "Classes/Warlock.md",
+    "Find Familiar.md",
     "Druid.md",
     "Rules/Wild Shape.md",
     "Classes/Bloodhunter.md",
-    "Find Familiar.md",
     "Rules/Conditions.md",
     "Rules/Opportunity Attacks.md",
     "Rules/Bonus Actions.md",
@@ -228,7 +229,6 @@
     "Spells/Cantrips/Toll the Dead.md",
     "Spells/Cantrips/Thunderclap.md",
     "Spells/Cantrips/Thorn Whip.md",
-    "Spells/Cantrips/Thaumaturgy.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",

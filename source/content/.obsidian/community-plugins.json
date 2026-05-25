@@ -1,6 +1,5 @@
 [
   "obsidian-git",
   "dataview",
-  "dataview-serializer",
-  "obsidian-5e-statblocks"
+  "dataview-serializer"
 ]
