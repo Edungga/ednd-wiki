@@ -57,7 +57,7 @@ With the Influence action, you urge a monster to do something. Describe or rolep
 **Unwilling**. If your urging is repugnant to the monster or counter to its alignment, no ability check is necessary; it doesn't comply.
 
 **Hesitant**. If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster's attitude: Indifferent, Friendly, or Hostile. 
-### Influence Checks
+## Influence Checks
 The Influence Checks table suggests which ability check to make based on how you're interacting with the monster. 
 
 | Ability Check            | Interaction                               |
@@ -67,5 +67,6 @@ The Influence Checks table suggests which ability check to make based on how you
 | Charisma (Performance)   | Amusing a monster                         |
 | Charisma (Persuasion)    | Persuading a monster that understands you |
 | Wisdom (Animal Handling) | Gently coaxing a Beast or Monstrosity     |
+
 **Setting the DC**. The minimum DC for the check is 15 or the creature’s INT or WIS score, whichever is higher. Outcome. If your Check succeeds, the creature does as asked. If your check fails, you must wait to make the same request again. The default wait time is 24 hours, which the DM may shorten or extend depending on the circumstances.
-### Attitude
+## Attitude
