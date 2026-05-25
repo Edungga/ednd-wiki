@@ -82,6 +82,9 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 ---
 # Monastic Traditions
+## Way of Mercy
+Warriors of Mercy manipulate the life force of others. These Monks are often wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.
+
 
 ## Way of the Elements
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
