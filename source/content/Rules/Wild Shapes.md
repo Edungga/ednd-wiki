@@ -3,7 +3,7 @@
 
 ## Bat
 
-| Wild Shape                                                                                                                                                                                                                 |
+| Bat - Wild Shape                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Tiny Beast*                                                                                                                                                                                                               |
 | **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                    |
@@ -15,6 +15,21 @@
 | **ACTIONS**<br>**Bite**. Melee Attack Roll: +4 to hit, reach 5 ft. Hit: 1 Piercing damage.                                                                                                                                 |
 
 ## Cat
+
+| Cat - Wild Shape                                         |
+| -------------------------------------------------------- |
+| *Tiny Beast*                                             |
+| **Armour Class**: 9 + your WIS modifier (Natural Armour) |
+| **Hit Points**: 2 + your Druid level                     |
+| **Speed**: 40ft Walk                                     |
+| STR 3 (-4)  \|  DEX 15 (+2)  \|  CON 12 (+1)             |
+| **Senses** Darkvision 120 ft., passive Perception 12     |
+| **TRAITS**<br>**test**.                                  |
+| **ACTIONS**<br>**test**.                                 |
+| **BONUS ACTIONS**<br>**test**.                           |
+| **REACTIONS**<br>**test**.                               |
+
+# Crab
 
 | Wild Shape                                               |
 | -------------------------------------------------------- |
@@ -29,8 +44,33 @@
 | **BONUS ACTIONS**<br>**test**.                           |
 | **REACTIONS**<br>**test**.                               |
 
-# Crab
 
+| Wild Shape                                               |
+| -------------------------------------------------------- |
+| *Tiny Beast*                                             |
+| **Armour Class**: 9 + your WIS modifier (Natural Armour) |
+| **Hit Points**: 2 + your Druid level                     |
+| **Speed**: 40ft Walk                                     |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)             |
+| **Senses** Darkvision 120 ft., passive Perception 12     |
+| **TRAITS**<br>**test**.                                  |
+| **ACTIONS**<br>**test**.                                 |
+| **BONUS ACTIONS**<br>**test**.                           |
+| **REACTIONS**<br>**test**.                               |
+
+
+| Wild Shape                                               |
+| -------------------------------------------------------- |
+| *Tiny Beast*                                             |
+| **Armour Class**: 9 + your WIS modifier (Natural Armour) |
+| **Hit Points**: 2 + your Druid level                     |
+| **Speed**: 40ft Walk                                     |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)             |
+| **Senses** Darkvision 120 ft., passive Perception 12     |
+| **TRAITS**<br>**test**.                                  |
+| **ACTIONS**<br>**test**.                                 |
+| **BONUS ACTIONS**<br>**test**.                           |
+| **REACTIONS**<br>**test**.                               |
 
 
 | Wild Shape                                               |
