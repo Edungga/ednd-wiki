@@ -1,7 +1,6 @@
 ---
 School: Illusion
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Action
 Range: 30 ft
 Components: S, M (a bit of fleece)

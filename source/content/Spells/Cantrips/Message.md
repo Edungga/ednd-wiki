@@ -1,7 +1,6 @@
 ---
 School: Transmutation
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Action
 Range: 120 ft
 Components: S, M (a copper wire)

@@ -1,7 +1,6 @@
 ---
 School: Transmutation
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Action
 Range: 60 ft
 Components: S, M (small stones or pebbles)

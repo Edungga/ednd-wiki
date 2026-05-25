@@ -1,7 +1,6 @@
 ---
 School: Divination
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Reaction, to an Ally within Range making a Check
 Range: Touch
 Components: V,S

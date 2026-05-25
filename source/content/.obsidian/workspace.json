@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "All Spells List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spells"
+              "title": "Backlinks for All Spells List"
             }
           },
           {
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "All Spells List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of All Spells List"
             }
           }
         ]
@@ -218,13 +218,13 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "a446b5778dec2714",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Spells/Spells.base",
     "All Spells List.md",
     "Spells/Spells.md",
     "Spells/spell test.md",
     "Spells/Cantrips/Acid Splash.md",
-    "Spells/Spells.base",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
     "index.md",
@@ -252,7 +252,6 @@
     "The Setting/Higher Powers/Fathomless Beings/The Drowned Choir.md",
     "The Setting/Higher Powers/Fathomless Beings/He Who Sleeps Beneath Tides.md",
     "The Setting/Higher Powers/Archfae/Queen of Thorns.md",
-    "The Setting/Higher Powers/Archfae/The Lantern King.md",
     "The Setting/Higher Powers/Archfae",
     "The Setting/Higher Powers/The Virtues",
     "The Setting/Higher Powers"

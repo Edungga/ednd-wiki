@@ -1,7 +1,6 @@
 ---
 School: Transmutation
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: 1 minute
 Range: Touch
 Components: V,S

@@ -1,7 +1,6 @@
 ---
 School: Conjuration
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Action
 Range: Self
 Components: S

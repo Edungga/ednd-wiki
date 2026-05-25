@@ -1,7 +1,6 @@
 ---
 School: Enchantment
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Action
 Range: 10 ft
 Components: S, M (a small amount of makeup applied to the face as this spell is cast)

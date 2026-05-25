@@ -1,7 +1,6 @@
 ---
 School: Evocation
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Action
 Range: Self (5 ft emination)
 Components: S

@@ -1,7 +1,6 @@
 ---
 School: Transmutation
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Action
 Range: Self
 Components: V, S, M (shamrock leaf and a bludgeoning Melee Weapon)

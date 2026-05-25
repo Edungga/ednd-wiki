@@ -1,7 +1,6 @@
 ---
 School: Divination
-Spell Circle:
-  - Cantrip
+Spell Circle: Cantrip
 Casting Time: Bonus Action
 Range: 30 ft
 Components: S
