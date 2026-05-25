@@ -108,9 +108,9 @@ You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] 
 Monks of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm
 ### Level 3: Open Hand Technique
 Whenever you hit a creature with an attack granted by your [[#Flurry of Blows|Flurry of Blows]], you can impose one of the following effects on that target.
-- **Addle**. The target can't make Opportunity Attacks until the start of its next turn.
-- **Push**. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
-- **Topple**. The target must succeed on a Dexterity saving throw or have the Prone condition.
+- **Addle**. It must make a CON Save or can't take Reactions until the end of your next turn.
+- **Push**. The target must succeed on a STR Save or be pushed up to 15 feet away from you.
+- **Topple**. The target must succeed on a DEX Save or be knocked [[Conditions#Prone (Condition)|Prone (Condition)]].
 
 # Way of the Shadow
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins.
