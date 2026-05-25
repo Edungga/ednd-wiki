@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Druid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Druid"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Druid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Druid"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Druid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Druid"
             }
           }
         ],
@@ -186,10 +186,11 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "6491ddd969efb094",
   "lastOpenFiles": [
-    "Rules/Stat Methods.md",
     "index.md",
+    "Druid.md",
+    "Rules/Stat Methods.md",
     "SPELL-TEMPLATE.md",
     "Spells/Spells.md",
     "Spells/Arcane Spell List.md",
@@ -214,7 +215,6 @@
     "Spells/Cantrips/Sapping Sting.md",
     "Spells/Cantrips/Sacred Flame.md",
     "Spells/Cantrips/Resistance.md",
-    "Spells/Cantrips/Ray of Frost.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
