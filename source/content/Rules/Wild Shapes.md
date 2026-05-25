@@ -16,18 +16,17 @@
 
 ## Cat
 
-| Cat - Wild Shape                                         |
-| -------------------------------------------------------- |
-| *Tiny Beast*                                             |
-| **Armour Class**: 9 + your WIS modifier (Natural Armour) |
-| **Hit Points**: 2 + your Druid level                     |
-| **Speed**: 40ft Walk                                     |
-| STR 3 (-4)  \|  DEX 15 (+2)  \|  CON 12 (+1)             |
-| **Senses** Darkvision 120 ft., passive Perception 12     |
-| **TRAITS**<br>**test**.                                  |
-| **ACTIONS**<br>**test**.                                 |
-| **BONUS ACTIONS**<br>**test**.                           |
-| **REACTIONS**<br>**test**.                               |
+| Cat - Wild Shape                                                                                              |
+| ------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                  |
+| **Armour Class**: 9 + your WIS modifier (Natural Armour)                                                      |
+| **Hit Points**: 2 + your Druid level                                                                          |
+| **Speed**: 40ft Walk                                                                                          |
+| STR 3 (-4)  \|  DEX 15 (+2)  \|  CON 12 (0)                                                                   |
+| **Skills** Perception +3, Stealth +4                                                                          |
+| **Senses** Darkvision 60 ft., Passive Perception 13                                                           |
+| **TRAITS**<br>**Jumper**. The cat's jump distance is determined using its Dexterity rather than its Strength. |
+| **ACTIONS**<br>**Scratch**. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.                        |
 
 # Crab
 
