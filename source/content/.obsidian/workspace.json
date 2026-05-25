@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/Arcane Spell List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Acid Splash"
+              "title": "Backlinks for Arcane Spell List"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Cantrips/Acid Splash.md",
+                "file": "Spells/Arcane Spell List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acid Splash"
+              "title": "Outline of Arcane Spell List"
             }
           }
         ]
@@ -226,14 +226,14 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "61d313202e7478fa",
+  "active": "4c62cf010c8c8d9e",
   "lastOpenFiles": [
+    "Spells/Cantrips/Acid Splash.md",
     "Spells/Arcane Spell List.md",
     "Spells/All Spells List.md",
     "Spells/Spells.md",
     "Spells/Divine Spell List.md",
     "Spells/Primal Spell List.md",
-    "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
     "index.md",
     "Spells/Cantrips/Word of Radiance.md",
