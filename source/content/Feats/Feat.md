@@ -1,6 +1,7 @@
 # Level 1 Feats
 ## Alert
 **Initiative Proficiency**. When you roll Initiative, you can add your Proficiency Bonus to the roll. 
+
 **Initiative Swap**. Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.
 
 ## Fighting Style
@@ -18,11 +19,15 @@ You adopt a particular style of fighting as your speciality. Choose one of the f
 
 ## Healer
 **Battle Medic**. If you have a Healer's Kit, you can spend a use to tend to a creature within 5 feet of yourself as a Utilise Action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
+
 **Healing Rerolls**. Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 ## Magic Initiate
-**Two Cantrips**. You learn two Cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this feat's spells (choose when you select this feat).
+**Two Cantrips**. You learn two [[Spells#Cantrips|Cantrips]] of your choice from the [[arc]] [[Divine Spell List]], 
+Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this feat's spells (choose when you select this feat).
+
 **Level 1 Spell**. Choose a level 1 Spell from the same list you selected for this feat's Cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
+
 **Spell Change**. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 **Repeatable**. You can take this feat more than once, but you must choose a different spell list each time.
 
