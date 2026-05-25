@@ -1,6 +1,6 @@
 
 # CR 1/4
-# Baboon
+## Baboon
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -15,7 +15,7 @@
 | **ACTIONS**<br>**test**.                             |
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
-# Badger
+## Badger
 | Wild Shape                                           |
 | ---------------------------------------------------- |
 | *Tiny Beast*                                         |
@@ -43,7 +43,7 @@
 | **TRAITS**<br>**Echolocation.** When you make a Check that uses its hearing, treat a d20 roll of 9 or lower as a 10. It loses this benefit and its Blindsight if it is [[Conditions#Deafened (Debuff)\|Deafened (Debuff)]] |
 | **ACTIONS**<br>**Bite**. Melee Attack Roll: +4 to hit, reach 5 ft. Hit: 1 Piercing damage.                                                                                                                                 |
 
-# Blood Hawk
+## Blood Hawk
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -59,7 +59,7 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-# Boar
+## Boar
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -75,7 +75,7 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-# Camel
+## Camel
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -91,7 +91,7 @@
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
 
-## Cat
+# Cat
 
 | Cat - Wild Shape                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -106,7 +106,7 @@
 | **ACTIONS**<br>**Scratch**. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.                                                                                                     |
 | **REACTIONS**<br>**Reflexive Fall**. When the Cat falls, it can reduce any falling damage it takes by its Dexterity score (15). If it reduces this damage to 0, the Cat lands on its feet. |
 
-# Consa
+# Constrictor Snake
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -136,7 +136,39 @@
 | **TRAITS**<br>Amphibious. The crab can breathe air and water.                      |
 | **ACTIONS**<br>Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage. |
 
+# Deer
 
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+# Draft Horse
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+# Eagle
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |

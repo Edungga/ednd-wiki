@@ -180,7 +180,8 @@
               "title": "Outline of Wild Shapes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "f49659686d09e26d",
+  "active": "2d9129bb8dcf7983",
   "lastOpenFiles": [
     "Druid.md",
     "Rules/Wild Shapes.md",
