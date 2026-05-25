@@ -15,12 +15,18 @@
               "state": {
                 "file": "Spells/spell test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "spell test"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e5a0230f05b1b0d2",
+        "type": "tabs",
+        "children": [
           {
             "id": "9264ae25c996f316",
             "type": "leaf",
@@ -35,8 +41,7 @@
               "title": "spell test"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Barbarian.md",
+                "file": "Spells/spell test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Barbarian"
+              "title": "Backlinks for spell test"
             }
           },
           {
@@ -166,8 +171,7 @@
               "title": "Outline of spell test"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9264ae25c996f316",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Rules/Conditions.md",
     "Spells/spell test.md",
