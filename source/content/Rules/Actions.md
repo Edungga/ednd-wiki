@@ -116,10 +116,10 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 
 # Utilize
 You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilize action.
-
 ## Lock Pick
 Sleight of hand Check against locks DC. You must have Thieves’ Tools or similar Equipment to attempt.
 If you are not using Thieves’ Tools, you have Disadvantage on the Check.
 You are using Thieves’ Tools, and have Proficiency in them, you may add your Proficiency Bonus to the result of the Check.
-
+## Rifle
+Search through a bag, box, your equipment to pull out an item and use or Sleight of Hand to pick someone's pocket
 

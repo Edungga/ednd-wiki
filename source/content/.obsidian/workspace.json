@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Actions.md",
+                "file": "Rules/Bonus Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actions"
+              "title": "Bonus Actions"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Actions.md",
+                "file": "Rules/Bonus Actions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Actions"
+              "title": "Backlinks for Bonus Actions"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Actions.md",
+                "file": "Rules/Bonus Actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Actions"
+              "title": "Outline of Bonus Actions"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "6491ddd969efb094",
   "lastOpenFiles": [
-    "Rules/Conditions.md",
     "Rules/Actions.md",
+    "Rules/Bonus Actions.md",
+    "Rules/Conditions.md",
     "Druid.md",
     "Spells/Primal Spell List.md",
     "Classes/Barbarian.md",
@@ -228,7 +229,6 @@
     "Spells/Cantrips/Spare the Dying.md",
     "Spells/Cantrips/Shocking Grasp.md",
     "Spells/Cantrips/Shillelagh.md",
-    "Spells/Cantrips/Shape Water.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
