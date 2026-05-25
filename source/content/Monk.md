@@ -91,6 +91,7 @@ When you hit a creature with an Unarmed Strike and deal damage, you can expend 1
 ### Level 3: Ki Form - Hand of Healing
 As an action, you can expend 1 Ki Point to touch a creature and restore a number of Hit Points equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use [[#Flurry of Blows|Flurry of Blows]], you can replace one of the Unarmed Strikes with a use of this feature.
 
+
 ## Way of the Elements
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
 ### Level 3: Ki Form - Elemental Attunement
@@ -111,6 +112,8 @@ Whenever you hit a creature with an attack granted by your [[#Flurry of Blows|Fl
 - **Addle**. It must make a CON Save or can't take Reactions until the end of your next turn.
 - **Push**. The target must succeed on a STR Save or be pushed up to 15 feet away from you.
 - **Topple**. The target must succeed on a DEX Save or be knocked [[Conditions#Prone (Condition)|Prone (Condition)]].
+
+
 
 # Way of the Shadow
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins.
