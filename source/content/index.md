@@ -11,7 +11,7 @@ We also have some Home Rules to spice things up a bit
 - **Languages**. You know Common and two additional [[Languages]] of your choice
 - **Skill Proficiency**. You gain Proficiency in two Skills of your choice 
 - **Tool Proficiency**. You gain Proficiency in a Tool of your choice
-- **Feat**. Gain an Origin Feat
+- **Feat**. Gain an Origin Feat [[Feat]]
 - **Stats**. Point Array (17, 15, 13, 12, 10, 8) - No other Stat increases at lvl 1
 - [[Example Backgrounds]]
 
