@@ -77,24 +77,7 @@ The power of nature allows you to assume the form of an animal. As a Bonus Actio
 
 You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or die. You can also leave the form early as a Bonus Action.
 
-| Wild Shape                                                      |
-| --------------------------------------------------------------- |
-| *Tiny Beast*                                                    |
-| **Armour Class**: 9 + your WIS modifier (Natural Armour)        |
-| **Hit Points**: 2 + your Druid level                            |
-| **Speed**: 40ft Walk                                            |
-| \|  STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)  \|            |
-| Senses Darkvision 120 ft., passive Perception 12                |
-| Languages Telepathy 120 ft. (only between you and the familiar) |
-| **ACTIONS**<br>**test**.                                        |
-| **BONUS ACTIONS**<br>**test**.                                  |
-| **REACTIONS**<br>**test**.                                      |
-| **REACTIONS**<br>**test**.                                      |
-|                                                                 |
-
-
-
-**Known Forms**. You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
+**Known Forms**. You know four Beast forms for this feature, chosen from among [[Wild Shapes#CR 1/4| Wh]] that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
 
 When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 
