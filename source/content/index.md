@@ -12,7 +12,7 @@ We also have some Home Rules to spice things up a bit
 - **Skill Proficiency**. You gain Proficiency in two Skills of your choice 
 - **Tool Proficiency**. You gain Proficiency in a Tool of your choice
 - **Feat**. Gain a [[Feat#Level 1 Feats|Level 1 Feat]]
-- **Stats**. There are 2 Stat Point Array (17, 15, 13, 12, 10, 8) - No other Stat increases at lvl 1
+- **Stats**. There are 2 [[Stat Methods]] Point Array (17, 15, 13, 12, 10, 8) - No other Stat increases at lvl 1
 - [[Example Backgrounds]]
 
 ## Ancestries

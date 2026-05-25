@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Stat Methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stat Methods"
+            }
+          },
+          {
+            "id": "6491ddd969efb094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Stat Methods.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Stat Methods"
             }
           },
           {
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Stat Methods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Stat Methods"
             }
           }
         ],
@@ -173,11 +187,12 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "index.md",
+    "Stat Methods.md",
     "SPELL-TEMPLATE.md",
     "Spells/Spells.md",
     "Spells/Arcane Spell List.md",
     "Feats/Feat.md",
-    "index.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
     "Spells/All Spells List.md",
@@ -199,7 +214,6 @@
     "Spells/Cantrips/Sacred Flame.md",
     "Spells/Cantrips/Resistance.md",
     "Spells/Cantrips/Ray of Frost.md",
-    "Spells/Cantrips/Produce Flame.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
