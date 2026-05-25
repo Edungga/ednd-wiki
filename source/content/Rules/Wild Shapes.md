@@ -43,19 +43,16 @@
 
 ## Boar
 
-| Boar - Wild Shape                                                                                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Medium Beast*                                                                                                                                                                                                                                            |
-| **Armour Class**: 8 + your WIS modifier                                                                                                                                                                                                                   |
-| **Hit Points**: 13 + your Druid level                                                                                                                                                                                                                     |
-| **Speed**: 40ft Walk                                                                                                                                                                                                                                      |
-| STR 13 (+1)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                                                                                                                                                                              |
-| **Skills**                                                                                                                                                                                                                                                |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                                                                                      |
-| **TRAITS**<br>**Trampling Charge**. When the Boar moves at least 20 ft. in a line and hits a creature equal to its size (or smaller) with a Tusk attack, the target is knocked Prone. The Boar can then make a Stomp attack against it as a bonus action. |
-| **ACTIONS**<br>**test**.                                                                                                                                                                                                                                  |
-| **BONUS ACTIONS**<br>**test**.                                                                                                                                                                                                                            |
-| **REACTIONS**<br>**test**.                                                                                                                                                                                                                                |
+| Boar - Wild Shape                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Medium Beast*                                                                                                                                                                                                                     |
+| **Armour Class**: 8 + your WIS modifier                                                                                                                                                                                            |
+| **Hit Points**: 13 + your Druid level                                                                                                                                                                                              |
+| **Speed**: 40ft Walk                                                                                                                                                                                                               |
+| STR 13 (+1)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                                                                                                                                                       |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                                                               |
+| **TRAITS**<br>**Trampling Charge**. When the Boar moves at least 20 ft. in a line and hits a creature equal to its size (or smaller) with a Tusk attack, the target is knocked [[Conditions#Prone (Condition)\|Prone (Condition)]] |
+| **ACTIONS**<br>**Tusk**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d6 +1) bludgeoning damage.                                                                                                                |
 
 ## Camel
 
