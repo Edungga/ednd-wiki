@@ -69,11 +69,11 @@ Your control over the powers of nature have granted you access to Primal Surges.
 
 **Number of Uses**. You can use Primal Surges a number of times equal to your Proficiency Bonus. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 ### Wild Companion
-You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a Primal Surge to cast the [[Find Familiar]] spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a [[#Level 2 Primal Surge|Primal Surge]] to cast the [[Find Familiar]] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 ### Wild Shape
-The power of nature allows you to assume the form of an animal. As a Bonus Action, you Shapechange into a Beast form that you have learned for this feature (see [[Wild Shapes]]). 
+The power of nature allows you to assume the form of an animal. As a Bonus Action, you can Shapechange into a Beast form that you have learned for this feature (see [[Wild Shapes]]). 
 
 You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or die. You can also leave the form early as a Bonus Action.
 
@@ -108,7 +108,7 @@ When you reach certain Druid levels, your number of known forms and the max CR f
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
 ## Level 5: Wild Resurgence
-If you have no uses of Wild Shape left, you can give yourself one use by expending a Spell Slot of any level (no action required).
+If you have no uses of Wild Shape left, you can expend a Spell Slot of any level to gain (no action required).
 
 ---
 # Druidic Grove
