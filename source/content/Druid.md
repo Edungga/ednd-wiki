@@ -75,7 +75,7 @@ You can summon a nature spirit that assumes an animal form to aid you. As a Magi
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
 # Level 2: Wild Shape
-The power of nature allows you to assume the form of an animal. As a Bonus Action, you Shapeshift into a Beast form that you have learned for this feature (see [[Wild Shape]]). 
+The power of nature allows you to assume the form of an animal. As a Bonus Action, you Shapechange into a Beast form that you have learned for this feature (see [[Wild Shape]]). 
 
 You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or die. You can also leave the form early as a Bonus Action.
 
