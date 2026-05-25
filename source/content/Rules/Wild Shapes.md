@@ -31,18 +31,19 @@
 
 # Crab
 
-| Wild Shape                                                                         |
+| Crab - Wild Shape                                                                  |
 | ---------------------------------------------------------------------------------- |
 | *Tiny Beast*                                                                       |
 | **Armour Class**: 9 + your WIS modifier (Natural Armour)                           |
 | **Hit Points**: 3 + your Druid level                                               |
-| **Speed**: 20ft Walk                                                               |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                       |
-| **Senses** Darkvision 120 ft., passive Perception 12                               |
+| **Speed**: 20ft Walk, 20ft Swim                                                    |
+| STR 6 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                        |
+| **Skills** Stealth +2                                                              |
+| **Senses** Blindsight 30 ft., Passive Perception 9                                 |
 | **TRAITS**<br>Amphibious. The crab can breathe air and water.                      |
 | **ACTIONS**<br>Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                     |
-| **REACTIONS**<br>**test**.                                                         |
+
+
 
 
 | Wild Shape                                               |
