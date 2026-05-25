@@ -30,7 +30,7 @@ We also have some Home Rules to spice things up a bit
 - [[Bard]] - up to lvl 5
 - [[Bloodhunter]] - up to lvl 5
 - [[Cleric]] - up to lvl 5
-- [[Druid]]
+- [[Druid]] - 1 level
 - [[Fighter]] - up to lvl 5
 - [[Monk]]
 - [[Paladin]]

@@ -77,7 +77,7 @@ The power of nature allows you to assume the form of an animal. As a Bonus Actio
 
 You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or die. You can also leave the form early as a Bonus Action.
 
-**Known Forms**. You know four Beast forms for this feature, chosen from among [[Wild Shapes]] CR 1/4that lack a Fly Speed. 
+**Known Forms**. You know four Beast forms for this feature, chosen from among [[Wild Shapes]] CR 1/4 that lack a Fly Speed. 
 
 When you reach certain Druid levels, your number of known forms and the max CR for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 
