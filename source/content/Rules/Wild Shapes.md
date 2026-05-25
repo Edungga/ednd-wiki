@@ -56,7 +56,7 @@
 
 ## Camel
 https://www.gmbinder.com/share/-OCTyV0iLRGFr9WfdtJy
-
+https://5e.tools/bestiary.html#camel_xmm
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |

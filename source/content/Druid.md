@@ -107,9 +107,8 @@ When you reach certain Druid levels, your number of known forms and the max CR f
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
-
 ## Level 5: Wild Resurgence
-
+If you have no uses of Wild Shape left, you can give yourself one use by expending a Spell Slot of any level (no action required).
 
 ---
 # Druidic Grove
