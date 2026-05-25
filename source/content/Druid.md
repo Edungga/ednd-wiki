@@ -125,8 +125,23 @@ If you have no [[#Level 2 Primal Surge|Primal Surges]] left, you can expend a Sp
 | 7th         | Freedom of Movement, Ice Storm    |
 | 9th         | Commune with Nature, Cone of Cold |
 
-### Level 3: 
+### Level 3: Form of the Blood Moon
+You have access to an additional Wild Shape form, choose one of the following; Wendigo, Lycan, Owlbear, or Displacer Beas
+#### Wendigo
 
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
 
 
 ## Elemental Grove
