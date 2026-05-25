@@ -18,11 +18,15 @@ WHERE contains(spell-list,"Primal")
 | [[Mould Earth]]         | Transmutation | Cantrip      |
 | [[Poison Spray]]       | Necromancy    | Cantrip      |
 | [[Gust]]                       | Transmutation | Cantrip      |
+| [[Produce Flame]]     | Conjuration   | Cantrip      |
 | [[Ray of Frost]]       | Evocation     | Cantrip      |
+| [[Primal Savagery]] | Transmutation | Cantrip      |
 | [[Sapping Sting]]     | Necromancy    | Cantrip      |
 | [[Shape Water]]         | Transmutation | Cantrip      |
+| [[Shillelagh]]           | Transmutation | Cantrip      |
 | [[Spare the Dying]] | Necromancy    | Cantrip      |
 | [[Resistance]]           | Abjuration    | Cantrip      |
+| [[Thorn Whip]]           | Conjuration   | Cantrip      |
 | [[Thunderclap]]         | Evocation     | Cantrip      |
 
 <!-- SerializedQuery END -->

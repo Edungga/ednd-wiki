@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Stat Methods.md",
+                "file": "Spells/Primal Spell List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stat Methods"
+              "title": "Primal Spell List"
             }
           },
           {
@@ -188,18 +188,18 @@
   },
   "active": "6491ddd969efb094",
   "lastOpenFiles": [
-    "index.md",
-    "Druid.md",
-    "Rules/Stat Methods.md",
-    "SPELL-TEMPLATE.md",
-    "Spells/Spells.md",
+    "Spells/Primal Spell List.md",
+    "Spells/All Spells List.md",
+    "Spells/Divine Spell List.md",
     "Spells/Arcane Spell List.md",
+    "Spells/Spells.md",
+    "Rules/Stat Methods.md",
+    "Druid.md",
+    "index.md",
+    "SPELL-TEMPLATE.md",
     "Feats/Feat.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
-    "Spells/All Spells List.md",
-    "Spells/Divine Spell List.md",
-    "Spells/Primal Spell List.md",
     "Spells/Cantrips/Word of Radiance.md",
     "Spells/Cantrips/Vicious Mockery.md",
     "Spells/Cantrips/True Strike.md",
