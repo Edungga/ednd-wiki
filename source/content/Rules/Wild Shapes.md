@@ -43,22 +43,6 @@
 | **TRAITS**<br>**Echolocation.** When you make a Check that uses its hearing, treat a d20 roll of 9 or lower as a 10. It loses this benefit and its Blindsight if it is [[Conditions#Deafened (Debuff)\|Deafened (Debuff)]] |
 | **ACTIONS**<br>**Bite**. Melee Attack Roll: +4 to hit, reach 5 ft. Hit: 1 Piercing damage.                                                                                                                                 |
 
-## Blood Hawk
-
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
-
 ## Boar
 
 | Wild Shape                                           |
@@ -475,3 +459,64 @@
 
 ## Rat
 
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Spider
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Vulture 
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Wolf
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
