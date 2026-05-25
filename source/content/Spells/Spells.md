@@ -61,6 +61,18 @@ WHERE spell-circle = "Cantrip"
 
 # 1st Circle
 
+<!-- QueryToSerialize: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List"
+FROM "Spells"
+WHERE spell-circle = "1st"
+-->
+<!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "`1`" -->
+
+| File | School | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
+| ---- | ------ | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
+
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
+
 
 
 # 2nd Circle
