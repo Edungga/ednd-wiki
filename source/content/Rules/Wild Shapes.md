@@ -3,16 +3,16 @@
 
 ## Bat
 
-| Wild Shape                                          |
-| --------------------------------------------------- |
-| *Tiny Beast*                                        |
-| **Armour Class**: 9 + your WIS modifier             |
-| **Hit Points**: 1 + your Druid level                |
-| **Speed**: 5ft Walk, 30ft Fly                       |
-| STR 2 (-4)  \|  DEX 15 (+2)  \|  CON 8 (-1)         |
-| **Senses** Blindsight 60 ft., Passive Perception 11 |
-|                                                     |
-| **ACTIONS**<br>**test**.                            |
+| Wild Shape                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                                                                                                               |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                    |
+| **Hit Points**: 1 + your Druid level                                                                                                                                                                                       |
+| **Speed**: 5ft Walk, 30ft Fly                                                                                                                                                                                              |
+| STR 2 (-4)  \|  DEX 15 (+2)  \|  CON 8 (-1)                                                                                                                                                                                |
+| **Senses** Blindsight 60 ft., Passive Perception 11                                                                                                                                                                        |
+| **TRAITS**<br>**Echolocation.** When you make a Check that uses its hearing, treat a d20 roll of 9 or lower as a 10. It loses this benefit and its Blindsight if it is [[Conditions#Deafened (Debuff)\|Deafened (Debuff)]] |
+| **ACTIONS**<br>**test**.                                                                                                                                                                                                   |
 
 
 ## Cat
