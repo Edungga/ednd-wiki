@@ -68,12 +68,10 @@ You can change your list of Prepared Spells when you finish a Long Rest. 
 Your control over the powers of nature have granted you access to Primal Surges.
 
 **Number of Uses**. You can use Primal Surges a number of times equal to your Proficiency Bonus. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
-
 ### Wild Companion
-You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of [[#Level 2 Wild Shape|Wild Shape]] to cast the [[Find Familiar]] spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a Primal Surge to cast the [[Find Familiar]] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
-
 ### Wild Shape
 The power of nature allows you to assume the form of an animal. As a Bonus Action, you Shapechange into a Beast form that you have learned for this feature (see [[Wild Shape]]). 
 
