@@ -78,4 +78,6 @@ An Indifferent creature has no desire to help or hinder you. Indifferent is the 
 A Hostile creature views you unfavorably. You have Disadvantage on an ability check to influence a Hostile creature.
 
 
-# Interact
+# Magic
+
+
