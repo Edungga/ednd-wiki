@@ -5,3 +5,5 @@ FROM "Spells"
 ```
 
 , Spell Circle, Casting Time, Range, Components, Duration
+
+<!-- QueryToSerialize: LIST FROM #foo  -->
