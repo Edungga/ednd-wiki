@@ -35,7 +35,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat Methods.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stat Methods"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stat Methods.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stat Methods"
+              "title": "Outline of index"
             }
           }
         ],
@@ -185,10 +186,10 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "4670187c9d2e6012",
+  "active": "6491ddd969efb094",
   "lastOpenFiles": [
-    "index.md",
     "Stat Methods.md",
+    "index.md",
     "SPELL-TEMPLATE.md",
     "Spells/Spells.md",
     "Spells/Arcane Spell List.md",
