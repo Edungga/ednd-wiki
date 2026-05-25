@@ -89,5 +89,6 @@ You can attack twice instead of once whenever you take the Attack action on your
 ---
 # Monastic Traditions
 
-#
+## Way of the Elements
+You follow a monastic tradition that teaches you to harness a chosen element. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
 
