@@ -5,7 +5,7 @@ Casting Time: Action
 Range: Self
 Components: V, S, M (shamrock leaf and a bludgeoning Melee Weapon)
 Duration: Instantaneous
-Spell List: Primal
+Spell List: "[[Primal Spell List|Primal]]"
 tags:
   - Spell
 ---

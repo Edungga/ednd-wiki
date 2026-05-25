@@ -5,7 +5,7 @@ Casting Time: Action
 Range: Self (5 ft emination)
 Components: V, M (a sunburst token)
 Duration: Instantaneous
-Spell List: Divine
+Spell List: "[[Divine Spell List|Divine]]"
 tags:
   - Spell
 ---
