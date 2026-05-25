@@ -89,21 +89,13 @@ You follow a monastic tradition that teaches you to harness Elemental Chaos. Whe
 ### Level 3: Ki Form - Elemental Attunement
 At the start of your turn, you can expend 1 Ki to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. You gain the following benefits while this feature is active.
 
+**Reach**. When you make an Unarmed Strike, your reach is 10 feet greater than normal, as elemental energy extends from you.
 
-You become attuned to an elemental Axiom; Water, Earth, Fire, or Air. You gain the following traits based of your Elemental Attunement:
-
-- Water. You learn the Water Bend and Ice Shard Ki Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Water) Forms.
-    
-- Earth. You learn the Earth Bend and Launch Stone Ki Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Earth) Forms.
-    
-- Fire. You learn the Fire Bend and Conjure Flame Ki Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Fire) Forms.
-    
-
-Air. You learn the Air Bend and Air Burst Forms and can use each without spending Ki, these do not count against the total number of forms you can know. You must spend Ki for any enhancement to these Forms. Additionally, you gain access to the Way of the Elements (Air) Forms.
+**Elemental Strikes**. Whenever you hit with your Unarmed Strike, you can cause it to deal your choice of Acid, Cold, Fire, Lightning, or Thunder damage rather than its normal damage type. When you deal one of these types with it, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
 
 ### Level 3: Elemental Manipulation
-You know the Cantrips, they all count as [[#Forms|Forms]] for you
-[[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]]
+You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, they all count as [[#Forms|Forms]] for you.
+
 
 
 
