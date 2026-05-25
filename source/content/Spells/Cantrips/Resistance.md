@@ -5,7 +5,7 @@ Casting Time: Reaction, to an Ally within Range making a Save
 Range: 30 ft
 Components: V,S
 Duration: Instantaneous
-Spell List: "[[Divine Spell List|Divine]], [[Primal Spell List|Primal]]"
+Spell List: Divine, Primal
 tags:
   - Spell
 ---
@@ -17,9 +17,9 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
 
-| School     | Spell Circle | Casting Time                                    | Range | Components | Duration      | Spell List                                                   |
-| ---------- | ------------ | ----------------------------------------------- | ----- | ---------- | ------------- | ------------------------------------------------------------ |
-| Abjuration | Cantrip      | Reaction, to an Ally within Range making a Save | 30 ft | V,S        | Instantaneous | [[Divine Spell List\|Divine]], [[Primal Spell List\|Primal]] |
+| School     | Spell Circle | Casting Time                                    | Range | Components | Duration      | Spell List     |
+| ---------- | ------------ | ----------------------------------------------- | ----- | ---------- | ------------- | -------------- |
+| Abjuration | Cantrip      | Reaction, to an Ally within Range making a Save | 30 ft | V,S        | Instantaneous | Divine, Primal |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->

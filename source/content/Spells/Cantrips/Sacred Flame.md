@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 60 ft
 Components: V,S
 Duration: Instantaneous
-Spell List: "[[Divine Spell List|Divine]]"
+Spell List: Divine
 tags:
   - Spell
 ---
@@ -17,9 +17,9 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
 
-| School    | Spell Circle | Casting Time | Range | Components | Duration      | Spell List                              |
-| --------- | ------------ | ------------ | ----- | ---------- | ------------- | --------------------------------------- |
-| Evocation | Cantrip      | Action       | 60 ft | V,S        | Instantaneous | [[Divine Spell List\|Divine]] |
+| School    | Spell Circle | Casting Time | Range | Components | Duration      | Spell List |
+| --------- | ------------ | ------------ | ----- | ---------- | ------------- | ---------- |
+| Evocation | Cantrip      | Action       | 60 ft | V,S        | Instantaneous | Divine     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name FLATTEN spell-list -->
