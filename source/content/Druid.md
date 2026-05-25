@@ -27,3 +27,14 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 ---
 # Class Features
+
+| Level | Proficiency Bonus | Features                      | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ----------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Druidic, Spellcasting         | 2        | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Wild Shape, Of the Grove      | 2        | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | Druid Circle                  | 2        | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Wild Shape Forms, Feat / ASI  | 3        | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | Grove Spells, Wild Resurgence | 3        | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+
+# Level 1: Spellcasting
+
