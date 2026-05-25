@@ -11,6 +11,7 @@
 | **Speed**: 5ft Walk, 30ft Fly                       |
 | STR 2 (-4)  \|  DEX 15 (+2)  \|  CON 8 (-1)         |
 | **Senses** Blindsight 60 ft., Passive Perception 11 |
+|                                                     |
 | **ACTIONS**<br>**test**.                            |
 
 
@@ -24,6 +25,7 @@
 | **Speed**: 40ft Walk                                     |
 | STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)             |
 | **Senses** Darkvision 120 ft., passive Perception 12     |
+| **TRAITS**<br>**test**.                                  |
 | **ACTIONS**<br>**test**.                                 |
 | **BONUS ACTIONS**<br>**test**.                           |
 | **REACTIONS**<br>**test**.                               |
