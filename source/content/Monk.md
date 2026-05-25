@@ -104,6 +104,14 @@ You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] 
 
 
 
+# Way of the Open Hand
+
+
+
+# Way of the Shadow
+Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins.
+
+
 
 
 
