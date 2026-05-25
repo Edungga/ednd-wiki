@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPELL-TEMPLATE"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SPELL-TEMPLATE"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SPELL-TEMPLATE"
+              "title": "Outline of index"
             }
           }
         ],
@@ -173,8 +173,8 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
-    "Spells/Spells.md",
     "SPELL-TEMPLATE.md",
+    "Spells/Spells.md",
     "Spells/Arcane Spell List.md",
     "Feats/Feat.md",
     "index.md",
