@@ -61,8 +61,7 @@
               "title": "Spells"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Spells/Spells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.base",
+                "file": "Spells/Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,16 +210,16 @@
       "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "2939a016fb840101",
+  "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "Spells/All Spells List.md",
+    "Spells/Spells.md",
+    "Spells/Primal Spell List.md",
+    "Spells/Divine Spell List.md",
+    "Spells/Arcane Spell List.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
-    "Spells/Spells.md",
     "index.md",
-    "Spells/Primal Spell List.md",
-    "Spells/Arcane Spell List.md",
-    "Spells/Divine Spell List.md",
-    "Spells/All Spells List.md",
     "Spells/spell test.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
