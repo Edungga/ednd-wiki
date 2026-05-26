@@ -153,18 +153,28 @@ If you already know Wild Insight I, you learn another Knack of your choice that 
 
 
 ## Gloom Stalker
+Gloom stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primaeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a gloom stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world.
+### Level 3: 
+
+### Level 3: 
 
 
 
 ## Grave Walker
 
 
+### Level 3: 
+### Level 3: 
 ## Hunter
 
 
+### Level 3: 
+### Level 3: 
 ## Wild Warden
 
 
+### Level 3: 
+### Level 3: 
 
 
 
