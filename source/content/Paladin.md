@@ -48,19 +48,17 @@ You have learned to cast spells through prayer and meditation
 
 **Spell Slots**. The Paladin table shows how many Spell Slots you have to cast your spells of 1st level and higher. To cast one of these Spells, you must expend a slot of the Spell’s level or higher. You regain all expended Spell Slots when you finish a Long Rest.
 
-Prepared Spells of 1st+ Level. You prepare the list of Spells of 1st level and higher that are available for you to cast with this feature. When you do so, choose a number of Spells from the Divine Spell List equal to your CHA modifier + your Paladin level (min 1 spell). The Spells must be of a level for which you have Spell Slots.
+**Prepared Spells of 1st+ Level**. You prepare the list of Spells of 1st level and higher that are available for you to cast with this feature. When you do so, choose a number of Spells from the [[Divine Spell List]] equal to your CHA modifier + your Paladin level (min 1 spell). The Spells must be of a level for which you have Spell Slots.
 
-For example, if you are a 5th Level Paladin, you have four 1st Level and two 2nd Level Spell Slots. With a CHA of 14, your list of Prepared Spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st Level Spell Cure Wounds, you can cast it using a 1st Level or a 2nd Level Slot. Casting the Spell doesn't remove it from your list of Prepared Spells.
+You can change your Prepared Spells when you finish a Long Rest. 
 
-You can change your list of Prepared Spells when you finish a Long Rest. 
+**Spellcasting Ability**. Charisma is your Spellcasting Ability for your Paladin Spells.
 
-Spellcasting Ability. Charisma is your Spellcasting Ability for your Paladin Spells.
+**Spell save DC** = 8 + your Proficiency Bonus + your CHA modifier
 
-Spell save DC = 8 + your Proficiency Bonus + your CHA modifier
+**Spell attack modifier** = your Proficiency Bonus + your CHA modifier
 
-Spell attack modifier = your Proficiency Bonus + your CHA modifier
-
-Spellcasting Focus. You can use a Holy Symbol as a Spellcasting Focus for the Spells you prepare for this class. If you emblazon your Holy Symbol onto a Shield, you can use that Shield.
+**Spellcasting Focus**. You can use a Holy Symbol as a Spellcasting Focus for the Spells you prepare for this class. If you emblazon your Holy Symbol onto a Shield, you can use that Shield.
 
 ## Level 1: Weapon Mastery
 Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
