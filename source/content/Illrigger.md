@@ -152,12 +152,7 @@ Whenever you gain a level in this class, you can replace one of the arcane spell
 
 **Spell attack modifier** = Charisma modifier + Proficiency Bonus
 
-**Spellcasting Focus** You have an unholy
-symbol, such as an amulet symbolizing your
-archdevil, a fragment of a blasphemous
-relic, or a glass orb holding a consecrated
-drop of archdevil blood You can use the
-unholy symbol as a spellcasting focus for your illrigger spells You must have a free hand to use the unholy symbol, but it can be the same hand you use to perform somatic components
+**Spellcasting Focus** You have an unholy symbol, such as an amulet symbolizing your archdevil, a fragment of a blasphemous relic, or a glass orb holding a consecrated drop of archdevil blood You can use the unholy symbol as a spellcasting focus for your Illrigger spells You must have a free hand to use the unholy symbol, but it can be the same hand you use to perform somatic components
 
 ---
 # Interdict Boons
