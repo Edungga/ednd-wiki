@@ -84,9 +84,13 @@ Whenever you gain an Illrigger level, you can choose a Boon you know and replace
 **Using Interdict Boons**. Some Boons allow you to expend unplaced seals to fuel abilities, while others empower all your Seals or grant you benefits against Interdicted Creatures. The Boons that grant passive benefits, are marked with a “Passive” tag. You don’t need to expend a Seal or take an Action to benefit from your Passive Boons. All other boons must be activated on a turn.
 
 ## Level 3: Diabolic Contracts
-
+You sign a [[Illrigger#Diabolic Contracts|Diabolic Contract]] with an archdevil who welcomes you into the Order of Desolation Choose one of the following:
+- 
 
 ## Level 3: Invoke Hell
+Your diabolic connection allows you to channel infernal energy to empower magical effects. Your chosen Diabolic Contract grants you two Invoke Hell options and describes how to use each. When you use your Invoke Hell, you choose which option to use. You must then finish a Short or Long Rest to use your Invoke Hell again. 
+Some Invoke Hell effects require a Save. When you use such an effect, the DC equals your interdict save DC.
+
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
