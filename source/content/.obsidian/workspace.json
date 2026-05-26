@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Barbarian.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barbarian"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Barbarian.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Barbarian"
+              "title": "Outline of index"
             }
           }
         ],
@@ -172,11 +172,11 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "Classes/Barbarian.md",
     "Classes/Bard.md",
     "index.md",
     "Paladin.md",
     "Classes/Monk.md",
-    "Classes/Barbarian.md",
     "Classes/Cleric.md",
     "Classes/Fighter.md",
     "Druid.md",
