@@ -140,19 +140,24 @@ As an Architect of Ruin, you access a well of profane magic to cast spells.
 
 **Cantrips**. You learn two cantrips of your choice from the [[Arcane Spell List]]. You learn an additional cantrip of your choice at 10th level and another at 15th level.
 
-**Spell Slots**. The Architect of Ruin Spellcasting table shows how many spell slots you have to cast your [[Arcane Spell List|Arcane Sp]] of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Spell Slots**. The Architect of Ruin Spellcasting table shows how many spell slots you have to cast your [[Arcane Spell List|Arcane Spells]] of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-**Spells Known of 1st-Level and Higher**. You know three 1st-level Arcane spells of your choice.
-The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more arcane spells of 1st level or higher. 
+**Spells Known of 1st-Level and Higher**. You know three 1st-level [[Arcane Spell List|Arcane Spells]]  of your choice.
+The Spells Known column of the Architect of Ruin Spellcasting table shows when you learn more arcane spells of 1st level or higher. 
 Whenever you gain a level in this class, you can replace one of the arcane spells you know with another spell of your choice from the [[Arcane Spell List]]. The new spell must be of a level for which you have spell slots.
 
-**Spellcasting Ability**. Intelligence is your spellcasting ability for your arcane spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+**Spellcasting Ability**. Charisma is your spellcasting ability for your arcane spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + Intelligence modifier + Proficiency Bonus
+**Spell save DC** = 8 + Charisma modifier + Proficiency Bonus
 
-**Spell attack modifier** = Intelligence modifier + Proficiency Bonus
+**Spell attack modifier** = Charisma modifier + Proficiency Bonus
 
-
+**Spellcasting Focus** You have an unholy
+symbol, such as an amulet symbolizing your
+archdevil, a fragment of a blasphemous
+relic, or a glass orb holding a consecrated
+drop of archdevil blood You can use the
+unholy symbol as a spellcasting focus for your illrigger spells You must have a free hand to use the unholy symbol, but it can be the same hand you use to perform somatic components
 
 ---
 # Interdict Boons
