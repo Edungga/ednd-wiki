@@ -110,6 +110,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9th           | [[Plant Growth]], [[Protection from Energy]] |
 | 13th          | [[Ice Storm]], [[Stoneskin]]                 |
 | 17th          | [[Commune with Nature]], [[Tree Stride]]     |
+
 ### Level 3: Nature's Wrath
 As an Action, expend one use of Channel Divinity to cause spectral vines to spring up and reach for each creature of your choice you can see within 15ft of you. They must succeed on a STR Save or be [[Conditions#Restrained (Condition)|Restrained (Condition)]] for 1 minute. A creature [[Conditions#Restrained (Condition)|Restrained (Condition)]] by the vines can repeat the Save at the end of each of its turns. On a success, it frees itself and the vines vanish.
 
@@ -132,6 +133,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9th           | [[Beacon of Hope]], [[Dispel Magic]]             |
 | 13th          | [[Freedom of Movement]], [[Guardian of Faith]]   |
 | 17th          | [[Commune]], [[Flame Strike]]                    |
+
 ### Level 3: Sacred Weapon
 When you take the Attack action, you can expend one use of your Channel Divinity to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.
 
@@ -163,6 +165,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9th           | [[Haste]], [[Protection from Energy]] |
 | 13th          | [[Banishment]], [[Dimension Door]]    |
 | 17th          | [[Hold Monster]], [[Scrying]]         |
+
 ### Level 3: Vow of Enmity
 As a Bonus Action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself Cursing them. 
 
@@ -170,10 +173,18 @@ Your Attacks against the Cursed creatures have Advantage and [[Conditions#Luck (
 
 If the creature drops to 0 Hit Points before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
+
 ## Oathbreaker
 An oathbreaker is a paladin who breaks their sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart been extinguished. Only darkness remains.
+### Level 3: Oathbreaker
+The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath Spells table, you thereafter always have the listed spells prepared.
 
-
-### Level 3: 
+| Paladin Level | Spells                     |
+| ------------- | -------------------------- |
+| 3rd           | Hex, Inflict Wounds        |
+| 5th           | Crown of Madness, Darkness |
+| 9th           | Animate Dead, Bestow Curse |
+| 13th          | Blight, Confusion          |
+| 17th          | Contagion, Dominate Person |
 
 ### Level 3: 
