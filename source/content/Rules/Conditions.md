@@ -175,10 +175,14 @@ Cannot talk or cast Verbal Component of Spells
 
 ## Slowed (Debuff)
 **Limited Movement**. Speed is halved.
+
 **Attacks Affected**. Attack Rolls against you have Advantage.
+
 **Dexterity Saves Affected**. You have Disadvantage on DEX Saves.
 
 ## Stunned (Debuff)
 **Inactive**. You can’t Move or take Actions, Bonus Actions, or Reactions.
+
 **Attacks Affected**. Attacks against you have Advantage.
+
 **DEX Saves**. You have Disadvantage on DEX Saves.
