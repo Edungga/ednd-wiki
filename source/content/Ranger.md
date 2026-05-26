@@ -107,7 +107,14 @@ You are particularly familiar with one type of natural environment and are adept
 
 When you make an INT or WIS Check related to your Favoured Terrain, add your Quarry Die to the Check.
 
+While travelling in your Favoured Terrain, you gain the following benefits:
+- Difficult Terrain doesn’t slow your group’s travel.
+- Your group can’t become lost except by Supernatural means.
+- Your group are Immune to [[Conditions#Surprised (Condition)|Surprised (Condition)]]
+- Your group can move stealthily at a normal pace.
+- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
+**Repeatable**. You can learn this Knack more than once, but you choose a new terrain each time that you learn it.
 
 ## Favoured Enemy I
 You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of Favoured Enemy: Aberrations, Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, Monstrosities, Oozes, Plants, or Undead. Alternatively, you can select two Ancestries of Humanoid (such as Gnolls and Orcs) as Favoured Enemies.
