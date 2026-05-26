@@ -154,7 +154,14 @@ If you already know Wild Insight I, you learn another Knack of your choice that 
 
 ## Gloom Stalker
 Gloom stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primaeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a gloom stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world.
-### Level 3: 
+### Level 3: Dread Ambusher
+You have mastered the art of creating fearsome ambushes, granting you the following benefits.
+
+**Ambusher's Leap**. At the start of your first turn of each combat, your Speed increases by 10 feet until the end of that turn.
+
+**Dreadful Strike**. When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+Initiative Bonus. When you roll Initiative, you can add your Wisdom modifier to the roll.
 
 ### Level 3: 
 
