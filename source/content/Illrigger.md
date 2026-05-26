@@ -227,17 +227,36 @@ When Sutekh accepts you as his illrigger, he grants you access to his sacrilegio
 **Blood Sense**. As an action, you can expand your awareness of life around you. Until the end of your next turn, you can sense creatures who have blood within 120 feet of you without having to see them. This ability can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. You know the distance and direction of each creature, as well as the creature’s type. You can use this feature a number of times equal to your proficiency bonus per Long Rest.
 
 ### Level 3: Exsanguinate
-You can drain enemies to embolden your allies. Whenever you burn one or more seals on a creature who isn’t a Construct or Undead, you can choose an ally you can see within 30 feet of you That ally gains temporary hit points equal to the damage dealt by the seals to the interdicted creature
+You can drain enemies to embolden your allies. Whenever you burn one or more seals on a creature who isn’t a Construct or Undead, you can choose an ally you can see within 30 feet of you. That ally gains temporary hit points equal to the damage dealt by the seals to the interdicted creature.
 
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
 #### Embolden Allies
-As a bonus action, you restore a total number of hit points equal to five times your illrigger level, divided however you choose between yourself and other creatures within 30 feet of you
+As a bonus action, you restore a total number of hit points equal to five times your illrigger level, divided however you choose between yourself and other creatures within 30 feet of you.
 #### Vitalize 
-You can flood your allies with invigorating vivacity (no action required) For 1 minute, each creature of your choice within 30 feet of you gains a bonus to ability checks equal to your proficiency bonus
+You can flood your allies with invigorating vivacity (no action required). For 1 minute, each creature of your choice within 30 feet of you gains a bonus to ability checks equal to your proficiency bonus.
+
+
 ## Shadowmaster
-
-
+The hidden assassins of Hell, Shadowmasters serve Belial and excel at stealth and disguise
+Precepts of Shadow
+Shadowmasters swear an oath to Belial when
+they join the Order of Desolation These precepts
+commit them to serve Belial’s foes as allies before
+revealing themselves as enemies
+Plans Within Plans My enemies must never
+discover my true goals If needed, I will sacrifice
+myself to protect my schemes
+Positions of Power I control everything from
+the shadows by knowing who to deceive and where
+to hide in plain sight
+Power in Patience I study my enemy and
+methodically build their trust My loyalty must
+be unquestionable so my inevitable betrayal is
+unthinkable
+Hesitation Is Failure Though I usually rely on
+agents, when the opportunity presents itself, I can
+unhesitatingly kill with efficiency and precision
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
 
