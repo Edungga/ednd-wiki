@@ -141,12 +141,8 @@ The weapon also emits Bright Light in a 20-foot radius and Dim Light 20 feet bey
 
 You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon.
 
-## Oath of Glory
 
 
-### Level 3: 
-
-### Level 3: Channel Divinity - 
 
 ## Oath of Vengeance
 The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies Virtue, when a thieves' guild grows too violent, when a dragon rampages through the countryside-at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
@@ -174,6 +170,7 @@ Your Attacks against the Cursed creatures have Advantage and [[Conditions#Luck (
 If the creature drops to 0 Hit Points before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
 
+
 ## Oathbreaker
 An oathbreaker is a paladin who breaks their sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart been extinguished. Only darkness remains.
 ### Level 3: Oathbreaker
@@ -187,4 +184,5 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 13th          | [[Blight]], [[Confusion]]          |
 | 17th          | [[Contagion]], [[Dominate Person]] |
 
-### Level 3: Channel Divinity - 
+### Level 3: Channel Divinity - Dreadful Aspect
+As an action, you channel the darkest emotions and focuses them into a burst of magical menace. Each creature you choose within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is frightened of the paladin for 1 minute. If a creature frightened by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it.
