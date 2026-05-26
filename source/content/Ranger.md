@@ -114,7 +114,12 @@ While travelling in your Favoured Terrain, you gain the following benefits:
 - Your group can move stealthily at a normal pace.
 - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
-**Repeatable**. You can learn this Knack more than once, but you choose a new terrain each time that you learn it.
+**Repeatable**. You can learn this Knack more than once, but you choose a new environment each time that you learn it.
+
+## Deft Explorer I
+*Prerequisite: Ranger Level 6, Deft Explorer I*
+
+You now have Advantage on Initiative Checks and can use the Disengage Action as a Bonus Action when in your Favoured Terrain.
 
 ## Favoured Enemy I
 You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of Favoured Enemy: Aberrations, Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, Monstrosities, Oozes, Plants, or Undead. Alternatively, you can select two Ancestries of Humanoid (such as Gnolls and Orcs) as Favoured Enemies.
@@ -126,7 +131,7 @@ You also learn one Language of your choice that is spoken by your Favoured Enemi
 **Repeatable**. You can learn this Knack more than once, but you choose a new Favoured Enemy each time that you learn it.
 
 ## Favoured Enemy II
-Prerequisite: Ranger Level 5, Favoured Enemy I
+*Prerequisite: Ranger Level 6, Favoured Enemy I*
 
 If your Hunter's Quarry is also a Favoured Enemy, add an additional Quarry Die to the damage roll.
 
