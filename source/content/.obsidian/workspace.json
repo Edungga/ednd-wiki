@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ranger.md",
+                "file": "Spells/Arcane Spell List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ranger"
+              "title": "Arcane Spell List"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ranger.md",
+                "file": "Spells/Arcane Spell List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ranger"
+              "title": "Backlinks for Arcane Spell List"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ranger.md",
+                "file": "Spells/Arcane Spell List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ranger"
+              "title": "Outline of Arcane Spell List"
             }
           }
         ],
@@ -172,8 +172,8 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
-    "Classes/Fighter.md",
     "Ranger.md",
+    "Classes/Fighter.md",
     "Classes/Warlock.md",
     "Find Familiar.md",
     "Druid.md",
