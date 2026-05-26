@@ -29,13 +29,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Rage Die | Rages | Features                                                                                                 |
-| ----- | ----------------- | -------- | ----- | -------------------------------------------------------------------------------------------------------- |
-| 1st   | +2                | 1d4      | 2     | [[Barbarian#Level 1 Rage\|Rage]], [[Barbarian#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Ba]]   |
-| 2nd   | +2                | 1d4      | 2     | [[Barbarian#Level 2 Danger Sense\|Danger Sense]], [[Barbarian#Level 2 Reckless Attack\|Reckless Attack]] |
-| 3rd   | +2                | 1d4      | 3     | [[#Level 3 Primal Path\|Primal Path]]                                                                    |
-| 4th   | +2                | 1d4      | 3     | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                        |
-| 5th   | +3                | 1d6      | 3     | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Fast Movement\|Fast Movement]]                       |
+| Level | Proficiency Bonus | Rage Die | Rages | Features                                                                                                                                             |
+| ----- | ----------------- | -------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | +2                | 1d4      | 2     | [[Barbarian#Level 1 Rage\|Rage]], [[Barbarian#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Barbarian#Level 1 Weapon Mastery\|Weapon Mastery]] |
+| 2nd   | +2                | 1d4      | 2     | [[Barbarian#Level 2 Danger Sense\|Danger Sense]], [[Barbarian#Level 2 Reckless Attack\|Reckless Attack]]                                             |
+| 3rd   | +2                | 1d4      | 3     | [[Barbarian#Level 3 Primal Path\|Primal Path]]                                                                                                       |
+| 4th   | +2                | 1d4      | 3     | [[Barbarian#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                           |
+| 5th   | +3                | 1d6      | 3     | [[Barbarian#Level 5 Extra Attack\|Extra Attack]], [[Barbarian#Level 5 Fast Movement\|Fast Movement]]                                                 |
 
 ## Level 1: Rage
 You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
