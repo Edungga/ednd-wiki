@@ -34,9 +34,9 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | ----- | ----------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1st   | +2                | 3              | [[Fighter#Level 1 Fighting Style\|Fighting Style]], [[#Level 1 Second Wind\|Second Wind]], [[Fighter#Level 1 Weapon Mastery\|Weapon Mastery]] |
 | 2nd   | +2                | 3              | [[Fighter#Level 2 Action Surge\|Action Surge (x1)]], [[Fighter#Level 2 Tactical Mind\|Tactical Mind]]                                         |
-| 3rd   | +2                | 3              | [[#Level 3 Martial Archetype\|Martial Archetype]]                                                                                             |
-| 4th   | +2                | 4              | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                             |
-| 5th   | +3                | 4              | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Tactical Shift\|Tactical Shift]]                                                          |
+| 3rd   | +2                | 3              | [[Fighter#Level 3 Martial Archetype\|Martial Archetype]]                                                                                      |
+| 4th   | +2                | 4              | [[Fighter#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                      |
+| 5th   | +3                | 4              | [[Fighter#Level 5 Extra Attack\|Extra Attack]], [[Fighter#Level 5 Tactical Shift\|Tactical Shift]]                                            |
 
 ## Level 1: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting_Style|Fighting Style Feat]] of your choice
