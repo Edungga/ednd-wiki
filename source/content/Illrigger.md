@@ -156,15 +156,10 @@ Whenever you gain a level in this class, you can replace one of the arcane spell
 
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
-Enervating Spell When you deal damage to
-a creature with an illrigger spell of 1st level
-or higher, you can expend a seal (no action
-required) and imbue the spell with weakening magic The target has vulnerability to that spell’s
-damage If they normally have resistance or
-immunity to the spell’s damage, that resistance
-or immunity is suppressed for this spell, and the
-target has vulnerability to the damage instead
-Spellblade You can use an action to both make
+#### Enervating Spell
+When you deal damage to a creature with an illrigger spell of 1st circle or higher, you can expend a seal (no action required) and imbue the spell with weakening magic The target has vulnerability to that spell’s damage If they normally have resistance or immunity to the spell’s damage, that resistance or immunity is suppressed for this spell, and the target has vulnerability to the damage instead
+#### Spellblade
+You can use an action to both make
 a melee weapon attack and cast an illrigger spell
 you know that has a casting time of one action
 
