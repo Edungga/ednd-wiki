@@ -22,10 +22,20 @@
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
 
 **Weapon Proficiencies**: Martial weapons
+
 **Armor Training**: Light and Medium armor and Shields
 
 ---
+# Class Features
 
+
+| Level | Proficiency Bonus | Features                            | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ----------------- | ----------------------------------- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Lay on Hands, Spellcasting          | 2   | -   | -   | -   | -   |
+| 2nd   | +2                | Fighting Style [Feat], Divine Smite | 2   | -   | -   | -   | -   |
+| 3rd   | +2                | Channel Divinity, Sacred Oath       | 3   | -   | -   | -   | -   |
+| 4th   | +2                | Feat / ASI                          | 3   | -   | -   | -   | -   |
+| 5th   | +3                | Extra Attack                        | 4   | 2   | -   | -   | -   |
 
 
 
