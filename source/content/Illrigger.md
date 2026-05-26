@@ -83,6 +83,10 @@ Whenever you gain an Illrigger level, you can choose a Boon you know and replace
 
 **Using Interdict Boons**. Some Boons allow you to expend unplaced seals to fuel abilities, while others empower all your Seals or grant you benefits against Interdicted Creatures. The Boons that grant passive benefits, are marked with a “Passive” tag. You don’t need to expend a Seal or take an Action to benefit from your Passive Boons. All other boons must be activated on a turn.
 
+## Level 3: Diabolic Contracts
+
+
+## Level 3: Invoke Hell
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
