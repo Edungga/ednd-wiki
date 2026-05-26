@@ -222,12 +222,12 @@ Sanguine Knights swear an oath to Sutekh when they join the Order of Desolation.
 - **Mercy Is Power**. In granting succor to my allies, I prove how great my power is Each time I restore life, it serves as a reminder of how quickly I can strip it away
 
 ### Level 3: Sutekh’s Blessing
-When Sutekh accepts you as his illrigger, he grants you access to his sacrilegious command of blood and life. You gain proficiency in the Religion skill. in addition, you gain the fo
+When Sutekh accepts you as his illrigger, he grants you access to his sacrilegious command of blood and life. You gain proficiency in the Religion skill. in addition, you gain the following.
 
-Blood Sense. s an action, you can expand your awareness of life around you. Until the end of your next turn, you can sense creatures who have blood within 120 feet of you without having to see them This ability can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal,a thin sheet of lead, or 3 feet of wood or dirt You know the distance and direction of each creature, as well as the creature’s type You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest
+**Blood Sense**. As an action, you can expand your awareness of life around you. Until the end of your next turn, you can sense creatures who have blood within 120 feet of you without having to see them. This ability can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. You know the distance and direction of each creature, as well as the creature’s type. You can use this feature a number of times equal to your proficiency bonus per Long Rest.
 
 ### Level 3: Exsanguinate
-You can drain enemies to embolden your allies Whenever you burn one or more seals on a creature who isn’t a Construct or Undead, you can choose an ally you can see within 30 feet of you That ally gains temporary hit points equal to the damage dealt by the seals to the interdicted creature
+You can drain enemies to embolden your allies. Whenever you burn one or more seals on a creature who isn’t a Construct or Undead, you can choose an ally you can see within 30 feet of you That ally gains temporary hit points equal to the damage dealt by the seals to the interdicted creature
 
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
