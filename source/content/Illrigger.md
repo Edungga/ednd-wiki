@@ -65,6 +65,15 @@ Your training with weapons allows you to use the [[Weapon Mastery Properties]] o
 
 When you reach certain Illrigger levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
+## Level 2: Combat Mastery
+Choose one of the following Illrigger Combat Masteries:
+- **Bravado**. While you are not wearing any armour, your Armour Class equals 10 + your DEX modifier + your CHA modifier. You can use a shield and still gain this benefit 
+- **Brutal**. When you hit a creature who is no more than one Size larger than you with a Melee Weapon Attack made with a two handed Weapon, you can move the target 5ft horizontally. You can then spend your movement to move into the space they left 
+- **Inexorable**. You gain a +1 bonus to Save for each Enemy within 5ft of you (max 5)
+- **Lies**. You can use CHA, instead of STR or DEX, for Melee Weapon Attacks.
+- **Lissome**. When you hit a creature with a Melee Weapon Attack, you can Shift Move 5ft
+- **Unfettered**. When you use your Baleful Interdict to Place or Burn a Seal, its Range is 60ft. When you gain the Infernal Conduit feature at 6th level, its Range is 30ft. In addition, making a Ranged Attack while within 5ft of an enemy does not impose Disadvantage on the Attack.
+
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
