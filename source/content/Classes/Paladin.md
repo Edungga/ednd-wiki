@@ -28,13 +28,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Features                                                                                                     | 1st | 2nd | 3rd | 4th | 5th |
-| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------ | --- | --- | --- | --- | --- |
-| 1st   | +2                | [[Paladin#Level 1 Lay on Hands\|Lay on Hands]], [[Paladin#Level 1 Spellcasting\|Spellcasting]], [[Paladin#]] | 2   | -   | -   | -   | -   |
-| 2nd   | +2                | [[Paladin#Level 2 Fighting Style\|Fighting Style]], [[#Level 2 Divine Smite\|Divine Smite]]                  | 2   | -   | -   | -   | -   |
-| 3rd   | +2                | [[Paladin#Level 3 Channel Divinity\|Channel Divinity]], [[Paladin#Level 3 Sacred Oath\|Sacred Oath]]         | 3   | -   | -   | -   | -   |
-| 4th   | +2                | [[Paladin#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                     | 3   | -   | -   | -   | -   |
-| 5th   | +3                | [[Paladin#Level 5 Extra Attack\|Extra Attack]]                                                               | 4   | 2   | -   | -   | -   |
+| Level | Proficiency Bonus | Features                                                                                                                                           | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
+| 1st   | +2                | [[Paladin#Level 1 Lay on Hands\|Lay on Hands]], [[Paladin#Level 1 Spellcasting\|Spellcasting]], [[Paladin#Level 1 Weapon Mastery\|Weapon Mastery]] | 2   | -   | -   | -   | -   |
+| 2nd   | +2                | [[Paladin#Level 2 Fighting Style\|Fighting Style]], [[#Level 2 Divine Smite\|Divine Smite]]                                                        | 2   | -   | -   | -   | -   |
+| 3rd   | +2                | [[Paladin#Level 3 Channel Divinity\|Channel Divinity]], [[Paladin#Level 3 Sacred Oath\|Sacred Oath]]                                               | 3   | -   | -   | -   | -   |
+| 4th   | +2                | [[Paladin#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                           | 3   | -   | -   | -   | -   |
+| 5th   | +3                | [[Paladin#Level 5 Extra Attack\|Extra Attack]]                                                                                                     | 4   | 2   | -   | -   | -   |
 
 ## Level 1: Lay on Hands
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.

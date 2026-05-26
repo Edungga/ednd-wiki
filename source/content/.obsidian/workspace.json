@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paladin.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paladin"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paladin.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paladin"
+              "title": "Outline of index"
             }
           }
         ],
@@ -172,16 +172,16 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "Classes/Warlock.md",
+    "index.md",
+    "Classes/Paladin.md",
     "Rules/Conditions.md",
-    "Paladin.md",
     "Classes/Fighter.md",
     "Classes/Barbarian.md",
-    "Classes/Warlock.md",
     "Classes/Illrigger.md",
     "Feats/Feat.md",
     "Classes/Bloodhunter.md",
     "Classes/Monk.md",
-    "index.md",
     "Druid.md",
     "Classes/Cleric.md",
     "Classes/Bard.md",

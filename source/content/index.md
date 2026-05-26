@@ -34,7 +34,7 @@ We also have some Home Rules to spice things up a bit
 - [[Fighter]] - up to lvl 5
 - [[Illrigger]]- up to lvl 5
 - [[Monk]] - up to lvl 5
-- [[Paladin]]
+- [[Paladin]] - up to lvl 5
 - [[Ranger]]
 - [[Rogue]]
 - [[Sorcerer]]
