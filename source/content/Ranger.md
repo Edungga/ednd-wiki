@@ -50,7 +50,7 @@ You can use this feature to mark a Quarry a number of times equal to your Profic
 ## Level 1: Natural Explorer
 
 
-## Level 1: 
+## Level 1: Favored Enemy
 
 
 
