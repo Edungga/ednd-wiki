@@ -30,13 +30,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Quarry Die | Features                                                       |
-| ----- | ----------------- | ---------- | -------------------------------------------------------------- |
-| 1st   | +2                | 1d4        | [[Ranger#Level 1 Hunter’s Quarry\|Hunter’s Quarry]], The Knack |
-| 2nd   | +2                | 1d4        | Expertise, , Fighting Style                                    |
-| 3rd   | +2                | 1d4        | Ranger Conclave, Primaeval Awareness                           |
-| 4th   | +2                | 1d4        | Feat / ASI                                                     |
-| 5th   | +3                | 1d6        | Extra Attack                                                   |
+| Level | Proficiency Bonus | Quarry Die |     | Features                                                       |
+| ----- | ----------------- | ---------- | --- | -------------------------------------------------------------- |
+| 1st   | +2                | 1d4        |     | [[Ranger#Level 1 Hunter’s Quarry\|Hunter’s Quarry]], The Knack |
+| 2nd   | +2                | 1d4        |     | Expertise, , Fighting Style                                    |
+| 3rd   | +2                | 1d4        |     | Ranger Conclave, Primaeval Awareness                           |
+| 4th   | +2                | 1d4        |     | Feat / ASI                                                     |
+| 5th   | +3                | 1d6        |     | Extra Attack                                                   |
 
 ## Level 1: Hunter’s Quarry
 As a Bonus Action, you mark a creature you can see within 90ft as your Quarry. Gain the following benefits against your Quarry:
@@ -48,11 +48,11 @@ The creature is marked as your Quarry for 1 hour, until the creature dies, or un
 You can use this feature to mark a Quarry a number of times equal to your Proficiency Bonus per Short or Long Rest.
 
 ## Level 1: The Knack
+In the wild, you glean bits of knowledge, known as [[Ranger#Knacks|Knacks]], to bolster your hunting, tracking, and survival skills. At Level, you know one [[Ranger#Knacks|Knacks]] of your choice. To learn a Knack, you must meet any prerequisites it may have, such as proficiency in a skill or Ranger level.
 
+When you gain a Ranger level, you can replace one Knack you know with another Knack of your choice, so long as you meet its prerequisites. You cannot replace a Knack if it is the prerequisite for another Knack that you know.
 
-## Level 1: Favored Enemy
-
-
+At certain Ranger levels, you learn additional Knacks, as shown in the Knacks Known column of the Ranger table. 
 
 ## Level 1: 
 
