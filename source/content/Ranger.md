@@ -54,6 +54,8 @@ When you gain a Ranger level, you can replace one Knack you know with another Kn
 
 At certain Ranger levels, you learn additional Knacks, as shown in the Knacks Known column of the Ranger table. 
 
+**Knack save DC** = 8 + your Proficiency Bonus + your WIS modifier
+
 ## Level 1: Weapon Mastery
 Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
@@ -87,7 +89,7 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 ## Beast Master
 You have entered a mystical bond with a Primal Beast. It is Friendly to you, and uses the following rules:
 
-**Statistics**. Choose a stat block below that best reflects the nature of the Primal Beast: Beast of the Cave, Land, Sea, or Sky. It uses your Proficiency Bonus (PB), Quarry Die, and Spell save DC for saving throws.
+**Statistics**. Choose a stat block below that best reflects the nature of the Primal Beast: Beast of the Cave, Land, Sea, or Sky. It uses your Proficiency Bonus (PB), Quarry Die, and Knack save DC for saving throws.
 
 **Combat**. In combat, your Beast acts during your turn. As a bonus action, you can order it to take an action in its stat block, or another action. If you take the Attack action, you can forgo one attack to order your Beast to attack instead. The Beast can move and use its reaction on its own, but will only take the Dodge action unless you give it an order.
 
