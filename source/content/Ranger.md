@@ -99,8 +99,8 @@ You have entered a mystical bond with a Primal Beast. It is Friendly to you, and
 If you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], the Beast acts on its own, and will defend you and itself to the best of its ability.
 
 **Death**. If your Beast is reduced to 0 hit points, it must make Death Saving Throws like a player character would. If it dies, you can perform a 1-hour ritual, which can be during a long rest, to restore it to life with 1 hit point. As part of this ritual, it can spend Hit Dice to regain additional hit points.
-### Primal Beast Stat Blocks
-#### Beast of the Land
+#### Primal Beast Stat Blocks
+##### Beast of the Land
 
 | Beast of the Land                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,7 +115,7 @@ If you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], t
 | **TRAITS**<br>**Primal Bond**. Add your Proficiency Bonus to any Check or Save the beast makes.<br><br>**Charge**. If the beast moved at least 20 feet straight toward the target before the hit with its Beast's Strike, the target takes an extra Quarry Die damage of the same type, and the target is knocked [[Conditions#Prone (Condition)\|Prone (Condition)]] if it is at most one size larger than the beast. |
 | **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 3+PB to hit, reach 5 ft. Hit: Quarry Die + PB Slashing damage.                                                                                                                                                                                                                                                                                                   |
 
-#### Beast of the Sea
+##### Beast of the Sea
 
 | Beast of the Sea                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -130,7 +130,7 @@ If you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], t
 | **TRAITS**<br>**Primal Bond**. Add your Proficiency Bonus to any Check or Save the beast makes.<br><br>**Amphibious**. The beast can breathe air and water.<br><br>**Grab**. If the Beast hits with its Beast's Strike, it can [[Conditions#Grappled (Condition)\|Grappled (Condition)]] the target (escape DC equals your Knack save DC). |
 | **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 3+PB to hit, reach 5 ft. Hit: Quarry Die + PB Bludgeoning damage.                                                                                                                                                                                                                    |
 
-#### Beast of the Sky
+##### Beast of the Sky
 
 | Beast of the Sky                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -146,9 +146,10 @@ If you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], t
 | **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 3+PB to hit, reach 5 ft. Hit: Quarry Die + PB Slashing damage.                                                                                   |
 
 ### Level 3: Wild Empathy
-Your Primal Beast marks you as a friend to all animals. You gain proficiency in Insight and learn Wild Insight I. It can't be replaced, but it doesn't count against your Knacks Known.
+Your Primal Beast marks you as a friend to all animals. You gain proficiency in Insight and learn [[Ranger#Wild Insight I|Wild Insight I]]. It can't be replaced, but it doesn't count against your Knacks Known.
 
 If you already know Wild Insight I, you learn another Knack of your choice that you meet the prerequisites for.
+
 
 
 ## Gloom Stalker
@@ -240,3 +241,8 @@ When you use your Herbalism Kit to craft potions of healing during a long rest, 
 As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
 
 https://www.gmbinder.com/share/-M7iu19Af89SH2G_5RGa#p6
+
+
+
+
+## Wild Insight I
