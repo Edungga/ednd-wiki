@@ -178,8 +178,10 @@ You gain the following features:
 
 **Horde Breaker**. Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
 
-### Level 3: Hunter's Lore
+### Level 3: Silent Steps
+You stalk your prey unseen until it is too late. You gain proficiency in Stealth and you learn the Stalker I Knack. It cannot be replaced, but does not count against your Knacks Known.
 
+If you already know Stalker I, you can learn a different Knack of your choice.
 
 ## Wild Warden
 
