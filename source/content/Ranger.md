@@ -66,6 +66,7 @@ At Ranger level 9, you gain Expertise in two more of your skill proficiencies of
 ## Level 2: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting Style Feat]] of your choice, or you can choose the below option:
 
+ **Druidic Warrior**. You learn two [[Spells#Cantrips|Cantrips]] from the [[Primal Spell List]] of your choice. Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 ## Level 3: Ranger Conclave
 You've learnt to emulate the ideals and training of a ranger conclave. Your choice grants you features at 
 
