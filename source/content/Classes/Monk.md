@@ -20,13 +20,13 @@
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmoured Movement | Features |
-| ----- | ----------------- | ------------ | --------- | ------------------- | -------- |
-| 1st   | +2                | 1d6          | 2         | –                   |          |
-| 2nd   | +2                | 1d6          | 4         | +10 ft.             |          |
-| 3rd   | +2                | 1d6          | 6         | +10 ft.             |          |
-| 4th   | +2                | 1d6          | 8         | +10 ft.             |          |
-| 5th   | +3                | 1d8          | 10        | +10 ft.             |          |
+| Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmoured Movement | Features                                                                                     |
+| ----- | ----------------- | ------------ | --------- | ------------------- | -------------------------------------------------------------------------------------------- |
+| 1st   | +2                | 1d6          | 2         | –                   | [[#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[#Level 1 Martial Arts\|Martial Arts]] |
+| 2nd   | +2                | 1d6          | 4         | +10 ft.             | [[#Level 2 Ki\|Ki]], [[#Level 2 Uncanny Metabolism\|Uncanny Metabolism]]                     |
+| 3rd   | +2                | 1d6          | 6         | +10 ft.             | [[#level 3]]                                                                                 |
+| 4th   | +2                | 1d6          | 8         | +10 ft.             |                                                                                              |
+| 5th   | +3                | 1d8          | 10        | +10 ft.             |                                                                                              |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
