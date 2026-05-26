@@ -94,15 +94,8 @@ As an action, you can expend 1 Ki Point to touch a creature and restore a number
 
 ## Way of the Elements
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
-### Level 3: Ki Form - Elemental Attunement
-
-At the start of your turn, you can expend 1 Ki to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. You gain the following benefits while this feature is active.
-
-**Reach**. When you make an Unarmed Strike, your reach is 10 feet greater than normal, as elemental energy extends from you.
-
-**Elemental Strikes**. Whenever you hit with your Unarmed Strike, you can cause it to deal your choice of Acid, Cold, Fire, Lightning, or Thunder damage rather than its normal damage type. When you deal one of these types with it, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
 ### Level 3: Elemental Manipulation
-You know two [[Monk#Grade 1|Grade 1 Elemental Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Way of the Shadow Ki Forms of a Grade you can know. 
+You know two [[Monk#Grade 1|Grade 1 Elemental Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Elemental Ki Forms of a Grade you can know. 
 
 You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, they all count as [[#Forms|Forms]] for you.
 
@@ -122,7 +115,7 @@ Whenever you hit a creature with an attack granted by your [[#Flurry of Blows|Fl
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadow dancers, and they serve as spies and assassins.
 
 ### Level 3: Shadow Arts
-You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Way of the Shadow Ki Forms of a Grade you can know. 
+You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Shadow Ki Forms of a Grade you can know. 
 
 
 
