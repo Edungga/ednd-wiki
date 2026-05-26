@@ -271,8 +271,8 @@ When a creature you can see damages you or an ally within 30 feet of you, you ca
 ### Bedevil
 When you burn a seal on an interdicted creature, you can activate this boon (no action required). The target must subtract a number equal to your proficiency bonus from the result of the next saving throw they make before the end of their next turn.
 ### Soul Eater
-When you burn a seal on an interdicted creature, you can activate this boon (no action required) to gain temporary hit points equal to your illrigger level
+When you burn a seal on an interdicted creature, you can activate this boon (no action required) to gain temporary hit points equal to your illrigger level.
 ### Styx’s Apathy
-When you burn a seal on an interdicted creature, you can use your reaction to flood the target with an otherworldly chill Until the end of the target’s next turn, they can’t take reactions
+When you burn a seal on an interdicted creature, you can use your reaction to flood the target with an otherworldly chill. Until the end of the target’s next turn, they can’t take reactions.
 ### Swift Retribution (Passive)
-When an interdicted creature provokes an opportunity attack from you, you can make that attack without using your reaction, provided you’re not [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]] Once you benefit from this boon, you can’t do so again until the start of your next turn
+When an interdicted creature provokes an opportunity attack from you, you can make that attack without using your reaction, provided you’re not [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]. Once you benefit from this boon, you can’t do so again until the start of your next turn.

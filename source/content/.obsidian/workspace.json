@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Illrigger.md",
+                "file": "Classes/Monk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Illrigger"
+              "title": "Monk"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Illrigger.md",
+                "file": "Classes/Monk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Illrigger"
+              "title": "Outline of Monk"
             }
           }
         ],
@@ -172,8 +172,9 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "index.md",
+    "Classes/Illrigger.md",
     "Druid.md",
-    "Illrigger.md",
     "Rules/Conditions.md",
     "Classes/Fighter.md",
     "Paladin.md",
@@ -183,7 +184,6 @@
     "Classes/Bloodhunter.md",
     "Classes/Bard.md",
     "Classes/Barbarian.md",
-    "index.md",
     "Rules/Wild Shapes.md",
     "Find Familiar.md",
     "Rules/Opportunity Attacks.md",
