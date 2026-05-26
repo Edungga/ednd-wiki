@@ -147,8 +147,8 @@ As an Action, spend 1 Ki point to launch a shard of ice towards a creature you c
 #### Raise Earth
 As a Bonus Action, you can spend 1 Ki Point to Raise of Boulder out of the ground in an unoccupied space you can see within 30ft. The boulder occupied that space and acts as Half Cover for Medium or Smaller Creatures.
 
-Tremor
-As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must make a STR Save. On a failed save they take 2 Martial Arts Die Bludgeoning Damage and are [[Conditions#Slowed (Debuff)]]. Half damage on a success and are not Slowed [Debuff].
+#### Tremor
+As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must make a STR Save. On a failed save they take 2 Martial Arts Die Bludgeoning Damage and are [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. Half damage on a success and are not [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. 
 #### Water Whip
 You can spend 2 Ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a DEX Save. On a failed save, the creature takes 3 Martial Arts Die bludgeoning damage, and you can Pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it.
 
