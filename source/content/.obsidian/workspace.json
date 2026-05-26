@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Monk.md",
+                "file": "Paladin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monk"
+              "title": "Paladin"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Monk.md",
+                "file": "Paladin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Monk"
+              "title": "Outline of Paladin"
             }
           }
         ],
@@ -172,6 +172,7 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "Classes/Monk.md",
     "index.md",
     "Classes/Illrigger.md",
     "Druid.md",
@@ -179,7 +180,6 @@
     "Classes/Fighter.md",
     "Paladin.md",
     "Classes/Warlock.md",
-    "Classes/Monk.md",
     "Classes/Cleric.md",
     "Classes/Bloodhunter.md",
     "Classes/Bard.md",
