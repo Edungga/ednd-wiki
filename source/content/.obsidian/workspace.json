@@ -172,8 +172,9 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
-    "Classes/Fighter.md",
+    "Rules/Conditions.md",
     "Illrigger.md",
+    "Classes/Fighter.md",
     "Paladin.md",
     "Druid.md",
     "Classes/Warlock.md",
@@ -185,7 +186,6 @@
     "index.md",
     "Rules/Wild Shapes.md",
     "Find Familiar.md",
-    "Rules/Conditions.md",
     "Rules/Opportunity Attacks.md",
     "Rules/Bonus Actions.md",
     "Rules/Actions.md",
