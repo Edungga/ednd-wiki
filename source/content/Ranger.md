@@ -102,6 +102,13 @@ a swimming speed, it increases by 10 feet.
 
 Finally, you can your Quarry Die to any Athletics checks that you make.
 
+## Explorer I
+You are particularly familiar with one type of natural environment and are adept at travelling and surviving in such regions. Choose two types of Favoured Terrain: Arctic, Coast, Desert, Forest, Grassland, Jungle, Mountain, Swamp, or the Underdark. 
+
+When you make an INT or WIS Check related to your Favoured Terrain, add your Proficiency Bonus to the Checks total.
+
+
+
 ## Favoured Enemy I
 You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of Favoured Enemy: Aberrations, Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, Monstrosities, Oozes, Plants, or Undead. Alternatively, you can select two Ancestries of Humanoid (such as Gnolls and Orcs) as Favoured Enemies.
 
