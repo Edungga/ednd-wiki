@@ -88,12 +88,19 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 ---
 # Knacks
 ## Alpine Adept
-Prerequisite: proficiency in Athletics
+*Prerequisite: proficiency in Athletics*
 
-You are an expert climber. You gain a 30-foot climbing speed and Resistance to bludgeoning damage you take from falling. If you already have a climbing speed, it increases by 10 feet.
+You are an expert climber. You gain a 30ft Climb Speed and Resistance to bludgeoning damage you take from falling. If you already have a climbing speed, it increases by 10 feet.
+
+Finally, you can your Quarry Die to any Athletics checks that you make.
+
+## Aquatic Adept
+*Prerequisite: proficiency in Athletics*
+
+You can swim through the water like a native creature of the sea. You gain a 30ft Swim Speed, and you can hold your breath for twice as long underwater. If you already have
+a swimming speed, it increases by 10 feet.
 
 Finally, you can add double your Proficiency Bonus to any Athletics checks that you make.
-
 
 ## Favoured Enemy I
 You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of Favoured Enemy: Aberrations, Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, Monstrosities, Oozes, Plants, or Undead. Alternatively, you can select two Ancestries of Humanoid (such as Gnolls and Orcs) as Favoured Enemies.
