@@ -47,7 +47,8 @@ You gain the ability to censure creatures with the power of Hell.
 
 **Limited Seals**. You can only place a limited number of Seals before Resting, and you regain all Seals when you finish a Short or Long Rest. The number of Seals you can place increases as you gain Illrigger levels, as indicated on the Illrigger table. 
 
-Moving Seals. [Bonus Action - Magic] If an Interdicted Creature dies, you can move all Seals placed on them to a new creature you can see within 30ft of them. Each Seal’s Duration continues to elapse when an Interdicted Creature Dies and when that Seal is moved to a new creature.
+**Moving Seals**. If an Interdicted Creature dies, you can move all Seals placed on them to a new creature you can see within 30ft of them. Each Seal’s Duration continues to elapse when an Interdicted Creature Dies and when that Seal is moved to a new creature.
+
 Burning Seals. When an Interdicted Creature you can see within 30ft takes damage from any source other than a Seal Burned, you can Burn any number of Seals you placed on them to deal 1d6 Fire or Necrotic Damage to that creature per Seal Burned. You deal this damage immediately after the triggering damage. Burning a Seal doesn’t require an Action, but you can’t do so while Incapacitated [Condition]. Once a Seal is Burned, it immediately vanishes. The Seal Damage increases as you gain Illrigger levels, as indicated on the Illrigger table. 
 Burn vs Expend. Some features require you to expend a Seal, this is not the same as Burning and does not deal the damage.
 Interdict Save. Class features you gain later can add additional effects to your Baleful Interdict and require your target to make a Save to resist them. The Save DC for these effects uses your Interdict Save DC, which is calculated as follows:
