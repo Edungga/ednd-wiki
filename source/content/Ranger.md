@@ -87,7 +87,12 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 
 ---
 # Knacks
+## Alpine Adept
+Prerequisite: proficiency in Athletics
 
+You are an expert climber. You gain a 30-foot climbing speed and Resistance to bludgeoning damage you take from falling. If you already have a climbing speed, it increases by 10 feet.
+
+Finally, you can add double your Proficiency Bonus to any Athletics checks that you make.
 
 
 ## Favoured Enemy I
