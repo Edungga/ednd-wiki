@@ -114,9 +114,15 @@ The magic of your oath ensures you always have certain spells ready; when you re
 As an Action, expend one use of Channel Divinity to cause spectral vines to spring up and reach for each creature of your choice you can see within 15ft of you. They must succeed on a STR Save or be [[Conditions#Restrained (Condition)|Restrained (Condition)]] for 1 minute. A creature [[Conditions#Restrained (Condition)|Restrained (Condition)]] by the vines can repeat the Save at the end of each of its turns. On a success, it frees itself and the vines vanish.
 
 ## Oath of Devotion
-
-
-### Level 3: 
+The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armour, acting with honour in pursuit of justice and the greater good. 
+### Tenets of Devotion
+Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
+- **Honesty**. Don't lie or cheat. Let your word be your promise.
+- **Courage**. Never fear to act, though caution is wise.
+- **Compassion**. Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+- **Honour**. Treat others with fairness, and let your honourable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+- **Duty**. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you
+### Level 3: Oath of Devotion Spells
 
 ### Level 3: 
 
