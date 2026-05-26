@@ -149,5 +149,5 @@ As an Action you can expend 1 Ki Point to cast the [[Darkness]] spell without sp
 You gain Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
 #### Displacement
 When targeted by an Attack or subjected to an effect that requires you to make a DEX Save, as a Reaction you can Teleport up to 30ft to an unoccupied space, possibly escaping the range of line of effect.
-#### Shadowy Figments.
+#### Shadowy Figments
 You know the [[Minor Illusion]] Cantrip, it counts as a [[#Forms|Form]] for you.
