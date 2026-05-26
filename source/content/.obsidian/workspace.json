@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/All Spells List.md",
+                "file": "Spells/Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Spells List"
+              "title": "Spells"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/All Spells List.md",
+                "file": "Spells/Spells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for All Spells List"
+              "title": "Backlinks for Spells"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/All Spells List.md",
+                "file": "Spells/Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of All Spells List"
+              "title": "Outline of Spells"
             }
           }
         ],
@@ -172,6 +172,7 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "Spells/All Spells List.md",
     "Spells/Spells.md",
     "Spells/Arcane Spell List.md",
     "Ranger.md",
@@ -194,7 +195,6 @@
     "Rules/Bonus Actions.md",
     "Rules/Actions.md",
     "Spells/Primal Spell List.md",
-    "Spells/All Spells List.md",
     "Spells/Divine Spell List.md",
     "Rules/Stat Methods.md",
     "SPELL-TEMPLATE.md",

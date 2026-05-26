@@ -1,3 +1,4 @@
+
 [[All Spells List]]
 
 [[Arcane Spell List]]
@@ -17,43 +18,43 @@ FLATTEN spell-list
 | [[Acid Splash]]           | Evocation     | Arcane                 |
 | [[Blade Ward]]             | Abjuration    | Arcane                 |
 | [[Control Flames]]     | Transmutation | Arcane, Primal         |
-| [[Druidcraft]]             | Transmutation | Arcane, Primal         |
-| [[Eldritch Blast]]     | Evocation     | \-                     |
 | [[Chill Touch]]           | Necromancy    | Arcane                 |
 | [[Fire Bolt]]               | Evocation     | Arcane                 |
 | [[Dancing Lights]]     | Evocation     | Arcane, Primal         |
-| [[Friends]]                   | Enchantment   | Arcane                 |
+| [[Druidcraft]]             | Transmutation | Arcane, Primal         |
+| [[Eldritch Blast]]     | Evocation     | \-                     |
+| [[Gust]]                         | Transmutation | Arcane, Primal         |
 | [[Frostbite]]               | Evocation     | Arcane, Primal         |
 | [[Guidance]]                 | Divination    | Divine                 |
-| [[Lightning Lure]]     | Evocation     | Arcane, Primal         |
+| [[Friends]]                   | Enchantment   | Arcane                 |
 | [[Light]]                       | Evocation     | Arcane, Divine, Primal |
-| [[Mage Hand]]               | Conjuration   | Arcane                 |
-| [[Magic Stone]]           | Transmutation | Arcane, Primal         |
 | [[Mending]]                   | Transmutation | Arcane, Divine, Primal |
+| [[Lightning Lure]]     | Evocation     | Arcane, Primal         |
+| [[Magic Stone]]           | Transmutation | Arcane, Primal         |
+| [[Mage Hand]]               | Conjuration   | Arcane                 |
 | [[Message]]                   | Transmutation | Arcane                 |
 | [[Minor Illusion]]     | Illusion      | Arcane                 |
 | [[Mould Earth]]           | Transmutation | Arcane, Primal         |
 | [[Poison Spray]]         | Necromancy    | Arcane, Primal         |
-| [[Prestidigitation]] | Transmutation | Arcane                 |
-| [[Gust]]                         | Transmutation | Arcane, Primal         |
 | [[Produce Flame]]       | Conjuration   | Primal                 |
-| [[Ray of Frost]]         | Evocation     | Arcane, Primal         |
 | [[Primal Savagery]]   | Transmutation | Primal                 |
+| [[Prestidigitation]] | Transmutation | Arcane                 |
+| [[Ray of Frost]]         | Evocation     | Arcane, Primal         |
+| [[Resistance]]             | Abjuration    | Divine, Primal         |
 | [[Sapping Sting]]       | Necromancy    | Arcane, Primal         |
 | [[Sacred Flame]]         | Evocation     | Divine                 |
 | [[Shape Water]]           | Transmutation | Arcane, Primal         |
-| [[Shillelagh]]             | Transmutation | Primal                 |
 | [[Shocking Grasp]]     | Evocation     | Arcane                 |
 | [[Spare the Dying]]   | Necromancy    | Divine, Primal         |
 | [[Sword Burst]]           | Conjuration   | Arcane                 |
-| [[Resistance]]             | Abjuration    | Divine, Primal         |
+| [[Shillelagh]]             | Transmutation | Primal                 |
 | [[Thaumaturgy]]           | Transmutation | Divine                 |
-| [[Thorn Whip]]             | Conjuration   | Primal                 |
 | [[Thunderclap]]           | Evocation     | Arcane, Primal         |
 | [[Toll the Dead]]       | Necromancy    | Divine                 |
 | [[True Strike]]           | Divination    | Arcane                 |
-| [[Vicious Mockery]]   | Enchantment   | Arcane                 |
+| [[Thorn Whip]]             | Conjuration   | Primal                 |
 | [[Word of Radiance]] | Evocation     | Divine                 |
+| [[Vicious Mockery]]   | Enchantment   | Arcane                 |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School FROM "Spells" -->
