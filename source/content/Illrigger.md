@@ -165,7 +165,16 @@ You can use an action to both make a melee weapon attack and cast an illrigger s
 
 ## Hellspeaker
 he charismatic and manipulative Hellspeakers serve Moloch as they slip about the battlefield, coercing enemies into becoming unwitting allies
+### Precepts of Deception
+Hellspeakers swear an oath to Moloch when they join the Order of Desolation. By following these precepts, they infiltrate the farthest reaches of power and manipulate all under their influence 
+- **My Voice Is a Weapon**. Even when my enchantments fail, if my enemy can hear me, they are mine
+- **Doubt Is Certainty**. I need not convince my enemy, only sow doubt and wait for it to bear fruit 
+- **Trust Me**. For each lie I utter, I tell the truth tenfold One who always lies says nothing
+- **Never Tell the Same Lie Twice**. An overused skill becomes too predictable Keep moving, switch targets, keep them guessing
 
+### Level 3: Moloch's Blessing
+
+### Level 3: Charm Enemy
 
 
 ---
