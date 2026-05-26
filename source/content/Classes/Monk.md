@@ -141,6 +141,9 @@ You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 
 As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage.
 
 
+Wave Crasher
+As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move through a creatures space freely. Any Creature whose space you move through must make STR Save or be knocked [[Conditions#Prone (Condition)|Prone (Condition)]].
+
 
 ## Shadows Ki Forms
 ### Grade 1
