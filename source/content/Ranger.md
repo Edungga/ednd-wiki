@@ -95,8 +95,12 @@ You have entered a mystical bond with a Primal Beast. It is Friendly to you, and
 
 If you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], the Beast acts on its own, and will defend you and itself to the best of its ability.
 
-**Death**. If your Beast is reduced to 0 hit points, it must make Death Saving Throws like a player character would. If it dies, you can perform a 1-hour ritual, which can be during a short or long rest, to restore it to life with 1 hit point. As part of this ritual, it can spend Hit Dice to regain additional hit points.
+**Death**. If your Beast is reduced to 0 hit points, it must make Death Saving Throws like a player character would. If it dies, you can perform a 1-hour ritual, which can be during a long rest, to restore it to life with 1 hit point. As part of this ritual, it can spend Hit Dice to regain additional hit points.
 ### Primal Beast Stat Blocks
+
+
+
+
 
 ## Fey Wanderer
 
