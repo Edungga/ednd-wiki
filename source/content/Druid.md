@@ -75,7 +75,7 @@ When you cast the spell in this way, the familiar is Fey and disappears when you
 ### Wild Shape
 The power of nature allows you to assume the form of an animal. As a Bonus Action, you can expend a [[#Level 2 Primal Surge|Primal Surge]] to Shapechange into a Beast form that you have learned for this feature. 
 
-You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or die. You can also leave the form early as a Bonus Action.
+You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or your form drops to 0 hit points. You can also leave the form early as a Bonus Action.
 
 **Known Forms**. You know four Beast forms for this feature, chosen from among [[Wild Shapes]] CR 1/4 that lack a Fly Speed. 
 
