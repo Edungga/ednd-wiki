@@ -110,7 +110,8 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9th           | [[Plant Growth]], [[Protection from Energy]] |
 | 13th          | [[Ice Storm]], [[Stoneskin]]                 |
 | 17th          | [[Commune with Nature]], [[Tree Stride]]     |
-### Level 3: 
+### Level 3: Nature's Wrath
+
 
 ## Oath of Devotion
 
