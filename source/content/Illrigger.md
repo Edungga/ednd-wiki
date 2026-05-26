@@ -3,16 +3,36 @@
 
 **Hit Point Die**: D10 per Illrigger level
 
-Hit Points at Level 1: 10 + Con. modifier
+**Hit Points at Level 1**: 10 + Con. modifier
 
-Hit Points per additional Illrigger Level: D10 + your Con. modifier, or, 6 + your Con. modifier
-Saving Throw Proficiencies: Wisdom, Charisma
-Skill Proficiencies: Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion.
-Weapon Proficiencies: Simple and Martial weapons
-Armor Training: Light, Medium, and Heavy armor and Shields
+**Hit Points per additional Illrigger Level**: D10 + your Con. modifier, or, 6 + your Con. modifier
 
-Starting Equipment: Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or (B) 150 GP
-Multiclassing
+**Saving Throw Proficiencies**: Wisdom, Charisma
+
+**Skill Proficiencies**: Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion.
+
+**Weapon Proficiencies**: Simple and Martial weapons
+
+**Armor Training**: Light, Medium, and Heavy armor and Shields
+
+Starting Equipment: Choose A or B: 
+- (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or 
+- (B) 150 GP
+
+## Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
+
 Weapon Proficiencies: Martial weapons
+
 Armor Training: Light and Medium armor and Shields
+
+---
+# Class Features
+
+| Level | Proficiency Bonus | Features                         | Seals | Seal Damage | Interdict Boons | Infernal Conduit Die |
+| ----- | ----------------- | -------------------------------- | ----- | ----------- | --------------- | -------------------- |
+| 1st   | +2                | Baleful Interdict, Forked Tongue | 3     | 1d6         | -               | -                    |
+| 2nd   | +2                | Combat Mastery, Interdiction     | 3     | 1d6         | 1               | -                    |
+| 3rd   | +2                | Diabolic Contract, Invoke Hell   | 4     | 1d6         | 1               | -                    |
+| 4th   | +2                | Feat / ASI                       | 4     | 1d6         | 1               | -                    |
+| 5th   | +3                | Extra Attack                     | 4     | 2d6         | 1               | -                    |
