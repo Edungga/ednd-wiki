@@ -31,7 +31,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 | Level | Proficiency Bonus | Rage Die | Rages | Features                                                                               |
 | ----- | ----------------- | -------- | ----- | -------------------------------------------------------------------------------------- |
-| 1st   | +2                | 1d4      | 2     | [[#Level 1 Rage]], [[#Level 1 Unarmoured Defence]], [[#Level 1 Weapon Mastery]]        |
+| 1st   | +2                | 1d4      | 2     | [[#Level 1 Rage]]                                                                      |
 | 2nd   | +2                | 1d4      | 2     | [[#Level 2 Danger Sense\|Danger Sense]], [[#Level 2 Reckless Attack\|Reckless Attack]] |
 | 3rd   | +2                | 1d4      | 3     | [[#Level 3 Primal Path\|Primal Path]]                                                  |
 | 4th   | +2                | 1d4      | 3     | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                      |
