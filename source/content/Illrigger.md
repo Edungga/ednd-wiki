@@ -60,8 +60,10 @@ You can instinctively speak, read, and write Infernal. In addition, you can spea
 When you finish a long rest, you can draw on your archdevil’s knowledge to replace one of these two languages. When you do, choose another language whose name you know; you magically forget the previous language and gain this new one instead
 Once you replace a language in this way, you must finish a Long Rest before you can do so again 
 
+## Level 1: Weapon Mastery
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-
+When you reach certain Illrigger levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
 
 ## Level 4: Ability Score Improvement
