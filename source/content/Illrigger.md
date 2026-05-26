@@ -53,8 +53,6 @@ You gain the ability to censure creatures with the power of Hell.
 
 **Burn vs Expend**. Some features require you to expend a Seal, this is not the same as Burning and does not deal the damage.
 
-**Interdict Save**. Class features you gain later can add additional effects to your Baleful Interdict and require your target to make a Save to resist them. The Save DC for these effects uses your 
-Interdict Save DC, which is calculated as follows:
 **Interdict save DC** = 8 + your Proficiency Bonus + your CHA modifier
 
 ## Level 1: Forked Tongue
