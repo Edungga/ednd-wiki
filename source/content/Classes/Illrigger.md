@@ -66,7 +66,7 @@ Your training with weapons allows you to use the [[Weapon Mastery Properties]] o
 When you reach certain Illrigger levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
 ## Level 2: Combat Mastery
-You have honed your martial prowess and gain a [[Feat#Fighting Style]] of your choice, or you can choose one of the following Illrigger Combat Masteries:
+You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting Style Feat]] of your choice, or you can choose one of the following Illrigger Combat Masteries:
 - **Bravado**. While you are not wearing any armour, your Armour Class equals 10 + your DEX modifier + your CHA modifier. You can use a shield and still gain this benefit 
 - **Brutal**. When you hit a creature who is no more than one Size larger than you with a Melee Weapon Attack made with a two handed Weapon, you can move the target 5ft horizontally. You can then spend your movement to move into the space they left 
 - **Inexorable**. You gain a +1 bonus to Save for each Enemy within 5ft of you (max 5)

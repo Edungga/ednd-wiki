@@ -39,7 +39,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 5th   | +3                | 4              | [[Fighter#Level 5 Extra Attack\|Extra Attack]], [[Fighter#Level 5 Tactical Shift\|Tactical Shift]]                                            |
 
 ## Level 1: Fighting Style
-You have honed your martial prowess and gain a [[Feat#Fighting_Style|Fighting Style Feat]] of your choice
+You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting Style Feat]] of your choice
 
 ## Level 1: Second Wind
 You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Illrigger.md",
+                "file": "Paladin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Illrigger"
+              "title": "Paladin"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Illrigger.md",
+                "file": "Paladin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Illrigger"
+              "title": "Outline of Paladin"
             }
           }
         ],
@@ -172,19 +172,19 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
-    "Feats/Feat.md",
-    "Classes/Illrigger.md",
-    "Paladin.md",
+    "Classes/Barbarian.md",
     "Classes/Fighter.md",
+    "Classes/Warlock.md",
+    "Paladin.md",
+    "Classes/Illrigger.md",
+    "Feats/Feat.md",
     "Classes/Bloodhunter.md",
     "Classes/Monk.md",
     "index.md",
     "Druid.md",
     "Rules/Conditions.md",
-    "Classes/Warlock.md",
     "Classes/Cleric.md",
     "Classes/Bard.md",
-    "Classes/Barbarian.md",
     "Rules/Wild Shapes.md",
     "Find Familiar.md",
     "Rules/Opportunity Attacks.md",
