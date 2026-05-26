@@ -267,9 +267,9 @@ As a bonus action, you can call on the shadows to entrap a creature you can see 
 ## Level 2 Interdict Boons
 You can choose from these boons when you gain the Interdiction feature at Level 2, or whenever you gain a new boon.
 ### Abating Seal
-When a creature you can see damages you or an ally within 30 feet of you, you can expend a seal as a reaction to reduce the damage taken by the target by an amount equal to 1d10 + half of your illrigger level (rounded down)
+When a creature you can see damages you or an ally within 30 feet of you, you can expend a seal as a reaction to reduce the damage taken by the target by an amount equal to 1d10 + half of your illrigger level (rounded down).
 ### Bedevil
-When you burn a seal on an interdicted creature, you can activate this boon (no action required) The target must subtract a number equal to your proficiency bonus from the result of the next saving throw they make before the end of their next turn
+When you burn a seal on an interdicted creature, you can activate this boon (no action required). The target must subtract a number equal to your proficiency bonus from the result of the next saving throw they make before the end of their next turn.
 ### Soul Eater
 When you burn a seal on an interdicted creature, you can activate this boon (no action required) to gain temporary hit points equal to your illrigger level
 ### Styx’s Apathy
