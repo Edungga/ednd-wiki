@@ -55,7 +55,7 @@ When you gain a Ranger level, you can replace one Knack you know with another Kn
 At certain Ranger levels, you learn additional Knacks, as shown in the Knacks Known column of the Ranger table. 
 
 ## Level 1: Weapon Mastery
-Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
@@ -68,8 +68,6 @@ You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting St
 
 ## Level 3: Ranger Conclave
 You've learnt to emulate the ideals and training of a ranger conclave. Your choice grants you features at 
-
-
 
 ## Level 3: Primaeval Awareness
 

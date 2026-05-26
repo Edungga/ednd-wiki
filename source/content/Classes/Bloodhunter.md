@@ -62,7 +62,7 @@ You can use this feature Proficiency Bonus times per Short or Long Rest
 **Vital Sacrifice**. Each time you use your Blood Curse feature, you choose which curse to invoke from the curses you know. While invoking a Blood Curse, but before it affects the target, you can make a Vital Sacrifice to Amplify the curse by taking Necrotic Damage equal to one roll of your Hemocraft Die. An Amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to blood curses unless you have amplified the curse.
 
 ## Level 1: Weapon Mastery
-Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 

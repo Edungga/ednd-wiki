@@ -59,7 +59,7 @@ While you are not wearing any Armour, your Armour Class equals 10 + your DEX mod
 You can use a Shield and still gain this benefit.
 
 ## Level 1: Weapon Mastery
-Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 

@@ -61,7 +61,7 @@ You can change your Prepared Spells when you finish a Long Rest. 
 **Spellcasting Focus**. You can use a Holy Symbol as a Spellcasting Focus for the Spells you prepare for this class. If you emblazon your Holy Symbol onto a Shield, you can use that Shield.
 
 ## Level 1: Weapon Mastery
-Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
