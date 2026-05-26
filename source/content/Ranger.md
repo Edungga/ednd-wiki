@@ -116,10 +116,10 @@ While travelling in your Favoured Terrain, you gain the following benefits:
 
 **Repeatable**. You can learn this Knack more than once, but you choose a new environment each time that you learn it.
 
-## Deft Explorer I
-*Prerequisite: Ranger Level 6, Deft Explorer I*
+## Deft Explorer II
+*Prerequisite: Ranger Level 3, Deft Explorer I*
 
-You now have Advantage on Initiative Checks and can use the Disengage Action as a Bonus Action when in your Favoured Terrain.
+You now have Advantage on Initiative Checks and can use the Disengage and Dash Actions as a Bonus Action when in your Favoured Terrain.
 
 ## Favoured Enemy I
 You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of Favoured Enemy: Aberrations, Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, Monstrosities, Oozes, Plants, or Undead. Alternatively, you can select two Ancestries of Humanoid (such as Gnolls and Orcs) as Favoured Enemies.
