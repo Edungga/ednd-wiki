@@ -20,3 +20,19 @@ Armor Training: Light and Medium armor and Shields
 
 
 
+
+
+
+
+
+
+
+
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
+
+## Level 5: Extra Attack
+You can attack twice instead of once whenever you take the Attack action on your turn.
+
+
+---

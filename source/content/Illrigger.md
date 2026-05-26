@@ -16,8 +16,10 @@
 **Armor Training**: Light, Medium armour, and Shields
 
 Starting Equipment: Choose A or B: 
-- (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or 
-- (B) 150 GP
+- (a) two martial weapons or (b) one martial weapon and a shield
+- (a) chain shirt or (b) leather armor, a longbow, and 20 arrows
+- (a) a priest’s pack or (b) a dungeoneer’s pack
+- five javelins
 
 ## Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
