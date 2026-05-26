@@ -121,7 +121,7 @@ If you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], t
 | **Hit Points**: 5 + five times your Ranger Level <br>(the beast has a number of Hit Dice (d8s) equal to your Ranger level)                                  |
 | **Speed**: 5ft Walk, 60ft Swim                                                                                                                              |
 | STR 16 (+3)  \|  DEX 14 (+2)  \|  CON 15 (+2) \|  INT 8 (–1)  \|  WIS 12 (+1)  \|  CHA 11 (0)                                                               |
-| **Skills** Perception +3, Stealth +4, Survival +3                                                                                                           |
+| **Skills** Perception +3, Stealth +4                                                                                                                        |
 | **Senses** Darkvision 60 ft., passive Perception 12                                                                                                         |
 | **Languages** Understands the languages you know                                                                                                            |
 | **TRAITS**<br>**Primal Bond**. Add your Proficiency Bonus to any Check or Save the beast makes.<br><br>**Amphibious**. The beast can breathe air and water. |
