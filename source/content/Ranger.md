@@ -218,13 +218,34 @@ The Spells Known column of the Wild Warden table shows when you learn more Spell
 
 Additionally, when you gain a level in this class, you can choose one of the Primal Spells you know and replace it with another spell from the Primal Spell List, which also must be of a level for which you have Spell Slots. 
 
-Spellcasting Ability. Wisdom is your Spellcasting Ability for your Wild Warden Spells.
+**Spellcasting Ability**. Wisdom is your Spellcasting Ability for your Wild Warden Spells.
 
-Spell save DC = 8 + your Proficiency Bonus + your WIS modifier
+**Spell save DC** = 8 + your Proficiency Bonus + your WIS modifier
 
-Spell attack modifier = your Proficiency Bonus + your WIS modifier
+**Spell attack modifier** = your Proficiency Bonus + your WIS modifier
 
-Spellcasting Focus. You can use a Weapon or Primal Focus as a Spellcasting Focus for the Spells you prepare for this class.
+**Spellcasting Focus**. You can use a Weapon or Primal Focus as a Spellcasting Focus for the Spells you prepare for this class.
+
+| Ranger Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+| ------------ | -------------- | ------------ | --- | --- | --- | --- |
+| 3rd          | 2              | 3            | 2   | -   | -   | -   |
+| 4th          | 2              | 4            | 3   | -   | -   | -   |
+| 5th          | 2              | 4            | 3   | -   | -   | -   |
+| 6th          | 2              | 4            | 3   | -   | -   | -   |
+| 7th          | 2              | 5            | 4   | 2   | -   | -   |
+| 8th          | 2              | 6            | 4   | 2   | -   | -   |
+| 9th          | 2              | 6            | 4   | 2   | -   | -   |
+| 10th         | 3              | 7            | 4   | 3   | -   | -   |
+| 11th         | 3              | 8            | 4   | 3   | -   | -   |
+| 12th         | 3              | 8            | 4   | 3   | -   | -   |
+| 13th         | 3              | 9            | 4   | 3   | 2   | -   |
+| 14th         | 3              | 10           | 4   | 3   | 2   | -   |
+| 15th         | 4              | 10           | 4   | 3   | 2   | -   |
+| 16th         | 4              | 11           | 4   | 3   | 3   | -   |
+| 17th         | 4              | 11           | 4   | 3   | 3   | -   |
+| 18th         | 4              | 11           | 4   | 3   | 3   | -   |
+| 19th         | 4              | 12           | 4   | 3   | 3   | 1   |
+| 20th         | 4              | 13           | 4   | 3   | 3   | 1   |
 
 
 

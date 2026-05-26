@@ -170,11 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d9129bb8dcf7983",
+  "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "Classes/Fighter.md",
+    "Ranger.md",
     "Classes/Warlock.md",
     "Find Familiar.md",
-    "Ranger.md",
     "Druid.md",
     "Classes/Paladin.md",
     "Classes/Bard.md",
@@ -182,7 +183,6 @@
     "Classes/Barbarian.md",
     "Classes/Bloodhunter.md",
     "Classes/Illrigger.md",
-    "Classes/Fighter.md",
     "index.md",
     "Rules/Conditions.md",
     "Feats/Feat.md",
