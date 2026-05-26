@@ -153,8 +153,16 @@ Fight the Greater Evil. Faced with a choice of fighting my sworn foes or combati
 - **No Mercy for the Wicked**. Ordinary foes might win my mercy, but my sworn enemies do not.
 - **By Any Means Necessary**. My qualms can't get in the way of exterminating my foes.
 - **Restitution**. If my foes wreck ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
-### Level 3: 
+### Level 3: Oath of Vengeance Spells
+The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath Spells table, you thereafter always have the listed spells prepared.
 
+| Paladin Level | Spells                                |
+| ------------- | ------------------------------------- |
+| 3rd           | [[Bane]], [[Compelled Duel]]          |
+| 5th           | [[Hold Person]], [[Misty Step]]       |
+| 9th           | [[Haste]], [[Protection from Energy]] |
+| 13th          | [[Banishment]], [[Dimension Door]]    |
+| 17th          | [[Hold Monster]], [[Scrying]]         |
 ### Level 3: 
 
 ## Oathbreaker
