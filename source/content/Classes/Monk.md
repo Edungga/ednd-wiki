@@ -137,8 +137,8 @@ You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 
 ## Elemental Ki Forms
 ### Grade 1
 
-Ice Shard
-As an Action, you launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage.
+#### Ice Shard
+As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage.
 
 
 
