@@ -28,13 +28,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Features                                                                 | 1st | 2nd | 3rd | 4th | 5th |
-| ----- | ----------------- | ------------------------------------------------------------------------ | --- | --- | --- | --- | --- |
-| 1st   | +2                | Lay on Hands, Spellcasting                                               | 2   | -   | -   | -   | -   |
-| 2nd   | +2                | Fighting Style [Feat], Divine Smite                                      | 2   | -   | -   | -   | -   |
-| 3rd   | +2                | [[Paladin#Level 3 Channel Divinity\|Channel Divinity]], [[Paladin#3]]    | 3   | -   | -   | -   | -   |
-| 4th   | +2                | [[Paladin#Level 4 Ability Score Improvement\|Ability Score Improvement]] | 3   | -   | -   | -   | -   |
-| 5th   | +3                | [[Paladin#Level 5 Extra Attack\|Extra Attack]]                           | 4   | 2   | -   | -   | -   |
+| Level | Proficiency Bonus | Features                                                                                                     | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------ | --- | --- | --- | --- | --- |
+| 1st   | +2                | [[Paladin#Level 1 Lay on Hands\|Lay on Hands]], [[Paladin#Level 1 Spellcasting\|Spellcasting]], [[Paladin#]] | 2   | -   | -   | -   | -   |
+| 2nd   | +2                | [[Paladin#Level 2 Fighting Style\|Fighting Style]], [[#Level 2 Divine Smite\|Divine Smite]]                  | 2   | -   | -   | -   | -   |
+| 3rd   | +2                | [[Paladin#Level 3 Channel Divinity\|Channel Divinity]], [[Paladin#Level 3 Sacred Oath\|Sacred Oath]]         | 3   | -   | -   | -   | -   |
+| 4th   | +2                | [[Paladin#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                     | 3   | -   | -   | -   | -   |
+| 5th   | +3                | [[Paladin#Level 5 Extra Attack\|Extra Attack]]                                                               | 4   | 2   | -   | -   | -   |
 
 ## Level 1: Lay on Hands
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
@@ -77,7 +77,7 @@ When you hit a creature with a Melee Weapon Attack, you can expend one Spell Slo
 You gain the ability to channel divine energy to fuel magical effects. You start with one such effect: Divine Sense. You can use your Channel Divinity a number of times equal to your Proficiency Bonus per Long Rest.
 
 Some Channel Divinity effects require a Save. When you use such an effect from this class, use your Paladin Spell Save DC.
-### Channel Divinity: Divine Sense
+### Channel Divinity - Divine Sense
 As a Bonus Action, you open your awareness to detect Celestial, Fiend, or Undead. For the next 10 minutes or until you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], you know the location of any Celestial, Fiend, or Undead within 60ft of you that is not behind total cover. You know the type (Celestial, Fiend, or Undead) of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been Consecrated or Desecrated, as with the [[Hallow]] Spell.
 
 ## Level 3: Sacred Oath
