@@ -39,6 +39,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 5th   | +3                | 1d6        | Extra Attack                                                 |
 
 ## Level 1: Hunter’s Quarry
+As a Bonus Action, you mark a creature you can see within 90ft as your Quarry. Gain the following benefits against your Quarry:
 
 
 ## Level 1: 
