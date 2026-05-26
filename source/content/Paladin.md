@@ -28,13 +28,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Features                            | 1st | 2nd | 3rd | 4th | 5th |
-| ----- | ----------------- | ----------------------------------- | --- | --- | --- | --- | --- |
-| 1st   | +2                | Lay on Hands, Spellcasting          | 2   | -   | -   | -   | -   |
-| 2nd   | +2                | Fighting Style [Feat], Divine Smite | 2   | -   | -   | -   | -   |
-| 3rd   | +2                | Channel Divinity, Sacred Oath       | 3   | -   | -   | -   | -   |
-| 4th   | +2                | Feat / ASI                          | 3   | -   | -   | -   | -   |
-| 5th   | +3                | Extra Attack                        | 4   | 2   | -   | -   | -   |
+| Level | Proficiency Bonus | Features                                                                 | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ----------------- | ------------------------------------------------------------------------ | --- | --- | --- | --- | --- |
+| 1st   | +2                | Lay on Hands, Spellcasting                                               | 2   | -   | -   | -   | -   |
+| 2nd   | +2                | Fighting Style [Feat], Divine Smite                                      | 2   | -   | -   | -   | -   |
+| 3rd   | +2                | [[Paladin#Level 3 Channel Divinity\|Channel Divinity]], [[Paladin#3]]    | 3   | -   | -   | -   | -   |
+| 4th   | +2                | [[Paladin#Level 4 Ability Score Improvement\|Ability Score Improvement]] | 3   | -   | -   | -   | -   |
+| 5th   | +3                | [[Paladin#Level 5 Extra Attack\|Extra Attack]]                           | 4   | 2   | -   | -   | -   |
 
 ## Level 1: Lay on Hands
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
