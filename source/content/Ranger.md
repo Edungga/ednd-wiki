@@ -187,6 +187,12 @@ If you already know Stalker I, you can learn a different Knack of your choice.
 ## Spellbreaker
 Spellbreakers are a small but dedicated Conclave of Rangers that specialize in hunting mages who use their arcane power for evil. While most pursue the life of a Spellbreaker for noble reasons, there are some who seek to destroy anyone with the potential to use magic. Most Spellbreakers work in secrecy, only striking when success is a certainty. If a wrong move could end in disintegration, there is no room for error.
 ### Level 3: Mage Breaker
+Your weapons are warded with antimagic enchantments.
+When you hit your Quarry with a weapon attack, it has disadvantage on any subsequent CON Saves to maintain concentration.
+
+Also, whenever you see or hear a creature within your reach attempt to cast a spell, you can use your reaction to make an opportunity attack against it.
+
+### Level 3:
 
 
 ## Wild Warden
