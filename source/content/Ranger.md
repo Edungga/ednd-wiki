@@ -82,6 +82,8 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 You can attack twice instead of once whenever you take the Attack action on your turn.
 
 ## Level 5: Feral Senses
+You hunt with the skill of an apex predator. You cannot have disadvantage on attack rolls against your Quarry.
+
 
 ---
 # Ranger Conclave
