@@ -144,20 +144,18 @@ If you launch a boulder raised by [[Monk#Raise Earth|Raise Earth]], the attack
 #### Conjure Flame
 As an Action, spend 1 Ki Point to conjure a flickering flame in your hand that remains there for up to 1 hour. While in your hand the flame emits heat but does not hurt you, and sheds Bright Light in a 30-ft radius and Dim Light for an additional 30ft. You can dismiss the flame (no action required).
 When you use this Form, or as an Action on a later turn, you can hurl the flame at a creature within 60ft of you. Make a Ranged Attack. On a hit, the target takes a 2 Martial Arts Die + WIS modifier Fire damage.
-
-Fangs of the Fire Snake. When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by 10 feet for that action, as well as the rest of the turn. A hit with such an attack deals fire damage instead of bludgeoning damage, and if you spend 1 ki point when the attack hits, it also deals an extra 1d10 fire damage.
+Fangs of the Fire Snake
+When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by 10 feet for that action, as well as the rest of the turn. A hit with such an attack deals fire damage instead of bludgeoning damage, and if you spend 1 ki point when the attack hits, it also deals an extra 1d10 fire damage.
 #### Ice Shard
-As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage. Any creatures within 5ft of the 
-
+As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage. Any creatures within 5ft of the target must succeed WIS Saves or take a Martial Arts Die Cold Damage.
 #### Raise Earth
 As a Bonus Action, you can spend 1 Ki Point to Raise of Boulder out of the ground in an unoccupied space you can see within 30ft. The boulder occupied that space and acts as Half Cover for Medium or Smaller Creatures.
-
-Sweeping Cinder Strike. You can spend 2 ki points to cast burning hands.
+#### Sweeping Cinder Strike
+You can spend 2 Ki Points to cast [[Burning Hands]] as a Ki Form.
 #### Tremor
 As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must make a STR Save. On a failed save they take 2 Martial Arts Die Bludgeoning Damage and are [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. Half damage on a success and are not [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. 
 #### Water Whip
 You can spend 2 Ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a DEX Save. On a failed save, the creature takes 3 Martial Arts Die bludgeoning damage, and you can Pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it.
-
 #### Wave Crasher
 As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move through a creatures space freely. Any Creature whose space you move through must make STR Save or be knocked [[Conditions#Prone (Condition)|Prone (Condition)]].
 
