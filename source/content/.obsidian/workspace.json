@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Illrigger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Illrigger"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Illrigger.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Illrigger"
             }
           }
         ],
@@ -172,9 +172,10 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "index.md",
+    "Illrigger.md",
     "Classes/Barbarian.md",
     "Classes/Bard.md",
-    "index.md",
     "Paladin.md",
     "Classes/Monk.md",
     "Classes/Cleric.md",
@@ -198,7 +199,6 @@
     "Feats/Feat.md",
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
-    "Spells/Cantrips/Word of Radiance.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
