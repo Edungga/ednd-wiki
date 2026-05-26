@@ -100,16 +100,34 @@ The tenets of the Oath of the Ancients have been preserved for uncounted centuri
 - **Shelter the Light**. Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
 - **Preserve Your Own Light**. Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.
 - **Be the Light**. Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
+### Level 3: Oath of the Ancient Spells
 
-
+### Level 3: 
 
 ## Oath of Devotion
 
 
+### Level 3: 
+
+### Level 3: 
+
 ## Oath of Glory
 
+
+### Level 3: 
+
+### Level 3: 
 
 ## Oath of Vengeance
 
 
+### Level 3: 
+
+### Level 3: 
+
 ## Oathbreaker
+
+
+### Level 3: 
+
+### Level 3: 
