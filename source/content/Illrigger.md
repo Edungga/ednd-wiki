@@ -75,7 +75,13 @@ Choose one of the following Illrigger Combat Masteries:
 - **Unfettered**. When you use your Baleful Interdict to Place or Burn a Seal, its Range is 60ft. When you gain the Infernal Conduit feature at 6th level, its Range is 30ft. In addition, making a Ranged Attack while within 5ft of an enemy does not impose Disadvantage on the Attack.
 
 ## Level 2: Interdiction
+You can infuse your seals with hellish magical power, enhancing their effects
 
+**Interdict Boons Known**. You learn one Interdict Boons of your choice. As you gain levels in this class, you gain additional Boons of your choice, as shown in the Interdict Boons column of the Illrigger table. 
+
+Whenever you gain an Illrigger level, you can choose a Boon you know and replace it with another Boon you can learn.
+
+**Using Interdict Boons**. Some Boons allow you to expend unplaced seals to fuel abilities, while others empower all your Seals or grant you benefits against Interdicted Creatures. The Boons that grant passive benefits, are marked with a “Passive” tag. You don’t need to expend a Seal or take an Action to benefit from your Passive Boons. All other boons must be activated on a turn.
 
 
 ## Level 4: Ability Score Improvement
@@ -85,3 +91,10 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 You can attack twice instead of once whenever you take the Attack action on your turn.
 
 ---
+# Diabolic Contracts
+
+
+
+
+---
+# Interdict Boons
