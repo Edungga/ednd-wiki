@@ -163,5 +163,10 @@ You can use an action to both make a melee weapon attack and cast an illrigger s
 
 
 
+## Hellspeaker
+he charismatic and manipulative Hellspeakers serve Moloch as they slip about the battlefield, coercing enemies into becoming unwitting allies
+
+
+
 ---
 # Interdict Boons
