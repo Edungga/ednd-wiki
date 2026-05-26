@@ -123,7 +123,15 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 - **Honour**. Treat others with fairness, and let your honourable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
 - **Duty**. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you
 ### Level 3: Oath of Devotion Spells
+The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath Spells table, you thereafter always have the listed spells prepared.
 
+| Paladin Level | Spells                                           |
+| ------------- | ------------------------------------------------ |
+| 3rd           | [[Protection from Evil and Good]], [[Sanctuary]] |
+| 5th           | [[Lesser Restoration]], [[Zone of Truth]]        |
+| 9th           | [[Beacon of Hope]], [[Dispel Magic]]             |
+| 13th          | [[Freedom of Movement]], [[Guardian of Faith]]   |
+| 17th          | [[Commune]], [[Flame Strike]]                    |
 ### Level 3: 
 
 ## Oath of Glory
