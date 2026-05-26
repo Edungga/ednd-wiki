@@ -93,9 +93,7 @@ You have entered a mystical bond with a Primal Beast. It is Friendly to you, and
 
 **Combat**. In combat, your Beast acts during your turn. As a bonus action, you can order it to take an action in its stat block, or another action. If you take the Attack action, you can forgo one attack to order your Beast to attack instead. The Beast can move and use its reaction on its own, but will only take the Dodge action unless you give it an order.
 
-If you are Incapacitated, the Beast acts on its own, and will defend you and itself to the best of its ability.
-
-**Primal Shift**. During a long rest, you can perform a 1 hour ritual to change the Primal Beast's stat block to another Primal Beast.
+If you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], the Beast acts on its own, and will defend you and itself to the best of its ability.
 
 **Death**. If your Beast is reduced to 0 hit points, it must make Death Saving Throws like a player character would. If it dies, you can perform a 1-hour ritual, which can be during a short or long rest, to restore it to life with 1 hit point. As part of this ritual, it can spend Hit Dice to regain additional hit points.
 ### Primal Beast Stat Blocks
