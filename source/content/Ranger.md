@@ -30,17 +30,17 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Quarry Die | Features                                                     |
-| ----- | ----------------- | ---------- | ------------------------------------------------------------ |
-| 1st   | +2                | 1d4        | Expertise, Hunter’s Quarry, Natural Explorer, Favoured Enemy |
-| 2nd   | +2                | 1d4        | Favoured Enemy, Fighting Style                               |
-| 3rd   | +2                | 1d4        | Ranger Conclave, Primaeval Awareness                         |
-| 4th   | +2                | 1d4        | Feat / ASI                                                   |
-| 5th   | +3                | 1d6        | Extra Attack                                                 |
+| Level | Proficiency Bonus | Quarry Die | Features                                          |
+| ----- | ----------------- | ---------- | ------------------------------------------------- |
+| 1st   | +2                | 1d4        | Hunter’s Quarry, Natural Explorer, Favoured Enemy |
+| 2nd   | +2                | 1d4        | Expertise, Knacks, Fighting Style                 |
+| 3rd   | +2                | 1d4        | Ranger Conclave, Primaeval Awareness              |
+| 4th   | +2                | 1d4        | Feat / ASI                                        |
+| 5th   | +3                | 1d6        | Extra Attack                                      |
 
 ## Level 1: Hunter’s Quarry
 As a Bonus Action, you mark a creature you can see within 90ft as your Quarry. Gain the following benefits against your Quarry:
-
+- 
 
 ## Level 1: 
 
