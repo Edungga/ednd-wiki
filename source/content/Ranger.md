@@ -102,6 +102,8 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 ## Hunter
 
 
+## Wild Warden
+
 
 
 
