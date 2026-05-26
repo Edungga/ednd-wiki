@@ -35,8 +35,8 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 1st   | +2                | 1d4        | 1            | [[Ranger#Level 1 Hunter’s Quarry\|Hunter’s Quarry]], The Knack, Weapon Mastery |
 | 2nd   | +2                | 1d4        | 2            | Expertise, Fighting Style                                                      |
 | 3rd   | +2                | 1d4        | 3            | Ranger Conclave, Primaeval Awareness                                           |
-| 4th   | +2                | 1d4        | 3            | Ability Score Improvement                                                      |
-| 5th   | +3                | 1d6        | 3            | Extra Attack                                                                   |
+| 4th   | +2                | 1d4        | 4            | Ability Score Improvement                                                      |
+| 5th   | +3                | 1d6        | 5            | Extra Attack                                                                   |
 
 ## Level 1: Hunter’s Quarry
 As a Bonus Action, you mark a creature you can see within 90ft as your Quarry. Gain the following benefits against your Quarry:
@@ -61,12 +61,12 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 ## Level 2: Expertise
 You gain Expertise in two of your skill proficiencies of your choice.
-At Bard level 9, you gain Expertise in two more of your skill proficiencies of your choice.
+At Ranger level 9, you gain Expertise in two more of your skill proficiencies of your choice.
 
 ## Level 2: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting Style Feat]] of your choice, or you can choose the below option:
 
-## Level 1: 
+## Level 3: Ranger 
 
 
 
