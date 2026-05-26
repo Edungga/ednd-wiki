@@ -34,5 +34,19 @@ Armor Training: Light and Medium armor and Shields
 | 1st   | +2                | Baleful Interdict, Forked Tongue | 3     | 1d6         | -               | -                    |
 | 2nd   | +2                | Combat Mastery, Interdiction     | 3     | 1d6         | 1               | -                    |
 | 3rd   | +2                | Diabolic Contract, Invoke Hell   | 4     | 1d6         | 1               | -                    |
-| 4th   | +2                | Feat / ASI                       | 4     | 1d6         | 1               | -                    |
+| 4th   | +2                | Ability Score Improvement        | 4     | 1d6         | 1               | -                    |
 | 5th   | +3                | Extra Attack                     | 4     | 2d6         | 1               | -                    |
+
+
+
+
+
+
+
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
+
+## Level 5: Extra Attack
+You can attack twice instead of once whenever you take the Attack action on your turn.
+
+---
