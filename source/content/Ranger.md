@@ -90,8 +90,18 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 
 
 
-## Favoured Enemy
+## Favoured Enemy I
+You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of Favoured Enemy: Aberrations, Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, Monstrosities, Oozes, Plants, or Undead. Alternatively, you can select two Ancestries of Humanoid (such as Gnolls and Orcs) as Favoured Enemies.
 
+You have Advantage on Survival Checks to track your Favoured Enemies, as well as on INT Checks to recall information about them. 
+
+Additionally, when targeting a Favoured Enemy with Weapon Attack, you can add your Proficiency Bonus to the Attacks total.
+You also learn one Language of your choice that is spoken by your Favoured Enemies, if they speak one at all.
+
+You choose one additional Favoured Enemies, as well as an associated Language, at 7th and 13th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
+
+You can learn this Knack more than once, but you choose
+a new Favored Foe each time that you learn it.
 
 ## Primaeval Awareness
 As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
