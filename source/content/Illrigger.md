@@ -40,6 +40,21 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 5th   | +3                | Extra Attack                     | 4     | 2d6         | 1               | -                    |
 
 
+## Level 1: Baleful Interdict
+You gain the ability to censure creatures with the power of Hell. 
+
+**Placing Seals**. As a Bonus Action you can place a Seal on a creature you can see within 30ft. This seal lasts for 1 minute or until burned. A creature with one or more of your seals is referred to as an Interdicted Creature. Seals you place are invisible to other creatures, and when you can see an Interdicted Creature, the seals appear to you as glowing glyphs on the creature’s body. 
+Limited Seals. You can only place a limited number of Seals before Resting, and you regain all Seals when you finish a Short or Long Rest. The number of Seals you can place increases as you gain Illrigger levels, as indicated on the Illrigger table. 
+Moving Seals. [Bonus Action - Magic] If an Interdicted Creature dies, you can move all Seals placed on them to a new creature you can see within 30ft of them. Each Seal’s Duration continues to elapse when an Interdicted Creature Dies and when that Seal is moved to a new creature.
+Burning Seals. When an Interdicted Creature you can see within 30ft takes damage from any source other than a Seal Burned, you can Burn any number of Seals you placed on them to deal 1d6 Fire or Necrotic Damage to that creature per Seal Burned. You deal this damage immediately after the triggering damage. Burning a Seal doesn’t require an Action, but you can’t do so while Incapacitated [Condition]. Once a Seal is Burned, it immediately vanishes. The Seal Damage increases as you gain Illrigger levels, as indicated on the Illrigger table. 
+Burn vs Expend. Some features require you to expend a Seal, this is not the same as Burning and does not deal the damage.
+Interdict Save. Class features you gain later can add additional effects to your Baleful Interdict and require your target to make a Save to resist them. The Save DC for these effects uses your Interdict Save DC, which is calculated as follows:
+Interdict save DC = 8 + your Proficiency Bonus + your CHA modifier
+
+## Level 1: Forked Tongue
+You can instinctively speak, read, and write Infernal. In addition, you can speak two other languages of your choice, but you can’t read or write them.
+When you finish a long rest, you can draw on your archdevil’s knowledge to replace one of these two languages. When you do, choose another language whose name you know; you magically forget the previous language and gain this new one instead
+Once you replace a language in this way, you must finish a Long Rest before you can do so again 
 
 
 
