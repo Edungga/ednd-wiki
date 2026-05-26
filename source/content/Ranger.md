@@ -102,10 +102,10 @@ a swimming speed, it increases by 10 feet.
 
 Finally, you can your Quarry Die to any Athletics checks that you make.
 
-## Explorer I
+## Deft Explorer I
 You are particularly familiar with one type of natural environment and are adept at travelling and surviving in such regions. Choose two types of Favoured Terrain: Arctic, Coast, Desert, Forest, Grassland, Jungle, Mountain, Swamp, or the Underdark. 
 
-When you make an INT or WIS Check related to your Favoured Terrain, add your Proficiency Bonus to the Checks total.
+When you make an INT or WIS Check related to your Favoured Terrain, add your Quarry Die to the Check.
 
 
 
