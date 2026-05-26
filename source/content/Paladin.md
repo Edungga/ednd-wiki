@@ -185,7 +185,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 17th          | [[Contagion]], [[Dominate Person]] |
 
 ### Level 3: Channel Divinity - Command Undead
-As an action, target one undead creature you can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin's commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin's level is immune to this effect.
+As an action, target one undead creature you can see within 30 feet. The target must make a WIS Save. On a failed save, they must obey your commands for the next 24 hours, or until the you use this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin's level is immune to this effect.
 
 ### Level 3: Channel Divinity - Dreadful Aspect
 As an action, you channel the darkest emotions and focuses them into a burst of magical menace. Each creature you choose within 30 feet of you must make a WIS Save if it can see you. On a failed save, they are [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] of you for 1 minute. If a creature [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] by this effect ends its turn more than 30 feet away from you, it can attempt another WIS to end the effect on it.
