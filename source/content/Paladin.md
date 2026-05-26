@@ -73,6 +73,16 @@ You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting St
 ## Level 2: Divine Smite
 When you hit a creature with a Melee Weapon Attack, you can expend one Spell Slot to deal Radiant Damage to the target, in addition to the Weapon's Damage. The extra Damage is 2d8 for a 1st Level Spell Slot, plus 1d8 for each Spell Level higher than 1st. The Damage increases by 1d8 if the target is an Undead or a Fiend.
 
+## Level 3: Channel Divinity
+You gain the ability to channel divine energy to fuel magical effects. You start with one such effect: Divine Sense. Some oaths grant you additional effects as you advance in levels, as noted in the oath description.
+You can use your Channel Divinity a number of times equal to your Proficiency Bonus per Long Rest.
+Some Channel Divinity effects require a Save. When you use such an effect from this class, use your Paladin Spell Save DC.
+Channel Divinity: Divine Sense
+[Bonus Action - Magic] Open your awareness to detect Celestial, Fiend, or Undead. For the next 10 minutes, you know the location of any Celestial, Fiend, or Undead within 60ft of you that is not behind total cover. You know the type (Celestial, Fiend, or Undead) of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been Consecrated or Desecrated, as with the Hallow Spell.
+
+
+## Level 3:
+
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
