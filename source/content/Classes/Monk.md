@@ -97,7 +97,7 @@ You follow a monastic tradition that teaches you to harness Elemental Chaos. Whe
 ### Level 3: Elemental Manipulation
 You know two [[Monk#Grade 1|Grade 1 Elemental Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Elemental Ki Forms of a Grade you can know. 
 
-You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, they all count as [[#Forms|Forms]] for you.
+Additionally. you know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, they all count as [[#Forms|Forms]] for you.
 
 
 
@@ -135,7 +135,8 @@ You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 
 ## Elemental Ki Forms
 ### Grade 1
 
-
+Ice Shard
+As an Action, you launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage.
 
 
 
