@@ -173,8 +173,58 @@ Hellspeakers swear an oath to Moloch when they join the Order of Desolation. By 
 - **Never Tell the Same Lie Twice**. An overused skill becomes too predictable Keep moving, switch targets, keep them guessing
 
 ### Level 3: Moloch's Blessing
+When Moloch accepts you as his illrigger, you gain
+proficiency in the Persuasion or Deception skill (your
+choice) If you already have proficiency in the skill
+of your choice, your proficiency bonus is doubled for any ability check you make with that skill In addition, your Forked Tongue feature grantsyou an additional language (for a total of three at 3rd level and four at 9th level) Whenever you speak in a language gained by this feature, your devilish influence is subconsciously felt by creatures who can hear and understand you, granting you advantage on Charisma checks to influence those creatures
 
 ### Level 3: Charm Enemy
+When you use your bonus action to place a seal on
+a Humanoid, you can attempt to charm them The
+target must succeed on a Charisma saving throw
+or be charmed by you for 1 hour or until you or
+your companions do anything harmful to them
+While charmed, the target regards you as a friendly
+acquaintance When the charmed condition ends,
+the target knows they were charmed by you
+When you use this bonus action, you can
+additionally burn one or more seals on one or more
+other interdicted Humanoids within 30 feet of you,
+attempting to charm those targets as well After
+taking damage from the burned seals, each of those
+targets must succeed on a Charisma saving throw or
+be under the same charmed effect
+You can use this feature a number of times equal
+to your Charisma modifier (minimum of once),
+and you regain all expended uses when you finish
+a long rest
+
+### Level 3: Invoke Hell
+You gain the following two Invoke Hell options:
+
+
+## Painkiller
+
+
+### Level 3: Invoke Hell
+You gain the following two Invoke Hell options:
+
+
+## Sanguine Knight
+
+
+
+### Level 3: Invoke Hell
+You gain the following two Invoke Hell options:
+
+
+## Shadowmaster
+
+
+### Level 3: Invoke Hell
+You gain the following two Invoke Hell options:
+
+
 
 
 ---
