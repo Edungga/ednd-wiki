@@ -88,6 +88,20 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 
 
 
+## Fey Wanderer
+
+
+
+## Gloom Stalker
+
+
+
+## Grave Walker
+
+
+## Hunter
+
+
 
 
 
