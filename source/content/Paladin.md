@@ -163,7 +163,10 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 9th           | [[Haste]], [[Protection from Energy]] |
 | 13th          | [[Banishment]], [[Dimension Door]]    |
 | 17th          | [[Hold Monster]], [[Scrying]]         |
-### Level 3: 
+### Level 3: Vow of Enmity
+As a Bonus Action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have Advantage on attack rolls against the creature for 1 minute or until you use this feature again.
+
+If the creature drops to 0 Hit Points before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
 ## Oathbreaker
 
