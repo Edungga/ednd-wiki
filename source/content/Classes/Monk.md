@@ -51,6 +51,8 @@ You can expend these points to enhance or fuel certain Monk features known as [[
 
 When you regain all expended Ki, when you finish a Short or Long Rest.
 
+**Ki attack modifier** = your Proficiency Bonus + your WIS modifier
+
 **Ki save DC** = 8 + your Proficiency Bonus + your WIS modifier
 
 ## Level 2: Uncanny Metabolism
