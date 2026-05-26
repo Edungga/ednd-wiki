@@ -82,7 +82,10 @@ As a Bonus Action, you open your awareness to detect Celestial, Fiend, or Undead
 
 ## Level 3: Sacred Oath
 You swear the [[Paladin#Sacred Oaths|Sacred Oath]] that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Your choice grants you features at certain Paladin levels.
-- [[Paladin#]]
+- [[Paladin#Oath of the Ancients|Oath of the Ancients]]
+- [[Paladin#Oath of Devotion|Oath of Devotion]]
+- [[Paladin#Oath of Vengeance|Oath of Vengeance]]
+- [[Paladin#Oathbreaker|Oathbreaker]]
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
