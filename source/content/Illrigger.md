@@ -106,13 +106,16 @@ Architects of Ruin are cool and calculating arcane knights who serve Asmodeus, d
 ### Precepts of Ruin
 Architects of Ruin swear an oath to Asmodeus when they join the Order of Desolation These precepts commit them to destroy Asmodeus’s enemies by commanding great magic, causing fear, and sowing distrust
 - **The Battlefield of the Mind**. By the time my armies meet yours, you’ll be filled with terror and doubt your own strength I won’t have to lift a finger to defeat you
-- **The Proper Secret**. Once I know your secrets,
-I know your weakness
-**Knowledge Is Power**. Lore is as powerful as
-steel I learn every detail about my enemy and
-anticipate their every move, checkmating them
-before the game even begins
-**Magic Is Mine to Command**. Cunning is also as powerful as steel I wield the dark arcane arts to manipulate your senses, weaken your resolve, and strengthen my blade Your soldiers will quake for fear of what dark magics may next cloak my blade
+- **The Proper Secret**. Once I know your secrets, I know your weakness
+- **Knowledge Is Power**. Lore is as powerful as steel I learn every detail about my enemy and anticipate their every move, checkmating them before the game even begins
+- **Magic Is Mine to Command**. Cunning is also as powerful as steel I wield the dark arcane arts to manipulate your senses, weaken your resolve, and strengthen my blade Your soldiers will quake for fear of what dark magics may next cloak my blade
+### Level 3: Admodeus's Blessing
+When Asmodeus accepts you as an Architect of Ruin, he grants you access to his infernal knowledge You gain proficiency in one of the following skills of your choice: Arcana, History,
+Nature, or Religion
+
+In addition, you can also read and write the languages granted by your Forked Tongue, instead of only speaking them
+### Level 3: Spellcasting
+
 
 
 
