@@ -99,10 +99,12 @@ You also learn one Language of your choice that is spoken by your Favoured Enemi
 
 **Repeatable**. You can learn this Knack more than once, but you choose a new Favoured Enemy each time that you learn it.
 
-## Favoured Enemy I
+## Favoured Enemy II
 Prerequisite: Level 5, Favoured Enemy I
 
-If your Hunter's Quarry is also a Favoured Enemy, add an additional Quarry Die to the damage roll (now 2dX)
+If your Hunter's Quarry is also a Favoured Enemy, add an additional Quarry Die to the damage roll.
 
-## Primaeval Awareness
+Additionally, you add your Quarry Die on INT or WIS Checks you make against your Favoured Enemy.
+
+## Primeval Awareness
 As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
