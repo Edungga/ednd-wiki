@@ -201,13 +201,16 @@ Dispater’s heavy shock troops must be effective battlefield commanders and qui
 When Dispater accepts you as his illrigger, you gain proficiency with heavy armor
 
 ### Level 3: Devastator
-As an action, you invoke the authority of Dispater. You make a weapon attack and choose a number of willing creatures up to your proficiency bonus who you can see within 30 feet of you Each creature you choose can use a reaction to make a weapon attack or cast a damage-dealing cantrip with a casting time of 1 action
+As an action, you invoke the authority of Dispater. You make a weapon attack and choose a number of willing creatures up to your proficiency bonus who you can see within 30 feet of you. Each creature you choose can use a Reaction to make a weapon attack or cast a damage dealing cantrip with a casting time of 1 action.
 
 Once you use this action, you can’t use it again until you finish a short or long rest.
 
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
-
+#### Grand Strategist
+You can order your allies to follow your formation (no action required). Choose one or more creatures within 60 feet of you who can hear you, up to a number of creatures equal to your proficiency bonus. Each target can immediately move up to half their speed without provoking opportunity attacks
+#### Punishment
+When a creature damages you with an attack, you can use your reaction to force the attacker to make a Wisdom saving throw On a failed save, the attacker takes necrotic damage equal to the damage they dealt you with the triggering attack On a successful save, the attacker takes half as much damage
 
 ## Sanguine Knight
 
