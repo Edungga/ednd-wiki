@@ -30,19 +30,24 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Quarry Die | Features                                          |
-| ----- | ----------------- | ---------- | ------------------------------------------------- |
-| 1st   | +2                | 1d4        | Hunter’s Quarry, Natural Explorer, Favoured Enemy |
-| 2nd   | +2                | 1d4        | Expertise, Knacks, Fighting Style                 |
-| 3rd   | +2                | 1d4        | Ranger Conclave, Primaeval Awareness              |
-| 4th   | +2                | 1d4        | Feat / ASI                                        |
-| 5th   | +3                | 1d6        | Extra Attack                                      |
+| Level | Proficiency Bonus | Quarry Die | Features                                                                              |
+| ----- | ----------------- | ---------- | ------------------------------------------------------------------------------------- |
+| 1st   | +2                | 1d4        | [[Ranger#Level 1 Hunter’s Quarry\|Hunter’s Quarry]], Natural Explorer, Favoured Enemy |
+| 2nd   | +2                | 1d4        | Expertise, Knacks, Fighting Style                                                     |
+| 3rd   | +2                | 1d4        | Ranger Conclave, Primaeval Awareness                                                  |
+| 4th   | +2                | 1d4        | Feat / ASI                                                                            |
+| 5th   | +3                | 1d6        | Extra Attack                                                                          |
 
 ## Level 1: Hunter’s Quarry
 As a Bonus Action, you mark a creature you can see within 90ft as your Quarry. Gain the following benefits against your Quarry:
-- 
+- Your Weapon Attacks against your Quarry and deal an additional Quarry Die damage
+- Add your Quarry Die on INT or WIS Checks you make against your Quarry.
 
-## Level 1: 
+The creature is marked as your Quarry for 1 hour, until the creature dies, or until you mark a new Quarry.
+
+You can use this feature to mark a Quarry a number of times equal to your Proficiency Bonus per Short or Long Rest.
+
+## Level 1: Natural Explorer
 
 
 ## Level 1: 
