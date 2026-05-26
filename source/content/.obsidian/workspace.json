@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paladin.md",
+                "file": "Classes/Barbarian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paladin"
+              "title": "Barbarian"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paladin.md",
+                "file": "Classes/Barbarian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paladin"
+              "title": "Outline of Barbarian"
             }
           }
         ],
@@ -172,11 +172,12 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
+    "Classes/Bard.md",
+    "index.md",
+    "Paladin.md",
     "Classes/Monk.md",
     "Classes/Barbarian.md",
     "Classes/Cleric.md",
-    "Paladin.md",
-    "index.md",
     "Classes/Fighter.md",
     "Druid.md",
     "Rules/Wild Shapes.md",
@@ -198,7 +199,6 @@
     "Spells/Cantrips/Acid Splash.md",
     "Spells/Spells.base",
     "Spells/Cantrips/Word of Radiance.md",
-    "Spells/Cantrips/Vicious Mockery.md",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
     "The Setting/Higher Powers/Great Old Ones",
