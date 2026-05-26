@@ -182,6 +182,20 @@ When you use your bonus action to place a seal on a Humanoid, you can attempt to
 
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
+Honey-Sweet Blades When you make a
+weapon attack against an interdicted creature,
+you can gain advantage on that attack (no
+action required) If the attack hits, it becomes
+a critical hit
+Turncoat As an action, you wield your mani-
+pulative tongue against your enemies You
+choose a number of enemy creatures up to your
+proficiency bonus within 60 feet of you who
+can hear you Each target must succeed on a
+Charisma saving throw or use their reaction to
+make a weapon attack against a single target of
+your choice A creature affected by this feature
+can’t attack themself
 
 
 ## Painkiller
