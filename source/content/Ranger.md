@@ -69,7 +69,7 @@ You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting St
 **Druidic Warrior**. You learn two [[Spells#Cantrips|Cantrips]] from the [[Primal Spell List]] of your choice. Wisdom is your spellcasting ability for these. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ## Level 3: Ranger Conclave
-You've learnt to emulate the ideals and training of a ranger conclave. Your choice grants you features at 
+You've learnt to emulate the ideals and training of a ranger conclave. Your choice grants you features at certain Ranger Levels
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
