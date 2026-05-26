@@ -239,24 +239,18 @@ You can flood your allies with invigorating vivacity (no action required). For 1
 
 ## Shadowmaster
 The hidden assassins of Hell, Shadowmasters serve Belial and excel at stealth and disguise
-Precepts of Shadow
-Shadowmasters swear an oath to Belial when
-they join the Order of Desolation These precepts
-commit them to serve Belial’s foes as allies before
-revealing themselves as enemies
-Plans Within Plans My enemies must never
-discover my true goals If needed, I will sacrifice
-myself to protect my schemes
-Positions of Power I control everything from
-the shadows by knowing who to deceive and where
-to hide in plain sight
-Power in Patience I study my enemy and
-methodically build their trust My loyalty must
-be unquestionable so my inevitable betrayal is
-unthinkable
-Hesitation Is Failure Though I usually rely on
-agents, when the opportunity presents itself, I can
-unhesitatingly kill with efficiency and precision
+### Precepts of Shadow
+Shadowmasters swear an oath to Belial when they join the Order of Desolation These precepts
+commit them to serve Belial’s foes as allies before revealing themselves as enemies
+- **Plans Within Plans**. My enemies must never discover my true goals If needed, I will sacrifice myself to protect my schemes
+- **Positions of Power**. I control everything from the shadows by knowing who to deceive and where to hide in plain sight
+- **Power in Patience**. I study my enemy and methodically build their trust My loyalty must be unquestionable so my inevitable betrayal is unthinkable
+- **Hesitation Is Failure**. Though I usually rely on agents, when the opportunity presents itself, I can unhesitatingly kill with efficiency and precision
+
+### Level 3: 
+
+### Level 3: 
+
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
 
