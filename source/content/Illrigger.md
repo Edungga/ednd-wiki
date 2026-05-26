@@ -7,13 +7,13 @@
 
 **Hit Points per additional Illrigger Level**: D10 + your Con. modifier, or, 6 + your Con. modifier
 
-**Saving Throw Proficiencies**: Wisdom, Charisma
+**Saving Throw Proficiencies**: Constitution, Charisma
 
-**Skill Proficiencies**: Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion.
+**Skill Proficiencies**: Choose 2: Arcana, Athletics, Deception, Insight, Intimidation, Investigation, Persuasion, Religion, Stealth
 
 **Weapon Proficiencies**: Simple and Martial weapons
 
-**Armor Training**: Light, Medium, and Heavy armor and Shields
+**Armor Training**: Light, Medium armour, and Shields
 
 Starting Equipment: Choose A or B: 
 - (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or 
