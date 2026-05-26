@@ -189,8 +189,13 @@ As an action, you wield your manipulative tongue against your enemies. You choos
 
 
 ## Painkiller
-
-
+The heavily armored death troopers of Hell, Painkillers serve Dispater, leading from the front of every major infernal battle
+#### Precepts of Pride
+Dispater’s heavy shock troops must be effective battlefield commanders and quickly dispatch enemies. Painkillers follow precepts instructing them to lead Hell’s armies and wage war against Good across the planes.
+- Lead from the Front. I charge in at the front of every battle, inspiring my soldiers and terrifying my enemies
+- Commander. Wherever I go, I command I don’t take orders from those who don’t have the will to lead
+- Victory at Any Cost. I respect the enemy leader and treat them honourably. But once swords are drawn, I use every trick in my arsenal to win, expecting them to do the same.
+- Soldiers Die. I care not for the lives of my soldiers, for they are resources I spend to secure my victory.
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
 
