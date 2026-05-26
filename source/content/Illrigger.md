@@ -109,18 +109,17 @@ they join the Order of Desolation These precepts
 commit them to destroy Asmodeus’s enemies
 by commanding great magic, causing fear, and
 sowing distrust
-The Battlefield of the Mind By the time my
+**The Battlefield of the Mind**. By the time my
 armies meet yours, you’ll be filled with terror and
 doubt your own strength I won’t have to lift a finger
 to defeat you
-The Proper Secret Once I know your secrets,
+**The Proper Secret**. Once I know your secrets,
 I know your weakness
-Knowledge Is Power Lore is as powerful as
+**Knowledge Is Power**. Lore is as powerful as
 steel I learn every detail about my enemy and
 anticipate their every move, checkmating them
 before the game even begins
-Magic Is Mine to Command Cunning is also
-as powerful as steel I wield the dark arcane arts to manipulate your senses, weaken your resolve, and strengthen my blade Your soldiers will quake for fear of what dark magics may next cloak my blade
+**Magic Is Mine to Command**. Cunning is also as powerful as steel I wield the dark arcane arts to manipulate your senses, weaken your resolve, and strengthen my blade Your soldiers will quake for fear of what dark magics may next cloak my blade
 
 
 
