@@ -163,7 +163,7 @@ As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move
 ### Grade 1
 
 #### Conjured Shuriken
-As an Action, throw a shuriken of solid Ki towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Slashing Damage.
+As an Action, spend 1 Ki Pthrow a shuriken of solid Ki towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Slashing Damage.
 #### Darkness
 As an Action you can expend 1 Ki Point to cast the [[Darkness]] spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of Darkness to a space within 60 feet of yourself at the start of each of your turns.
 #### Darkvision
