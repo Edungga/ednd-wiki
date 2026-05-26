@@ -135,12 +135,15 @@ Debuffs are specific conditions that are typically negative
 
 ## Blinded (Debuff)
 **Attacks Affected**. Attacks against you have Advantage and you have Disadvantage on Attacks
+
 **Blind**. Automatically fails any Check that requires sight and cannot use abilities requiring you to see a target
+
 **No Flanking**. You cannot contribute to Flanking a creature
 Blindsight or Tremorsense cancel this out for the Range of those visions
 
 ## Charmed (Debuff)
 **Actions Affected**. Can’t Attack the Charmer or target the Charmer with harmful Abilities or Effects.
+
 **Socially Affected**. The Charmer has Advantage on any Check to interact socially with the creature.
 
 ## Deafened (Debuff)
@@ -155,6 +158,7 @@ Can’t hear and automatically fails any Check that requires hearing.
 
 ## Frightened (Debuff)
 **Spooked**. Disadvantage on Checks and Attacks while the source of its fear is within Line of Sight.
+
 **Movement Affected**. You can’t willingly move closer to the source of the fear.
 
 ## Paralysed (Debuff)

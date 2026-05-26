@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paladin.md",
+                "file": "Rules/Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paladin"
+              "title": "Conditions"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paladin.md",
+                "file": "Rules/Conditions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paladin"
+              "title": "Outline of Conditions"
             }
           }
         ],
@@ -172,8 +172,8 @@
   },
   "active": "4670187c9d2e6012",
   "lastOpenFiles": [
-    "Classes/Fighter.md",
     "Paladin.md",
+    "Classes/Fighter.md",
     "Classes/Barbarian.md",
     "Classes/Warlock.md",
     "Classes/Illrigger.md",
