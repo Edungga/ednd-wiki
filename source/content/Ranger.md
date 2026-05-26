@@ -112,7 +112,7 @@ You also learn one Language of your choice that is spoken by your Favoured Enemi
 **Repeatable**. You can learn this Knack more than once, but you choose a new Favoured Enemy each time that you learn it.
 
 ## Favoured Enemy II
-Prerequisite: Level 5, Favoured Enemy I
+Prerequisite: Ranger Level 5, Favoured Enemy I
 
 If your Hunter's Quarry is also a Favoured Enemy, add an additional Quarry Die to the damage roll.
 
@@ -126,8 +126,8 @@ You have an extensive knowledge of plants and their healing properties. You gain
 Finally, you can add your Quarry Die to any Medicine or Herbalism Kit checks that you make.
 
 ## Herbalist II
+*Prerequisite: Ranger Level 3, Herbalist I*
 
-Prerequisite: 3rd-level Ranger Level 5, Herbalist I
 You have learned to use natural plants and herbs to create healing salves. Over the course of a long rest, you can spend 1 hour using a Herbalism Kit to create one potion of healing, which retains its potency until the end of your next long rest.
 
 ## Primeval Awareness
