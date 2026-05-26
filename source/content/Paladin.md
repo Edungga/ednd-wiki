@@ -147,8 +147,16 @@ You can end this effect early (no action required). This effect also ends if you
 ### Level 3: 
 
 ## Oath of Vengeance
+The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies Virtue, when a thieves' guild grows too violent, when a dragon rampages through the countryside-at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
+#### Tenets of Vengeance
 
+Fight the Greater Evil. Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
 
+No Mercy for the Wicked. Ordinary foes might win my mercy, but my sworn enemies do not.
+
+By Any Means Necessary. My qualms can't get in the way of exterminating my foes.
+
+Restitution. If my foes wreck ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
 ### Level 3: 
 
 ### Level 3: 
