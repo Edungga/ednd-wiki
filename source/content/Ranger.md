@@ -71,10 +71,6 @@ You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting St
 ## Level 3: Ranger Conclave
 You've learnt to emulate the ideals and training of a ranger conclave. Your choice grants you features at 
 
-## Level 3: Primaeval Awareness
-As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
-You can use this feature a number of times equal to your WIS modifier (min 1) per Long Rest.
-
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
@@ -93,3 +89,9 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 # Knacks
 
 
+
+## Favoured Enemy
+
+
+## Primaeval Awareness
+As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
