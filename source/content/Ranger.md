@@ -66,18 +66,19 @@ At Ranger level 9, you gain Expertise in two more of your skill proficiencies of
 ## Level 2: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting Style Feat]] of your choice, or you can choose the below option:
 
-## Level 3: Ranger 
+## Level 3: Ranger Conclave
+You've learnt to emulate the ideals and training of a ranger conclave. Your choice grants you features at 
 
 
 
-## Level 1: 
+## Level 3: Primaeval Awareness
 
 
-## Level 1: 
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
-
-## Level 1: 
-
+## Level 5: Extra Attack
+You can attack twice instead of once whenever you take the Attack action on your turn.
 
 ---
 # Ranger Conclave
