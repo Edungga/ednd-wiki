@@ -89,8 +89,7 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 ## Beast Master
 In their role as guardians of nature, some Rangers form deep connections with the beasts of the wild. In recognition of this relationship, great spirits of the wild known as Primal Beasts will seek out such Rangers and form a primal bond. Together, Master and Beast stand together to defend the natural world.
 
-### Level
-
+### Level 3: Primal Companion
 You have entered a mystical bond with a Primal Beast. It is Friendly to you, and uses the following rules:
 
 **Statistics**. Choose a stat block below that best reflects the nature of the Primal Beast: Beast of the Cave, Land, Sea, or Sky. It uses your Proficiency Bonus (PB), Quarry Die, and Knack save DC for saving throws.
@@ -145,6 +144,11 @@ If you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], t
 | **Languages** Understands the languages you know                                                                                                                                                       |
 | **TRAITS**<br>**Primal Bond**. Add your Proficiency Bonus to any Check or Save the beast makes.<br><br>**Flyby**. The beast doesn't provoke Opportunity Attacks when it flies out of an enemy's reach. |
 | **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 3+PB to hit, reach 5 ft. Hit: Quarry Die + PB Slashing damage.                                                                                   |
+
+### Level 3: Wild Empathy
+Your Primal Beast marks you as a friend to all animals. You gain proficiency in Insight and learn Wild Insight I. It can't be replaced, but it doesn't count against your Knacks Known.
+
+If you already know Wild Insight I, you learn another Knack of your choice that you meet the prerequisites for.
 
 
 ## Gloom Stalker
