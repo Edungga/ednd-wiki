@@ -5,22 +5,30 @@
 
 **Hit Points at Level 1**: 10 + Con. modifier
 
-Hit Points per additional Ranger Level: D10 + your Con. modifier, or, 6 + your Con. modifier
-Saving Throw Proficiencies: Strength, Dexterity
-Skill Proficiencies: Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival.
-Weapon Proficiencies: Simple and Martial weapons
-Armor Training: Light and Medium armor and Shields
+**Hit Points per additional Ranger Level**: D10 + your Con. modifier, or, 6 + your Con. modifier
 
-Starting Equipment: Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP
-Multiclassing
+**Saving Throw Proficiencies**: Strength, Dexterity
+
+**Skill Proficiencies**: Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival.
+
+**Weapon Proficiencies**: Simple and Martial weapons
+
+**Armor Training**: Light and Medium armor and Shields
+
+**Starting Equipment**: Choose A or B: 
+- (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or 
+- (B) 150 GP
+## Multiclassing
 To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes.
-Skill Proficiencies: Choose 1: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival.
-Weapon Proficiencies: Martial weapons
-Armor Training: Light and Medium armor and Shields
+
+**Skill Proficiencies**: Choose 1: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival.
+
+**Weapon Proficiencies**: Martial weapons
+
+**Armor Training**: Light and Medium armor and Shields
 
 ---
 # Class Features
-
 
 | Level | Proficiency Bonus | Quarry Die | Features                                     |
 | ----- | ----------------- | ---------- | -------------------------------------------- |
@@ -30,7 +38,7 @@ Armor Training: Light and Medium armor and Shields
 | 4th   | +2                | 1d4        | Feat / ASI                                   |
 | 5th   | +3                | 1d6        | Extra Attack                                 |
 
-## Level 1: 
+## Level 1: Hunter’s Quarry
 
 
 ## Level 1: 
