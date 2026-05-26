@@ -35,13 +35,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Hemocraft Die | Blood Curses Known | Features                                                                                             |
-| ----- | ----------------- | ------------- | ------------------ | ---------------------------------------------------------------------------------------------------- |
-| 1st   | +2                | d4            | 1                  | [[Bloodhunter#Level 1 Hunter's Bane\|Hunter's Bane]], [[Bloodhunter#Level 1 Hemocraft\|Hemocraft]]   |
-| 2nd   | +2                | d4            | 2                  | [[Bloodhunter#Level 2 Fighting Style\|Fighting Style]], [[Bloodhunter#Crimson Rites\|Crimson Rites]] |
-| 3rd   | +2                | d4            | 2                  | [[Bloodhunter#Level 3 Bloodhunter Orders\|Bloodhunter Order]]                                        |
-| 4th   | +2                | d4            | 2                  | [[Bloodhunter#Level 4 Ability Score Improvement\|Ability Score Improvement]]                         |
-| 5th   | +3                | d6            | 3                  | [[Bloodhunter#Level 5 Extra Attack\|Extra Attack]]                                                   |
+| Level | Proficiency Bonus | Hemocraft Die | Blood Curses Known | Features                                                                                                                                                   |
+| ----- | ----------------- | ------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | +2                | d4            | 1                  | [[Bloodhunter#Level 1 Hunter's Bane\|Hunter's Bane]], [[Bloodhunter#Level 1 Hemocraft\|Hemocraft]], [[Bloodhunter#Level 1 Weapon Mastery\|Weapon Mastery]] |
+| 2nd   | +2                | d4            | 2                  | [[Bloodhunter#Level 2 Fighting Style\|Fighting Style]], [[Bloodhunter#Crimson Rites\|Crimson Rites]]                                                       |
+| 3rd   | +2                | d4            | 2                  | [[Bloodhunter#Level 3 Bloodhunter Orders\|Bloodhunter Order]]                                                                                              |
+| 4th   | +2                | d4            | 2                  | [[Bloodhunter#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                               |
+| 5th   | +3                | d6            | 3                  | [[Bloodhunter#Level 5 Extra Attack\|Extra Attack]]                                                                                                         |
 
 ## Level 1: Hunter's Bane
 You have survived the Hunter’s Bane - a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it..
@@ -60,6 +60,11 @@ You can use this feature Proficiency Bonus times per Short or Long Rest
 **Hemocraft save DC** = 8 + your Proficiency Bonus + your Hemocraft Ability modifier
 
 **Vital Sacrifice**. Each time you use your Blood Curse feature, you choose which curse to invoke from the curses you know. While invoking a Blood Curse, but before it affects the target, you can make a Vital Sacrifice to Amplify the curse by taking Necrotic Damage equal to one roll of your Hemocraft Die. An Amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to blood curses unless you have amplified the curse.
+
+## Level 1: Weapon Mastery
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+
+When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
 ## Level 2: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting_Style|Fighting Style Feat]] of your choice
