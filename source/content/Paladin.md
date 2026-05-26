@@ -111,7 +111,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 13th          | [[Ice Storm]], [[Stoneskin]]                 |
 | 17th          | [[Commune with Nature]], [[Tree Stride]]     |
 ### Level 3: Nature's Wrath
-
+As an Action, expend one use of Channel Divinity to cause spectral vines to spring up and reach for each creature of your choice you can see within 15ft of you. They must succeed on a STR Save or be [[Conditions#Restrained (Condition)]] for 1 minute. A creature Restrained [Condition] by the vines can repeat the Save at the end of each of its turns. On a success, it frees itself and the vines vanish.
 
 ## Oath of Devotion
 
