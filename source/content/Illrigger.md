@@ -210,12 +210,26 @@ You gain the following two Invoke Hell options:
 #### Grand Strategist
 You can order your allies to follow your formation (no action required). Choose one or more creatures within 60 feet of you who can hear you, up to a number of creatures equal to your proficiency bonus. Each target can immediately move up to half their speed without provoking opportunity attacks
 #### Punishment
-When a creature damages you with an attack, you can use your reaction to force the attacker to make a Wisdom saving throw On a failed save, the attacker takes necrotic damage equal to the damage they dealt you with the triggering attack On a successful save, the attacker takes half as much damage
+When a creature damages you with an attack, you can use your reaction to force the attacker to make a Wisdom saving throw. On a failed save, the attacker takes necrotic damage equal to the damage they dealt you with the triggering attack. On a successful save, the attacker takes half as much damage.
 
 ## Sanguine Knight
-
-
-
+The blood-knights of Hell, Sanguine Knights serve Sutekh, Lord of Blood. Their sorceries drain their enemies’ life force, pouring this stolen vitality into infernal rituals to turn the tide of battle
+### Precepts of Blood
+Sanguine Knights swear an oath to
+Sutekh when they join the Order of Desolation These tenets swear them to wield profane blood magic, commanding loyalty and inflicting terror
+- Their Strength Is Their Weakness I target
+the strongest of my foes, for their vitality shall feed
+my victory
+Sin Demands Suffering Opposing me is
+heresy Before my enemies taste defeat, they must
+pay for their unbelief with agony
+Loyalty Rewarded My boons lead my allies
+to depend on me—and on the bloodshed that
+empowers me
+Mercy Is Power In granting succor to my allies,
+I prove how great my power is Each time I restore
+life, it serves as a reminder of how quickly I can
+strip it away
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
 
