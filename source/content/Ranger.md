@@ -170,9 +170,13 @@ You are also adept at evading creatures that rely on Darkvision. While entirely 
 
 
 ## Hunter
+You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
+### Level 3: Hunter's Prey
 
+Colossus Slayer. Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it's missing any of its Hit Points. You can deal this extra damage only once per turn.
 
-### Level 3: 
+Horde Breaker. Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
+
 ### Level 3: 
 
 
