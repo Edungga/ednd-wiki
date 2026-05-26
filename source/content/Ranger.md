@@ -131,7 +131,7 @@ Finally, you can add your Quarry Die to any Medicine or Herbalism Kit checks tha
 You have learned to use natural plants and herbs to create healing salves. Over the course of a long rest, you can spend 1 hour using a Herbalism Kit to create one potion of healing, which retains its potency until the end of your next long rest.
 
 ## Herbalist III
-Prerequisite: 6th-level Ranger, Herbalist I, II
+*Prerequisite: Level 6, Herbalist  II*
 When you use your Herbalism Kit to craft potions of healing during a long rest, you craft a number of these potions equal to 1 + your Wisdom modifier (minimum of 2).
 
 ## Primeval Awareness
