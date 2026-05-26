@@ -88,9 +88,10 @@ You sign a [[Illrigger#Diabolic Contracts|Diabolic Contract]] with an archdevil 
 - 
 
 ## Level 3: Invoke Hell
-Your diabolic connection allows you to channel infernal energy to empower magical effects. Your chosen Diabolic Contract grants you two Invoke Hell options and describes how to use each. When you use your Invoke Hell, you choose which option to use. You must then finish a Short or Long Rest to use your Invoke Hell again. 
-Some Invoke Hell effects require a Save. When you use such an effect, the DC equals your interdict save DC.
+Your diabolic connection allows you to channel infernal energy to empower magical effects. Your chosen Diabolic Contract grants you two Invoke Hell options and describes how to use each. 
 
+When you use your Invoke Hell, you choose which option to use. You must then finish a Short or Long Rest to use your Invoke Hell again. 
+Some Invoke Hell effects require a Save. When you use such an effect, the DC equals your interdict save DC.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
