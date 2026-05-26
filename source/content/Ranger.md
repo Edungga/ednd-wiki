@@ -192,7 +192,13 @@ When you hit your Quarry with a weapon attack, it has disadvantage on any subseq
 
 Also, whenever you see or hear a creature within your reach attempt to cast a spell, you can use your reaction to make an opportunity attack against it.
 
+### Level 3: Spellsight
+You have learned to see the arcane ability of creatures. When you mark a creature as your Quarry, you learn its Spellcasting ability (if it has one) and the level of the highest spell or spell slot it is able to cast.
+
+If your Quarry is hidden from Divination magic, such as by a [[Nondetection]] spell, it appears as if it cannot cast spells.
+
 ### Level 3:
+
 
 
 ## Wild Warden
