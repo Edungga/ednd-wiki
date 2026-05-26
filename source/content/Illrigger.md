@@ -248,32 +248,17 @@ commit them to serve Belial’s foes as allies before revealing themselves as en
 - **Hesitation Is Failure**. Though I usually rely on agents, when the opportunity presents itself, I can unhesitatingly kill with efficiency and precision
 
 ### Level 3: Marked for Death
-You are particularly skilled against foes you mark for death You have advantage on your first attack against an interdicted creature on each of your turns
+You are particularly skilled against foes you mark for death. You have advantage on your first attack against an interdicted creature on each of your turns.
 
 ### Level 3: Strike from the Dark
-You understand the power of striking from
-the shadows Once per turn, when you hit an
-interdicted creature with a melee weapon attack
-and you have advantage on the attack roll, you can
-roll a number of d4s equal to your proficiency bonus
-and deal extra damage equal to the total you rolled
-This damage increases by 1d4 if the target is in dim
-light or darkness
+You understand the power of striking from the shadows. Once per turn, when you hit an interdicted creature with a melee weapon attack and you have advantage on the attack roll, you can roll a number of d4s equal to your proficiency bonus and deal extra damage equal to the total you rolled. This damage increases by 1d4 if the target is in dim light or darkness
 
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
-Master of Disguise As an action, you can cast the
-disguise self spell without expending a spell slot.
-No Escape As a bonus action, you can call on the
-shadows to entrap a creature you can see within
-30 feet of you The target must make a Charisma
-saving throw, made with disadvantage if they are
-in dim light or darkness On a failed save, the
-target’s speed is halved and they can’t willingly
-move more than 30 feet away from you This
-effect ends for the target if you are incapacitated
-or die or if the target is more than 30 feet away
-from you
+#### Master of Disguise
+As an action, you can cast the Disguise  spell without expending a spell slot.
+#### No Escape
+As a bonus action, you can call on the shadows to entrap a creature you can see within 30 feet of you The target must make a Charisma saving throw, made with disadvantage if they are in dim light or darkness On a failed save, the target’s speed is halved and they can’t willingly move more than 30 feet away from you This effect ends for the target if you are incapacitated or die or if the target is more than 30 feet away from you
 
 
 
