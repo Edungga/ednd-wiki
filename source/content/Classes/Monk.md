@@ -136,17 +136,19 @@ You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 
 
 ## Elemental Ki Forms
 ### Grade 1
-
-#### Ice Shard
-As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage.
-
 #### Boulder Toss
 As an Action, you can spend 1 Ki point to launch a large rock towards a creature you can see within 30ft, make a Ranged Attack against the target. On a hit, it takes 2 Martial Arts Die + WIS modifier Bludgeoning Damage.
 
 If you launch a boulder raised by [[Monk#Raise Earth|Raise Earth]], the attack
+
+#### Ice Shard
+As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage.
+
 #### Raise Earth
 As a Bonus Action, you can spend 1 Ki Point to Raise of Boulder out of the ground in an unoccupied space you can see within 30ft. The boulder occupied that space and acts as Half Cover for Medium or Smaller Creatures.
 
+Tremor
+As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must make a STR Save. On a failed save they take 2 Martial Arts Die Bludgeoning Damage and are [[Conditions#Slowed (Debuff)]]. Half damage on a success and are not Slowed [Debuff].
 #### Water Whip
 You can spend 2 Ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a DEX Save. On a failed save, the creature takes 3 Martial Arts Die bludgeoning damage, and you can Pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it.
 
