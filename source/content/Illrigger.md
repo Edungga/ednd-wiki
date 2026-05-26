@@ -77,7 +77,7 @@ Choose one of the following Illrigger Combat Masteries:
 ## Level 2: Interdiction
 You can infuse your seals with hellish magical power, enhancing their effects
 
-**Interdict Boons Known**. You learn one Interdict Boons of your choice. As you gain levels in this class, you gain additional Boons of your choice, as shown in the Interdict Boons column of the Illrigger table. 
+**Interdict Boons Known**. You learn one [[Illrigger#Interdict Boons|Interdict Boon]] of your choice. As you gain levels in this class, you gain additional Boons of your choice, as shown in the Interdict Boons column of the Illrigger table. 
 
 Whenever you gain an Illrigger level, you can choose a Boon you know and replace it with another Boon you can learn.
 
