@@ -104,16 +104,9 @@ You can attack twice instead of once whenever you take the Attack action on your
 ## Architect of Ruin
 Architects of Ruin are cool and calculating arcane knights who serve Asmodeus, deploying spells, steel, and subterfuge to win at any cost.
 ### Precepts of Ruin
-Architects of Ruin swear an oath to Asmodeus when
-they join the Order of Desolation These precepts
-commit them to destroy Asmodeus’s enemies
-by commanding great magic, causing fear, and
-sowing distrust
-**The Battlefield of the Mind**. By the time my
-armies meet yours, you’ll be filled with terror and
-doubt your own strength I won’t have to lift a finger
-to defeat you
-**The Proper Secret**. Once I know your secrets,
+Architects of Ruin swear an oath to Asmodeus when they join the Order of Desolation These precepts commit them to destroy Asmodeus’s enemies by commanding great magic, causing fear, and sowing distrust
+- **The Battlefield of the Mind**. By the time my armies meet yours, you’ll be filled with terror and doubt your own strength I won’t have to lift a finger to defeat you
+- **The Proper Secret**. Once I know your secrets,
 I know your weakness
 **Knowledge Is Power**. Lore is as powerful as
 steel I learn every detail about my enemy and
