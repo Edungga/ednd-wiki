@@ -140,6 +140,8 @@ You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 
 #### Ice Shard
 As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage.
 
+Shape the Flowing River
+As an action, you can spend 1 Ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high. raise or lower the square's elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can't shape the ice to trap or injure a creature in the area.
 
 Wave Crasher
 As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move through a creatures space freely. Any Creature whose space you move through must make STR Save or be knocked [[Conditions#Prone (Condition)|Prone (Condition)]].
