@@ -202,10 +202,32 @@ If your Quarry is hidden from Divination magic, such as by a [[Nondetection]] sp
 
 
 ## Wild Warden
+The Wild Warden are the oldest of the Conclaves, drawing their roots for the traditions of Druids. Their spells both complement and extend their combat skills, providing additional protection to and also allowing them to engage many foes at once with devastating magic.
+### Level 3: Spellcasting 
+A follower of the primaeval traditions, drawing on magical essence to augment your martial prowess.
+
+**Cantrips**. You know two Cantrips of your choice from the [[Primal Spell List]]. Whenever you gain a Ranger level, you can replace one of your Cantrips with another Cantrip of your choice from the Primal Spell List.
+
+When you reach certain levels in this class, you learn another Cantrip of your choice from the Primal Spell List, as shown in the Cantrips column of the Wild Warden table.
+
+**Spell Slots**. The Wild Warden table shows how many Spell Slots you have to cast your spells of 1st level and higher. To cast one of these Spells, you must expend a slot of the Spell’s level or higher. You regain all expended Spell Slots when you finish a Long Rest.
+
+**Spells Known of 1st Level and Higher**. You know four 1st-level spells of your choice from the Primal Spell List.
+
+The Spells Known column of the Wild Warden table shows when you learn more Spells of your choice. Each of these Spells must be of a level for which you have Spell Slots, as shown on the table.
+
+Additionally, when you gain a level in this class, you can choose one of the Primal Spells you know and replace it with another spell from the Primal Spell List, which also must be of a level for which you have Spell Slots. 
+
+Spellcasting Ability. Wisdom is your Spellcasting Ability for your Wild Warden Spells.
+
+Spell save DC = 8 + your Proficiency Bonus + your WIS modifier
+
+Spell attack modifier = your Proficiency Bonus + your WIS modifier
+
+Spellcasting Focus. You can use a Weapon or Primal Focus as a Spellcasting Focus for the Spells you prepare for this class.
 
 
-### Level 3: 
-### Level 3: 
+
 
 
 
