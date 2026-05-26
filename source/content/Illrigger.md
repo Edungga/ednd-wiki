@@ -155,6 +155,19 @@ Whenever you gain a level in this class, you can replace one of the arcane spell
 **Spellcasting Focus** You have an unholy symbol, such as an amulet symbolizing your archdevil, a fragment of a blasphemous relic, or a glass orb holding a consecrated drop of archdevil blood You can use the unholy symbol as a spellcasting focus for your Illrigger spells You must have a free hand to use the unholy symbol, but it can be the same hand you use to perform somatic components
 
 ### Level 3: Invoke Hell
+You gain the following two Invoke Hell options:
+Enervating Spell When you deal damage to
+a creature with an illrigger spell of 1st level
+or higher, you can expend a seal (no action
+required) and imbue the spell with weakening magic The target has vulnerability to that spell’s
+damage If they normally have resistance or
+immunity to the spell’s damage, that resistance
+or immunity is suppressed for this spell, and the
+target has vulnerability to the damage instead
+Spellblade You can use an action to both make
+a melee weapon attack and cast an illrigger spell
+you know that has a casting time of one action
+
 
 
 ---
