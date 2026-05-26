@@ -103,13 +103,13 @@ The tenets of the Oath of the Ancients have been preserved for uncounted centuri
 ### Level 3: Oath of the Ancient Spells
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath Spells table, you thereafter always have the listed spells prepared.
 
-| Paladin Level | Spells                               |
-| ------------- | ------------------------------------ |
-| 3rd           | Ensnaring Strike, Speak with Animals |
-| 5th           | Misty Step, Moonbeam                 |
-| 9th           | Plant Growth, Protection from Energy |
-| 13th          | Ice Storm, Stoneskin                 |
-| 17th          | Commune with Nature, Tree Stride     |
+| Paladin Level | Spells                                       |
+| ------------- | -------------------------------------------- |
+| 3rd           | [[Ensnaring Strike]], [[Speak with Animals]] |
+| 5th           | [[Misty Step]], [[Moonbeam]]                 |
+| 9th           | [[Plant Growth]], [[Protection from Energy]] |
+| 13th          | [[Ice Storm]], [[Stoneskin]]                 |
+| 17th          | [[Commune with Nature]], [[Tree Stride]]     |
 ### Level 3: 
 
 ## Oath of Devotion
