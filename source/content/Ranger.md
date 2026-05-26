@@ -247,6 +247,7 @@ Additionally, when you gain a level in this class, you can choose one of the Pri
 | 19th         | 4              | 12           | 4   | 3   | 3   | 1   |
 | 20th         | 4              | 13           | 4   | 3   | 3   | 1   |
 
+### Level 3:
 
 
 
