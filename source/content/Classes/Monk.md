@@ -140,7 +140,10 @@ You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 
 #### Ice Shard
 As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage.
 
-Launch Stone. [Action - Psionic] Launch a chunk of rock towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Bludgeoning Damage.
+#### Launch Stone
+As an Action, you can spend 1 Ki point to launch a chunk of rock towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Bludgeoning Damage.
+
+If you launch a boulder raised by [[Monk#Raise Earth|Raise Earc]]
 #### Raise Earth
 As a Bonus Action, you can spend 1 Ki Point to Raise of Boulder out of the ground in an unoccupied space you can see within 30ft. The boulder occupied that space and acts as Half Cover for Medium or Smaller Creatures.
 
