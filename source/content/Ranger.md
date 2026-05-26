@@ -161,10 +161,12 @@ You have mastered the art of creating fearsome ambushes, granting you the follow
 
 **Dreadful Strike**. When you attack a creature and hit it with a weapon, you can deal an extra 1d8 Psychic damage.
 
-Initiative Bonus. When you roll Initiative, you can add your Wisdom modifier to the roll.
+**Initiative Bonus**. When you roll Initiative, you can add your Wisdom modifier to the roll.
 
-### Level 3: 
+### Level 3: Umbral Sight
+You gain Darkvision with a range of 60 feet. If you already have Darkvision when you gain this feature, its range increases by 60 feet.
 
+You are also adept at evading creatures that rely on Darkvision. While entirely in Darkness, you are [[Conditions#Invisible (Buff)|Invisible (Buff)]] to any creature that relies on Darkvision to see you in that Darkness.
 
 
 ## Grave Walker
