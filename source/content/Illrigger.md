@@ -74,6 +74,9 @@ Choose one of the following Illrigger Combat Masteries:
 - **Lissome**. When you hit a creature with a Melee Weapon Attack, you can Shift Move 5ft
 - **Unfettered**. When you use your Baleful Interdict to Place or Burn a Seal, its Range is 60ft. When you gain the Infernal Conduit feature at 6th level, its Range is 30ft. In addition, making a Ranged Attack while within 5ft of an enemy does not impose Disadvantage on the Attack.
 
+## Level 2: Interdiction
+
+
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
