@@ -155,3 +155,5 @@ When you use your Herbalism Kit to craft potions of healing during a long rest, 
 
 ## Primeval Awareness
 As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
+
+https://www.gmbinder.com/share/-M7iu19Af89SH2G_5RGa#p6
