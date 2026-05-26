@@ -192,10 +192,19 @@ As an action, you wield your manipulative tongue against your enemies. You choos
 The heavily armored death troopers of Hell, Painkillers serve Dispater, leading from the front of every major infernal battle
 #### Precepts of Pride
 Dispater’s heavy shock troops must be effective battlefield commanders and quickly dispatch enemies. Painkillers follow precepts instructing them to lead Hell’s armies and wage war against Good across the planes.
-- Lead from the Front. I charge in at the front of every battle, inspiring my soldiers and terrifying my enemies
-- Commander. Wherever I go, I command I don’t take orders from those who don’t have the will to lead
-- Victory at Any Cost. I respect the enemy leader and treat them honourably. But once swords are drawn, I use every trick in my arsenal to win, expecting them to do the same.
-- Soldiers Die. I care not for the lives of my soldiers, for they are resources I spend to secure my victory.
+- **Lead from the Front**. I charge in at the front of every battle, inspiring my soldiers and terrifying my enemies
+- **Commander**. Wherever I go, I command I don’t take orders from those who don’t have the will to lead
+- **Victory at Any Cost**. I respect the enemy leader and treat them honourably. But once swords are drawn, I use every trick in my arsenal to win, expecting them to do the same.
+- **Soldiers Die**. I care not for the lives of my soldiers, for they are resources I spend to secure my victory.
+
+### Level 3: Dispater’s Blessing
+When Dispater accepts you as his illrigger, you gain proficiency with heavy armor
+
+### Level 3: Devastator
+As an action, you invoke the authority of Dispater. You make a weapon attack and choose a number of willing creatures up to your proficiency bonus who you can see within 30 feet of you Each creature you choose can use a reaction to make a weapon attack or cast a damage-dealing cantrip with a casting time of 1 action
+
+Once you use this action, you can’t use it again until you finish a short or long rest.
+
 ### Level 3: Invoke Hell
 You gain the following two Invoke Hell options:
 
