@@ -100,7 +100,7 @@ Finally, you can your Quarry Die to any Athletics checks that you make.
 You can swim through the water like a native creature of the sea. You gain a 30ft Swim Speed, and you can hold your breath for twice as long underwater. If you already have
 a swimming speed, it increases by 10 feet.
 
-Finally, you can add double your Proficiency Bonus to any Athletics checks that you make.
+Finally, you can your Quarry Die to any Athletics checks that you make.
 
 ## Favoured Enemy I
 You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of Favoured Enemy: Aberrations, Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, Monstrosities, Oozes, Plants, or Undead. Alternatively, you can select two Ancestries of Humanoid (such as Gnolls and Orcs) as Favoured Enemies.
@@ -117,6 +117,18 @@ Prerequisite: Level 5, Favoured Enemy I
 If your Hunter's Quarry is also a Favoured Enemy, add an additional Quarry Die to the damage roll.
 
 Additionally, you add your Quarry Die on INT or WIS Checks you make against your Favoured Enemy.
+
+## Herbalist I
+*Prerequisite: proficiency in Medicine*
+
+You have an extensive knowledge of plants and their healing properties. You gain proficiency with Herbalism Kits, and you automatically succeed on Medicine checks made to stabilize creatures at 0 hit points.
+
+Finally, you can add your Quarry Die to any Medicine or Herbalism Kit checks that you make.
+
+## Herbalist II
+
+Prerequisite: 3rd-level Ranger Level 5, Herbalist I
+You have learned to use natural plants and herbs to create healing salves. Over the course of a long rest, you can spend 1 hour using a Herbalism Kit to create one potion of healing, which retains its potency until the end of your next long rest.
 
 ## Primeval Awareness
 As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
