@@ -169,16 +169,13 @@ You gain Darkvision with a range of 60 feet. If you already have Darkvision when
 You are also adept at evading creatures that rely on Darkvision. While entirely in Darkness, you are [[Conditions#Invisible (Buff)|Invisible (Buff)]] to any creature that relies on Darkvision to see you in that Darkness.
 
 
-## Grave Walker
-
-
-### Level 3: 
-### Level 3: 
 ## Hunter
 
 
 ### Level 3: 
 ### Level 3: 
+
+
 ## Wild Warden
 
 
