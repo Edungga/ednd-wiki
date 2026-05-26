@@ -80,7 +80,7 @@ Some Channel Divinity effects require a Save. When you use such an effect from t
 ### Channel Divinity: Divine Sense
 As a Bonus Action, you open your awareness to detect Celestial, Fiend, or Undead. For the next 10 minutes or until you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], you know the location of any Celestial, Fiend, or Undead within 60ft of you that is not behind total cover. You know the type (Celestial, Fiend, or Undead) of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been Consecrated or Desecrated, as with the [[Hallow]] Spell.
 
-## Level 3:Sacred Oath
+## Level 3: Sacred Oath
 You swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Your choice grants you features at certain Paladin levels.
 
 ## Level 4: Ability Score Improvement
@@ -91,3 +91,12 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 
 ---
+# Sacred Oaths
+### Oath of the Ancients
+
+
+
+## Oath of Devotion
+
+
+## Oath of Glory
