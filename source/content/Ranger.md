@@ -84,6 +84,14 @@ You hunt with the skill of an apex predator. You cannot have disadvantage on att
 ---
 # Ranger Conclave
 
+## Beast Master
+
+
+
+
+
+
+
 
 ---
 # Knacks
