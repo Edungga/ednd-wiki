@@ -102,7 +102,7 @@ At the start of your turn, you can expend 1 Ki to imbue yourself with elemental 
 
 **Elemental Strikes**. Whenever you hit with your Unarmed Strike, you can cause it to deal your choice of Acid, Cold, Fire, Lightning, or Thunder damage rather than its normal damage type. When you deal one of these types with it, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
 ### Level 3: Elemental Manipulation
-You know two [[Monk#Grade 1|Grade 1 Way of Shadows Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Way of the Shadow Ki Forms of a Grade you can know. 
+You know two [[Monk#Grade 1|Grade 1 Elemental Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Way of the Shadow Ki Forms of a Grade you can know. 
 
 You know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, they all count as [[#Forms|Forms]] for you.
 
@@ -119,10 +119,10 @@ Whenever you hit a creature with an attack granted by your [[#Flurry of Blows|Fl
 
 
 # Way of the Shadow
-Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins.
+Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadow dancers, and they serve as spies and assassins.
 
 ### Level 3: Shadow Arts
-You know three [[Monk#Grade 1|Grade 1 Way of Shadows Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Way of the Shadow Ki Forms of a Grade you can know. 
+You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Way of the Shadow Ki Forms of a Grade you can know. 
 
 
 
@@ -137,6 +137,11 @@ You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
 ### Step of the Wind
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+
+
+## Elemental Ki Forms
+### Grade 1
+
 
 
 
