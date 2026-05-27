@@ -53,7 +53,7 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 **Spending Ki**. You can only expend Ki on one feature or Technique per attack, ability check, reaction, or saving throw.
 **Regaining Ki**. You regain all expended Ki, when you finish a Short or Long Rest.
 ### Techniques Known
-
+You know three [[Monk#Mystic Techniques|Mystic Techniques]]. To learn a Technique you must meet any prerequisites it has. Whenever you gain a Monk level, you can replace one Technique you know with another.
 
 You can expend these points to enhance or fuel certain Monk features known as [[#Forms|Forms]]. You start by knowing the three [[#Basic Forms|Basic Forms]]: [[#Flurry of Blows|Flurry of Blows]], [[#Patient Defense|Patient Defense]], and [[#Step of the Wind|Step of the Wind]].
 
@@ -138,7 +138,7 @@ You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long R
 
 ---
 # Mystic Techniques
-You Monk abilities fuelled by [[#Ki|Ki]]
+You Monk abilities fuelled by [[Monk#Ki|Ki]]
 ## Basic Forms
 ### Flurry of Blows
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
