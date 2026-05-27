@@ -15,11 +15,12 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE file.name = this.file.name -->
 
-| School | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
-| ------ | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
+| School      | Spell Circle | Casting Time | Range | Components                 | Duration | Spell List |
+| ----------- | ------------ | ------------ | ----- | -------------------------- | -------- | ---------- |
+| Enchantment | 1st          | Action       | 30 ft | V, S, M (a morsel of food) | 1 day    | Primal     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
-Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
+Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or be [[Conditions#Charmed (Debuff)|Charmed (Debuff)]] for the duration. If you or one of your allies deals damage to the target, the spells ends.
 
 **At Higher Levels**. You can target one additional Beast for each spell slot level above 1.
