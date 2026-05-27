@@ -108,7 +108,7 @@ Such as a Badger
 
 ## Giant Spider
 
-| Wild Shape                                                                                                                        |
+| Giant Spider Wild Shape                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | *Medium Beast*                                                                                                                    |
 | **Armour Class**: 10 + your WIS modifier                                                                                          |
@@ -118,9 +118,7 @@ Such as a Badger
 | **Skills** Perception +3, Stealth +7                                                                                              |
 | **Senses** Blindsight 10ft, Darkvision 60 ft., passive Perception 13                                                              |
 | **TRAITS**<br>**Spider Climb**. Can climb difficult surfaces, including along ceilings, without needing to make an ability check. |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                            |
-| **BONUS ACTIONS**<br>**test**.                                                                                                    |
-| **REACTIONS**<br>**test**.                                                                                                        |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage plus 1d4 Poison damage.     |
 
 ## Large Cat
 
