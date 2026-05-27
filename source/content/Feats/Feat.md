@@ -73,6 +73,12 @@ You gain the following benefits.
  - **Armor Training**. You gain training with Light armor and Shields.
 
 
+## Slasher
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+- **Hamstring**. Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
+- **Enhanced Critical**. When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
+
 ## Weapon Training
 You gain the following benefits.
 - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
@@ -428,11 +434,6 @@ You gain the following benefits.
 - **Fog of War**. You exploit the distractions of battle, gaining Advantage on any Dexterity (Stealth) check you make as part of the Hide action during combat.
 - **Sniper**. If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
 
-## Slasher
-You gain the following benefits.
-- Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
-- Hamstring. Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
-- **Enhanced Critical**. When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
 
 ## Speedy
 PHB'24
