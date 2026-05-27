@@ -164,14 +164,13 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 ### Grade 2
 *Prerequisite: Monk Level 5*
 #### Astral Arms
-As a Bonus Action you can spend 1 Ki to conjure astral arms that burst out from you. Each enemy within 10ft of you. must make a DEX save or take Force Damage equal to two Martial Arts Die + WIS modifier on a fail, half Damage on a success.
+As a Bonus Action you can spend 1 Ki to conjure astral arms that burst out from you. Each enemy within 10ft of you. must make a DEX save or take Force Damage equal to a Martial Arts Die + WIS modifier on a fail, half Damage on a success.
 
-Enhancement
-
+**Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
 #### Gentling Touch
 Once per turn in place of an attack, you can expend 1 Ki to touch a creature and manipulate its Ki to put it to sleep. Roll five Martial Arts Dice. If the target's remaining hit points are less than or equal to the total roll, it falls [[Conditions#Unconscious (Condition)|Unconscious (Condition)]] for 10 minutes. The creature wakes up if another creature uses its action to wake it, or if it takes any damage.
 
-You can expend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
+**Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
 #### Seeking Strike
 Your spirit can guide your strikes if your body fails. Whenever you miss with a Monk Weapon attack, you can spend 1 Ki to roll your attack again, but you must use the new result.
 
