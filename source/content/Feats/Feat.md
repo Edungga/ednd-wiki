@@ -266,6 +266,39 @@ Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum o
 Dexterous Wearer. While you're wearing Medium armor, you can add 3, rather than 2 to your AC if you have a Dexterity score of 16 or higher.
 
 
+## Metamagic Adept
+TCE
+p80
+Prerequisite: Spellcasting or Pact Magic Feature
 
+You've learned how to exert your will on your spells to alter how they function:
 
+    You learn two Metamagic options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the sorcerer class.
+    You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.
+
+## Moderately Armored
+PHB'24
+p205
+General Feat (Prerequisites: Level 4+, Light Armor Training)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Armor Training. You gain training with Medium armor.
+
+## Mounted Combatant
+PHB'24
+p205
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength, Dexterity, or Wisdom by 1, to a maximum of 20.
+
+Mounted Strike. While mounted, you have Advantage on attack rolls against any unmounted creature within 5 feet of your mount that is at least one size smaller than the mount.
+
+Leap Aside. If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can have the Incapacitated condition.
+
+Veer. While mounted, you can force an attack that hits your mount to hit you instead if you don't have the Incapacitated condition.
 # Level 19 Feats
