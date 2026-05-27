@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command.md",
+                "file": "Compelled Duel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command"
+              "title": "Compelled Duel"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command.md",
+                "file": "Compelled Duel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Command"
+              "title": "Backlinks for Compelled Duel"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command.md",
+                "file": "Compelled Duel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Command"
+              "title": "Outline of Compelled Duel"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Command.md",
+    "Compelled Duel.md",
     "Spells/1st Circle Spells/Color Spray.md",
-    "Command.md",
     "Spells/1st Circle Spells/Burning Hands.md",
     "Spells/1st Circle Spells/Chromatic Orb.md",
     "Spells/1st Circle Spells/Charm Person.md",
@@ -213,7 +214,6 @@
     "Rules/Wild Shapes.md",
     "Classes/Druid.md",
     "Classes/Bloodhunter.md",
-    "Spells/Schools of Magic/Necromancy school.md",
     "Spells/Schools of Magic",
     "Blindness",
     "Spells/Spells.base",
