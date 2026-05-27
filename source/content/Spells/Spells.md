@@ -100,6 +100,11 @@ FLATTEN spell-list
 | [[Divine Favour]]                             | Evocation     | Divine         |
 | [[Earth Tremor]]                               | Evocation     | Arcane, Primal |
 | [[Ensnaring Strike]]                       | Conjuration   | Primal         |
+| [[Entangle]]                                       | Conjuration   | Primal         |
+| [[Expeditious Retreat]]                 | Transmutation | Arcane         |
+| [[Faerie Fire]]                                 | Evocation     | Primal         |
+| [[False Life]]                                   | Necromancy    | Arcane         |
+| [[Feather Fall]]                               | Transmutation | Arcane         |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->

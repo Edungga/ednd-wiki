@@ -21,7 +21,9 @@ WHERE file.name = this.file.name
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
 
-You gain the service of a familiar, a spirit that takes an animal form you choose using the stat block below
+You gain the service of an otherworldly spirit, which manifests in an unoccupied space of your choice within range. This creature uses the Otherworldly Familiar stat block below. 
+If you already have a Familiar from this Spell, that Familiar transforms into the new one but retains its memories; you don’t get a second Familiar. 
+
 
 | Familiar                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
