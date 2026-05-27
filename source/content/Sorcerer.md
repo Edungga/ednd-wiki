@@ -26,9 +26,9 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | ----- | ----------------- | ------------------------------ | -------- | ------------ | -------------- | ----------- | --------------- |
 | 1st   | +2                | Spellcasting, Sorcerous Origin | 4        | 2            | 4              | 1st         | -               |
 | 2nd   | +2                | Metamagic                      | 4        | 4            | 8              | 1st         | 2               |
-| 3rd   | +2                | Sorcerous Origin Feature       | 4        | 6            | 16             | 2nd         | 2               |
-| 4th   | +2                | Feat / ASI                     | 5        | 7            | 22             | 2nd         | 2               |
-| 5th   | +3                | Arcane Recharge                | 5        | 9            | 27             | 3rd         | 3               |
+| 3rd   | +2                | Sorcerous Origin Feature       | 4        | 6            | 17             | 2nd         | 2               |
+| 4th   | +2                | Feat / ASI                     | 5        | 7            | 21             | 2nd         | 2               |
+| 5th   | +3                | Arcane Recharge                | 5        | 9            | 32             | 3rd         | 3               |
 
 ## Level 1 Sorcerous Origin
 Your very soul bears an innate spark of arcane magic. Choose a [[Sorcerer#Sorcerous Origins|Sorcerous Origin]], which describes the source of your innate magical power. Your choice grants you features at certain Sorcerer Levels.
