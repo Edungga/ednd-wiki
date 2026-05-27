@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "Absorb Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPELL-TEMPLATE"
+              "title": "Absorb Elements"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "Absorb Elements.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SPELL-TEMPLATE"
+              "title": "Backlinks for Absorb Elements"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "Absorb Elements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SPELL-TEMPLATE"
+              "title": "Outline of Absorb Elements"
             }
           }
         ],
@@ -172,6 +172,8 @@
   },
   "active": "38bee9b1898becaf",
   "lastOpenFiles": [
+    "SPELL-TEMPLATE.md",
+    "Absorb Elements.md",
     "index.md",
     "Classes/Ranger.md",
     "Rules/Wild Shapes.md",
@@ -198,8 +200,6 @@
     "Classes/Monk.md",
     "Ancestries/Human.md",
     "Rules/Bonus Actions.md",
-    "Find Familiar.md",
-    "Spells/Spells.md",
     "Spells/Spells.base",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",

@@ -1,11 +1,11 @@
 ---
-School:
+School: Abjuration
 Spell Circle: 1st
-Casting Time:
-Range:
-Components:
-Duration:
-Spell List:
+Casting Time: Reaction, when you take Acid, Cold, Fire, Lightning, or Thunder Damage
+Range: Self
+Components: S
+Duration: End of your next Turn
+Spell List: Arcane, Primal
 tags:
   - Spell
 ---
@@ -20,6 +20,6 @@ WHERE file.name = this.file.name
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
-You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
-`draft: true`
-**Cantrip Upgrade**. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+The spell captures some of the incoming energy, lessening its effect on you and storing it for your next Melee Attack. You have Resistance to the triggering Damage Type until the start of your next turn. Also, the first time you hit with a Melee Attack on your next turn, the target takes an extra 1d6 Damage of the triggering type, and the Spell ends.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
