@@ -95,19 +95,16 @@ Such as a Badger
 
 ## Giant Insect
 
-| Wild Shape                                         |
-| -------------------------------------------------- |
-| *Small Beast*                                      |
-| **Armour Class**: 11 + your WIS modifier           |
-| **Hit Points**: 10 + your Druid level              |
-| **Speed**: 40ft Walk                               |
-| STR 5 (-3)  \|  DEX 14 (+2)  \|  CON 12 (+1)       |
-| **Senses** Blindsight 30ft., passive Perception 12 |
-|                                                    |
-| **TRAITS**<br>**test**.                            |
-|                                                    |
-| **BONUS ACTIONS**<br>**test**.                     |
-| **REACTIONS**<br>**test**.                         |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Small Beast*                                                                                          |
+| **Armour Class**: 11 + your WIS modifier                                                               |
+| **Hit Points**: 10 + your Druid level                                                                  |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 5 (-3)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Senses** Blindsight 30ft., passive Perception 12                                                     |
+|                                                                                                        |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
 
 ## Giant Rodent
 
@@ -236,7 +233,7 @@ Dino Chicken
 | **Skills** Stealth +4                                                                                                                                                                                                                                                                                                                                                  |
 | **Senses** Blindsight 30 ft., passive Perception 12                                                                                                                                                                                                                                                                                                                    |
 | **TRAITS**<br>**Amphibious**. The crab can breathe air and water.<br><br>_**Pincer.**_ When you hit a creature equal to its size (or smaller) with its Beast's Strike, you can automatically [[Conditions#Grappled (Condition)\|Grappled (Condition)]] the target (escape DC 11). While Grappling a target this way, you cannot Multiattack when grappling a creature. |
-| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 3+PB, reach 5 ft. Hit: 1d6+3 Piercing damage.                                                                                                                                                                                 |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 3+PB, reach 5 ft. Hit: 1d6+3 Piercing damage.                                                                                                                                                                                                                                                                    |
 
 Giant Lizard
 Giant Wasp
@@ -244,16 +241,16 @@ Reef Shark
 Snake
 
 ## Ursine
-| Ursine Wild Shape                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Tiny Beast*                                                                                                                                                                           |
-| **Armour Class**: 8 + your WIS modifier                                                                                                                                                |
-| **Hit Points**: 20 + your Druid level                                                                                                                                                  |
-| **Speed**: 40ft Walk, 30ft Climb                                                                                                                                                       |
-| STR 15 (+2)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                                                                                                           |
-| **Skills** Perception +5                                                                                                                                                               |
-| **Senses** Darkvision 60 ft., passive Perception 15                                                                                                                                    |
-| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d6+2 Slashing damage. |
+| Ursine Wild Shape                                                                                   |
+| --------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                        |
+| **Armour Class**: 8 + your WIS modifier                                                             |
+| **Hit Points**: 20 + your Druid level                                                               |
+| **Speed**: 40ft Walk, 30ft Climb                                                                    |
+| STR 15 (+2)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                        |
+| **Skills** Perception +5                                                                            |
+| **Senses** Darkvision 60 ft., passive Perception 15                                                 |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d6+2 Slashing damage. |
 
 
 # Band 3
