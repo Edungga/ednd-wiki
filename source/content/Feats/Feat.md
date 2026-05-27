@@ -408,13 +408,61 @@ Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to
 
 Shadow Magic. Choose one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the Invisibility spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
+## Sharpshooter
+PHB'24
+p207
+General Feat (Prerequisites: Level 4+, Dexterity 13+)
 
+You gain the following benefits.
 
+Ability Score Increase. Increase your Dexterity score by 1, to a maximum of 20.
 
+Bypass Cover. Your ranged attacks with weapons ignore Half Cover and Three-Quarters Cover.
 
+Firing in Melee. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
+Long Shots. Attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
+## Skill Expert
+PHB'24
+p207
+General Feat (Prerequisite: Level 4+)
 
+You gain the following benefits.
+
+Ability Score Increase. Increase one ability score of your choice by 1, to a maximum of 20.
+
+Skill Proficiency. You gain proficiency in one skill of your choice.
+
+Expertise. Choose one skill in which you have proficiency but lack Expertise. You gain Expertise with that skill.
+
+## Skulker
+PHB'24
+p208
+General Feat (Prerequisites: Level 4+, Dexterity 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Dexterity score by 1, to a maximum of 20.
+
+Blindsight. You have Blindsight with a range of 10 feet.
+
+Fog of War. You exploit the distractions of battle, gaining Advantage on any Dexterity (Stealth) check you make as part of the Hide action during combat.
+
+Sniper. If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
+
+## Slasher
+PHB'24
+p208
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Hamstring. Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
+
+Enhanced Critical. When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
 
 
 
