@@ -85,7 +85,7 @@ You gain the following benefits.
 - **Ability Score Increase**. Increase your Dexterity score by 1, to a maximum of 20.
 - **Quick Load**. You ignore the Loading property of Crossbows. If you're holding one of them, you can load a piece of ammunition into it even if you lack a free hand.
 - **Firing in Melee**. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.
-- **Dual Wielding**. When you engage in [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting]], you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the Light property and you aren't already adding that modifier to the damage.
+- **Dual Wielding**. When you engage in [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting]], you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow.
 
 
 ## Crusher
@@ -485,6 +485,13 @@ Bypass Cover. Your attack rolls for spells ignore Half Cover and Three-Quarters 
 Casting in Melee. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with spells.
 
 Increased Range. When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
+
+## Survivalist Training
+You have been trained to survive, track, and explore in the wild, much like a Ranger. You gain the benefits listed below:
+- Ability Score Increase. Increase your Strength, Dexterity, Constitution, or Wisdom score by 1, up to a maximum of 20.
+- **Survivalist Knack**. You learn a Knack of your choice from those available to the Alternate Ranger. To learn this Knack, you must meet all prerequisites that it has.
+
+If the Knack requires a Quarry Die, roll a d4 unless yours is higher. If the Knack forces a saving throw, the DC is equal to 8 + your Proficiency Bonus + your Wisdom modifier.
 
 ## Telekinetic
 PHB'24
