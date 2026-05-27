@@ -26,9 +26,9 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | ----- | ----------------- | ------------------------------ | -------- | ------------ | -------------- | ----------- | --------------- |
 | 1st   | +2                | Spellcasting, Sorcerous Origin | 4        | 2            | 4              | 1st         | -               |
 | 2nd   | +2                | Metamagic                      | 4        | 4            | 8              | 1st         | 2               |
-| 3rd   | +2                | Arcane Recharge                | 4        | 6            | 16             | 2nd         | 2               |
-| 4th   | +2                | Feat / ASI                     | 5        | 7            | 22             | 2nd         | 2               |
-| 5th   | +3                | -                              | 5        | 9            | 32             | 3rd         | 3               |
+| 3rd   | +2                | Sorcerous Origin Feature       | 4        | 6            | 9              | 2nd         | 2               |
+| 4th   | +2                | Feat / ASI                     | 5        | 7            | 12             | 2nd         | 2               |
+| 5th   | +3                | Arcane Recharge                | 5        | 9            | 32             | 3rd         | 3               |
 
 ## Level 1 Sorcerous Origin
 Your very soul bears an innate spark of arcane magic. Choose a [[Sorcerer#Sorcerous Origins|Sorcerous Origin]], which describes the source of your innate magical power. Your choice grants you features at certain Sorcerer Levels.
@@ -72,7 +72,8 @@ You gain the ability to twist your Spells to suit your needs. You gain two [[Sor
 
 Each Metamagic option costs a number of Sorcery Points as noted in the options description. You can use only one Metamagic option on a Spell when you cast it, unless otherwise noted.
 
-
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
 ## Level 5: Arcane Recharge
 You have learned to draw upon the innate magic presence in all things to restore your own arcane power. When you finish a Short Rest you can choose to regain expended Sorcery Points equal to your Sorcerer Level.
