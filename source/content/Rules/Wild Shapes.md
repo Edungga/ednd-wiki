@@ -165,17 +165,17 @@ Such as a Badger
 
 ## Spider
 
-| Spider Wild Shape                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------- |
-| *Tiny Beast*                                                                                                                      |
-| **Armour Class**: 9 + your WIS modifier                                                                                           |
-| **Hit Points**: 2 + your Druid level                                                                                              |
-| **Speed**: 40ft Walk                                                                                                              |
-| STR 1 (-5)  \|  DEX 14 (+2)  \|  CON 8 (-1)                                                                                       |
-| **Skills** Stealth +4                                                                                                             |
-| **Senses** Darkvision 30 ft.                                                                                                      |
-| **TRAITS**<br>**Spider Climb**. Can climb difficult surfaces, including along ceilings, without needing to make an ability check. |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Piercing damage.                               |
+| Spider Wild Shape                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                                                                                                            |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                 |
+| **Hit Points**: 2 + your Druid level                                                                                                                                                                                    |
+| **Speed**: 40ft Walk                                                                                                                                                                                                    |
+| STR 1 (-5)  \|  DEX 14 (+2)  \|  CON 8 (-1)                                                                                                                                                                             |
+| **Skills** Stealth +4                                                                                                                                                                                                   |
+| **Senses** Darkvision 30 ft.                                                                                                                                                                                            |
+| **TRAITS**<br>**Spider Climb**. Can climb difficult surfaces, including along ceilings, without needing to make an ability check.                                                                                       |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1 Piercing damage plus 1d4 Poison Damage. Target must succeed a CON save against your Spell Save DC or be [[Conditions#Poisoned (Debuff)]] |
 
 
 # Band 2
