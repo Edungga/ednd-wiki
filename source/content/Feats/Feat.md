@@ -239,9 +239,10 @@ Concentration Breaker. When you damage a creature that is Concentrating, it has 
 Guarded Mind. If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Short or Long Rest.
 
 ## Martial Initiate
-Prerequisites: Level 4+, Strength or Dexterity 13+
+*Prerequisites: Level 4+, Strength or Dexterity 13+*
 
-
+You gain the following benefits.
+ - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
 
 ## Martial Weapon Training
 PHB'24
