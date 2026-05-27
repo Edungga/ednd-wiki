@@ -22,7 +22,8 @@ WHERE file.name = this.file.name
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
 
 You gain the service of an otherworldly spirit, which manifests in an unoccupied space of your choice within range. This creature uses the Otherworldly Familiar stat block below. 
-If you already have a Familiar from this Spell, that Familiar transforms into the new one but retains its memories; you don’t get a second Familiar. 
+
+**One Familiar Only**. If you already have a Familiar from this Spell, that Familiar transforms into the new one but retains its memories; you don’t get a second Familiar. 
 
 **Otherworldly Form**. Whenever you cast the Spell, choose the familiar’s creature type: Celestial, Fey, or Fiend. Also choose an environment: Air, Land, or Water. The Familiar resembles a Tiny animal of your choice—such as an owl, a cat, or a frog—that is native to the chosen environment. Both choices—creature type and environment— determine certain traits in the stat block. 
 
@@ -32,7 +33,7 @@ If you already have a Familiar from this Spell, that Familiar transforms into th
 
 **Combat**. The Familiar is an Ally to you and your companions, and shares your Initiative in combat.
 
-Disappearance of the Familiar. The Familiar disappears if it drops to 0 HP, if you dismiss it as a Bonus Action, or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this Spell again, you decide whether you summon the familiar that disappeared or a different one.
+**Disappearance of the Familiar**. The Familiar disappears if it drops to 0 HP, if you dismiss it as a Bonus Action, or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this Spell again, you decide whether you summon the familiar that disappeared or a different one.
 
 | Otherworldly Familiar                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
