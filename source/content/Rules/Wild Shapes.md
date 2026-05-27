@@ -1,12 +1,35 @@
 # Band 1
-equivelent of CR 1/4 - 
+Equivalent of CR 0 - 1/4
 
 
 # Band 2
-
+Equivalent of CR 1/2
 
 
 # Band 3
+Equivalent of CR 1
+
+
+# Band 4
+Equivalent of CR 2
+
+
+# Band 5
+Equivalent of CR 3
+
+
+
+# Band 6
+Equivalent of CR 4
+
+
+# Band 7
+Equivalent of CR 5
+
+
+# Band 8
+Equivalent of CR 6
+
 
 # CR 1/4
 ## Baboon
