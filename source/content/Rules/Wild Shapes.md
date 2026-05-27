@@ -36,19 +36,19 @@ Such as a Badger
 
 ## Cephalopod
 
-| Cephalopod Wild Shape                                                                                  |
-| ------------------------------------------------------------------------------------------------------ |
-| *Small Beast*                                                                                          |
-| **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 3 + your Druid level                                                                   |
-| **Speed**: 5ft Walk, 30ft Swim                                                                         |
-| STR 4 (-4)  \|  DEX 15 (+2)  \|  CON 11 (0)                                                            |
-| **Skills** Sleight of Hand +4, Stealth +4                                                              |
-| **Senses** Darkvision 60 ft.                                                                           |
-| **TRAITS**<br>**Aquatic**. Can only breathe underwater.                                                |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                                         |
-| **REACTIONS**<br>**Beast's Strike**.                                                                   |
+| Cephalopod Wild Shape                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Small Beast*                                                                                                                                                                                                                                                                      |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                                                                            |
+| **Hit Points**: 3 + your Druid level                                                                                                                                                                                                                                               |
+| **Speed**: 5ft Walk, 30ft Swim                                                                                                                                                                                                                                                     |
+| STR 4 (-4)  \|  DEX 15 (+2)  \|  CON 11 (0)                                                                                                                                                                                                                                        |
+| **Skills** Sleight of Hand +4, Stealth +4                                                                                                                                                                                                                                          |
+| **Senses** Darkvision 60 ft.                                                                                                                                                                                                                                                       |
+| **TRAITS**<br>**Aquatic**. Can only breathe underwater. <br><br>**Oozing Form**. Can move through gaps as narrow as 1-inch wide without having to squeeze.<br><br>**Underwater Camouflage**. Has advantage on Stealth checks made to Hide while it is underwater.                  |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                                                                                                                             |
+| **REACTIONS**<br>**Ink Cloud** (1/Wild Shape). When targeted by an attack you can see while underwater, it can fill its space with ink, then move up to its speed without provoking opportunity attacks. The ink heavily obscures its space for 1 minute or until it is dispersed. |
+
 
 ## Crustacean
 
