@@ -95,7 +95,7 @@ Such as a Badger
 
 ## Giant Insect
 
-| Wild Shape                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Giant Insect Wild Shape                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Small Beast*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | **Armour Class**: 11 + your WIS modifier                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -110,12 +110,12 @@ Such as a Badger
 
 | Wild Shape                                                                                             |
 | ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
-| **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 2 + your Druid level                                                                   |
-| **Speed**: 40ft Walk                                                                                   |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
-| **Skills**                                                                                             |
+| *Medium Beast*                                                                                         |
+| **Armour Class**: 10 + your WIS modifier                                                               |
+| **Hit Points**: 10 + your Druid level                                                                  |
+| **Speed**: 40ft Walk, 40ft Climb                                                                       |
+| STR 12 (+1)  \|  DEX 16 (+3)  \|  CON 13 (+1)                                                          |
+| **Skills** Perception +3, Stealth +7                                                                   |
 | **Senses** Darkvision 120 ft., passive Perception 12                                                   |
 | **TRAITS**<br>**test**.                                                                                |
 | **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
