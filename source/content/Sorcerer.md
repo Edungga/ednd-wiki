@@ -141,7 +141,7 @@ Your innate manipulation of magic grant you the following:
 
 **The Sight**. You can innately read the magic of the world around you. You can cast the [[Detect Magic]] Spell at will, without expending a Sorcery Points. You gain a Chaos Mote when doing so.
 
-When Chaos Breaks. Immediately after you cast a Spell expending Sorcery Points, roll a d20 and minus the number of Chaos Motes you have from the roll. If the result is less than or equal to the number of Sorcery Points spent casting the Spell (including any Metamagic options added to the Spell) then Magic Breaks. When Magic Breaks you roll on the Magic Surge chart. 
+**When Chaos Breaks**. Immediately after you cast a Spell expending Sorcery Points, roll a d20 and minus the number of Chaos Motes you have from the roll. If the result is less than or equal to the number of Sorcery Points spent casting the Spell (including any Metamagic options added to the Spell) then Magic Breaks. When Magic Breaks you roll on the [[Wild Magic Table]]. 
 
 All Chaos Mote’s disappear on completing a Long Rest or when Magic Breaks.
 
