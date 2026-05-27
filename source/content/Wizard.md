@@ -16,13 +16,55 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 ---
 # Class Features
 
+| Level | Proficiency Bonus | Features                      | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ----------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Spellcasting, Arcane Recovery | 3        | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Cantrip Formulas              | 3        | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | Arcane Tradition              | 3        | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Feat / ASI                    | 4        | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | Flash Recall                  | 4        | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 
 
+## Level 1: Spellcasting
+As a student of arcane magic, you have a Spellbook containing spells that show the first glimmerings of your true power.
 
+**Cantrips**. You know three Cantrips of your choice from the [[Arcane Spell List]]. 
+
+You learn additional Cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+
+**Spellbook**. Your wizardly study culminated in the creation of a unique book in your possession: your Spellbook. It is a Tiny object that weighs 3 pounds, and it contains 100 pages, which can be read only by you or someone casting Identify. You determine the book’s appearance and materials, such as a glittered tome or a collection of vellum bound together by twine.
+
+The Spellbook contains six 1st Level Spells of your choice from the [[Arcane Spell List]]. Your spellbook is the repository of the Spells you know, except your Cantrips, which are fixed in your mind.
+
+Whenever you gain a Wizard Level, add two Spells of your choice from the Arcane Spell List to your Spellbook. Each must be of a level for which you have Spell Slots, as shown in the Wizard Table.
+
+**Copying a Spell into the Book**. When you find an Arcane Spell of 1st Level or higher, you can add it to your Spellbook if you can spare the time to decipher and copy it.
+
+Copying a spell into your Spellbook involves reproducing the basic form of the Spell, then deciphering the unique system of notation used by the Wizard who wrote it. You must practise the Spell until you understand the sounds or gestures required, then transcribe it into your Spellbook using your own notation.
+
+For each Level of the Spell, the process takes 2 hours and costs 50 gp. The cost represents Material Components you expend as you experiment with the Spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the Spell just like your other Spells.
+
+Replacing the Book. You can copy a spell from your own Spellbook into another book-for example, if you want to make a backup copy of your Spellbook. This is just like copying a new spell into your Spellbook, but faster and easier, since you understand your own notation and already know how to cast the Spell. You need to spend only 1 hour and 10 gp for each level of the copied Spell.
+
+If you lose your Spellbook, you can use the same procedure to transcribe the Spells that you have prepared into a new Spellbook. Filling out the remainder of your Spellbook requires you to find new Spells to do so, as normal. For this reason, many Wizards keep backup Spellbooks in a safe place.
+
+Spell Slots. The Wizard Table shows how many Spell Slots you have to cast your Spells of 1st Level and higher. To cast one of these Spells, you must expend a slot of the Spell’s level or higher. You regain all expended Spell Slots when you finish a Long Rest.
+
+Prepared Spells of 1st+ Level. You prepare the list of Spells of 1st level and higher that are available for you to cast with this feature. When you do so, choose a number of Spells from your Spellbook equal to your Wizard Level + your INT Mod (min 1).
+
+Casting the Spell doesn't remove it from your Prepared Spells, and you can change your Prepared Spells after a Long Rest. 
+
+Spellcasting Ability. Intelligence is your Spellcasting Ability for your Wizard Spells.
+
+Spell save DC = 8 + your Proficiency Bonus + your INT modifier
+
+Spell attack modifier = your Proficiency Bonus + your INT modifier
+
+Spellcasting Focus. You can use an Arcane Focus or your Spellbook as a Spellcasting focus for your Wizard Spells.
 
 
 
 
 
 ---
-# Arcan3 Traditions
+# Arcane Traditions
