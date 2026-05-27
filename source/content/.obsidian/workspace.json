@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divine Favour.md",
+                "file": "Spells/1st Circle Spells/Divine Favour.md",
                 "mode": "source",
                 "source": false
               },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Divine Favour.md",
+                "file": "Spells/1st Circle Spells/Divine Favour.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Divine Favour.md",
+                "file": "Spells/1st Circle Spells/Divine Favour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divine Favour.md",
+                "file": "Spells/1st Circle Spells/Divine Favour.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54baa124d85df1d3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Spells/1st Circle Spells/Distort Value.md",
-    "Divine Favour.md",
+    "Spells/1st Circle Spells/Divine Favour.md",
     "Spells/1st Circle Spells/Dissonant Whispers.md",
     "Spells/1st Circle Spells/Disguise Self.md",
     "Spells/1st Circle Spells/Detect Poison and Disease.md",

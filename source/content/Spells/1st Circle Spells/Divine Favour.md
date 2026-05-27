@@ -20,7 +20,6 @@ WHERE file.name = this.file.name
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
-Your prayer empowers you with divine radiance. Until the spell ends, your Weapon Attacks deal an extra 1d4 Radiant Damage on a hit.
+Your prayer empowers a weapon you touch with divine radiance. Until the spell ends, that weapons Attacks deal an extra 1d4 Radiant Damage on a hit.
 
-**At Higher Levels**. The damage increases by 1d6 for each spell slot level above 1.
-You can affect one additional creature for each spell slot level above 1.
+**At Higher Levels**. The damage increases by 1d4 for each spell slot level above 1.
