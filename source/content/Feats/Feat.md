@@ -219,9 +219,7 @@ Lore Knowledge. Choose one of the following skills: Arcana, History, Investigati
 Quick Study. You can take the Study action as a Bonus Action.
 
 ## Mage Slayer
-PHB'24
-p205
-General Feat (Prerequisite: Level 4+)
+*Prerequisite: Level 4+*
 
 You gain the following benefits.
 - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
@@ -471,14 +469,10 @@ p209
 General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature)
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-
-Concentration. You have Advantage on Constitution saving throws that you make to maintain Concentration.
-
-Reactive Spell. When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.
-
-Somatic Components. You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
+- **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+- **Concentration**. You have Advantage on Constitution saving throws that you make to maintain Concentration.
+- **Reactive Spell**. When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.
+- **Somatic Components**. You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
 
 
 ## Weapon Master
