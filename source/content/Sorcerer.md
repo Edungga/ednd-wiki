@@ -114,4 +114,9 @@ When you cast a spell that forces other creatures to make a saving throw, you ca
 ## Concussive Spell 
 _Cost: 1 Sorcery Point_
 
-When you cast a spell that deals Bludgeoning, Force, or Thunder Damage, you force one target of the Spell to make a STR Save. On a failed save, the target is knocked Prone [Condition]. Large or larger creatures have Advantage on their Save.
+When you cast a spell that deals Bludgeoning, Force, or Thunder Damage, you force one target of the Spell to make a STR Save. On a failed save, the target is knocked [[Conditions#Prone (Condition)|Prone (Condition)]]. Large or larger creatures have Advantage on their Save.
+## Distant Spell
+*Cost: 1 Sorcery Point*
+
+When you cast a spell that has a range of at least 5 feet, you can double the spell's range. Or when you cast a spell that has a range of Touch, you make the spell's range 30 feet.
+
