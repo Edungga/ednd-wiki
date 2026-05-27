@@ -59,7 +59,7 @@ At certain Ranger levels, you learn additional Knacks, as shown in the Knacks Kn
 ## Level 1: Weapon Mastery
 Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
+When you reach certain Ranger levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Ranger Features table.
 
 ## Level 2: Expertise
 You gain Expertise in two of your skill proficiencies of your choice.

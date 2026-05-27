@@ -45,7 +45,7 @@ You gain Expertise in two of your skill proficiencies of your choice.
 At Rogue level 6, you gain Expertise in two more of your skill proficiencies of your choice.
 
 ## Level 1: Sneak Attack
-You know how to strike subtly and exploit a foe's distraction. Once per turn you can deal extra Damage to one creature you hit with an Attack, if one of the following conditions are met:
+You know how to strike subtly and exploit a foe's distraction. Once per turn you can deal extra d6 Damage to one creature you hit with an Attack, if one of the following conditions are met:
 - **Advantage**. You have Advantage on the Attack.
 - **Ally Adjacent to Target**. At least one of your allies is within 5ft of the target, the ally isn't [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], and you don’t have Disadvantage on the Attack.
 
