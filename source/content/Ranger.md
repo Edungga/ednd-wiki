@@ -356,4 +356,27 @@ Also, when you mark a creature as your Quarry, the mark lasts indefinitely and o
 
 Once on each of your turns when you hit your Quarry with an attack, you can force it to make a CON Save. On a failed save, you choose if it is [[Conditions#Blinded (Debuff)|Blinded (Debuff)]], [[Conditions#Deafened (Debuff)|Deafened (Debuff)]], [[Conditions#Silenced (Debuff)|Silenced (Debuff)]], or [[Conditions#Restrained (Condition)|Restrained (Condition)]] until the start of your following turn.
 
+
+
+Stalker I
+
+Prerequisite: proficiency in Stealth
+You are a master at remaining undetected in the wilderness. You have advantage on Stealth checks you make to hide while you are in natural environments.
+
+Finally, you can add double your Proficiency Bonus to any Stealth checks that you make.
+Stalker II
+
+Prerequisite: 3rd-level Ranger, Stalker I
+You have learned to hunt your prey while remaining unseen. You can take the Hide action as a bonus action on your turn.
+Stalker III
+
+Prerequisite: 9th-level Ranger, Stalker I, II
+You cannot be tracked, even by magic. You are always under the effects of the nondetection spell, and you can't be tracked by Divination magic or magical means unless you wish to be.
+Stalker IV
+
+Prerequisite: 14th-level Ranger, Stalker I, II, III
+Your mythic skill allow you to become undetectable. Any time you take a Hide action, you, and anything you are wearing or carrying, becomes invisible until the start of your next turn.
+
+This effect instantly ends if you Cast a Spell, or you attack 
+
 ## Wild Insight I
