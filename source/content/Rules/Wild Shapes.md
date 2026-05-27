@@ -122,19 +122,19 @@ Such as a Badger
 
 ## Large Cat
 
-| Wild Shape                                                                                             |
-| ------------------------------------------------------------------------------------------------------ |
-| *Medium Beast*                                                                                         |
-| **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 15 + your Druid level                                                                  |
-| **Speed**: 40ft Walk                                                                                   |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
-| **Skills** Perception +4, Stealth +4                                                                   |
-| **Senses** Darkvision 60 ft., passive Perception 14                                                    |
-| **TRAITS**<br>**test**.                                                                                |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**Nimble Escape**. Can take the Disengage or Hide action.                         |
-| **REACTIONS**<br>**test**.                                                                             |
+| Wild Shape                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Medium Beast*                                                                                                                                                                                                                                                                                          |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                                                                                                 |
+| **Hit Points**: 15 + your Druid level                                                                                                                                                                                                                                                                   |
+| **Speed**: 40ft Walk                                                                                                                                                                                                                                                                                    |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                                                                                                                                                                                                                            |
+| **Skills** Perception +4, Stealth +4                                                                                                                                                                                                                                                                    |
+| **Senses** Darkvision 60 ft., passive Perception 14                                                                                                                                                                                                                                                     |
+| **TRAITS**<br>**Pounce**. If the you move at least 20 ft. in a line, then hits a target equal to your size (or smaller) with a Beast's Strike the target is knocked [[Conditions#Prone (Condition)\|Prone (Condition)]], then you can make one more Beast's Strike attack against it as a bonus action. |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                                                                                                                                                  |
+| **BONUS ACTIONS**<br>**Nimble Escape**. Can take the Disengage or Hide action.                                                                                                                                                                                                                          |
+| **REACTIONS**<br>**test**.                                                                                                                                                                                                                                                                              |
 
 ## Monkey
 
