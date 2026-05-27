@@ -6,17 +6,18 @@ Such as Ox or a Draft Horse
 
 | Beast of Burden Wild Shape                                                                                  |
 | ----------------------------------------------------------------------------------------------------------- |
-| *Small Beast*                                                                                               |
-| **Armour Class**: 10 + your WIS modifier                                                                    |
-| **Hit Points**: 5 + your Druid level                                                                        |
+| *Large Beast*                                                                                               |
+| **Armour Class**: 7 + your WIS modifier                                                                     |
+| **Hit Points**: 15 + your Druid level                                                                       |
 | **Speed**: 20ft Walk, 20ft Burrow                                                                           |
-| STR 12 (+1)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                                |
+| STR 18 (+4)  \|  DEX 10 (0)  \|  CON 14 (+2)                                                                |
 | **Skills** Perception +3                                                                                    |
 | **Senses** Darkvision 30 ft., Passive Perception 13                                                         |
 | **TRAITS**<br>**Keen Smell**. The Burrower has advantage on ability checks that rely on its sense of smell. |
 | **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.                   |
 
-Bird
+## Bird
+to do later
 
 ## Burrower
 Such as a Badger
