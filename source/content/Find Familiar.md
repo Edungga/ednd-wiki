@@ -28,6 +28,12 @@ If you already have a Familiar from this Spell, that Familiar transforms into th
 
 **Telepathic Connection**. While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 
+**Remote Delivery**. When you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you.
+
+**Combat**. The Familiar is an Ally to you and your companions, and shares your Initiative in combat.
+
+Disappearance of the Familiar. The Familiar disappears if it drops to 0 HP, if you dismiss it as a Bonus Action, or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this Spell again, you decide whether you summon the familiar that disappeared or a different one.
+
 | Otherworldly Familiar                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Tiny Aberration, Celestial, Dragon, Fey, Fiend, Ooze, or Undead (Choose when casting the Spell)*                                                                                                                                                                                                                                                                                                                                                                            |
