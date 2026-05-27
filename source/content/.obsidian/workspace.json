@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comprehend Languages.md",
+                "file": "Spells/1st Circle Spells/Comprehend Languages.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comprehend Languages.md",
+                "file": "Spells/1st Circle Spells/Comprehend Languages.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comprehend Languages.md",
+                "file": "Spells/1st Circle Spells/Comprehend Languages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54baa124d85df1d3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Spells/1st Circle Spells/Compelled Duel.md",
-    "Comprehend Languages.md",
+    "Spells/1st Circle Spells/Comprehend Languages.md",
     "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Command.md",
     "Spells/1st Circle Spells/Color Spray.md",
