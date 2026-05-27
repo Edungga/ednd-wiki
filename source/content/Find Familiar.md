@@ -1,11 +1,11 @@
 ---
 School: Conjuration
 Spell Circle: 1st
-Casting Time:
-Range:
-Components:
-Duration:
-Spell List:
+Casting Time: 1 hour or Ritual
+Range: 10 ft
+Components: V, S, M (burning incense worth 10+ GP, which the spell consumes)
+Duration: Instantaneous
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -21,7 +21,7 @@ WHERE file.name = this.file.name
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
 
-
+You gain the service of a familiar, a spirit that takes an animal form you choose using the stat block below
 
 | Familiar                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
