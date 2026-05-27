@@ -127,7 +127,7 @@ You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long R
 You Monk abilities fuelled by [[Monk#Ki|Ki]]
 ## Basic Forms
 ### Grade 1
-There is no prerequisite for these forms
+*Prerequisite: N/A*
 #### Deflect Missiles
 You can use your Reaction to deflect or catch the missile when you are hit by a Ranged Weapon Attack. When you do so, the Damage you take from the Attack is reduced by 1d10 + your DEX modifier + your Monk level.
 
@@ -147,8 +147,9 @@ When you roll Initiative, you can regain all expended Ki. When you do so, roll y
 Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ## Elemental Ki Forms
-Prerequisite: [[Monk#Way of the Elements|Way of the Elements]]
+*Prerequisite: [[Monk#Way of the Elements|Way of the Elements]]*
 ### Grade 1
+*Prerequisite: N/A*
 #### Boulder Toss
 As an Action, you can spend 1 Ki point to launch a large rock towards a creature you can see within 30ft, make a Ranged Attack against the target. On a hit, it takes 2 Martial Arts Die + WIS modifier Bludgeoning Damage.
 
@@ -173,6 +174,7 @@ As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move
 
 
 ## Shadows Ki Forms
+*Prerequisite: [[Monk#Way of the Shadow|Way of the Shadow]]*
 ### Grade 1
 
 #### Conjured Shuriken
