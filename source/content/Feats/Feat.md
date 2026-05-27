@@ -120,6 +120,15 @@ You gain the following benefits.
 - **Enhanced Dual Wielding**. When you take the Attack action on your turn with a one-handed weapon, you can take the [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting Bonus Action]] with another one-handed weapon you're currently wielding, regardless of if either weapon you're wielding has the Light Weapon Property.
 - **Quick Draw**. You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
 
+## Dungeon Delver
+*Prerequisites: Level 4+
+
+You gain the benefits below:
+- **Ability Score Increase**. Increase your Dexterity or Intelligence by 1, to a maximum of 20.
+- **Dungeoneer Adept**. You gain proficiency in Investigation, Perception, or Thieves' Tools, and whenever you you make an ability check with any of the skills listed above, you can treat a roll of 7 or lower on the d20 as an 8.
+- **Thoughtful Steps**. Traveling at a fast past pace while in a dungeon does not impose a penalty on passive Perception or passive Investigation scores for you.
+- **Trap Sense**. You have advantage on all saving throws to resist traps and Resistance to all damage dealt by traps.
+
 ## Durable
 PHB'24
 p203
