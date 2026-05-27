@@ -154,9 +154,8 @@ You also gain an additional way to use your Sneak Attack; you don't need Advanta
 ## Thief
 A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
 ### Level 3: Fast Hands
-You have additional options for the Bonus Action of your Cunning Action, with which you can do the following:
+You have additional options for the Bonus Action of your Cunning Action::
+- **Sleight of Hand**. Make a Dexterity (Sleight of Hand) check to pick a lock or disarm a trap with Thieves' Tools or to pick a pocket.
+- **Use an Object**. Take the Utilize action, or take the Magic action to use a magic item that requires that action.
 
-- Sleight of Hand. Take the Lock Pick Action or Riffle Action
-    
-- Use an Object. Take the Interact Major Action or Magic Action
-### Level 3: 
+### Level 3: Second Story Work
