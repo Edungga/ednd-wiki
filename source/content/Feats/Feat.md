@@ -239,7 +239,7 @@ Guarded Mind. If you fail an Intelligence, a Wisdom, or a Charisma saving throw,
 
 You gain the following benefits.
  - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
- - 
+ - **Manoeuvres**. You learn two [[Fighter#Maneuvers|Maneuvers]] of your choice. If a maneuver you use requires your target to make a Save, the DC equals 8 + your proficiency bonus + your STR or DEX modifier (your choice).
 
 ## Martial Weapon Training
 PHB'24
