@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abjuration school.md",
+                "file": "Illusion school.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abjuration school"
+              "title": "Illusion school"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abjuration school.md",
+                "file": "Illusion school.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abjuration school"
+              "title": "Backlinks for Illusion school"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abjuration school.md",
+                "file": "Illusion school.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abjuration school"
+              "title": "Outline of Illusion school"
             }
           }
         ],
@@ -172,12 +172,12 @@
   },
   "active": "5d1ec92faf8892e2",
   "lastOpenFiles": [
+    "Spells/Evocation school.md",
+    "Spells/Divination school.md",
+    "Spells/Abjuration school.md",
     "Spells/All Spells List.md",
     "index.md",
     "Classes/Wizard.md",
-    "Abjuration school.md",
-    "Divination school.md",
-    "Evocation school.md",
     "Necromancy school.md",
     "Illusion school.md",
     "Druid.md",
