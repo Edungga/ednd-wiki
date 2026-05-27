@@ -131,7 +131,13 @@ Choose two Wizard spells from the Necromancy school, each of which must be no hi
 
 In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Necromancy school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
 ### Level 3: Blood Magic
+You are able to use your own depleted life essence to channel your magical abilities.
 
+**Blood Channelling**. You can use blood as a Spellcasting Focus for your Wizard Spells. Take 1 + Spell Level Necrotic Damage whenever you cast a Spell using your own blood as a Spellcasting Focus (unless that blood has been previously removed).
+
+**Bloody Material**. When casting a Wizard Spell that requires a costly material component, you can forego the component by taking 1d10 Necrotic Damage per 50 gp of the cost of the component (min 1d10). 
+
+**Blood for Magic**. As a Bonxpend some Hit Die to recover a Spell Slot of a Level equal to the number of Hit Die spent (max 5th Level). Roll those dice and take that much Necrotic Damage.
 
 ## Illusionist
 
