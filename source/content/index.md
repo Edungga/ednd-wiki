@@ -30,7 +30,7 @@ We also have some Home Rules to spice things up a bit
 - [[Bard]] - up to lvl 5
 - [[Bloodhunter]] - up to lvl 5
 - [[Cleric]] - up to lvl 5
-- [[Druid]] - 1 level
+- [[Druid]] - 5 level but only 1 band of wild shapes
 - [[Fighter]] - up to lvl 5
 - [[Illrigger]]- up to lvl 5
 - [[Monk]] - up to lvl 5
