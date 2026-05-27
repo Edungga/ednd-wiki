@@ -400,18 +400,17 @@ You can surmount almost any obstacle that would block your path. Your walking sp
 ## Strider IV
 *Prerequisite: Ranger Level 14, Strider I, II, III*
 
-You move through the world unhindered by even the most powerful magic and restraints. You are always under the effects of a [[Freedom of Movement]] spell while not [[Conditions#Unconscious (Condition)]]
+You move through the world unhindered by even the most powerful magic and restraints. You are always under the effects of a [[Freedom of Movement]] spell while not [[Conditions#Unconscious (Condition)|Unconscious (Condition)]]
 
-Student of the Wild
+## Student of the Wild
 
 Time in the wild has honed your skills. You gain proficiency in two skills of your choice from the Ranger class skill list.
 
-You can learn this Knack more than once, but you choose
-two new Ranger class skills each time that you learn it.
+**Repeatable**. You can learn this Knack more than once, but you choose two new Ranger class skills each time that you learn it.
 
-Survivor I
+## Survivor I
+*Prerequisite: Ranger Level 6*
 
-Prerequisite: 6th-level Ranger
 Your time in the wilds has hardened your body. As a bonus action on your turn, you can grant yourself temporary hit points equal to your Constitution
 modifier (minimum of 1).
 
