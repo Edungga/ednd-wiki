@@ -4,9 +4,6 @@
 
 **Initiative Swap**. Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.
 
-
-# Level 1 Feats
-
 ## Fighting Style
 You adopt a particular style of fighting as your speciality. Choose one of the following options: 
 - **Archery**. You gain a +2 bonus to Ranged Weapon Attacks. 
@@ -61,6 +58,10 @@ You gain Proficiency in any combination of three Skills or tools of your choice.
 Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points.
 
 
+# Level 1 Feats
+
+
+
 # Level 4 Feats
 ## Ability Score Improvement
 Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.
@@ -75,8 +76,8 @@ You gain the following benefits.
 - **Jumping**. You can make a running Long or High Jump after moving only 5 feet.
 
 ## Charger
-Prerequisites: Level 4+, Strength or Dexterity 13+)
-- You gain the following benefits.
+Prerequisites: Level 4+, Strength or Dexterity 13+
+You gain the following benefits.
 - Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
 - Improved Dash. When you take the Dash action, your Speed increases by 10 feet for that action.
 - Charge Attack. If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
