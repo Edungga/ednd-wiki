@@ -107,10 +107,18 @@ Additionally, parts of your skin are covered by a thin sheen of dragon-like scal
 
 
 ## Emberheart
+Your innate magic manifests in fire. You are your fire, and your fire is you.
+### Level 1: Emberheart Spells
 
+| Sorcerer Level | Spells                                |
+| -------------- | ------------------------------------- |
+| 1st            | burning hands, hellish rebuke         |
+| 3rd            | flaming sphere, scorching ray         |
+| 5th            | fireball, minute meteors              |
+| 7th            | summon elemental (fire), wall of fire |
+| 9th            | flame strike, immolation              |
 
-### Level 1: Draconic Spells
-### Level 3: 
+### Level 3: Heart of Fire
 
 
 ### Level 1: Draconic Spells
