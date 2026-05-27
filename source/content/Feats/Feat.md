@@ -47,6 +47,12 @@ Your Hit Point maximum increases by an amount equal to twice your character leve
 
 # Level 1 Feats
 
+## Crusher
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Constitution by 1, to a maximum of 20.
+- **Push**. Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
+- **Enhanced Critical**. When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
+
 ## Fighting Style
 You adopt a particular style of fighting as your speciality. Choose one of the following options: 
 - **Archery**. You gain a +2 bonus to Ranged Weapon Attacks. 
@@ -117,20 +123,6 @@ You gain the following benefits.
 - **Firing in Melee**. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.
 - **Dual Wielding**. When you engage in [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting]], you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow.
 
-
-## Crusher
-PHB'24
-p203
-General Feat (Prerequisite: Level 4+)
-
-You gain the following benefits.
-
-Ability Score Increase. Increase your Strength or Constitution by 1, to a maximum of 20.
-
-Push. Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
-
-Enhanced Critical. When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
-
 ## Defensive Duelist
 *Prerequisites: Level 4+, Dexterity 13+*
 
@@ -182,13 +174,9 @@ Energy Mastery. Choose one of the following damage types: Acid, Cold, Fire, Ligh
 Repeatable. You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
 
 ## Fey-Touched
-Prerequisite: Level 4+)
-
 Your exposure to the Feywild's magic grants you the following benefits.
-
-Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-
-Fey Magic. Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the Misty Step spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+- Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+- Fey Magic. Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the Misty Step spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ## Grappler
 Prerequisites: Level 4+, Strength or Dexterity 13+
