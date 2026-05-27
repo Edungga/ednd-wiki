@@ -4,17 +4,17 @@ Equivalent of CR 0 - 1/4
 ## Beast of Burden
 Such as Ox or a Draft Horse
 
-| Beast of Burden Wild Shape                                                                                  |
-| ----------------------------------------------------------------------------------------------------------- |
-| *Large Beast*                                                                                               |
-| **Armour Class**: 7 + your WIS modifier                                                                     |
-| **Hit Points**: 15 + your Druid level                                                                       |
-| **Speed**: 20ft Walk, 20ft Burrow                                                                           |
-| STR 18 (+4)  \|  DEX 10 (0)  \|  CON 14 (+2)                                                                |
-| **Skills** Perception +3                                                                                    |
-| **Senses** Darkvision 30 ft., Passive Perception 13                                                         |
-| **TRAITS**<br>**Keen Smell**. The Burrower has advantage on ability checks that rely on its sense of smell. |
-| **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.                   |
+| Beast of Burden Wild Shape                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Large Beast*                                                                                                                                                                       |
+| **Armour Class**: 7 + your WIS modifier                                                                                                                                             |
+| **Hit Points**: 15 + your Druid level                                                                                                                                               |
+| **Speed**: 20ft Walk, 20ft Burrow                                                                                                                                                   |
+| STR 18 (+4)  \|  DEX 10 (0)  \|  CON 14 (+2)                                                                                                                                        |
+| **Skills** Athletics +7                                                                                                                                                             |
+| **Senses** Passive Perception 10                                                                                                                                                    |
+| **TRAITS**<br>**Beast of Burden**. Counts as one size larger for the purposes of determining its carrying capacity and the amount of weight that it can carry, push, pull, and drag |
+| **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.                                                                                           |
 
 ## Bird
 to do later
@@ -22,17 +22,17 @@ to do later
 ## Burrower
 Such as a Badger
 
-| Burrower Wild Shape                                                                                         |
-| ----------------------------------------------------------------------------------------------------------- |
-| *Small Beast*                                                                                               |
-| **Armour Class**: 10 + your WIS modifier                                                                    |
-| **Hit Points**: 5 + your Druid level                                                                        |
-| **Speed**: 20ft Walk, 20ft Burrow                                                                           |
-| STR 12 (+1)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                                |
-| **Skills** Perception +3                                                                                    |
-| **Senses** Darkvision 30 ft., Passive Perception 13                                                         |
-| **TRAITS**<br>**Keen Smell**. The Burrower has advantage on ability checks that rely on its sense of smell. |
-| **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.                   |
+| Burrower Wild Shape                                                                            |
+| ---------------------------------------------------------------------------------------------- |
+| *Small Beast*                                                                                  |
+| **Armour Class**: 10 + your WIS modifier                                                       |
+| **Hit Points**: 5 + your Druid level                                                           |
+| **Speed**: 20ft Walk, 20ft Burrow                                                              |
+| STR 12 (+1)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                   |
+| **Skills** Perception +3                                                                       |
+| **Senses** Darkvision 30 ft., Passive Perception 13                                            |
+| **TRAITS**<br>**Keen Smell**. Has advantage on ability checks that rely on its sense of smell. |
+| **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.      |
 
 ## Cephalopod
 
@@ -164,17 +164,17 @@ Such as a Badger
 
 ## Monkey
 
-| Monkey Wild Shape                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Tiny Beast*                                                                                                                                                                |
-| **Armour Class**: 9 + your WIS modifier                                                                                                                                     |
-| **Hit Points**: 3 + your Druid level                                                                                                                                        |
-| **Speed**: 30ft Walk, 30ft Climb                                                                                                                                            |
-| STR 8 (-1)  \|  DEX 14 (+2)  \|  CON 10 (0)                                                                                                                                 |
-| **Skills** Acrobatics +6, Sleight of Hand +4                                                                                                                                |
-| **Senses** Passive Perception 11                                                                                                                                            |
-| **TRAITS**<br>**Opposable Thumbs**. The Baboon can manipulate tools and objects as well as a Commoner, though it cannot wield weapons, shields, or complex artisan's tools. |
-| **ACTIONS**<br>**Bite**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d4+2 Piercing damage.                                                                                   |
+| Monkey Wild Shape                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                                                     |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                          |
+| **Hit Points**: 3 + your Druid level                                                                                                                             |
+| **Speed**: 30ft Walk, 30ft Climb                                                                                                                                 |
+| STR 8 (-1)  \|  DEX 14 (+2)  \|  CON 10 (0)                                                                                                                      |
+| **Skills** Acrobatics +6, Sleight of Hand +4                                                                                                                     |
+| **Senses** Passive Perception 11                                                                                                                                 |
+| **TRAITS**<br>**Opposable Thumbs**. Can manipulate tools and objects as well as a Commoner, though it cannot wield weapons, shields, or complex artisan's tools. |
+| **ACTIONS**<br>**Bite**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d4+2 Piercing damage.                                                                        |
 
 ## Pack Hound
 
