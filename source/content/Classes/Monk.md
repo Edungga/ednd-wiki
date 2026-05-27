@@ -169,17 +169,15 @@ Once per turn in place of an attack, you can expend 1 Ki to touch a creature and
 You can expend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
 
 #### Seeking Strike
-Your spirit can guide your strikes if your body fails. Whenever you miss with a Martial Arts attack, you can spend 1 Ki to roll your attack again, but you must use the new result.
+Your spirit can guide your strikes if your body fails. Whenever you miss with a Monk Weapon attack, you can spend 1 Ki to roll your attack again, but you must use the new result.
 
 This Technique does not count against the normal limit of one Ki feature or Technique per attack.
 
-Slowing Strike
-
-Prerequisite: 5th-level Monk
+#### Slowing Strike
 Once per turn when you hit a creature with a melee Martial Arts attack, you can spend 1 Ki to assault its Ki flow, forcing it to make a Wisdom saving throw. On a failure, it suffers the effects of the slow spell until the start of your next turn.
 
 You do not need to concentrate on this effect.
-Stunning Strike
+#### Stunning Strike
 
 Prerequisite: 5th-level Monk
 Once per turn when you hit a creature with a melee Martial Arts attack, you can spend 1 Ki to strike body, mind, and soul, forcing it to make a Constitution saving throw. On a failure, it is Stunned until the beginning of your next turn.
