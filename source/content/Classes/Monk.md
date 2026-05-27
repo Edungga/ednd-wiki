@@ -128,6 +128,12 @@ You Monk abilities fuelled by [[Monk#Ki|Ki]]
 ## Basic Forms
 ### Grade 1
 *Prerequisite: N/A*
+#### Arresting Strike
+Once per turn when you hit a creature with a Monk Weapon attack, you can spend 1 Ki to stunt its mobility and force it to make a Dexterity saving throw. On a failed save, its speed is reduced to zero until the beginning of your next turn.
+#### Crippling Strike
+Once per turn when you hit a creature with a melee Monk Weapon attack, you can spend 1 Ki to cripple its senses and force it to make a CON Save. On a failed save, you choose if it is
+[[copn]]
+Blinded, Deafened, or unable to speak until the beginning of your next turn.
 #### Deflect Missiles
 You can use your Reaction to deflect or catch the missile when you are hit by a Ranged Weapon Attack. When you do so, the Damage you take from the Attack is reduced by 1d10 + your DEX modifier + your Monk level.
 
