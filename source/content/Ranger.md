@@ -187,17 +187,16 @@ If you already know Stalker I, you can learn a different Knack of your choice.
 ## Spellbreaker
 Spellbreakers are a small but dedicated Conclave of Rangers that specialize in hunting mages who use their arcane power for evil. While most pursue the life of a Spellbreaker for noble reasons, there are some who seek to destroy anyone with the potential to use magic. Most Spellbreakers work in secrecy, only striking when success is a certainty. If a wrong move could end in disintegration, there is no room for error.
 ### Level 3: Mage Breaker
-Your weapons are warded with antimagic enchantments.
-When you hit your Quarry with a weapon attack, it has disadvantage on any subsequent CON Saves to maintain concentration.
+Your weapons are warded with antimagic enchantments. When you hit your Quarry with a weapon attack, it has disadvantage on any subsequent CON Saves to maintain concentration.
 
-Also, whenever you see or hear a creature within your reach attempt to cast a spell, you can use your reaction to make an opportunity attack against it.
+Also, whenever you see or hear a creature within your reach attempt to cast a spell, you can use your Reaction to make an opportunity attack against it.
 
 ### Level 3: Spellsight
 You have learned to see the arcane ability of creatures. When you mark a creature as your Quarry, you learn its Spellcasting ability (if it has one) and the level of the highest spell or spell slot it is able to cast.
 
 If your Quarry is hidden from Divination magic, such as by a [[Nondetection]] spell, it appears as if it cannot cast spells.
 
-### Level 3:
+### Level 3: 
 
 
 
