@@ -451,5 +451,5 @@ Finally, you can add your Quarry Die to any Insight checks that you make.
 ## Wild Insight II
 *Prerequisite: Ranger Level 3, Wild Insight I*
 
-Your bond with the wild allows you to conjure bestial spirits. As an Action you are able to call forth a bestial spirit as though you had cast the [[Find Familiar]] spell. 
+Your bond with the wild allows you to conjure bestial spirits. As an Action, you are able to call forth a bestial spirit as though you had cast the [[Find Familiar]] spell. You can do this once per Long Rest.
 
