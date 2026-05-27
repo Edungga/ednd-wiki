@@ -95,6 +95,12 @@ You gain the following benefits.
 - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
 - **Armor Training**. You gain training with Medium armor.
 
+## Piercer
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+- **Puncture**. Once per turn, when you hit a creature with an attack that deals Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+- **Enhanced Critical**. When you score a Critical Hit that deals Piercing damage to a creature, you can roll one additional damage die when determining the extra Piercing damage the target takes.
+
 ## Resilient
 You gain the following benefits.
 - **Ability Score Increase**. Choose one ability in which you lack saving throw proficiency. Increase the chosen ability score by 1, to a maximum of 20.
@@ -250,22 +256,9 @@ You gain the following benefits:
 Prerequisites: Level 4+, Intelligence or Wisdom 13+
 
 You gain the following benefits.
-- Ability Score Increase. Increase your Intelligence or Wisdom by 1, to a maximum of 20.
-- Keen Observer. Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
-- Quick Search. You can take the Search action as a Bonus Action.
-
-## Piercer
-PHB'24
-p206
-General Feat (Prerequisite: Level 4+)
-
-You gain the following benefits.
-
-Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
-
-Puncture. Once per turn, when you hit a creature with an attack that deals Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
-
-Enhanced Critical. When you score a Critical Hit that deals Piercing damage to a creature, you can roll one additional damage die when determining the extra Piercing damage the target takes.
+- **Ability Score Increase**. Increase your Intelligence or Wisdom by 1, to a maximum of 20.
+- **Keen Observer**. Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
+- **Quick Search**. You can take the Search action as a Bonus Action.
 
 ## Poisoner
 Prerequisite: Level 4+
@@ -276,18 +269,12 @@ You gain the following benefits.
 - **Brew Poison**. You gain proficiency with the Poisoner's Kit. With 1 hour of work using such a kit and expending 50 GP worth of materials, you can create a number of poison doses equal to your Proficiency Bonus. As a Bonus Action, you can apply a poison dose to a weapon or piece of ammunition. Once applied, the poison retains its potency for 1 minute or until you deal damage with the poisoned item, whichever is shorter. When a creature takes damage from the poisoned item, that creature must succeed on a CON Save (DC 8 + INT modifier + Proficiency Bonus) or take 2d8 Poison damage and be [[Conditions#Poisoned (Debuff)|Poisoned (Debuff)]] until the end of your next turn.
 
 ## Polearm Master
-PHB'24
-p206
-General Feat (Prerequisites: Level 4+, Strength or Dexterity 13+)
+Prerequisites: Level 4+, Strength or Dexterity 13+
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Dexterity or Strength by 1, to a maximum of 20.
-
-Pole Strike. Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
-
-Reactive Strike. While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
-
+- **Ability Score Increase**. Increase your Dexterity or Strength by 1, to a maximum of 20.
+- **Pole Strike**. Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
+- **Reactive Strike**. While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
 
 ## Ritual Caster
 PHB'24
