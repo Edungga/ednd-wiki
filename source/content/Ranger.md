@@ -376,7 +376,7 @@ You cannot be tracked, even by magic. You are always under the effects of the [[
 ## Stalker IV
 *Prerequisite: Ranger Level 14, Stalker I, II, III*
 
-Your mythic skill allow you to become undetectable. Any time you take a Hide action, you, and anything you are wearing or carrying, becomes invisible until the start of your next turn.
+Your mythic skill allow you to become undetectable. Any time you take a Hide action, you, and anything you are wearing or carrying, becomes [[Conditions#Invisible (Buff)|Invisible (Buff)]] until the start of your next turn.
 
 This effect instantly ends if you Cast a Spell, or you attack 
 
