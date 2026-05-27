@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Bloodhunter.md",
+                "file": "Rogue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloodhunter"
+              "title": "Rogue"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Bloodhunter.md",
+                "file": "Rogue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bloodhunter"
+              "title": "Backlinks for Rogue"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Bloodhunter.md",
+                "file": "Rogue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bloodhunter"
+              "title": "Outline of Rogue"
             }
           }
         ],
@@ -172,9 +172,11 @@
   },
   "active": "5d1ec92faf8892e2",
   "lastOpenFiles": [
+    "Classes/Fighter.md",
+    "Classes/Illrigger.md",
+    "Classes/Bloodhunter.md",
     "Classes/Ranger.md",
     "Rogue.md",
-    "Classes/Fighter.md",
     "Classes/Warlock.md",
     "index.md",
     "Feats/Feat.md",
@@ -190,8 +192,6 @@
     "Classes/Paladin.md",
     "Classes/Bard.md",
     "Classes/Barbarian.md",
-    "Classes/Bloodhunter.md",
-    "Classes/Illrigger.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
     "Rules/Wild Shapes.md",

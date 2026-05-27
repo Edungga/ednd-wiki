@@ -126,7 +126,7 @@ Whenever you gain a level in this class, you can replace one of the arcane spell
 
 **Spell attack modifier** = Intelligence modifier + Proficiency Bonus
 
-
+### Level 3: Mage Hand Legerdemain
 
 
 ## Assassin

@@ -169,7 +169,7 @@ You augment your martial prowess with the ability to cast spells using the [[Arc
 The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more arcane spells of 1st level or higher. 
 Whenever you gain a level in this class, you can replace one of the arcane spells you know with another spell of your choice from the [[Arcane Spell List]]. The new spell must be of a level for which you have spell slots.
 
-**Spellcasting Ability**. Intelligence is your spellcasting ability for your arcane spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+**Spellcasting Ability**. Intelligence is your spellcasting ability for your arcane spells.
 
 **Spell save DC** = 8 + Intelligence modifier + Proficiency Bonus
 
