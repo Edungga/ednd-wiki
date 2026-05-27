@@ -243,9 +243,7 @@ You gain the following benefits.
  - **Superiority Die**. You gain two superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a Short or Long Rest.
 
 ## Martial Weapon Training
-PHB'24
-p205
-General Feat (Prerequisite: Level 4+)
+Prerequisite: Level 4+
 
 You gain the following benefits.
 
@@ -542,7 +540,7 @@ Prerequisite: Level 4+
 
 You gain the following benefits.
 - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
-- **Mastery Property**. Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
+- **Mastery Property**. Your training with weapons allows you to use the [[Weapon Mastery Properties|Weapon Mastery Property]] of one weapon of your choice you have proficiency with. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
 
 
 # Epic Boons
