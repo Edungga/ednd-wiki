@@ -119,7 +119,8 @@ You gain the improved senses of a natural predator. Add your Hemocraft die to an
 Moreover, whenever you use [[#Level 1 Hunter's Bane|Hunter's Bane]] to analyse a Beast, Monstrosity, or a Shapeshifter, you add your Hemocraft Die to your Check.
 
 ### Level 3: Lycanthopic Curse
-You have been infected with a curse based on a Beast of CR 1 or lower. Once chosen, this Beast cannot be changed.
+You have been infected with a curse based on a Beast of [[Wild Shapes#Band 3|Band 3 or lower]] 
+of CR 1 or lower. Once chosen, this Beast cannot be changed.
 
 As a Bonus Action you can Shapechange into either the Beast or Hybrid form representative of your lycanthropic curse. You revert to your normal form if you are [[#Incapacitated (Condition)]], after 1 hour, or if you choose to as a Bonus Action.
 You can do this once per Short or Long Rest, unless you make a Vital Sacrifice to do so again.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Wild Shapes.md",
+                "file": "Classes/Bloodhunter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wild Shapes"
+              "title": "Bloodhunter"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Wild Shapes.md",
+                "file": "Classes/Bloodhunter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wild Shapes"
+              "title": "Backlinks for Bloodhunter"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Wild Shapes.md",
+                "file": "Classes/Bloodhunter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wild Shapes"
+              "title": "Outline of Bloodhunter"
             }
           }
         ],
@@ -201,9 +201,9 @@
   },
   "active": "38bee9b1898becaf",
   "lastOpenFiles": [
+    "Rules/Wild Shapes.md",
     "Classes/Ranger.md",
     "Druid.md",
-    "Rules/Wild Shapes.md",
     "index.md",
     "Spells/Schools of Magic/Necromancy school.md",
     "Spells/Schools of Magic",
