@@ -194,16 +194,15 @@ Also, whenever you see or hear a creature within your reach attempt to cast a sp
 ### Level 3: Spellsight
 You have learned to see the arcane ability of creatures, granting you the following:
 
-When you mark a creature as your Quarry, you learn its Spellcasting ability (if it has one) and the level of the highest spell or spell slot it is able to cast.
+**Know thy Quarry**. When you mark a creature as your Quarry, you learn its Spellcasting ability (if it has one) and the level of the highest spell or spell slot it is able to cast.
 
 If your Quarry is hidden from Divination magic, such as by a [[Nondetection]] spell, it appears as if it cannot cast spells.
 
-**Magic Detection**. As a Bonus Action, you focus your awareness around you. For 1 minute you can sense the presence of magic within 30ft of yourself.
+**Magic Detection**. As a Bonus Action, you focus your awareness around you. For 1 minute you can sense the presence of magic within 30ft of yourself. If you sense such effects, you can take another Bonus Action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's school of magic.
 
-You can use this a number of times equal to your WIS 
-### Level 3: 
+This is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
-
+You can use this a number of times equal to your WIS modifier (min 1)
 
 ## Wild Warden
 The Wild Warden are the oldest of the Conclaves, drawing their roots for the traditions of Druids. Their spells both complement and extend their combat skills, providing additional protection to and also allowing them to engage many foes at once with devastating magic.
