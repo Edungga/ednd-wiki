@@ -436,21 +436,17 @@ The Traps you create use the following rules:
 
 As an action, the [[Conditions#Restrained (Condition)|Restrained (Condition)]] creature, or a creature within 5 feet, can make a Strength check (DC is your Knack save DC). On a success, the creature is freed and the Trap is destroyed.
 
-**Hiding a Trap**. As an action (separate from setting it), you can hide a Trap. Creatures have disadvantage on their saving throws against Traps if they are unaware of them. To detect a hidden Trap, a creature must make a successful Investigation or Perception check against your Spell save DC.
+**Hiding a Trap**. As an action (separate from setting it), you can hide a Trap. Creatures have disadvantage on their saving throws against Traps if they are unaware of them. To detect a hidden Trap, a creature must make a successful Investigation or Perception check against your Knack save DC.
 
-Trapper II
-
-Prerequisite: 6th-level Ranger, Trapper I
-   Your skills as a Trapper have grown. So long as you have
-               enough natural material and rope, you can craft up
-                      to three Traps in 1 hour, and once you set your
-                          Traps, they last until triggered or destroyed.
+## Trapper II
+*Prerequisite: Ranger Level 6, Trapper I*
+Your skills as a Trapper have grown. So long as you have enough natural material and rope, you can craft up to three Traps in 1 hour, and once you set your Traps, they last until triggered or destroyed.
 
 ## Wild Insight I
 Prerequisite: proficiency in Insight
 You can verbally communicate with and understand Beasts. However, when communicating with a Beast, its awareness and ability to recall knowledge is limited by its Intelligence.
 
-Finally, you can add double your Proficiency Bonus to any Insight checks that you make.
+Finally, you can add your Quarry  to any Insight checks that you make.
 
 Wild Insight II
 
