@@ -53,6 +53,11 @@ You gain the following benefits.
 - **Push**. Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
 - **Enhanced Critical**. When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
 
+## Fey-Touched
+Your exposure to the Feywild's magic grants you the following benefits.
+- **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+- **Fey Step**. You always know the [[Misty Step]] spell. You can this spell without expending a spell slot once per Short Rest or Long Rest. The spells' spellcasting ability is the ability increased by this feat.
+
 ## Fighting Style
 You adopt a particular style of fighting as your speciality. Choose one of the following options: 
 - **Archery**. You gain a +2 bonus to Ranged Weapon Attacks. 
@@ -172,11 +177,6 @@ Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to
 Energy Mastery. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 
 Repeatable. You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
-
-## Fey-Touched
-Your exposure to the Feywild's magic grants you the following benefits.
-- **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-- **Fey Step**. Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the Misty Step spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ## Grappler
 Prerequisites: Level 4+, Strength or Dexterity 13+
