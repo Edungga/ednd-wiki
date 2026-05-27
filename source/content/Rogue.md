@@ -137,7 +137,17 @@ An Assassin's training focuses on using stealth, poison, and disguise to elimina
 You're adept at ambushing a target, granting you the following benefits.
 - **Initiative**. You have Advantage on Initiative rolls.
 - **Surprising Strikes**. During the first round of each combat, you have Advantage on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level.
+
+### Level 3: Assassin's Tools
+You gain a Disguise Kit and a Poisoner's Kit, and you have proficiency with them.
+
+## Inquisitive
+
 ### Level 3: 
+### Level 3: 
+
+
+## Thief
 ### Level 3: 
 ### Level 3: 
 ### Level 3: 
