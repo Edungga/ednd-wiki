@@ -3,7 +3,7 @@ School: Conjuration
 Spell Circle: 1st
 Casting Time: Action
 Range: 90 ft
-Components: V, S, M (a bell and silver wire)
+Components: V, S, M (an amorphous glob worth at least 100 GP)
 Duration: Concentration, up to 1 hour
 Spell List: Arcane
 tags:
@@ -14,13 +14,17 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
 
-| School      | Spell Circle | Casting Time | Range | Components                       | Duration                    | Spell List |
-| ----------- | ------------ | ------------ | ----- | -------------------------------- | --------------------------- | ---------- |
-| Conjuration | 1st          | Action       | 90 ft | V, S, M (a bell and silver wire) | Concentration, up to 1 hour | Arcane     |
+| School      | Spell Circle | Casting Time | Range | Components                                        | Duration                    | Spell List |
+| ----------- | ------------ | ------------ | ----- | ------------------------------------------------- | --------------------------- | ---------- |
+| Conjuration | 1st          | Action       | 90 ft | V, S, M (an amorphous glob worth at least 100 GP) | Concentration, up to 1 hour | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
-You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
+You Summon forth an Oozeling, manifesting it in an unoccupied space that you can see within range. This uses the below stat block.
+
+The creature disappears when it drops to 0 Hit Points or when the spell ends.
+
+The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 **At Higher Levels**. You Summon one additional Oozeling for each spell slot level above 1.
 
