@@ -62,6 +62,9 @@ Casting the Spell doesn't remove it from your Prepared Spells, and you can chang
 
 **Spellcasting Focus**. You can use an Arcane Focus or your Spellbook as a Spellcasting focus for your Wizard Spells.
 
+## Level 1: Ritual Adept
+You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
+
 
 
 
