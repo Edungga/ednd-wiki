@@ -127,7 +127,7 @@ Your damaging cantrips affect even creatures that avoid the brunt of the effect.
 
 ## Haemomancer
 ### Level 3: Necromantic Savant
-Choose two Wizard spells from the Necromancy school, each of which must be no higher than level 2, and add them to your spellbook for free.
+Choose two Wizard spells from the [[Necromancy school]], each of which must be no higher than level 2, and add them to your spellbook for free.
 
 In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Necromancy school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
 ### Level 3: Blood Magic
@@ -137,10 +137,18 @@ You are able to use your own depleted life essence to channel your magical abili
 
 **Bloody Material**. When casting a Wizard Spell that requires a costly material component, you can forego the component by taking 1d10 Necrotic Damage per 50 gp of the cost of the component (min 1d10). 
 
-**Blood for Magic**. As a Bonxpend some Hit Die to recover a Spell Slot of a Level equal to the number of Hit Die spent (max 5th Level). Roll those dice and take that much Necrotic Damage.
+**Blood for Magic**. As a Bonus Action you can expend some Hit Die to recover a Spell Slot of a Level equal to the number of Hit Die spent (max 5th Level). Roll those dice and take that much + your Wizard Level Necrotic Damage.
 
 ## Illusionist
+You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.
+### Level 3: Illusion Savant
+Choose two Wizard spells from the [[Illusion school]], each of which must be no higher than level 2, and add them to your spellbook for free.
 
+In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Illusion school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+### Level 3: Improved Illusions
+You can cast Illusion spells without providing Verbal components, and if an Illusion spell you cast has a range of 10+ feet, the range increases by 60 feet.
+
+You also know the [[Minor Illusion]] cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can create both a sound and an image with a single casting of Minor Illusion, and you can cast it as a Bonus Action.
 
 
 ## Summoner
