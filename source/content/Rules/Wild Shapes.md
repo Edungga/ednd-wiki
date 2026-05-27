@@ -51,17 +51,17 @@ Such as a Badger
 
 ## Crustacean
 
-| Crustacean Wild Shape                                                                                  |
-| ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
-| **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 3 + your Druid level                                                                   |
-| **Speed**: 20ft Walk, 20ft Swim                                                                        |
-| STR 6 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                                            |
-| **Skills** Stealth +2                                                                                  |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
-| **TRAITS**<br>**Amphibious**. The crab can breathe air and water.                                      |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d6+1 Bludgeoning damage. |
+| Crustacean Wild Shape                                                                               |
+| --------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                        |
+| **Armour Class**: 9 + your WIS modifier                                                             |
+| **Hit Points**: 3 + your Druid level                                                                |
+| **Speed**: 20ft Walk, 20ft Swim                                                                     |
+| STR 6 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                                         |
+| **Skills** Stealth +2                                                                               |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                |
+| **TRAITS**<br>**Amphibious**. The crab can breathe air and water.                                   |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d6+1 Piercing damage. |
 
 ## Feline
 
@@ -75,7 +75,7 @@ Such as a Badger
 | **Skills** Perception +3, Stealth +4                                                                                                                                               |
 | **Senses** Darkvision 30 ft., passive Perception 13                                                                                                                                |
 | **TRAITS**<br>**Jumper**. Your jump distance is determined using Dexterity rather than Strength.                                                                                   |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                             |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Slashing damage.                                                                                |
 | **REACTIONS**<br>**Reflexive Fall**. When you fall, you can reduce any falling damage it takes by its Dexterity score (15). If it reduces this damage to 0, you land on your feet. |
 
 ## Frog
@@ -90,7 +90,7 @@ Such as a Badger
 | **Skills** Stealth +3                                                                                                                                                          |
 | **Senses** Darkvision 30 ft., passive Perception 11                                                                                                                            |
 | **TRAITS**<br>Amphibious. You can breathe both air and water.<br><br>**Standing Leap**. You can do a long jump of 10 ft. and a standing jump of 5 ft. without a running start. |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                         |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1 Piercing damage.                                                                                |
 
 
 ## Giant Insect
@@ -236,7 +236,7 @@ Dino Chicken
 | **Skills** Stealth +4                                                                                                                                                                                                                                                                                                                                                  |
 | **Senses** Blindsight 30 ft., passive Perception 12                                                                                                                                                                                                                                                                                                                    |
 | **TRAITS**<br>**Amphibious**. The crab can breathe air and water.<br><br>_**Pincer.**_ When you hit a creature equal to its size (or smaller) with its Beast's Strike, you can automatically [[Conditions#Grappled (Condition)\|Grappled (Condition)]] the target (escape DC 11). While Grappling a target this way, you cannot Multiattack when grappling a creature. |
-| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 3+PB, reach 5 ft. Hit: 1d6+3 Bludgeoning damage.                                                                                                                                                                              |
+| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 3+PB, reach 5 ft. Hit: 1d6+3 Piercing damage.                                                                                                                                                                                 |
 
 Giant Lizard
 Giant Wasp
