@@ -212,7 +212,7 @@ You can channel lunar magic when you assume a Wild Shape form, granting you the 
 
 **Ever-shifting**. While you are Wild Shaped, you can Shapechange into another form as a Bonus Action without expending another [[#Level 2 Primal Surge|Primal Surge]]. Changing forms in this way does not reset the timer for how long you can be Wild Shaped for, the duration is based on when you first Wild Shaped. Similarly, your Hit Points remain the same when Shapechanging this way.
 
-**Stronger Forms**. The CR limit for your [[Wild Shapes#|Wild Shape]] Beast forms increases as below. 
+**Stronger Forms**. The Band limit for your [[Wild Shapes#|Wild Shape]] Beast forms increases as below. 
 
 | Druid Level | Known Forms | Band | Fly Speed |
 | ----------- | ----------- | ---- | --------- |
