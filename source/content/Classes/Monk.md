@@ -172,7 +172,7 @@ Once per turn in place of an attack, you can expend 1 Ki to touch a creature and
 
 **Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
 #### Rage Fist
-Spend 1 
+Spend 1 Ki to perform the the [[Monk#Flurry of Blows|Flurry of Blows]] technique. Your future Rage Fist techniques against that target deal PB additional points of damage
 #### Seeking Strike
 Your spirit can guide your strikes if your body fails. Whenever you miss with a Monk Weapon attack, you can spend 1 Ki to roll your attack again, but you must use the new result.
 
@@ -226,4 +226,4 @@ You gain Darkvision with a range of 60 feet. If you already have Darkvision, its
 #### Displacement
 When targeted by an Attack or subjected to an effect that requires you to make a DEX Save, as a Reaction spend 1 Ki Point and Teleport up to 30ft to an unoccupied space, possibly escaping the range of line of effect.
 #### Shadowy Figments
-You know the [[Minor Illusion]] Cantrip, it counts as a [[#Forms|Form]] for you.
+You know the [[Minor Illusion]] Cantrip, it counts as a [[#Forms|Form]] for yo
