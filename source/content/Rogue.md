@@ -87,3 +87,48 @@ When an attacker that you can see hits you with an attack roll, you can take a R
 
 ---
 # Roguish Archetypes
+## Arcane Trickster
+Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.
+### Level 3: Spellcasting
+
+| Fighter Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+| ------------- | -------------- | ------------ | --- | --- | --- | --- |
+| 3rd           | 2              | 3            | 2   | -   | -   | -   |
+| 4th           | 2              | 4            | 3   | -   | -   | -   |
+| 5th           | 2              | 4            | 3   | -   | -   | -   |
+| 6th           | 2              | 4            | 3   | -   | -   | -   |
+| 7th           | 2              | 5            | 4   | 2   | -   | -   |
+| 8th           | 2              | 6            | 4   | 2   | -   | -   |
+| 9th           | 2              | 6            | 4   | 2   | -   | -   |
+| 10th          | 3              | 7            | 4   | 3   | -   | -   |
+| 11th          | 3              | 8            | 4   | 3   | -   | -   |
+| 12th          | 3              | 8            | 4   | 3   | -   | -   |
+| 13th          | 3              | 9            | 4   | 3   | 2   | -   |
+| 14th          | 3              | 10           | 4   | 3   | 2   | -   |
+| 15th          | 4              | 10           | 4   | 3   | 2   | -   |
+| 16th          | 4              | 11           | 4   | 3   | 3   | -   |
+| 17th          | 4              | 11           | 4   | 3   | 3   | -   |
+| 18th          | 4              | 11           | 4   | 3   | 3   | -   |
+| 19th          | 4              | 12           | 4   | 3   | 3   | 1   |
+| 20th          | 4              | 13           | 4   | 3   | 3   | 1   |
+
+**Cantrips**. You learn two cantrips of your choice from the [[Arcane Spell List]]. You learn an additional cantrip of your choice at 10th level and another at 15th level.
+
+**Spell Slots**. The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your Arcane Spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+**Spells Known of 1st-Level and Higher**. You know three 1st-level Arcane spells of your choice.
+The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more arcane spells of 1st level or higher. 
+Whenever you gain a level in this class, you can replace one of the arcane spells you know with another spell of your choice from the [[Arcane Spell List]]. The new spell must be of a level for which you have spell slots.
+
+**Spellcasting Ability**. Intelligence is your spellcasting ability for your arcane spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + Intelligence modifier + Proficiency Bonus
+
+**Spell attack modifier** = Intelligence modifier + Proficiency Bonus
+
+
+
+
+## Assassin
+
+

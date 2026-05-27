@@ -172,8 +172,9 @@
   },
   "active": "5d1ec92faf8892e2",
   "lastOpenFiles": [
-    "Classes/Ranger.md",
+    "Classes/Fighter.md",
     "Rogue.md",
+    "Classes/Ranger.md",
     "Classes/Warlock.md",
     "index.md",
     "Feats/Feat.md",
@@ -185,7 +186,6 @@
     "Spells/Spells.md",
     "Spells/All Spells List.md",
     "Spells/Arcane Spell List.md",
-    "Classes/Fighter.md",
     "Druid.md",
     "Classes/Paladin.md",
     "Classes/Bard.md",
