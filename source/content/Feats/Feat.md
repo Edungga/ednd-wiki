@@ -120,7 +120,8 @@ You gain the following benefits.
 - **Jumping**. You can make a running Long or High Jump after moving only 5 feet.
 
 ## Charger
-Prerequisites: Level 4+, Strength or Dexterity 13+
+*Prerequisites: Level 4+, Strength or Dexterity 13+*
+
 You gain the following benefits.
 - Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
 - Improved Dash. When you take the Dash action, your Speed increases by 10 feet for that action.
@@ -160,30 +161,21 @@ You gain the benefits below:
 - **Trap Sense**. You have advantage on all saving throws to resist traps and Resistance to all damage dealt by traps.
 
 ## Durable
-PHB'24
-p203
-General Feat (Prerequisite: Level 4+)
+*Prerequisite: Level 4+*
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Constitution score by 1, to a maximum of 20.
-
-Defy Death. You have Advantage on Death Saving Throws.
-
-Speedy Recovery. As a Bonus Action, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
+- **Ability Score Increase**. Increase your Constitution score by 1, to a maximum of 20.
+- **Defy Death**. You have Advantage on Death Saving Throws.
+- **Speedy Recovery**. As a Bonus Action, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
 
 ## Elemental Adept
-PHB'24
-p203
-General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature)
+Prerequisites: Level 4+; Spellcasting or Pact Magic Feature
 
 You gain the following benefits.
+- **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+- **Energy Mastery**. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 
-Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-
-Energy Mastery. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
-
-Repeatable. You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
+**Repeatable**. You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
 
 ## Great Weapon Master
 *Prerequisites: Level 4+, Strength 13+*
