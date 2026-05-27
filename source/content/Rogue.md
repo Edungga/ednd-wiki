@@ -17,3 +17,18 @@ Tool Proficiencies: Thieves' Tools
 Armor Training: Light armor
 
 ---
+# Class Features
+
+| Level | Proficiency Bonus | Sneak Attack | Features                                |
+| ----- | ----------------- | ------------ | --------------------------------------- |
+| 1st   | +2                | 1d6          | Expertise, Sneak Attack, Weapon Mastery |
+| 2nd   | +2                | 1d6          | Cunning Action                          |
+| 3rd   | +2                | 2d6          | Roguish Archetype, Steady Aim           |
+| 4th   | +2                | 2d6          | Feat / ASI                              |
+| 5th   | +3                | 3d6          | Cunning Strike, Uncanny Dodge           |
+
+
+
+
+---
+# Roguish Archetypes
