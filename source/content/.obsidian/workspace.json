@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "SPELL-TEMPLATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "SPELL-TEMPLATE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "SPELL-TEMPLATE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for SPELL-TEMPLATE"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "SPELL-TEMPLATE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of SPELL-TEMPLATE"
             }
           }
         ],
@@ -172,10 +172,10 @@
   },
   "active": "38bee9b1898becaf",
   "lastOpenFiles": [
+    "index.md",
     "Classes/Ranger.md",
     "Rules/Wild Shapes.md",
     "Classes/Druid.md",
-    "index.md",
     "Classes/Bloodhunter.md",
     "Spells/Schools of Magic/Necromancy school.md",
     "Spells/Schools of Magic",
