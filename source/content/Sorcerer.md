@@ -146,14 +146,12 @@ You can use Seeking Spell even if you've already used a different Metamagic opti
 ## Subtle Spell
 *Cost: 1 Sorcery Point*
 
-When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
+When you cast a Spell, you can cast it without any Somatic or Verbal Components
 ## Transmuted Spell
-
-Cost: 1 Sorcery Point
+*Cost: 1 Sorcery Point*
 
 When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
-Twinned Spell PHB'24 p142
+## Twinned Spell
+*Cost: X Sorcery Points*
 
-Cost: 1 Sorcery Point
-
-When you cast a spell, such as Charm Person, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+When you cast a Spell that can be cast at a higher Level to target one additional creature, you can target X additional creatures.
