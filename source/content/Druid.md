@@ -77,7 +77,7 @@ The power of nature allows you to assume the form of an animal. As a Bonus Actio
 
 You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]], or your form drops to 0 hit points. You can also leave the form early as a Bonus Action.
 
-**Known Forms**. You know four Beast forms for this feature, chosen from among [[Wild Shapes]] CR 1/4 that lack a Fly Speed. 
+**Known Forms**. You know four Beast forms for this feature, chosen from among [[Wild Shapes#Band 1]] that lack a Fly Speed. 
 
 When you reach certain Druid levels, your number of known forms and the max CR for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 
@@ -212,16 +212,15 @@ You can channel lunar magic when you assume a Wild Shape form, granting you the 
 
 **Ever-shifting**. While you are Wild Shaped, you can Shapechange into another form as a Bonus Action without expending another [[#Level 2 Primal Surge|Primal Surge]]. Changing forms in this way does not reset the timer for how long you can be Wild Shaped for, the duration is based on when you first Wild Shaped. Similarly, your Hit Points remain the same when Shapechanging this way.
 
-**Stronger Forms**. The Band limit for your [[Wild Shapes#|Wild Shape]] Beast forms increases as below. 
+**Stronger Forms**. The Band limit for your [[Wild Shapes#|Wild Shape]] Beast forms increases as below. Forms known and Fly Speed restriction remain
 
-| Druid Level | Known Forms | Band | Fly Speed |
-| ----------- | ----------- | ---- | --------- |
-| 2           | 4           | 1    | No        |
-| 4           | 6           | 2    | No        |
-| 8           | 8           | 3    | Yes       |
-| 12          | 10          | 4    | Yes       |
-| 16          | 12          | 5    | Yes       |
-| 19          | 14          | 6    | Yes       |
-
+| Druid Level | Band |
+| ----------- | ---- |
+| 3           | 4    |
+| 6           | 5    |
+| 9           | 6    |
+| 12          | 7    |
+| 15          | 8    |
+| 18          | 9    |
 
 ## Grove of Spores
