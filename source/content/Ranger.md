@@ -411,14 +411,13 @@ Time in the wild has honed your skills. You gain proficiency in two skills of yo
 ## Survivor I
 *Prerequisite: Ranger Level 6*
 
-Your time in the wilds has hardened your body. As a bonus action on your turn, you can grant yourself temporary hit points equal to your Constitution
-modifier (minimum of 1).
+Your time in the wilds has hardened your body. As a bonus action on your turn, you can grant yourself temporary hit points equal to Quarry Die + CON modifier (minimum of 1).
 
 
-Survivor II
+## Survivor II
+*Prerequisite: Ranger Level 9, Survivor I*
 
-Prerequisite: 9th-level Ranger, Survivor I
-Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional hit points equal to your Wisdom modifier (minimum of 1 hit point).
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional hit points equal to your WIS modifier (minimum of 1 hit point).
 
 Survivor III
 
