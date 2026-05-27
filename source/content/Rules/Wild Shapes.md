@@ -246,19 +246,19 @@ Reef Shark
 Snake
 
 ## Ursine
-| Ursine Wild Shape                                                                                      |
-| ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
-| **Armour Class**: 8 + your WIS modifier                                                                |
-| **Hit Points**: 20 + your Druid level                                                                  |
-| **Speed**: 40ft Walk, 30ft Climb                                                                       |
-| STR 15 (+2)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                           |
-| **Skills** Perception +5                                                                               |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
-| **TRAITS**<br>**test**.                                                                                |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                                         |
-| **REACTIONS**<br>**test**.                                                                             |
+| Ursine Wild Shape                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                                                                              |
+| **Armour Class**: 8 + your WIS modifier                                                                                                                                                   |
+| **Hit Points**: 20 + your Druid level                                                                                                                                                     |
+| **Speed**: 40ft Walk, 30ft Climb                                                                                                                                                          |
+| STR 15 (+2)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                                                                                                              |
+| **Skills** Perception +5                                                                                                                                                                  |
+| **Senses** Darkvision 120 ft., passive Perception 15                                                                                                                                      |
+| **TRAITS**<br>**test**.                                                                                                                                                                   |
+| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                                                                                                            |
+| **REACTIONS**<br>**test**.                                                                                                                                                                |
 
 # Band 3
 Equivalent of CR 1
