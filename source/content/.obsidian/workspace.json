@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "SPELL-TEMPLATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "SPELL-TEMPLATE"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "SPELL-TEMPLATE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spells"
+              "title": "Backlinks for SPELL-TEMPLATE"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "SPELL-TEMPLATE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of SPELL-TEMPLATE"
             }
           }
         ],
@@ -185,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "f41b2a0659b23708",
   "lastOpenFiles": [
+    "Spells/Spells.md",
     "Spells/1st Circle Spells",
     "Spells/1st Circle Spells/Absorb Elements.md",
     "SPELL-TEMPLATE.md",
@@ -221,7 +222,6 @@
     "The Setting/Higher Powers/Great Old Ones",
     "The Setting/Higher Powers/Elemental Powers",
     "The Setting/Higher Powers/Fiends",
-    "The Setting/Higher Powers/Fathomless Beings",
-    "The Setting/Higher Powers/Archfae"
+    "The Setting/Higher Powers/Fathomless Beings"
   ]
 }
