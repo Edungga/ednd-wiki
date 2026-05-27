@@ -1,11 +1,11 @@
 ---
 School: Conjuration
 Spell Circle: 1st
-Casting Time:
-Range:
-Components:
-Duration:
-Spell List:
+Casting Time: Action
+Range: 120 ft
+Components: V,S
+Duration: Concentration, up to 1 hour
+Spell List: Arcane, Primal
 tags:
   - Spell
 ---
@@ -14,16 +14,13 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
 
-| School | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
-| ------ | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
-| \-     | 1st          | \-           | \-    | \-         | \-       | \-         |
+| School      | Spell Circle | Casting Time | Range  | Components | Duration                    | Spell List     |
+| ----------- | ------------ | ------------ | ------ | ---------- | --------------------------- | -------------- |
+| Conjuration | 1st          | Action       | 120 ft | V,S        | Concentration, up to 1 hour | Arcane, Primal |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
-You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
+You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by [[Gust of Wind]]) disperses it.
 
-**At Higher Levels**. The damage increases by 1d6 for each spell slot level above 1.
-You can affect one additional creature for each spell slot level above 1.
+**At Higher Levels**. The fog's radius increases by 20 feet for each spell slot level above 1.
 
-https://docs.google.com/document/d/1nFVGJQXMdQmXJjixuuN7HvYGkoJsric7H6iE2ljMsPA/edit?tab=t.0#heading=h.fjpogu53q1mx
-https://5e.tools/spells.html#fog%20cloud_xphb
