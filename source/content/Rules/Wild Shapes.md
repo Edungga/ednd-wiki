@@ -104,23 +104,23 @@ Such as a Badger
 | STR 5 (-3)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Senses** Blindsight 30ft., passive Perception 12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **TRAITS**<br>**Venom** (Once per Wild Shape). When you hit with Beast's Strike, you can force the target to make a CON Save against your Spell save DC. On a failure, it takes 3d6 poison damage and is [[Conditions#Poisoned (Debuff)\|Poisoned (Debuff)]]. On a success, it only takes half damage and isnt poisoned.<br><br>A Poisoned creature repeats this saving throw at the end of each of its turns, ending the effect on a success. On a failure, it takes 1d6 poison damage. If this reduces it to 0 hit points, it is stable, but Paralyzed, while at 0 hit points. |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 ## Giant Spider
 
-| Wild Shape                                                                                             |
-| ------------------------------------------------------------------------------------------------------ |
-| *Medium Beast*                                                                                         |
-| **Armour Class**: 10 + your WIS modifier                                                               |
-| **Hit Points**: 10 + your Druid level                                                                  |
-| **Speed**: 40ft Walk, 40ft Climb                                                                       |
-| STR 12 (+1)  \|  DEX 16 (+3)  \|  CON 13 (+1)                                                          |
-| **Skills** Perception +3, Stealth +7                                                                   |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
-| **TRAITS**<br>**test**.                                                                                |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                                         |
-| **REACTIONS**<br>**test**.                                                                             |
+| Wild Shape                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| *Medium Beast*                                                                                                                    |
+| **Armour Class**: 10 + your WIS modifier                                                                                          |
+| **Hit Points**: 10 + your Druid level                                                                                             |
+| **Speed**: 40ft Walk, 40ft Climb                                                                                                  |
+| STR 12 (+1)  \|  DEX 16 (+3)  \|  CON 13 (+1)                                                                                     |
+| **Skills** Perception +3, Stealth +7                                                                                              |
+| **Senses** Blindsight 10ft, Darkvision 60 ft., passive Perception 13                                                              |
+| **TRAITS**<br>**Spider Climb**. Can climb difficult surfaces, including along ceilings, without needing to make an ability check. |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                            |
+| **BONUS ACTIONS**<br>**test**.                                                                                                    |
+| **REACTIONS**<br>**test**.                                                                                                        |
 
 ## Large Cat
 
