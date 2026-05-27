@@ -51,8 +51,8 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 ### Ki
 **Ki Points**. Your spiritual power is represented by a pool of Ki, equal to your Monk level + your Wisdom modifier (a minimum of 0). 
 **Spending Ki**. You can only expend Ki on one feature or Technique per attack, ability check, reaction, or saving throw.
-Regain
-
+**Regaining Ki**. You regain all expended Ki, when you finish a Short or Long Rest.
+### Techniques Known
 
 
 You can expend these points to enhance or fuel certain Monk features known as [[#Forms|Forms]]. You start by knowing the three [[#Basic Forms|Basic Forms]]: [[#Flurry of Blows|Flurry of Blows]], [[#Patient Defense|Patient Defense]], and [[#Step of the Wind|Step of the Wind]].
@@ -137,8 +137,8 @@ You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long R
 
 
 ---
-# Forms
-You Monk abilities fuelled by [[#Level 2 Ki|Ki]]
+# Mystic Techniques
+You Monk abilities fuelled by [[#Ki|Ki]]
 ## Basic Forms
 ### Flurry of Blows
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
