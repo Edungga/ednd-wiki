@@ -31,7 +31,7 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 5th   | +3                | -                              | 5        | 9            | 32             | 3rd         | 3               |
 
 ## Level 1 Sorcerous Origin
-Your very soul bears an innate spark of arcane magic. Choose a [[Sorcerer]], which describes the source of your innate magical power. Your choice grants you features at certain Sorcerer Levels.
+Your very soul bears an innate spark of arcane magic. Choose a [[Sorcerer#Sorcerous Origins|Sorcerous Origin]], which describes the source of your innate magical power. Your choice grants you features at certain Sorcerer Levels.
 
 ## Level 1: Spellcasting
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
@@ -67,6 +67,8 @@ Additionally, when you gain a level in this class, you can choose one of the Arc
 **Spellcasting Focus**. Your body is your spellcasting focus for your Sorcerer spells. You must have a free hand to cast spells that require somatic or material components, and you must still provide material components that are consumed by a spell or have a gold cost.
 
 
+## Level 2: Metamagic
+
 
 
 
@@ -77,10 +79,7 @@ Additionally, when you gain a level in this class, you can choose one of the Arc
 
 ---
 # Sorcerous Origins
-
-
-
----
+## Draconic
 
 
 
