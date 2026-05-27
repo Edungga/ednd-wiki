@@ -234,9 +234,9 @@ Dino Chicken
 | **Armour Class**: 12 + your WIS modifier                                                                                                                                                  |
 | **Hit Points**: 15 + your Druid level                                                                                                                                                     |
 | **Speed**: 30ft Walk, 30ft Swim                                                                                                                                                           |
-| STR 17 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                                                                                                                              |
-| **Skills** Stealth +2                                                                                                                                                                     |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                      |
+| STR 16 (+3)  \|  DEX 12 (+1)  \|  CON 12 (+1)                                                                                                                                             |
+| **Skills** Stealth +4                                                                                                                                                                     |
+| **Senses** Blindsight 30 ft., passive Perception 12                                                                                                                                       |
 | **TRAITS**<br>**Amphibious**. The crab can breathe air and water.                                                                                                                         |
 | **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d6+1 Bludgeoning damage. |
 
