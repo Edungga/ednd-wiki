@@ -122,7 +122,7 @@ Such as a Badger
 
 ## Large Cat
 
-| Wild Shape                                                                                                                                                                                                                                                                                              |
+| Large Cat Wild Shape                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Medium Beast*                                                                                                                                                                                                                                                                                          |
 | **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                                                                                                 |
@@ -151,17 +151,17 @@ Such as a Badger
 
 ## Pack Hound
 
-| Wild Shape                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------- |
-| *Tiny Beast*                                                                                                                 |
-| **Armour Class**: 9 + your WIS modifier                                                                                      |
-| **Hit Points**: 2 + your Druid level                                                                                         |
-| **Speed**: 40ft Walk                                                                                                         |
-| STR 14 (+2)  \|  DEX 15 (+2)  \|  CON 12 (+1)                                                                                |
-| **Skills**                                                                                                                   |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                                         |
-| **TRAITS**<br>Pack Tactics. Have advantage on its attack rolls if a conscious allied creature is within 5 ft. of its target. |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                       |
+| Pack Hound Wild Shape                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Medium Beast*                                                                                                                                                                                                                                                                                                                        |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                                                                                                                                                                               |
+| **Hit Points**: 2 + your Druid level                                                                                                                                                                                                                                                                                                  |
+| **Speed**: 40ft Walk                                                                                                                                                                                                                                                                                                                  |
+| STR 14 (+2)  \|  DEX 15 (+2)  \|  CON 12 (+1)                                                                                                                                                                                                                                                                                         |
+| **Skills** Perception +3, Stealth +4, Survival +3                                                                                                                                                                                                                                                                                     |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                                                                                                                                                                  |
+| **TRAITS**<br>**Pack Tactics**. Have advantage on its attack rolls if a conscious allied creature is within 5 ft. of its target.<br><br>**Strong Jaws**. If you hit a target equal to its size (or smaller) with your Beast's Strike, it can Grapple it in its jaws (escape DC 11), but the Wolf can't use its Bite on other targets. |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                                                                                                                                                                                |
 
 ## Spider
 
