@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Healing Word.md",
+                "file": "SPELL-TEMPLATE 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Healing Word"
+              "title": "SPELL-TEMPLATE 1"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Healing Word.md",
+                "file": "SPELL-TEMPLATE 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Healing Word"
+              "title": "Backlinks for SPELL-TEMPLATE 1"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Healing Word.md",
+    "SPELL-TEMPLATE 1.md",
     "Spells/1st Circle Spells/Hail of Thorns.md",
-    "Healing Word.md",
     "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Guiding Bolt.md",
     "Spells/1st Circle Spells/Grease.md",
@@ -225,7 +226,6 @@
     "Spells/1st Circle Spells/Disguise Self.md",
     "Spells/1st Circle Spells/Detect Poison and Disease.md",
     "Spells/1st Circle Spells/Detect Magic.md",
-    "Spells/1st Circle Spells/Detect Evil and Good.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
