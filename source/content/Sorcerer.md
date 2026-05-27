@@ -25,8 +25,8 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | Level | Proficiency Bonus | Features                       | Cantrips | Spells Known | Sorcery Points | Spell Limit | Metamagic Known |
 | ----- | ----------------- | ------------------------------ | -------- | ------------ | -------------- | ----------- | --------------- |
 | 1st   | +2                | Spellcasting, Sorcerous Origin | 4        | 2            | 4              | 1st         | -               |
-| 2nd   | +2                | Metamagic                      | 4        | 4            | 6              | 1st         | 2               |
-| 3rd   | +2                | Sorcerous Origin Feature       | 4        | 6            | 14             | 2nd         | 2               |
+| 2nd   | +2                | Metamagic                      | 4        | 4            | 8              | 1st         | 2               |
+| 3rd   | +2                | Sorcerous Origin Feature       | 4        | 6            | 16             | 2nd         | 2               |
 | 4th   | +2                | Feat / ASI                     | 5        | 7            | 17             | 2nd         | 2               |
 | 5th   | +3                | Arcane Recharge                | 5        | 9            | 27             | 3rd         | 3               |
 
