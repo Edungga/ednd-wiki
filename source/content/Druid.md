@@ -81,11 +81,14 @@ You stay in that form for a number of hours equal to half your Druid level or un
 
 When you reach certain Druid levels, your number of known forms and the max CR for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 
-| Druid Level | Known Forms | Max CR | Fly Speed |
-| ----------- | ----------- | ------ | --------- |
-| 2           | 4           | 1/4    | No        |
-| 4           | 6           | 1/2    | No        |
-| 8           | 8           | 1      | Yes       |
+| Druid Level | Known Forms | Band | Fly Speed |
+| ----------- | ----------- | ---- | --------- |
+| 2           | 4           | 1    | No        |
+| 4           | 6           | 2    | No        |
+| 8           | 8           | 3    | Yes       |
+| 12          | 10          |      |           |
+| 16          | 12          |      |           |
+| 20          | 15          |      |           |
 
 **Rules While Shapechanged**. While in a Beast form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
