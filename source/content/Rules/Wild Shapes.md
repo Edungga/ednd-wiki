@@ -161,7 +161,7 @@ Such as a Badger
 | **Skills** Acrobatics +6, Sleight of Hand +4                                                                                                                                |
 | **Senses** Passive Perception 11                                                                                                                                            |
 | **TRAITS**<br>**Opposable Thumbs**. The Baboon can manipulate tools and objects as well as a Commoner, though it cannot wield weapons, shields, or complex artisan's tools. |
-| **ACTIONS**<br>**Bite**. Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage.                                                                               |
+| **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage.                                                                             |
 
 ## Pack Hound
 
