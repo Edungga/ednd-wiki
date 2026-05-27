@@ -88,7 +88,7 @@ When you reach certain Druid levels, your number of known forms and the max CR f
 | 8           | 8           | 3    | Yes       |
 | 12          | 10          | 4    | Yes       |
 | 16          | 12          | 5    | Yes       |
-| 20          | 14          | 6    | Yes       |
+| 19          | 14          | 6    | Yes       |
 
 **Rules While Shapechanged**. While in a Beast form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
@@ -210,10 +210,18 @@ Changeable as the moon, a Druid of this circle might prowl as a great cat one ni
 ### Level 3: Grove of Shifters
 You can channel lunar magic when you assume a Wild Shape form, granting you the benefits below.
 
-**Stronger Forms**. The CR limit for your [[Wild Shapes#|Wild Shape]] Beast forms increases to be your Druid level divided by 3 (round down). 
-
 **Ever-shifting**. While you are Wild Shaped, you can Shapechange into another form as a Bonus Action without expending another [[#Level 2 Primal Surge|Primal Surge]]. Changing forms in this way does not reset the timer for how long you can be Wild Shaped for, the duration is based on when you first Wild Shaped. Similarly, your Hit Points remain the same when Shapechanging this way.
 
+**Stronger Forms**. The CR limit for your [[Wild Shapes#|Wild Shape]] Beast forms increases as below. 
+
+| Druid Level | Known Forms | Band | Fly Speed |
+| ----------- | ----------- | ---- | --------- |
+| 2           | 4           | 1    | No        |
+| 4           | 6           | 2    | No        |
+| 8           | 8           | 3    | Yes       |
+| 12          | 10          | 4    | Yes       |
+| 16          | 12          | 5    | Yes       |
+| 19          | 14          | 6    | Yes       |
 
 
 ## Grove of Spores
