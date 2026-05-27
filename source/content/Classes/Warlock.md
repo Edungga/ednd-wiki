@@ -549,7 +549,7 @@ Prerequisite: Level 9
 
 You can cast [[Arcane Eye]] at will, without expending a Spell Slot.
 
-### Voice of the Chain Master
+## Voice of the Chain Master
 *Prerequisite: Pact of the Chain feature*
 
 You can communicate telepathically with your Familiar and perceive through your Familiar's senses as long as you are on the same plane of existence. 
