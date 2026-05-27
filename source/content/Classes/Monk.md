@@ -145,6 +145,8 @@ You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 
 When you roll Initiative, you can regain all expended Ki. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
+### Grade 2
+*Prerequisite: Monk Level 5*
 
 ## Elemental Ki Forms
 *Prerequisite: [[Monk#Way of the Elements|Way of the Elements]]*
@@ -176,7 +178,7 @@ As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move
 ## Shadows Ki Forms
 *Prerequisite: [[Monk#Way of the Shadow|Way of the Shadow]]*
 ### Grade 1
-
+*Prerequisite: N/A*
 #### Conjured Shuriken
 As an Action, spend 1 Ki Point to throw a shuriken of solid Ki towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Force Damage.
 #### Darkness
