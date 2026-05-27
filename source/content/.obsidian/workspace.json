@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detect Evil and Good.md",
+                "file": "Spells/1st Circle Spells/Detect Evil and Good.md",
                 "mode": "source",
                 "source": false
               },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detect Evil and Good.md",
+                "file": "Spells/1st Circle Spells/Detect Evil and Good.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Detect Evil and Good.md",
+                "file": "Spells/1st Circle Spells/Detect Evil and Good.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54baa124d85df1d3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Spells/Cure Wounds.md",
-    "Detect Evil and Good.md",
+    "Spells/1st Circle Spells/Detect Evil and Good.md",
     "Spells/1st Circle Spells/Create or Destroy Water.md",
     "Spells/1st Circle Spells/Summon Oozelings.md",
     "SPELL-TEMPLATE.md",
