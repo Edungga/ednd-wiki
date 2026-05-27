@@ -332,15 +332,16 @@ Finally, you can add your Quarry Die to any Nature checks that you make.
 ## Naturalist II
 *Prerequisite: Ranger Level 9, Naturalist I*
 
-Your understanding grants you a mystical connection to the natural world. At the end of each short or long rest, you gain benefits as if you had cast the commune with nature spell.
+Your understanding grants you a mystical connection to the natural world. At the end of each short or long rest, you gain benefits as if you had cast the [[Commune with Nature]] spell.
 
 ## Primeval Awareness
 As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
 
-https://www.gmbinder.com/share/-M7iu19Af89SH2G_5RGa#p6
-
-
 ## Stalker I
+*Prerequisite: Ranger Level 3, proficiency in Perception*
 
+When you hit a creature with an attack, you can mark it as your Quarry, expending a use of Ranger's Quarry as normal, and applying the bonus damage and other benefits on hit.
+
+Finally, you can add your Quarry Die to any Perception checks that you make.
 
 ## Wild Insight I
