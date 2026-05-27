@@ -59,7 +59,14 @@ When you reach certain Rogue levels, you gain the ability to use the mastery pro
 ## Level 2: Cunning Action
 Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
 
+## Level 3: Roguish Archetype
+You choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at certain Rogue Levels.
 
+## Level 3: 
+
+
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
 
 
