@@ -126,25 +126,28 @@ You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long R
 # Mystic Techniques
 You Monk abilities fuelled by [[Monk#Ki|Ki]]
 ## Basic Forms
-### Deflect Missiles
+### Grade 1
+There is no prerequisite for these forms
+#### Deflect Missiles
 You can use your Reaction to deflect or catch the missile when you are hit by a Ranged Weapon Attack. When you do so, the Damage you take from the Attack is reduced by 1d10 + your DEX modifier + your Monk level.
 
 If you reduce the Damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 Ki to make a Ranged Attack with a Range of 30/60 using the Weapon or piece of Ammunition you just caught, as part of the same Reaction. 
 You make this Attack with Proficiency, regardless of your Weapon Proficiencies, and the missile counts as a Monk Weapon for the Attack.
-### Flurry of Blows
+#### Flurry of Blows
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
-### Patient Defense
+#### Patient Defense
 You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
-### Slow Fall
+#### Slow Fall
 You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
-### Step of the Wind
+#### Step of the Wind
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
-### Uncanny Metabolism
+#### Uncanny Metabolism
 When you roll Initiative, you can regain all expended Ki. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ## Elemental Ki Forms
+Prerequisite: [[Monk#Way of the Elements|Way of the Elements]]
 ### Grade 1
 #### Boulder Toss
 As an Action, you can spend 1 Ki point to launch a large rock towards a creature you can see within 30ft, make a Ranged Attack against the target. On a hit, it takes 2 Martial Arts Die + WIS modifier Bludgeoning Damage.
