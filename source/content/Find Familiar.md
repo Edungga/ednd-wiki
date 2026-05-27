@@ -1,5 +1,5 @@
 ---
-School:
+School: Conjuration
 Spell Circle: 1st
 Casting Time:
 Range:
