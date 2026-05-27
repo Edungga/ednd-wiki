@@ -44,6 +44,11 @@ We also have some Home Rules to spice things up a bit
 
 ---
 # Home-Rules
-## Resting
+
 Short Rests - 5 minutes but a limit of 2 per Long Rest
+
+[[Concordance]] - beseech a higher power
+
+- my own [[Wild Magic Table]]
+- 
 

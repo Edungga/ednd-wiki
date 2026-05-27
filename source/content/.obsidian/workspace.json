@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wild Magic Table.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wild Magic Table"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wild Magic Table.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wild Magic Table"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wild Magic Table.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wild Magic Table"
+              "title": "Outline of index"
             }
           }
         ],
@@ -170,11 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d1ec92faf8892e2",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Rules/Wild Magic Table.md",
     "Concordance.md",
-    "Wild Magic Table.md",
-    "Sorcerer.md",
+    "Classes/Sorcerer.md",
     "Druid.md",
     "index.md",
     "Classes/Warlock.md",
