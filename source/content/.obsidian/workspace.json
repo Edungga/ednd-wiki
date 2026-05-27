@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create or Destroy Water.md",
+                "file": "Cure Wounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create or Destroy Water"
+              "title": "Cure Wounds"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create or Destroy Water.md",
+                "file": "Cure Wounds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Create or Destroy Water"
+              "title": "Backlinks for Cure Wounds"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create or Destroy Water.md",
+                "file": "Cure Wounds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Create or Destroy Water"
+              "title": "Outline of Cure Wounds"
             }
           }
         ],
@@ -201,8 +201,9 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Create or Destroy Water.md",
+    "Cure Wounds.md",
     "Spells/1st Circle Spells/Summon Oozelings.md",
-    "Create or Destroy Water.md",
     "SPELL-TEMPLATE.md",
     "Find Familiar.md",
     "Spells/Spells.md",
@@ -226,7 +227,6 @@
     "Feats/Feat.md",
     "Spells/1st Circle Spells/Armour of The Forest Bearer.md",
     "Spells/1st Circle Spells/Animal Friendship.md",
-    "Spells/1st Circle Spells/Alarm.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",

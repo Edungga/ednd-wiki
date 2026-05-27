@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 30 ft
 Components: V, S, M (a mix of water and sand)
 Duration: Instantaneous
-Spell List:
+Spell List: Divine, Primal
 tags:
   - Spell
 ---
@@ -14,9 +14,9 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
 
-| School        | Spell Circle | Casting Time | Range | Components                        | Duration      | Spell List |
-| ------------- | ------------ | ------------ | ----- | --------------------------------- | ------------- | ---------- |
-| Transmutation | 1st          | Action       | 30 ft | V, S, M (a mix of water and sand) | Instantaneous | \-         |
+| School        | Spell Circle | Casting Time | Range | Components                        | Duration      | Spell List     |
+| ------------- | ------------ | ------------ | ----- | --------------------------------- | ------------- | -------------- |
+| Transmutation | 1st          | Action       | 30 ft | V, S, M (a mix of water and sand) | Instantaneous | Divine, Primal |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
