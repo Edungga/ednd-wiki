@@ -4,19 +4,6 @@
 
 **Initiative Swap**. Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.
 
-## Fighting Style
-You adopt a particular style of fighting as your speciality. Choose one of the following options: 
-- **Archery**. You gain a +2 bonus to Ranged Weapon Attacks. 
-- **Blind Fighting**. You have Blindsight 10ft. 
-- **Defence**. While you are wearing Armour or a Shield, you gain a +1 bonus to AC. 
-- **Duelling**. When you are wielding a Melee Weapon in one hand and no other weapons, you gain a +2 bonus to Damage rolls. 
-- **Great Weapon Fighting**. When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property. 
-- **Interception**. When a creature you can see hits another creature within 5ft of you with an Attack, you can take a Reaction to reduce the damage dealt to the target by 1d10 plus your Proficiency Bonus. You must be holding a Shield or a Weapon 
-- **Shield Warrior**. Shields count as a Martial Melee Weapon and when using it as a Weapon it has the Light Property. On hit, your Shield deals 2d4 Bludgeoning Damage. 
-- **Thrown Weapon Fighting**. You can draw a weapon that has the Thrown Property as part of the Attack you make with the Weapon. Additionally, you gain a +2 bonus to Damage with Thrown Weapon. 
-- **Two-Weapon Fighting**. When you engage in [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting]], you can add your ability modifier to the damage of the second attack.
-- **Unarmed Fighting**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.
-
 ## Healer
 **Battle Medic**. If you have a Healer's Kit, you can spend a use to tend to a creature within 5 feet of yourself as a Utilise Action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
 
@@ -60,7 +47,18 @@ Your Hit Point maximum increases by an amount equal to twice your character leve
 
 # Level 1 Feats
 
-
+## Fighting Style
+You adopt a particular style of fighting as your speciality. Choose one of the following options: 
+- **Archery**. You gain a +2 bonus to Ranged Weapon Attacks. 
+- **Blind Fighting**. You have Blindsight 10ft. 
+- **Defence**. While you are wearing Armour or a Shield, you gain a +1 bonus to AC. 
+- **Duelling**. When you are wielding a Melee Weapon in one hand and no other weapons, you gain a +2 bonus to Damage rolls. 
+- **Great Weapon Fighting**. When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property. 
+- **Interception**. When a creature you can see hits another creature within 5ft of you with an Attack, you can take a Reaction to reduce the damage dealt to the target by 1d10 plus your Proficiency Bonus. You must be holding a Shield or a Weapon 
+- **Shield Warrior**. Shields count as a Martial Melee Weapon and when using it as a Weapon it has the Light Property. On hit, your Shield deals 2d4 Bludgeoning Damage. 
+- **Thrown Weapon Fighting**. You can draw a weapon that has the Thrown Property as part of the Attack you make with the Weapon. Additionally, you gain a +2 bonus to Damage with Thrown Weapon. 
+- **Two-Weapon Fighting**. When you engage in [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting]], you can add your ability modifier to the damage of the second attack.
+- **Unarmed Fighting**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.
 
 ## Heavily Armored
 *Prerequisites: Medium Armor Training*
@@ -68,6 +66,11 @@ Your Hit Point maximum increases by an amount equal to twice your character leve
 You gain the following benefits.
  - **Ability Score Increase**. Increase your Constitution or Strength by 1, to a maximum of 20.
  - **Armor Training**. You gain training with Heavy armor.
+
+## Lightly Armored
+You gain the following benefits.
+ - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+ - **Armor Training**. You gain training with Light armor and Shields.
 
 
 # Level 4 Feats
@@ -217,17 +220,6 @@ Ability Score Increase. Increase your Intelligence score by 1, to a maximum of 2
 Lore Knowledge. Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
 Quick Study. You can take the Study action as a Bonus Action.
-
-## Lightly Armored
-PHB'24
-p205
-General Feat (Prerequisite: Level 4+)
-
-You gain the following benefits.
-
-Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
-
-Armor Training. You gain training with Light armor and Shields.
 
 ## Mage Slayer
 PHB'24
