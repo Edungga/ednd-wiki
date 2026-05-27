@@ -66,9 +66,11 @@ Casting the Spell doesn't remove it from your Prepared Spells, and you can chang
 You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
 
 ## Level 2: Arcane Recovery
+You can regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
 
+Once you use this feature, you can't do so again until you finish a Long Rest.
 
- Level 2: Scholar PHB'24 p166
+## Level 2: Scholar
 
 While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
 
@@ -80,15 +82,11 @@ You have scribed a set of arcane formulas in your Spellbook that you can use to 
 ## Level 3: Arcane Traditions
 You choose an [[Wizard#Arcane Traditions|Arcane Tradition]], shaping your practice of magic through one of the following schools. Your choice grants you features at certain Wizard Levels.
 
-
-
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
 
-## Level 5: Flash Recall
-You've developed the ability to instantly recall an unprepared spell in moments of sudden necessity.
-As a Bonus Action, you Prepare a Spell of 1st level or higher from your Spellbook. This Spell must be of a level for which you have Spell Slots, and it replaces another Spell that you had previously Prepared.
-Once you use this feat to recall a spell, you can't do so again until you complete a Short or Long Rest.
+## Level 5: Memorize Spell
+Whenever you finish a Short Rest, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
 
 
 ---
