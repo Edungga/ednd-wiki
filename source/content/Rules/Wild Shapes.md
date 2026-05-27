@@ -1,5 +1,9 @@
 # Band 1
 Equivalent of CR 0 - 1/4
+
+Beast of Burden
+Bird
+
 ## Burrower
 Such as a Badger
 
@@ -15,6 +19,17 @@ Such as a Badger
 | **TRAITS**<br>**Keen Smell**. The Burrower has advantage on ability checks that rely on its sense of smell. |
 | **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.                   |
 
+Cephalopod
+Crustacean
+Feline
+Frog
+Giant Insect
+Giant Rodent
+Giant Spider
+Large Cat
+Monkey
+Pack Hound
+Spider
 
 # Band 2
 Equivalent of CR 1/2
