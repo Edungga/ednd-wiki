@@ -36,131 +36,131 @@ Such as a Badger
 
 ## Cephalopod
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**Beast's Strike**.                 |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**Beast's Strike**.                                                                   |
 
 ## Crustacean
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**Beast's Strike**.                 |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**Beast's Strike**.                                                                   |
 
 ## Feline
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**Beast's Strike**.                 |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**Beast's Strike**.                                                                   |
 
 ## Frog
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 ## Giant Insect
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 ## Giant Rodent
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 ## Giant Spider
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 ## Large Cat
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 ## Monkey
 
@@ -174,57 +174,57 @@ Such as a Badger
 | **Skills** Acrobatics +6, Sleight of Hand +4                                                                                                                     |
 | **Senses** Passive Perception 11                                                                                                                                 |
 | **TRAITS**<br>**Opposable Thumbs**. Can manipulate tools and objects as well as a Commoner, though it cannot wield weapons, shields, or complex artisan's tools. |
-| **ACTIONS**<br>**Bite**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d4+2 Piercing damage.                                                                        |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d4+2 Piercing damage.                                                              |
 
 ## Pack Hound
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 ## Spider
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 # Band 2
 Equivalent of CR 1/2
 ## Ape
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Wild Shape                                                                                             |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 # Band 3
 Equivalent of CR 1
