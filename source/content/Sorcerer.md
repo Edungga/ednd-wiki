@@ -96,9 +96,12 @@ Once you use this feature to regain Sorcery Points, you must finish a Long Rest 
 ---
 # Metamagic
 ## Arcane Tenacity
-_Cost: 2 Sorcery Points_
+_Cost: 1 Sorcery Point_
+
 When you fail a CON Save to maintain Concentration on a Spell, you can add your Spellcasting Ability modifier (min 1) to the result of the Save, possibly turning the fail into a success.
 ## Blinding Spell
-(Cost: 1). [Free Action] When you cast a Spell that deals Fire or Radiant Damage, you can force one target of the Spell to make a CON Save. On a failed save, the target Blinded [Debuff] for one minute. The creature can repeat their Save at the start of each turn, ending the effect on a success.
+_Cost: 1 Sorcery Point_
+
+When you cast a Spell that deals Fire or Radiant Damage, you can force one target of the Spell to make a CON Save. On a failed save, the target [[Conditions#Blinded (Debuff)|Blinded (Debuff)]] for one minute. The creature can repeat their Save at the start of each turn, ending the effect on a success.
 ## Brutal Spell
 (Cost: 2). [Free Action] When you cast a Spell that deals Damage, you can empower the casting. If you roll the highest number of any of the Spell's Damage dice you can roll that die again and add it to the total Damage. 
