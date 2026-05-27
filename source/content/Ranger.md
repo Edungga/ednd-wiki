@@ -32,13 +32,13 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 
 | Level | Proficiency Bonus | Quarry Die | Knacks Known | Features                                                                       |
 | ----- | ----------------- | ---------- | ------------ | ------------------------------------------------------------------------------ |
-| 1st   | +2                | 1d4        | 1            | [[Ranger#Level 1 Hunter’s Quarry\|Hunter’s Quarry]], The Knack, Weapon Mastery |
+| 1st   | +2                | 1d4        | 1            | [[Ranger#Level 1 Ranger’s Quarry\|Ranger’s Quarry]], The Knack, Weapon Mastery |
 | 2nd   | +2                | 1d4        | 2            | Expertise, Fighting Style                                                      |
 | 3rd   | +2                | 1d4        | 3            | Ranger Conclave, Primaeval Awareness                                           |
 | 4th   | +2                | 1d4        | 4            | Ability Score Improvement                                                      |
 | 5th   | +3                | 1d6        | 5            | Extra Attack                                                                   |
 
-## Level 1: Hunter’s Quarry
+## Level 1: Ranger’s Quarry
 As a Bonus Action, you mark a creature you can see within 90ft as your Quarry. Gain the following benefits against your Quarry:
 - Your Weapon Attacks against your Quarry and deal an additional Quarry Die damage
 - Add your Quarry Die on INT or WIS Checks you make against your Quarry.
@@ -302,7 +302,7 @@ You also learn one Language of your choice that is spoken by your Favoured Enemi
 ## Favoured Enemy II
 *Prerequisite: Ranger Level 6, Favoured Enemy I*
 
-If your Hunter's Quarry is also a Favoured Enemy, add an additional Quarry Die to the damage roll.
+If your Ranger's Quarry is also a Favoured Enemy, add an additional Quarry Die to the damage roll.
 
 Additionally, you add your Quarry Die on INT or WIS Checks you make against your Favoured Enemy.
 
@@ -343,5 +343,11 @@ As a Bonus Action, you focus your awareness on the region around you. For 1 minu
 When you hit a creature with an attack, you can mark it as your Quarry, expending a use of Ranger's Quarry as normal, and applying the bonus damage and other benefits on hit.
 
 Finally, you can add your Quarry Die to any Perception checks that you make.
+
+## Slayer II
+Prerequisite: 6th-level Ranger, Slayer I
+Your tracking abilities have become supernaturally accurate. You can mark a creature as your Quarry by studying signs of its passing, like tracks, left within the past 24 hours.
+
+Also, when you mark a creature as your Quarry, the mark lasts indefinitely and only ends if you mark another creature.
 
 ## Wild Insight I
