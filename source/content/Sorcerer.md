@@ -100,7 +100,13 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 | 7th            | [[Arcane Eye]], [[Charm Monster]]   |
 | 9th            | [[Legend Lore]], [[Summon Dragon]]  |
 
-### Level 3: 
+### Level 3: Draconic Resilience
+The magic in your body manifests physical traits of your draconic gift. Your Hit Point maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
+
+Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing Armour, your AC equals 10 + your DEX modifier + your Spellcasting Ability modifier.
+
+
+## Emberheart
 
 
 ### Level 1: Draconic Spells
