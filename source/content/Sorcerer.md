@@ -119,6 +119,8 @@ Your innate magic manifests in fire. You are your fire, and your fire is you.
 | 9th            | flame strike, immolation              |
 
 ### Level 3: Heart of Fire
+Whenever you Cast a Spell of 1st Level or higher that deals fire damage, fiery magic erupts from you. This eruption causes creatures of your choice that you can see within 10ft of you to take Fire Damage equal to half your Sorcerer Level (min 1).
+
 
 
 ### Level 1: Draconic Spells
