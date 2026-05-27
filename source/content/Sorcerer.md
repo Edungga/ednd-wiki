@@ -107,3 +107,11 @@ When you cast a Spell that deals Fire or Radiant Damage, you can force one targe
 _Cost: 3 Sorcery Point_
 
 When you cast a Spell that deals Damage, you can empower the casting. If you roll the highest number of any of the Spell's Damage dice you can roll that die again and add it to the total Damage. 
+## Careful Spell
+*Cost: 1 Sorcery Point*
+
+When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. Choose a number of those creatures up to your Spellcasting Ability modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
+## Concussive Spell 
+_Cost: 1 Sorcery Point_
+
+When you cast a spell that deals Bludgeoning, Force, or Thunder Damage, you force one target of the Spell to make a STR Save. On a failed save, the target is knocked Prone [Condition]. Large or larger creatures have Advantage on their Save.
