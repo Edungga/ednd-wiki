@@ -65,34 +65,33 @@ Such as a Badger
 
 ## Feline
 
-| Feline Wild Shape                                                                                      |
-| ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
-| **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 2 + your Druid level                                                                   |
-| **Speed**: 40ft Walk                                                                                   |
-| STR 3 (-4)  \|  DEX 15 (+2)  \|  CON 10 (0)                                                            |
-| **Skills** Perception +3, Stealth +4                                                                   |
-| **Senses** Darkvision 30 ft., passive Perception 13                                                    |
-| **TRAITS**<br>**Jumper**. Your jump distance is determined using Dexterity rather than Strength.       |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-
+| Feline Wild Shape                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                                                                       |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                            |
+| **Hit Points**: 2 + your Druid level                                                                                                                                               |
+| **Speed**: 40ft Walk                                                                                                                                                               |
+| STR 3 (-4)  \|  DEX 15 (+2)  \|  CON 10 (0)                                                                                                                                        |
+| **Skills** Perception +3, Stealth +4                                                                                                                                               |
+| **Senses** Darkvision 30 ft., passive Perception 13                                                                                                                                |
+| **TRAITS**<br>**Jumper**. Your jump distance is determined using Dexterity rather than Strength.                                                                                   |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                             |
+| **REACTIONS**<br>**Reflexive Fall**. When you fall, you can reduce any falling damage it takes by its Dexterity score (15). If it reduces this damage to 0, you land on your feet. |
 
 ## Frog
 
-| Wild Shape                                                                                             |
-| ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
-| **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 2 + your Druid level                                                                   |
-| **Speed**: 40ft Walk                                                                                   |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
-| **Skills**                                                                                             |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
-| **TRAITS**<br>**test**.                                                                                |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                                         |
-| **REACTIONS**<br>**test**.                                                                             |
+| Frog Wild Shape                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                                                                            |
+| **Armour Class**: 8 + your WIS modifier                                                                                                                                                 |
+| **Hit Points**: 1 + your Druid level                                                                                                                                                    |
+| **Speed**: 20ft Walk, 20ft CLimb, 20ft Swim                                                                                                                                             |
+| STR 1 (-5)  \|  DEX 13 (+0)  \|  CON 8 (-1)                                                                                                                                             |
+| **Skills**                                                                                                                                                                              |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                    |
+| **TRAITS**<br>Amphibious. The Frog can breathe both air and water.<br><br>Standing Leap. The Frog can do a long jump of 10 ft.<br>and a standing jump of 5 ft. without a running start. |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                                  |
+
 
 ## Giant Insect
 
