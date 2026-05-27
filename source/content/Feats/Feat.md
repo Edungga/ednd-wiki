@@ -489,9 +489,7 @@ Increased Range. When you cast a spell that has a range of at least 10 feet and 
 ## Survivalist Training
 You have been trained to survive, track, and explore in the wild, much like a Ranger. You gain the benefits listed below:
 - Ability Score Increase. Increase your Strength, Dexterity, Constitution, or Wisdom score by 1, up to a maximum of 20.
-- **Survivalist Knack**. You learn a Knack of your choice from those available to the Alternate Ranger. To learn this Knack, you must meet all prerequisites that it has.
-
-If the Knack requires a Quarry Die, roll a d4 unless yours is higher. If the Knack forces a saving throw, the DC is equal to 8 + your Proficiency Bonus + your Wisdom modifier.
+- **Survivalist Knack**. You learn a [[Ranger#Knacks|Knack]] of your choice. To learn this Knack, you must meet all prerequisites that it has. If the Knack requires a Quarry Die, roll a d4 unless yours is higher. If the Knack forces a Save, the DC is equal to 8 + your Proficiency Bonus + your WIS modifier.
 
 ## Telekinetic
 PHB'24
