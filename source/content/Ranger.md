@@ -417,17 +417,18 @@ Your time in the wilds has hardened your body. As a bonus action on your turn, y
 ## Survivor II
 *Prerequisite: Ranger Level 9, Survivor I*
 
-Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional hit points equal to your WIS modifier (minimum of 1 hit point).
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional hit points equal to your WIS modifier (min 1).
 
-Survivor III
-
-Prerequisite: 14th-level Ranger, Survivor I, II
+## Survivor III
+*Prerequisite: Ranger Level 14, Survivor I, II*
 When you make a death saving throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, it is as if you had rolled a 20 on the d20.
 
-Trapper I
+## Trapper I
+*Prerequisite: proficiency in Sleight of Hand*
 
-Prerequisite: proficiency in Sleight of Hand
-You craft traps from materials on hand. You also add double your Proficiency Bonus to your Sleight of Hand checks. The Traps you create use the following rules:
+You craft traps from materials on hand. You also add your Quarry Die to your Sleight of Hand checks. 
+
+The Traps you create use the following rules:
 
 Crafting a Trap. Over the course of 1 hour, which can be during a short or long rest, you use a knife, natural materials, and 10 feet of rope to craft one Trap. It remains usable until the end of your next long rest, when it breaks down.
 
