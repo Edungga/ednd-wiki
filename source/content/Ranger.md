@@ -337,7 +337,7 @@ Your understanding grants you a mystical connection to the natural world. At the
 ## Primeval Awareness
 As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
 
-## Stalker I
+## Slayer I
 *Prerequisite: Ranger Level 3, proficiency in Perception*
 
 When you hit a creature with an attack, you can mark it as your Quarry, expending a use of Ranger's Quarry as normal, and applying the bonus damage and other benefits on hit.
@@ -374,8 +374,8 @@ You have learned to hunt your prey while remaining unseen. You can take the Hide
 You cannot be tracked, even by magic. You are always under the effects of the [[Nondetection]] spell, and you can't be tracked by Divination magic or magical means unless you wish to be.
 
 ## Stalker IV
+*Prerequisite: Ranger Level 14, Stalker I, II, III*
 
-Prerequisite: 14th-level Ranger, Stalker I, II, III
 Your mythic skill allow you to become undetectable. Any time you take a Hide action, you, and anything you are wearing or carrying, becomes invisible until the start of your next turn.
 
 This effect instantly ends if you Cast a Spell, or you attack 
