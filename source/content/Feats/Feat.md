@@ -243,11 +243,9 @@ You gain the following benefits.
  - **Superiority Die**. You gain two superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a Short or Long Rest.
 
 ## Martial Weapon Training
-Prerequisite: Level 4+
-
 You gain the following benefits.
 - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
-- **Weapon Proficiency**. You gain proficiency with Martial weapons.
+- **Weapon Proficiency**. You gain proficiency with Simple and Martial weapons.
 
 ## Medium Armor Master
 PHB'24
