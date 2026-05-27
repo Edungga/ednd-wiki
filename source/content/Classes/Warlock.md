@@ -223,6 +223,12 @@ As a Bonus Action, you can heal yourself or one creature you can see within 60 f
 ### Level 3: Undead Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Spells table below, you thereafter always have the listed spells known.
 
+| Warlock Level | Spells                                                        |
+| ------------- | ------------------------------------------------------------- |
+| 3rd           | [[Bane]], [[Blindness/Deafness]], [[False Life]], [[Silence]] |
+| 5th           | Feign Death, Speak with Dead                                  |
+| 7th           | Aura of Life, Death Ward                                      |
+| 9th           | Antilife Shell, Cloudkill                                     |
 
 ### Level 3: 
 

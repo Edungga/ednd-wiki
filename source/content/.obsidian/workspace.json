@@ -172,13 +172,15 @@
   },
   "active": "5d1ec92faf8892e2",
   "lastOpenFiles": [
+    "Blindness/Deafness.md",
+    "Classes/Warlock.md",
+    "Blindness",
     "index.md",
     "Classes/Rogue.md",
     "Classes/Fighter.md",
     "Classes/Illrigger.md",
     "Classes/Bloodhunter.md",
     "Classes/Ranger.md",
-    "Classes/Warlock.md",
     "Feats/Feat.md",
     "Classes/Monk.md",
     "Sorcerer.md",
@@ -197,7 +199,6 @@
     "Rules/Wild Shapes.md",
     "Rules/Opportunity Attacks.md",
     "Rules/Actions.md",
-    "Spells/Primal Spell List.md",
     "Spells/Spells.base",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
@@ -206,7 +207,6 @@
     "The Setting/Higher Powers/Fiends",
     "The Setting/Higher Powers/Fathomless Beings",
     "The Setting/Higher Powers/Archfae",
-    "The Setting/Higher Powers/The Virtues",
-    "The Setting/Higher Powers"
+    "The Setting/Higher Powers/The Virtues"
   ]
 }
