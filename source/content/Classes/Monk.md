@@ -22,13 +22,13 @@
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmoured Movement | Features                                                                                                       |
-| ----- | ----------------- | ------------ | --------- | ------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1st   | +2                | 1d6          | 2         | –                   | [[Monk#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Monk#Level 1 Martial Arts\|Martial Arts]]           |
-| 2nd   | +2                | 1d6          | 4         | +10 ft.             | [[Monk#Level 2 Mystic Techniques]]                                                                             |
-| 3rd   | +2                | 1d6          | 6         | +10 ft.             | [[Monk#Level 3 Deflect Missiles\|Deflect Missiles]], [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]] |
-| 4th   | +2                | 1d6          | 8         | +10 ft.             | [[Monk#Level 4 Slow Fall\|Slow Fall]], [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]   |
-| 5th   | +3                | 1d8          | 10        | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                                    |
+| Level | Proficiency Bonus | Martial Arts | Techniques Known | Unarmoured Movement | Features                                                                                                       |
+| ----- | ----------------- | ------------ | ---------------- | ------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 1st   | +2                | 1d6          | -                | –                   | [[Monk#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Monk#Level 1 Martial Arts\|Martial Arts]]           |
+| 2nd   | +2                | 1d6          | 3                | +10 ft.             | [[Monk#Level 2 Mystic Techniques\|Mystic Techniques]]                                                          |
+| 3rd   | +2                | 1d6          | 4                | +10 ft.             | [[Monk#Level 3 Deflect Missiles\|Deflect Missiles]], [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]] |
+| 4th   | +2                | 1d6          | 5                | +10 ft.             | [[Monk#Level 4 Slow Fall\|Slow Fall]], [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]   |
+| 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                                    |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
