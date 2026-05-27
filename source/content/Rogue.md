@@ -145,14 +145,18 @@ You gain a Disguise Kit and a Poisoner's Kit, and you have proficiency with them
 You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armour, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype. A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.
 ### Level 3: Fancy Footwork
 You learn how to land a strike and then slip away without reprisal. During your turn, if you make a Melee Attack against a creature, that creature can't make Opportunity Attacks against you until the start of your next turn.
+### Level 3: Rakish Audacity
+Your confidence propels you into battle. You can add your Charisma modifier (min 1) to Initiative Checks.
 
-### Level 3: 
+You also gain an additional way to use your Sneak Attack; you don't need Advantage on the Attack to use your Sneak Attack against a creature if you are within 5ft of it, no other creatures are within 5ft of you. All the other rules for Sneak Attack still apply to you.
 
 
 ## Thief
-### Level 3: 
-### Level 3: 
-### Level 3: 
-### Level 3: 
-### Level 3: 
+A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
+### Level 3: Fast Hands
+You have additional options for the Bonus Action of your Cunning Action, with which you can do the following:
+
+- Sleight of Hand. Take the Lock Pick Action or Riffle Action
+    
+- Use an Object. Take the Interact Major Action or Magic Action
 ### Level 3: 
