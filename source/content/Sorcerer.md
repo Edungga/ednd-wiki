@@ -128,29 +128,26 @@ You can use Empowered Spell even if you've already used a different Metamagic op
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
 
 If the affected spell requires Concentration, you have Advantage on any saving throw you make to maintain that Concentration.
-Heightened Spell PHB'24 p142
 
-Cost: 2 Sorcery Points
+## Heightened Spell
+*Cost: 2 Sorcery Points*
 
 When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell Disadvantage on saves against the spell.
-Quickened Spell PHB'24 p142
-
-Cost: 2 Sorcery Points
+## Quickened Spell
+*Cost: 2 Sorcery Points*
 
 When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
-Seeking Spell PHB'24 p142
-
-Cost: 1 Sorcery Point
+## Seeking Spell
+*Cost: 1 Sorcery Point*
 
 If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll.
 
 You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell.
-Subtle Spell PHB'24 p142
-
-Cost: 1 Sorcery Point
+## Subtle Spell
+*Cost: 1 Sorcery Point*
 
 When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
-Transmuted Spell PHB'24 p142
+## Transmuted Spell
 
 Cost: 1 Sorcery Point
 
