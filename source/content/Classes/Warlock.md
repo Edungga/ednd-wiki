@@ -230,7 +230,14 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 7th           | [[Aura of Life]], [[Death Ward]]                                 |
 | 9th           | [[Antilife Shell]], [[Cloudkill]]                                |
 
-### Level 3: 
+### Level 3: Form of Dread
+You manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:
+- You gain Temporary Hit Points equal to 1d10 + your Warlock Level.
+- Once during each of your turns, when you hit a creature with an Attack, you can force it to make a WIS Save. If it fails, the target is[[Conditions#Frightened (Debuff)|Frightened (Debuff)]] of you until the end of your next turn.
+- You are immune to being [[Conditions#Frightened (Debuff)|Frightened (Debuff)]]
+
+You can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
 
 
 ---
