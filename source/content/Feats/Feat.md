@@ -323,30 +323,20 @@ You gain the following benefits.
 Prerequisites: Level 4+, Dexterity or Constitution 13+
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Dexterity or Constitution by 1, to a maximum of 20.
-
-Speed Increase. Your Speed increases by 10 feet.
-
-Dash over Difficult Terrain. When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
-
-Agile Movement. Opportunity Attacks have Disadvantage against you.
+- **Ability Score Increase**. Increase your Dexterity or Constitution by 1, to a maximum of 20.
+- **Speed Increase**. Your Speed increases by 10 feet.
+ - **Dash over Difficult Terrain**. When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
+- **Agile Movement**. Opportunity Attacks have Disadvantage against you.
 
 
 ## Spell Sniper
-PHB'24
-p208
-General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature)
+Prerequisites: Level 4+; Spellcasting or Pact Magic Feature
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-
-Bypass Cover. Your attack rolls for spells ignore Half Cover and Three-Quarters Cover.
-
-Casting in Melee. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with spells.
-
-Increased Range. When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
+- **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+- **Bypass Cover**. Your attack rolls for spells ignore Half Cover and Three-Quarters Cover.
+- **Casting in Melee**. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with spells.
+- **Increased Range**. When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
 
 ## Survivalist Training
 You have been trained to survive, track, and explore in the wild, much like a Ranger. You gain the benefits listed below:
@@ -354,17 +344,12 @@ You have been trained to survive, track, and explore in the wild, much like a Ra
 - **Survivalist Knack**. You learn a [[Ranger#Knacks|Knack]] of your choice. To learn this Knack, you must meet all prerequisites that it has. If the Knack requires a Quarry Die, roll a d4 unless yours is higher. If the Knack forces a Save, the DC is equal to 8 + your Proficiency Bonus + your WIS modifier.
 
 ## Telekinetic
-PHB'24
-p208
-General Feat (Prerequisite: Level 4+)
+Prerequisite: Level 4+
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-
-Minor Telekinesis. You learn the Mage Hand spell. You can cast it without Verbal or Somatic components, you can make the spectral hand Invisible, and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell's spellcasting ability is the ability increased by this feat.
-
-Telekinetic Shove. As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your Proficiency Bonus) or be moved 5 feet toward or away from you.
+- **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+- **Minor Telekinesis**. You learn the Mage Hand spell. You can cast it without Verbal or Somatic components, you can make the spectral hand Invisible, and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell's spellcasting ability is the ability increased by this feat.
+- **Telekinetic Shove**. As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your Proficiency Bonus) or be moved 5 feet toward or away from you.
 
 ## Telepathic
 Prerequisite: Level 4+
