@@ -450,4 +450,5 @@ Finally, you can add your Quarry Die to any Insight checks that you make.
 
 ## Wild Insight II
 *Prerequisite: Ranger Level 3, Wild Insight I*
-Your bond with the wild allows you to conjure bestial spirits. You always have the conjure familiar ll spell prepared, but it doesn't count against the spells you prepare each day. When you cast conjure familiar, its creature type is always Fey.
+Your bond with the wild allows you to conjure bestial spirits. Once per Long Rest, you are able to call forth a beastial 
+You always have the conjure familiar ll spell prepared, but it doesn't count against the spells you prepare each day. When you cast conjure familiar, its creature type is always Fey.
