@@ -126,6 +126,11 @@ Your damaging cantrips affect even creatures that avoid the brunt of the effect.
 
 
 ## Haemomancer
+### Level 3: Necromantic Savant
+Choose two Wizard spells from the Necromancy school, each of which must be no higher than level 2, and add them to your spellbook for free.
+
+In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Necromancy school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+### Level 3: Blood Magic
 
 
 ## Illusionist
