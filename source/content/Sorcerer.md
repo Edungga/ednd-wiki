@@ -93,6 +93,8 @@ Once you use this feature to regain Sorcery Points, you must finish a Long Rest 
 
 
 
+
+
 ---
 # Metamagic
 ## Arcane Tenacity
@@ -115,7 +117,6 @@ When you cast a spell that deals Bludgeoning, Force, or Thunder Damage, you forc
 *Cost: 1 Sorcery Point*
 
 When you cast a spell that has a range of at least 5 feet, you can double the spell's range. Or when you cast a spell that has a range of Touch, you make the spell's range 30 feet.
-
 ## Empowered Spell
 *Cost: 1 Sorcery Point*
 
@@ -128,7 +129,6 @@ You can use Empowered Spell even if you've already used a different Metamagic op
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
 
 If the affected spell requires Concentration, you have Advantage on any saving throw you make to maintain that Concentration.
-
 ## Heightened Spell
 *Cost: 2 Sorcery Points*
 
@@ -136,7 +136,7 @@ When you cast a spell that forces a creature to make a saving throw, you can spe
 ## Quickened Spell
 *Cost: 2 Sorcery Points*
 
-When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting.
 ## Seeking Spell
 *Cost: 1 Sorcery Point*
 
