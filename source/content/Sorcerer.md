@@ -103,10 +103,6 @@ When you fail a CON Save to maintain Concentration on a Spell, you can add your 
 _Cost: 1 Sorcery Point_
 
 When you cast a Spell that deals Fire or Radiant Damage, you can force one target of the Spell to make a CON Save. On a failed save, the target [[Conditions#Blinded (Debuff)|Blinded (Debuff)]] for one minute. The creature can repeat their Save at the start of each turn, ending the effect on a success.
-## Brutal Spell
-_Cost: 3 Sorcery Point_
-
-When you cast a Spell that deals Damage, you can empower the casting. If you roll the highest number of any of the Spell's Damage dice you can roll that die again and add it to the total Damage. 
 ## Careful Spell
 *Cost: 1 Sorcery Point*
 
@@ -120,3 +116,47 @@ When you cast a spell that deals Bludgeoning, Force, or Thunder Damage, you forc
 
 When you cast a spell that has a range of at least 5 feet, you can double the spell's range. Or when you cast a spell that has a range of Touch, you make the spell's range 30 feet.
 
+## Empowered Spell
+*Cost: 1 Sorcery Point*
+
+When you roll damage for a spell, you can reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls.
+
+You can use Empowered Spell even if you've already used a different Metamagic option during the casting of the spell.
+## Extended Spell
+*Cost: 1 Sorcery Point*
+
+When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
+
+If the affected spell requires Concentration, you have Advantage on any saving throw you make to maintain that Concentration.
+Heightened Spell PHB'24 p142
+
+Cost: 2 Sorcery Points
+
+When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell Disadvantage on saves against the spell.
+Quickened Spell PHB'24 p142
+
+Cost: 2 Sorcery Points
+
+When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+Seeking Spell PHB'24 p142
+
+Cost: 1 Sorcery Point
+
+If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll.
+
+You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell.
+Subtle Spell PHB'24 p142
+
+Cost: 1 Sorcery Point
+
+When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
+Transmuted Spell PHB'24 p142
+
+Cost: 1 Sorcery Point
+
+When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
+Twinned Spell PHB'24 p142
+
+Cost: 1 Sorcery Point
+
+When you cast a spell, such as Charm Person, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
