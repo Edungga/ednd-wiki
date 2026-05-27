@@ -68,13 +68,31 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table School, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "1st" FLATTEN spell-list -->
 
-| File                                                                                     | School      | Spell List     |
-| ---------------------------------------------------------------------------------------- | ----------- | -------------- |
-| [[Absorb Elements]]                         | Abjuration  | Arcane, Primal |
-| [[Alarm]]                                             | Abjuration  | Arcane, Primal |
-| [[Animal Friendship]]                     | Enchantment | Primal         |
-| [[Armour of The Forest Bearer]] | Abjuration  | Arcane, Primal |
-| [[Arms of Darkness]]                       | Conjuration | Arcane         |
+| File                                                                                     | School        | Spell List     |
+| ---------------------------------------------------------------------------------------- | ------------- | -------------- |
+| [[Absorb Elements]]                         | Abjuration    | Arcane, Primal |
+| [[Alarm]]                                             | Abjuration    | Arcane, Primal |
+| [[Animal Friendship]]                     | Enchantment   | Primal         |
+| [[Armour of The Forest Bearer]] | Abjuration    | Arcane, Primal |
+| [[Arms of Darkness]]                       | Conjuration   | Arcane         |
+| [[Bane]]                                               | Enchantment   | Divine         |
+| [[Beast Bond]]                                   | Divination    | Primal         |
+| [[Bless]]                                             | Enchantment   | Divine         |
+| [[Burning Hands]]                             | Evocation     | Arcane, Primal |
+| [[Catapult]]                                       | Transmutation | Arcane         |
+| [[Caustic Brew]]                               | Evocation     | Arcane         |
+| [[Chaos Bolt]]                                   | Evocation     | Arcane         |
+| [[Charm Person]]                               | Enchantment   | Arcane         |
+| [[Chromatic Orb]]                             | Evocation     | Arcane         |
+| [[Color Spray]]                                 | Illusion      | Arcane         |
+| [[Command]]                                         | Enchantment   | Divine         |
+| [[Compelled Duel]]                           | Enchantment   | Divine         |
+| [[Comprehend Languages]]               | Divination    | Arcane         |
+| [[Summon Oozelings]]                       | Conjuration   | Arcane         |
+| [[Create or Destroy Water]]         | Transmutation | Divine, Primal |
+| [[Detect Evil and Good]]               | Divination    | Divine         |
+| [[Cure Wounds]]                                 | Necromancy    | Divine, Primal |
+| [[Detect Magic]]                               | Divination    | Arcane         |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->

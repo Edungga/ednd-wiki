@@ -5,7 +5,7 @@ Casting Time: Action or Ritual
 Range: Self
 Components: V,S
 Duration: Concentration up to 10 minutes
-Spell List:
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -16,7 +16,7 @@ WHERE file.name = this.file.name
 
 | School     | Spell Circle | Casting Time     | Range | Components | Duration                       | Spell List |
 | ---------- | ------------ | ---------------- | ----- | ---------- | ------------------------------ | ---------- |
-| Divination | 1st          | Action or Ritual | Self  | V,S        | Concentration up to 10 minutes | \-         |
+| Divination | 1st          | Action or Ritual | Self  | V,S        | Concentration up to 10 minutes | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
