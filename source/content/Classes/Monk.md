@@ -142,11 +142,8 @@ You make this Attack with Proficiency, regardless of your Weapon Proficiencies, 
 Once per turn when you hit a creature with a melee Monk Weapon attack, you can spend 1 Ki to strike with great power and force it to make a STR Save. On a failed save, it is knocked back horizontally from you in a line a number of feet equal to 5 times your Wisdom modifier, then falls [[Conditions#Prone (Condition)|Prone (Condition)]].
 
 Creatures that are at least one size larger than you have advantage on this Strength saving throw.
-#### Enhanced Grip
-Each time a creature starts its turn [[Conditions#Grappled (Condition)|Grappled (Condition)]] by you it takes bludgeoning damage equal to your Martial Arts Die. You can also drag Grappled creatures up to your full speed.
 #### Front Lotus
-As a Bonus Action, 
-
+Each time a creature starts its turn [[Conditions#Grappled (Condition)|Grappled (Condition)]] by you it takes bludgeoning damage equal to your Martial Arts Die. You can also drag Grappled creatures up to your full speed.
 #### Flurry of Blows
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 #### Improvised Strikes
