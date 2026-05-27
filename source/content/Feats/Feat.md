@@ -72,6 +72,10 @@ You gain the following benefits.
  - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
  - **Armor Training**. You gain training with Light armor and Shields.
 
+## Resilient
+You gain the following benefits.
+- **Ability Score Increase**. Choose one ability in which you lack saving throw proficiency. Increase the chosen ability score by 1, to a maximum of 20.
+- **Saving Throw Proficiency**. You gain saving throw proficiency with the chosen ability.
 
 ## Slasher
 You gain the following benefits.
@@ -349,16 +353,6 @@ Pole Strike. Immediately after you take the Attack action and attack with a Quar
 
 Reactive Strike. While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
 
-## Resilient
-PHB'24
-p206
-General Feat (Prerequisite: Level 4+)
-
-You gain the following benefits.
-
-Ability Score Increase. Choose one ability in which you lack saving throw proficiency. Increase the chosen ability score by 1, to a maximum of 20.
-
-Saving Throw Proficiency. You gain saving throw proficiency with the chosen ability.
 
 ## Ritual Caster
 PHB'24
