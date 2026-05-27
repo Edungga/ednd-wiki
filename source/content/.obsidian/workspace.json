@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorcerer.md",
+                "file": "Wild Magic Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorcerer"
+              "title": "Wild Magic Table"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorcerer.md",
+                "file": "Wild Magic Table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sorcerer"
+              "title": "Backlinks for Wild Magic Table"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorcerer.md",
+                "file": "Wild Magic Table.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sorcerer"
+              "title": "Outline of Wild Magic Table"
             }
           }
         ],
@@ -172,8 +172,8 @@
   },
   "active": "5d1ec92faf8892e2",
   "lastOpenFiles": [
-    "Wild Magic Table.md",
     "Sorcerer.md",
+    "Wild Magic Table.md",
     "Druid.md",
     "index.md",
     "Classes/Warlock.md",
