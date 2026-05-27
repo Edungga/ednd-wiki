@@ -55,9 +55,9 @@ Such as a Badger
 | ------------------------------------------------------------------------------------------------------ |
 | *Tiny Beast*                                                                                           |
 | **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 2 + your Druid level                                                                   |
-| **Speed**: 40ft Walk                                                                                   |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Hit Points**: 3 + your Druid level                                                                   |
+| **Speed**: 20ft Walk, 20ft Swim                                                                        |
+| STR 6 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                                            |
 | **Skills**                                                                                             |
 | **Senses** Darkvision 120 ft., passive Perception 12                                                   |
 | **TRAITS**<br>**test**.                                                                                |
