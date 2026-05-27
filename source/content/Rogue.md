@@ -132,5 +132,15 @@ You know the [[Mage Hand]] Cantrip, it does not count against your number of Can
 When you cast [[Mage Hand]], you can cast it as a Bonus Action, and you can make the spectral hand Invisible. You can control the hand as a Bonus Action, and through it, you can make Dexterity (Sleight of Hand) checks.
 
 ## Assassin
-
-
+An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.
+### Level 3: Assassinate
+You're adept at ambushing a target, granting you the following benefits.
+- **Initiative**. You have Advantage on Initiative rolls.
+- **Surprising Strikes**. During the first round of each combat, you have Advantage on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level.
+### Level 3: 
+### Level 3: 
+### Level 3: 
+### Level 3: 
+### Level 3: 
+### Level 3: 
+### Level 3: 
