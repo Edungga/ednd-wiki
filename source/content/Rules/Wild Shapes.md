@@ -36,9 +36,9 @@ Such as a Badger
 
 ## Cephalopod
 
-| Wild Shape                                                                                             |
+| Cephalopod Wild Shape                                                                                  |
 | ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
+| *Small Beast*                                                                                          |
 | **Armour Class**: 9 + your WIS modifier                                                                |
 | **Hit Points**: 2 + your Druid level                                                                   |
 | **Speed**: 40ft Walk                                                                                   |
