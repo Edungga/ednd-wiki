@@ -164,7 +164,9 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 ### Grade 2
 *Prerequisite: Monk Level 5*
 #### Astral Arms
-As a Bonus Action youConjure astral arms that strike each enemy within 10ft of you. They must make a DEX save or take Force Damage equal to two Martial Arts Die on a fail, half Damage on a success
+As a Bonus Action you can spend 1 Ki to conjure astral arms that burst out from you. Each enemy within 10ft of you. must make a DEX save or take Force Damage equal to two Martial Arts Die + WIS modifier on a fail, half Damage on a success.
+
+Enhancement
 
 #### Gentling Touch
 Once per turn in place of an attack, you can expend 1 Ki to touch a creature and manipulate its Ki to put it to sleep. Roll five Martial Arts Dice. If the target's remaining hit points are less than or equal to the total roll, it falls [[Conditions#Unconscious (Condition)|Unconscious (Condition)]] for 10 minutes. The creature wakes up if another creature uses its action to wake it, or if it takes any damage.
