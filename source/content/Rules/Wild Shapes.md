@@ -226,11 +226,11 @@ Equivalent of CR 1/2
 Carrion Bird
 Dino Chicken
 
-## Crustacean
+## Giant Crustacean
 
-| Crustacean Wild Shape                                                                                  |
+| Giant Crustacean Wild Shape                                                                            |
 | ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
+| *Large Beast*                                                                                          |
 | **Armour Class**: 9 + your WIS modifier                                                                |
 | **Hit Points**: 3 + your Druid level                                                                   |
 | **Speed**: 20ft Walk, 20ft Swim                                                                        |
@@ -240,10 +240,22 @@ Dino Chicken
 | **TRAITS**<br>**Amphibious**. The crab can breathe air and water.                                      |
 | **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d6+1 Bludgeoning damage. |
 
+Giant Lizard
+Giant Wasp
+Reef Shark
+Snake
+Ursine
 
 
 # Band 3
 Equivalent of CR 1
+
+Dire Feline
+Dire Hound
+Giant Burrower
+Giant Cephalopod
+Great Ape
+Velociraptor
 
 
 # Band 4
