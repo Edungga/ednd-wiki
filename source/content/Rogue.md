@@ -141,9 +141,11 @@ You're adept at ambushing a target, granting you the following benefits.
 ### Level 3: Assassin's Tools
 You gain a Disguise Kit and a Poisoner's Kit, and you have proficiency with them.
 
-## Inquisitive
+## Swashbuckler
+You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armour, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype. A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.
+### Level 3: Fancy Footwork
+You learn how to land a strike and then slip away without reprisal. During your turn, if you make a Melee Attack against a creature, that creature can't make Opportunity Attacks against you until the start of your next turn.
 
-### Level 3: 
 ### Level 3: 
 
 
