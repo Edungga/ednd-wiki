@@ -55,15 +55,22 @@ Additionally, when you gain a level in this class, you can choose one of the Arc
 
 **Origin Spells**. Each Sorcerous Origin has a list of Origin Spells that you learn at the Sorcerer Levels noted in your Origin's description. Your Origin Spells count as Sorcerer Spells for you, but they do not count against your total number of Spells Known.
 
-Spellcasting Ability. Constitution or Charisma (choose when you take this feature) is your Spellcasting Ability for your Sorcerer spells. Depending on how your sorcerous origin manifests its magics through you, it could either be your ability to project your will into the world, or how much arcane power your physical being can withstand outputting.
+**Spellcasting Ability**. Constitution or Charisma (choose when you take this feature) is your Spellcasting Ability for your Sorcerer spells. 
 
-You use your selected Spellcasting Ability whenever a Spell refers to your Spellcasting Ability. In addition, you use your Spellcasting Ability modifier when setting the Save DC for an Arcane Spell you cast and when making an Attack with one.
+**Spell Save DC** = 8 + your Proficiency Bonus + your Spellcasting Ability modifier
 
-Spell Save DC = 8 + your Proficiency Bonus + your Spellcasting Ability modifier
+**Spell Attack modifier** = your Proficiency Bonus + your Spellcasting Ability modifier
 
-Spell Attack modifier = your Proficiency Bonus + your Spellcasting Ability modifier
+**Spellcasting Focus**. Your body is your spellcasting focus for your Sorcerer spells. You must have a free hand to cast spells that require somatic or material components, and you must still provide material components that are consumed by a spell or have a gold cost.
 
-Spellcasting Focus.  You can use an Arcane Focus as a Spellcasting focus for Spells you know from this class.
+
+
+
+
+
+
+
+
 
 ---
 
