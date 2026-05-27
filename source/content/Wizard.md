@@ -44,23 +44,24 @@ Copying a spell into your Spellbook involves reproducing the basic form of the S
 
 For each Level of the Spell, the process takes 2 hours and costs 50 gp. The cost represents Material Components you expend as you experiment with the Spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the Spell just like your other Spells.
 
-Replacing the Book. You can copy a spell from your own Spellbook into another book-for example, if you want to make a backup copy of your Spellbook. This is just like copying a new spell into your Spellbook, but faster and easier, since you understand your own notation and already know how to cast the Spell. You need to spend only 1 hour and 10 gp for each level of the copied Spell.
+**Replacing the Book**. You can copy a spell from your own Spellbook into another book-for example, if you want to make a backup copy of your Spellbook. This is just like copying a new spell into your Spellbook, but faster and easier, since you understand your own notation and already know how to cast the Spell. You need to spend only 1 hour and 10 gp for each level of the copied Spell.
 
 If you lose your Spellbook, you can use the same procedure to transcribe the Spells that you have prepared into a new Spellbook. Filling out the remainder of your Spellbook requires you to find new Spells to do so, as normal. For this reason, many Wizards keep backup Spellbooks in a safe place.
 
-Spell Slots. The Wizard Table shows how many Spell Slots you have to cast your Spells of 1st Level and higher. To cast one of these Spells, you must expend a slot of the Spell’s level or higher. You regain all expended Spell Slots when you finish a Long Rest.
+**Spell Slots**. The Wizard Table shows how many Spell Slots you have to cast your Spells of 1st Level and higher. To cast one of these Spells, you must expend a slot of the Spell’s level or higher. You regain all expended Spell Slots when you finish a Long Rest.
 
-Prepared Spells of 1st+ Level. You prepare the list of Spells of 1st level and higher that are available for you to cast with this feature. When you do so, choose a number of Spells from your Spellbook equal to your Wizard Level + your INT Mod (min 1).
+**Prepared Spells of 1st+ Level**. You prepare the list of Spells of 1st level and higher that are available for you to cast with this feature. When you do so, choose a number of Spells from your Spellbook equal to your Wizard Level + your INT Mod (min 1).
 
 Casting the Spell doesn't remove it from your Prepared Spells, and you can change your Prepared Spells after a Long Rest. 
 
-Spellcasting Ability. Intelligence is your Spellcasting Ability for your Wizard Spells.
+**Spellcasting Ability**. Intelligence is your Spellcasting Ability for your Wizard Spells.
 
-Spell save DC = 8 + your Proficiency Bonus + your INT modifier
+**Spell save DC** = 8 + your Proficiency Bonus + your INT modifier
 
-Spell attack modifier = your Proficiency Bonus + your INT modifier
+**Spell attack modifier** = your Proficiency Bonus + your INT modifier
 
-Spellcasting Focus. You can use an Arcane Focus or your Spellbook as a Spellcasting focus for your Wizard Spells.
+**Spellcasting Focus**. You can use an Arcane Focus or your Spellbook as a Spellcasting focus for your Wizard Spells.
+
 
 
 
