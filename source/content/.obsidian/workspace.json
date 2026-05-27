@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Absorb Elements.md",
+                "file": "Spells/1st Circle Spells/Absorb Elements.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,9 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f41b2a0659b23708",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Absorb Elements.md",
+    "Spells/1st Circle Spells",
+    "Spells/1st Circle Spells/Absorb Elements.md",
     "SPELL-TEMPLATE.md",
     "index.md",
     "Classes/Ranger.md",
@@ -214,7 +215,6 @@
     "Feats/Feat.md",
     "Classes/Monk.md",
     "Ancestries/Human.md",
-    "Rules/Bonus Actions.md",
     "Spells/Spells.base",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",

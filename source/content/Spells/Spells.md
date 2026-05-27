@@ -68,8 +68,9 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table School, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "1st" FLATTEN spell-list -->
 
-| File | School | Spell List |
-| ---- | ------ | ---------- |
+| File                                                             | School     | Spell List     |
+| ---------------------------------------------------------------- | ---------- | -------------- |
+| [[Absorb Elements]] | Abjuration | Arcane, Primal |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
