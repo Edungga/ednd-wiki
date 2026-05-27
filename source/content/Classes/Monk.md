@@ -144,6 +144,9 @@ Once per turn when you hit a creature with a melee Monk Weapon attack, you can s
 Creatures that are at least one size larger than you have advantage on this Strength saving throw.
 #### Enhanced Grip
 Each time a creature starts its turn [[Conditions#Grappled (Condition)|Grappled (Condition)]] by you it takes bludgeoning damage equal to your Martial Arts Die. You can also drag Grappled creatures up to your full speed.
+#### Front Lotus
+As a Bonus Action, 
+
 #### Flurry of Blows
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 #### Improvised Strikes
@@ -166,7 +169,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 #### Astral Arms
 As a Bonus Action you can spend 1 Ki to conjure astral arms that burst out from you. Each enemy within 10ft of you. must make a DEX save or take Force Damage equal to a Martial Arts Die + WIS modifier on a fail, half Damage on a success.
 
-**Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
+**Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die damage for each additional Ki spent.
 #### Gentling Touch
 Once per turn in place of an attack, you can expend 1 Ki to touch a creature and manipulate its Ki to put it to sleep. Roll five Martial Arts Dice. If the target's remaining hit points are less than or equal to the total roll, it falls [[Conditions#Unconscious (Condition)|Unconscious (Condition)]] for 10 minutes. The creature wakes up if another creature uses its action to wake it, or if it takes any damage.
 
