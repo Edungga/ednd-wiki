@@ -105,7 +105,7 @@ Whenever you cast an Abjuration spell with a spell slot, the ward regains a numb
 Once you create the ward, you can't create it again until you finish a Long Rest.
 
 ## Diviner
-
+The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
 
 
 ## Evoker
@@ -126,4 +126,4 @@ Choose two Wizard spells from the Conjuration school, each of which must be no h
 
 In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Conjuration school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
 ### Level 3: Stronger Summons
-When you cast a Conjuration spell with a spell slot, that summons a creature, that summons gains Temp HP equal to your Wizard Level + PB
+When you cast a Conjuration spell with a spell slot, that summons a creature, that summons gains Temp HP equal to your Wizard Level + PB.
