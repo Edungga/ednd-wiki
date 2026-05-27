@@ -360,6 +360,72 @@ Pole Strike. Immediately after you take the Attack action and attack with a Quar
 
 Reactive Strike. While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
 
+## Resilient
+PHB'24
+p206
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Choose one ability in which you lack saving throw proficiency. Increase the chosen ability score by 1, to a maximum of 20.
+
+Saving Throw Proficiency. You gain saving throw proficiency with the chosen ability.
+
+## Ritual Caster
+PHB'24
+p206
+General Feat (Prerequisites: Level 4+; Intelligence, Wisdom, or Charisma 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+
+Ritual Spells. Choose a number of level 1 spells equal to your Proficiency Bonus that have the Ritual tag. You always have those spells prepared, and you can cast them with any spell slots you have. The spells' spellcasting ability is the ability increased by this feat. Whenever your Proficiency Bonus increases thereafter, you can add an additional level 1 spell with the Ritual tag to the spells always prepared with this feature.
+
+Quick Ritual. With this benefit, you can cast a Ritual spell that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn't require a spell slot. Once you cast the spell in this way, you can't use this benefit again until you finish a Long Rest.
+
+## Sentinel
+PHB'24
+p207
+General Feat (Prerequisites: Level 4+, Strength or Dexterity 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Guardian. Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.
+
+Halt. When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the current turn.
+
+## Shadow-Touched
+PHB'24
+p207
+General Feat (Prerequisite: Level 4+)
+
+Your exposure to the Shadowfell's magic grants you the following benefits.
+
+Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+
+Shadow Magic. Choose one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the Invisibility spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Level 19 Feats
