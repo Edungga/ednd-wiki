@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "Ensnaring Strike.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "Ensnaring Strike"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Warlock"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,22 +197,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54baa124d85df1d3",
+  "active": "f41b2a0659b23708",
   "lastOpenFiles": [
-    "Spells/1st Circle Spells/Earth Tremor.md",
+    "SPELL-TEMPLATE.md",
+    "Spells/Spells.md",
     "Ensnaring Strike.md",
+    "Spells/1st Circle Spells/Earth Tremor.md",
     "Spells/1st Circle Spells/Divine Favour.md",
     "Spells/1st Circle Spells/Distort Value.md",
     "Spells/1st Circle Spells/Dissonant Whispers.md",
     "Spells/1st Circle Spells/Disguise Self.md",
     "Spells/1st Circle Spells/Detect Poison and Disease.md",
-    "Spells/Spells.md",
     "Spells/1st Circle Spells/Detect Magic.md",
     "Spells/1st Circle Spells/Detect Evil and Good.md",
     "Spells/1st Circle Spells/Cure Wounds.md",
     "Spells/1st Circle Spells/Create or Destroy Water.md",
     "Spells/1st Circle Spells/Summon Oozelings.md",
-    "SPELL-TEMPLATE.md",
     "Find Familiar.md",
     "Classes/Warlock.md",
     "index.md",

@@ -93,6 +93,12 @@ FLATTEN spell-list
 | [[Detect Evil and Good]]               | Divination    | Divine         |
 | [[Cure Wounds]]                                 | Necromancy    | Divine, Primal |
 | [[Detect Magic]]                               | Divination    | Arcane         |
+| [[Detect Poison and Disease]]     | Divination    | Divine, Primal |
+| [[Disguise Self]]                             | Illusion      | Arcane         |
+| [[Dissonant Whispers]]                   | Enchantment   | Arcane         |
+| [[Distort Value]]                             | Illusion      | Arcane         |
+| [[Divine Favour]]                             | Evocation     | Divine         |
+| [[Earth Tremor]]                               | Evocation     | Arcane, Primal |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
