@@ -14,7 +14,7 @@ You adopt a particular style of fighting as your speciality. Choose one of the f
 - **Interception**. When a creature you can see hits another creature within 5ft of you with an Attack, you can take a Reaction to reduce the damage dealt to the target by 1d10 plus your Proficiency Bonus. You must be holding a Shield or a Weapon 
 - **Shield Warrior**. Shields count as a Martial Melee Weapon and when using it as a Weapon it has the Light Property. On hit, your Shield deals 2d4 Bludgeoning Damage. 
 - **Thrown Weapon Fighting**. You can draw a weapon that has the Thrown Property as part of the Attack you make with the Weapon. Additionally, you gain a +2 bonus to Damage with Thrown Weapon. 
-- **Two-Weapon Fighting**. When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+- **Two-Weapon Fighting**. When you engage in [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting]], you can add your ability modifier to the damage of the second attack.
 - **Unarmed Fighting**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.
 
 ## Healer
