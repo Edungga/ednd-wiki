@@ -4,17 +4,17 @@ Equivalent of CR 0 - 1/4
 ## Beast of Burden
 Such as Ox or a Draft Horse
 
-| Beast of Burden Wild Shape                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Large Beast*                                                                                                                                                                       |
-| **Armour Class**: 7 + your WIS modifier                                                                                                                                             |
-| **Hit Points**: 15 + your Druid level                                                                                                                                               |
-| **Speed**: 20ft Walk, 20ft Burrow                                                                                                                                                   |
-| STR 18 (+4)  \|  DEX 10 (0)  \|  CON 14 (+2)                                                                                                                                        |
-| **Skills** Athletics +7                                                                                                                                                             |
-| **Senses** Passive Perception 10                                                                                                                                                    |
-| **TRAITS**<br>**Beast of Burden**. Counts as one size larger for the purposes of determining its carrying capacity and the amount of weight that it can carry, push, pull, and drag |
-| **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.                                                                                           |
+| Beast of Burden Wild Shape                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Large Beast*                                                                                                                                                                                                                                                                                                         |
+| **Armour Class**: 7 + your WIS modifier                                                                                                                                                                                                                                                                               |
+| **Hit Points**: 15 + your Druid level                                                                                                                                                                                                                                                                                 |
+| **Speed**: 20ft Walk, 20ft Burrow                                                                                                                                                                                                                                                                                     |
+| STR 18 (+4)  \|  DEX 10 (0)  \|  CON 14 (+2)                                                                                                                                                                                                                                                                          |
+| **Skills** Athletics +8                                                                                                                                                                                                                                                                                               |
+| **Senses** Passive Perception 10                                                                                                                                                                                                                                                                                      |
+| **TRAITS**<br>**Beast of Burden**. Counts as one size larger for the purposes of determining its carrying capacity and the amount of weight that it can carry, push, pull, and drag<br><br>**Charge**. If you move 20 ft. in a line, then hits a target equal to its size (or smaller) with its Gore, it falls Prone. |
+| **ACTIONS**<br>**Gore**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.                                                                                                                                                                                                                             |
 
 ## Bird
 to do later
