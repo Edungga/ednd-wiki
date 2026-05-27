@@ -5,7 +5,7 @@ Casting Time: Action
 Range: 60 ft
 Components: V
 Duration: Instantaneous
-Spell List:
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -16,7 +16,7 @@ WHERE file.name = this.file.name
 
 | School      | Spell Circle | Casting Time | Range | Components | Duration      | Spell List |
 | ----------- | ------------ | ------------ | ----- | ---------- | ------------- | ---------- |
-| Enchantment | 1st          | Action       | 60 ft | V          | Instantaneous | \-         |
+| Enchantment | 1st          | Action       | 60 ft | V          | Instantaneous | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->

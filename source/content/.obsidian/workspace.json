@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dissonant Whispers.md",
+                "file": "Distort Value.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dissonant Whispers"
+              "title": "Distort Value"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dissonant Whispers.md",
+                "file": "Distort Value.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dissonant Whispers"
+              "title": "Backlinks for Distort Value"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dissonant Whispers.md",
+                "file": "Distort Value.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dissonant Whispers"
+              "title": "Outline of Distort Value"
             }
           }
         ],
@@ -201,8 +201,9 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Dissonant Whispers.md",
+    "Distort Value.md",
     "Spells/1st Circle Spells/Disguise Self.md",
-    "Dissonant Whispers.md",
     "Spells/1st Circle Spells/Detect Poison and Disease.md",
     "Spells/Spells.md",
     "Spells/1st Circle Spells/Detect Magic.md",
@@ -226,7 +227,6 @@
     "Spells/1st Circle Spells/Catapult.md",
     "Spells/1st Circle Spells/Arms of Darkness.md",
     "Rules/Burning.md",
-    "Spells/1st Circle Spells/Bless.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
