@@ -92,7 +92,7 @@ Whenever you finish a Short Rest, you can study your spellbook and replace one o
 ## Abjurer
 Your study of magic is focused on spells that block, banish, or protect-ending harmful effects, banishing evil influences, and protecting the weak. Abjurers are sought when baleful spirits require exorcism, when locations must be guarded against magical spying, and when portals to other planes of existence must be closed. Adventuring parties value Abjurers for the protection they provide against a variety of hostile magic and other attacks.
 ### Level 3: Abjuration Savant
-Choose two Wizard spells from the Abjuration school, each of which must be no higher than level 2, and add them to your spellbook for free.
+Choose two Wizard spells from the [[Abjuration school]], each of which must be no higher than level 2, and add them to your spellbook for free.
 
 In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Abjuration school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
 ### Level 3: Arcane Ward
@@ -107,7 +107,7 @@ Once you create the ward, you can't create it again until you finish a Long Rest
 ## Diviner
 The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
 ### Level 3: Divination Savant
-Choose two Wizard spells from the Divination school, each of which must be no higher than level 2, and add them to your spellbook for free.
+Choose two Wizard spells from the [[Divination school]], each of which must be no higher than level 2, and add them to your spellbook for free.
 
 In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Divination school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
 ### Level 3: Portent
@@ -118,7 +118,7 @@ Each foretelling roll can be used only once. When you finish a Long Rest, you lo
 ## Evoker
 Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
 ### Level 3: Evocation Savant
-Choose two Wizard spells from the Evocation school, each of which must be no higher than level 2, and add them to your spellbook for free.
+Choose two Wizard spells from the [[Evocation school]], each of which must be no higher than level 2, and add them to your spellbook for free.
 
 In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Evocation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
 ### Level 3: Potent Cantrip
