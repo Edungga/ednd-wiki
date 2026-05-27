@@ -80,17 +80,17 @@ Such as a Badger
 
 ## Frog
 
-| Frog Wild Shape                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Tiny Beast*                                                                                                                                                                            |
-| **Armour Class**: 8 + your WIS modifier                                                                                                                                                 |
-| **Hit Points**: 1 + your Druid level                                                                                                                                                    |
-| **Speed**: 20ft Walk, 20ft CLimb, 20ft Swim                                                                                                                                             |
-| STR 1 (-5)  \|  DEX 13 (+0)  \|  CON 8 (-1)                                                                                                                                             |
-| **Skills**                                                                                                                                                                              |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                    |
-| **TRAITS**<br>Amphibious. The Frog can breathe both air and water.<br><br>Standing Leap. The Frog can do a long jump of 10 ft.<br>and a standing jump of 5 ft. without a running start. |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                                  |
+| Frog Wild Shape                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                                                                                                   |
+| **Armour Class**: 8 + your WIS modifier                                                                                                                                        |
+| **Hit Points**: 1 + your Druid level                                                                                                                                           |
+| **Speed**: 20ft Walk, 20ft Climb, 20ft Swim                                                                                                                                    |
+| STR 1 (-5)  \|  DEX 13 (+0)  \|  CON 8 (-1)                                                                                                                                    |
+| **Skills** Stealth +3                                                                                                                                                          |
+| **Senses** Darkvision 30 ft., passive Perception 11                                                                                                                            |
+| **TRAITS**<br>Amphibious. You can breathe both air and water.<br><br>**Standing Leap**. You can do a long jump of 10 ft. and a standing jump of 5 ft. without a running start. |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                                                                         |
 
 
 ## Giant Insect
