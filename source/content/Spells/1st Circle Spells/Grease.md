@@ -22,9 +22,8 @@ WHERE file.name = this.file.name
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
 Flammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or be [[Conditions#Prone (Condition)|Prone (Condition)]]. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
 
 Any creatures in the grease also count as having Fire Vulnerability.
-
 
 **At Higher Levels**. The radius increases by 10ft for each spell slot level above 1.
