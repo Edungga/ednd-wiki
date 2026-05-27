@@ -15,7 +15,9 @@
 
 **Tool Proficiencies**: Choose one type of Artisan's Tools or Musical Instrument
 
-**Starting Equipment**: Choose A or B: (A) Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 11 GP; or (B) 50 GP
+**Starting Equipment**: Choose A or B: 
+- (A) Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 11 GP; or 
+- (B) 50 GP
 
 ---
 # Class Features
