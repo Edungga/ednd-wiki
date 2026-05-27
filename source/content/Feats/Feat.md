@@ -31,6 +31,13 @@ You adopt a particular style of fighting as your speciality. Choose one of the f
 
 **Repeatable**. You can take this feat more than once, but you must choose a different spell list each time.
 
+## Musician
+You gain the following benefits.
+
+**Instrument Training**. You gain proficiency with three Musical Instruments of your choice.
+
+**Encouraging Song**. As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
+
 ## Savage Attacker
 You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.
 
