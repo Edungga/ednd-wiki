@@ -127,7 +127,9 @@ Whenever you gain a level in this class, you can replace one of the arcane spell
 **Spell attack modifier** = Intelligence modifier + Proficiency Bonus
 
 ### Level 3: Mage Hand Legerdemain
+You know the [[Mage Hand]] Cantrip, it does not count against your number of Cantrips known.
 
+When you cast [[Mage Hand]], you can cast it as a Bonus Action, and you can make the spectral hand Invisible. You can control the hand as a Bonus Action, and through it, you can make Dexterity (Sleight of Hand) checks.
 
 ## Assassin
 
