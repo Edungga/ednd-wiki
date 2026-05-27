@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Ranger.md",
+                "file": "Rules/Wild Shapes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ranger"
+              "title": "Backlinks for Wild Shapes"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Ranger.md",
+                "file": "Rules/Wild Shapes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ranger"
+              "title": "Outline of Wild Shapes"
             }
           }
         ],
@@ -199,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b86c1ebc81a46617",
+  "active": "38bee9b1898becaf",
   "lastOpenFiles": [
+    "Classes/Ranger.md",
     "Rules/Wild Shapes.md",
     "Druid.md",
-    "Classes/Ranger.md",
     "index.md",
     "Spells/Schools of Magic/Necromancy school.md",
     "Spells/Schools of Magic",
