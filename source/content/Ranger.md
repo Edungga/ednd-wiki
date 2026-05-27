@@ -397,10 +397,10 @@ Once in your sights, you pursue your foes relentlessly. You can take the Dash ac
 
 You can surmount almost any obstacle that would block your path. Your walking speed increases by 10 feet, and you ignore the effects of difficult terrain imposed by any spell, magical phenomena, or any other supernatural effect.
 
-Strider IV
+## Strider IV
+*Prerequisite: Ranger Level 14, Strider I, II, III*
 
-Prerequisite: 14th-level Ranger, Strider I, II, III
-You move through the world unhindered by even the most powerful magic and restraints. You are always under the effects of a freedom of movement spell while conscious.
+You move through the world unhindered by even the most powerful magic and restraints. You are always under the effects of a [[Freedom of Movement]] spell while not [[Conditions#Unconscious (Condition)]]
 
 Student of the Wild
 
