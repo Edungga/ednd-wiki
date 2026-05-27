@@ -228,17 +228,17 @@ Dino Chicken
 
 ## Giant Crustacean
 
-| Giant Crustacean Wild Shape                                                                            |
-| ------------------------------------------------------------------------------------------------------ |
-| *Large Beast*                                                                                          |
-| **Armour Class**: 12 + your WIS modifier                                                               |
-| **Hit Points**: 15 + your Druid level                                                                  |
-| **Speed**: 30ft Walk, 30ft Swim                                                                        |
-| STR 17 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                                           |
-| **Skills** Stealth +2                                                                                  |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
-| **TRAITS**<br>**Amphibious**. The crab can breathe air and water.                                      |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d6+1 Bludgeoning damage. |
+| Giant Crustacean Wild Shape                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Large Beast*                                                                                                                                                                             |
+| **Armour Class**: 12 + your WIS modifier                                                                                                                                                  |
+| **Hit Points**: 15 + your Druid level                                                                                                                                                     |
+| **Speed**: 30ft Walk, 30ft Swim                                                                                                                                                           |
+| STR 17 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                                                                                                                              |
+| **Skills** Stealth +2                                                                                                                                                                     |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                                                                                                      |
+| **TRAITS**<br>**Amphibious**. The crab can breathe air and water.                                                                                                                         |
+| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d6+1 Bludgeoning damage. |
 
 Giant Lizard
 Giant Wasp
@@ -246,19 +246,17 @@ Reef Shark
 Snake
 
 ## Ursine
-| Ursine Wild Shape                                                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Tiny Beast*                                                                                                                                                                              |
-| **Armour Class**: 8 + your WIS modifier                                                                                                                                                   |
-| **Hit Points**: 20 + your Druid level                                                                                                                                                     |
-| **Speed**: 40ft Walk, 30ft Climb                                                                                                                                                          |
-| STR 15 (+2)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                                                                                                              |
-| **Skills** Perception +5                                                                                                                                                                  |
-| **Senses** Darkvision 120 ft., passive Perception 15                                                                                                                                      |
-| **TRAITS**<br>**test**.                                                                                                                                                                   |
-| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                                                                                                                            |
-| **REACTIONS**<br>**test**.                                                                                                                                                                |
+| Ursine Wild Shape                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                                                                           |
+| **Armour Class**: 8 + your WIS modifier                                                                                                                                                |
+| **Hit Points**: 20 + your Druid level                                                                                                                                                  |
+| **Speed**: 40ft Walk, 30ft Climb                                                                                                                                                       |
+| STR 15 (+2)  \|  DEX 11 (0)  \|  CON 14 (+2)                                                                                                                                           |
+| **Skills** Perception +5                                                                                                                                                               |
+| **Senses** Darkvision 60 ft., passive Perception 15                                                                                                                                    |
+| **ACTIONS**<br>**Multiattack** (*Requires Druid Level 5*). Can make two Beast's Strike Attacks<br>**Beast's Strike**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d6+2 Slashing damage. |
+
 
 # Band 3
 Equivalent of CR 1
