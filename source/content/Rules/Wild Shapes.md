@@ -1,7 +1,9 @@
 # Band 1
 Equivalent of CR 0 - 1/4
 
-Beast of Burden
+## Beast of Burden
+
+
 Bird
 
 ## Burrower
@@ -19,9 +21,54 @@ Such as a Badger
 | **TRAITS**<br>**Keen Smell**. The Burrower has advantage on ability checks that rely on its sense of smell. |
 | **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1d4+1 Piercing damage.                   |
 
-Cephalopod
-Crustacean
-Feline
+## Cephalopod
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Crustacean
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Feline
+
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
 Frog
 Giant Insect
 Giant Rodent
