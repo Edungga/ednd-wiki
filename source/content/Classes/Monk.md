@@ -66,12 +66,6 @@ All Monks, no matter their training or level of enlightenment, can channel spiri
 ## Level 3: Unarmed Movement
 Your Walk Speed increases by 10ft while you are not wearing Armour. This bonus increases when you reach certain Monk levels, as shown in the Monk table.
 
-## Level 3: Deflect Missiles
-You can use your Reaction to deflect or catch the missile when you are hit by a Ranged Weapon Attack. When you do so, the Damage you take from the Attack is reduced by 1d10 + your DEX modifier + your Monk level.
-
-If you reduce the Damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 Ki to make a Ranged Attack with a Range of 30/60 using the Weapon or piece of Ammunition you just caught, as part of the same Reaction. 
-You make this Attack with Proficiency, regardless of your Weapon Proficiencies, and the missile counts as a Monk Weapon for the Attack.
-
 ## Level 3: Monastic Traditions
 You commit yourself to a Monastic Tradition. Your tradition grants you features at certain Monk levels
 
@@ -108,14 +102,14 @@ Additionally. you know the [[Shape Water]], [[Mould Earth]], [[Control Flames]],
 ## Way of the Drunken Master
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
 ### Level 3: Drunken Fool
-You learn how to twist and turn quickly as part of your [[#Flurry of Blows|Flurry of Blows]]. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn.
+You learn how to twist and turn quickly as part of your [[Monk#Flurry of Blows|Flurry of Blows]]. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn.
 
 Additionally, you gain proficiency in the Performance skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with brewer's supplies if you don't already have it.
 
 # Way of the Open Hand
 Monks of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm
 ### Level 3: Open Hand Technique
-Whenever you hit a creature with an attack granted by your [[#Flurry of Blows|Flurry of Blows]], you can impose one of the following effects on that target.
+Whenever you hit a creature with an attack granted by your [[Monk#Flurry of Blows|Flurry of Blows]], you can impose one of the following effects on that target.
 - **Addle**. It must make a CON Save or can't take Reactions until the end of your next turn.
 - **Push**. The target must succeed on a STR Save or be pushed up to 15 feet away from you.
 - **Topple**. The target must succeed on a DEX Save or be knocked [[Conditions#Prone (Condition)|Prone (Condition)]].
@@ -135,6 +129,11 @@ You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long R
 # Mystic Techniques
 You Monk abilities fuelled by [[Monk#Ki|Ki]]
 ## Basic Forms
+### Deflect Missiles
+You can use your Reaction to deflect or catch the missile when you are hit by a Ranged Weapon Attack. When you do so, the Damage you take from the Attack is reduced by 1d10 + your DEX modifier + your Monk level.
+
+If you reduce the Damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 Ki to make a Ranged Attack with a Range of 30/60 using the Weapon or piece of Ammunition you just caught, as part of the same Reaction. 
+You make this Attack with Proficiency, regardless of your Weapon Proficiencies, and the missile counts as a Monk Weapon for the Attack.
 ### Flurry of Blows
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 ### Patient Defense
