@@ -345,9 +345,16 @@ When you hit a creature with an attack, you can mark it as your Quarry, expendin
 Finally, you can add your Quarry Die to any Perception checks that you make.
 
 ## Slayer II
-Prerequisite: 6th-level Ranger, Slayer I
+*Prerequisite: Ranger Level 6, Slayer I*
+
 Your tracking abilities have become supernaturally accurate. You can mark a creature as your Quarry by studying signs of its passing, like tracks, left within the past 24 hours.
 
 Also, when you mark a creature as your Quarry, the mark lasts indefinitely and only ends if you mark another creature.
+
+## Slayer III
+*Prerequisite: Ranger Level 14, Slayer I, II*
+
+Once on each of your turns when you hit your Quarry with an attack, you can force it to make a CON Save. On a failed save, you choose if it is [[con]]
+Blinded, Deafened, unable to speak, or Restrained until the start of your following turn.
 
 ## Wild Insight I
