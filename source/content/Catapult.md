@@ -1,8 +1,8 @@
 ---
-School:
+School: Transmutation
 Spell Circle: 1st
-Casting Time:
-Range:
+Casting Time: Action
+Range: 60 ft
 Components:
 Duration:
 Spell List:
@@ -14,9 +14,9 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
 
-| School | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
-| ------ | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
-| \-     | 1st          | \-           | \-    | \-         | \-       | \-         |
+| School        | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
+| ------------- | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
+| Transmutation | 1st          | Action       | 60 ft | \-         | \-       | \-         |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
