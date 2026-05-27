@@ -61,16 +61,13 @@ At certain Monk levels you learn additional Techniques, as shown on the Techniqu
 
 **Ki save DC** = 8 + your Proficiency Bonus + your WIS modifier
 ### Flurry of Blows
-All Monks, no matter their training or level of enlightenment, can channel spiritual power to strike their foes with blinding speed. You always know the [[#Flurry of Blows|Flurry of Blows]] technique and it doesnt count towards your number of known techniques. 
+All Monks, no matter their training or level of enlightenment, can channel spiritual power to strike their foes with blinding speed. You always know the [[Monk#Flurry of Blows|Flurry of Blows]] technique and it doesnt count towards your number of known techniques. 
 
 ## Level 3: Unarmed Movement
 Your Walk Speed increases by 10ft while you are not wearing Armour. This bonus increases when you reach certain Monk levels, as shown in the Monk table.
 
 ## Level 3: Monastic Traditions
 You commit yourself to a Monastic Tradition. Your tradition grants you features at certain Monk levels
-
-## Level 4: Slow Fall
-You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 
 ## Level 4: Ability Score Improvement
 You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
@@ -88,7 +85,7 @@ You gain proficiency in the Insight and Medicine skills and proficiency with the
 ### Level 3: Ki Form - Hand of Harm
 When you hit a creature with an Unarmed Strike and deal damage, you can expend 1 Ki Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
 ### Level 3: Ki Form - Hand of Healing
-As an action, you can expend 1 Ki Point to touch a creature and restore a number of Hit Points equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use [[#Flurry of Blows|Flurry of Blows]], you can replace one of the Unarmed Strikes with a use of this feature.
+As an action, you can expend 1 Ki Point to touch a creature and restore a number of Hit Points equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use [[Monk#Flurry of Blows|Flurry of Blows]], you can replace one of the Unarmed Strikes with a use of this feature.
 
 
 ## Way of the Elements
@@ -138,6 +135,8 @@ You make this Attack with Proficiency, regardless of your Weapon Proficiencies, 
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 ### Patient Defense
 You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
+### Slow Fall
+You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 ### Step of the Wind
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 ### Uncanny Metabolism
