@@ -185,30 +185,20 @@ You gain the following benefits.
 - **Heavy Weapon Mastery**. When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 - **Hew**. Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 
-
 ## Heavy Armor Master
-PHB'24
-p204
-General Feat (Prerequisites: Level 4+, Heavy Armor Training)
+Prerequisites: Level 4+, Heavy Armor Training
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Constitution or Strength by 1, to a maximum of 20.
-
-Damage Reduction. When you're hit by an attack while you're wearing Heavy armor, any Bludgeoning, Piercing, and Slashing damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
+- **Ability Score Increase**. Increase your Constitution or Strength by 1, to a maximum of 20.
+- **Damage Reduction**. When you're hit by an attack while you're wearing Heavy armor, any Bludgeoning, Piercing, and Slashing damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
 
 ## Keen Mind
-PHB'24
-p205
-General Feat (Prerequisites: Level 4+, Intelligence 13+)
+Prerequisites: Level 4+, Intelligence 13+
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Intelligence score by 1, to a maximum of 20.
-
-Lore Knowledge. Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
-
-Quick Study. You can take the Study action as a Bonus Action.
+- **Ability Score Increase**. Increase your Intelligence score by 1, to a maximum of 20.
+- **Lore Knowledge**. Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
+- **Quick Study**. You can take the Study action as a Bonus Action.
 
 ## Mage Slayer
 *Prerequisite: Level 4+*
@@ -228,15 +218,11 @@ You gain the following benefits.
 
 
 ## Medium Armor Master
-PHB'24
-p205
-General Feat (Prerequisites: Level 4+, Medium Armor Training)
+Prerequisites: Level 4+, Medium Armor Training
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
-
-Dexterous Wearer. While you're wearing Medium armor, you can add 3, rather than 2 to your AC if you have a Dexterity score of 16 or higher.
+- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+- **Dexterous Wearer**. While you're wearing Medium armor, you can add 3, rather than 2 to your AC if you have a Dexterity score of 16 or higher.
 
 
 ## Metamagic Adept
