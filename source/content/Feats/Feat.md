@@ -76,4 +76,3 @@ You gain the following benefits.
 
 
 # Level 19 Feats
-Boon of Blazing Dawn
