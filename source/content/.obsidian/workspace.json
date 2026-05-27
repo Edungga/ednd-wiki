@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "Alarm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPELL-TEMPLATE"
+              "title": "Alarm"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "Alarm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SPELL-TEMPLATE"
+              "title": "Backlinks for Alarm"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPELL-TEMPLATE.md",
+                "file": "Alarm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SPELL-TEMPLATE"
+              "title": "Outline of Alarm"
             }
           }
         ],
@@ -187,10 +187,11 @@
   },
   "active": "f41b2a0659b23708",
   "lastOpenFiles": [
+    "SPELL-TEMPLATE.md",
+    "Alarm.md",
     "Spells/Spells.md",
     "Spells/1st Circle Spells",
     "Spells/1st Circle Spells/Absorb Elements.md",
-    "SPELL-TEMPLATE.md",
     "index.md",
     "Classes/Ranger.md",
     "Rules/Wild Shapes.md",
@@ -215,7 +216,6 @@
     "Classes/Illrigger.md",
     "Feats/Feat.md",
     "Classes/Monk.md",
-    "Ancestries/Human.md",
     "Spells/Spells.base",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
