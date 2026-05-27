@@ -116,7 +116,13 @@ Glimpses of the future begin to press on your awareness. Whenever you finish a L
 Each foretelling roll can be used only once. When you finish a Long Rest, you lose any unused foretelling rolls.
 
 ## Evoker
+Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
+### Level 3: Evocation Savant
+Choose two Wizard spells from the Evocation school, each of which must be no higher than level 2, and add them to your spellbook for free.
 
+In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Evocation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+### Level 3: Potent Cantrip
+Your damaging cantrips affect even creatures that avoid the brunt of the effect. When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
 
 
 ## Haemomancer
