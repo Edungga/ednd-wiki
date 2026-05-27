@@ -73,15 +73,17 @@ You've developed cunning ways to use your Sneak Attack. When you deal Sneak Atta
 
 If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.
 
-**Poison (Cost: 1d6)**. You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success.
+**Poison (Cost: 1d6)**. You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target is [[Conditions#Poisoned (Debuff)|Poisoned (Debuff)]] for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success.
 
 To use this effect, you must have a Poisoner's Kit on your person.
 
-**Trip (Cost: 1d6)**. If the target is no more than one size larger than you, it must succeed on a Dexterity saving throw or have the Prone condition.
+**Trip (Cost: 1d6)**. If the target is no more than one size larger than you, it must succeed on a Dexterity saving throw or be knocked [[Conditions#Prone (Condition)|Prone (Condition)]].
 
 **Withdraw (Cost: 1d6)**. Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
 
 ## Level 5: Uncanny Dodge
+When an attacker that you can see hits you with an attack roll, you can take a Reaction to halve the attack's damage against you (round down).
+
 
 ---
 # Roguish Archetypes
