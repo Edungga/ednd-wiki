@@ -109,8 +109,9 @@ Choose one of the following for your Patrons element; Water, Earth, Fire, Air
 Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is.
 
 While you are touching the vessel, you can use it in the following ways:
-- **Bottled Respite**: As an Action, you can vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20ft radius cylinder, 20ft high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your Proficiency Bonus. You exit the vessel early if you use a Bonus Action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a Long Rest.
-- **Genie's Wrath**: Once during each of your turns when you hit with an Attack, you can deal extra Damage to the target equal to your Proficiency Bonus. The type of this Damage is determined by your patron: Bludgeoning (Earth), Thunder (Air), Fire (Fire), or Cold (Water).
+**Bottled Respite**: As an Action, you can vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20ft radius cylinder, 20ft high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your Proficiency Bonus. You exit the vessel early if you use a Bonus Action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a Long Rest.
+
+**Genie's Wrath**: Once during each of your turns when you hit with an Attack, you can deal extra Damage to the target equal to your Proficiency Bonus. The type of this Damage is determined by your patron: Bludgeoning (Earth), Thunder (Air), Fire (Fire), or Cold (Water).
 
 The vessel's AC equals your Spell Save DC. Its Hit Points equal your Warlock Level + your Proficiency Bonus, and it is Immune to Poison and Psychic Damage.
 
@@ -237,7 +238,6 @@ You manifest an aspect of your patron's dreadful power. As a bonus action, you t
 - You are immune to being [[Conditions#Frightened (Debuff)|Frightened (Debuff)]]
 
 You can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
 
 
 ---

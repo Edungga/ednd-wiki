@@ -38,7 +38,7 @@ We also have some Home Rules to spice things up a bit
 - [[Ranger]] - up to lvl 5
 - [[Rogue]]- up to lvl 5
 - [[Sorcerer]]
-- [[Warlock]]
+- [[Warlock]]- up to lvl 5
 - [[Wizard]]
 
 
