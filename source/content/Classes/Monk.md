@@ -58,14 +58,8 @@ You know three [[Monk#Mystic Techniques|Mystic Techniques]]. To learn a Techniqu
 **Ki attack modifier** = your Proficiency Bonus + your WIS modifier
 
 **Ki save DC** = 8 + your Proficiency Bonus + your WIS modifier
-### Flurry of Blow
-
-
-
-You can expend these points to enhance or fuel certain Monk features known as [[#Forms|Forms]]. You start by knowing the three [[#Basic Forms|Basic Forms]]: [[#Flurry of Blows|Flurry of Blows]], [[#Patient Defense|Patient Defense]], and [[#Step of the Wind|Step of the Wind]].
-
-When you regain all expended Ki, when you finish a Short or Long Rest.
-
+### Flurry of Blows
+All Monks, no matter their training or level of enlightenment, can channel spiritual power to strike their foes with blinding speed. You always know the [[#Flurry of Blows|Flurry of Blows]] technique and it doesnt count towards your number of known techniques. 
 
 ## Level 2: Uncanny Metabolism
 When you roll Initiative, you can regain all expended Ki. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
