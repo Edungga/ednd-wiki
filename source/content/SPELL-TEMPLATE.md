@@ -24,3 +24,6 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 **At Higher Levels**. The damage increases by 1d6 for each spell slot level above 1.
 You can affect one additional creature for each spell slot level above 1.
+
+https://docs.google.com/document/d/1nFVGJQXMdQmXJjixuuN7HvYGkoJsric7H6iE2ljMsPA/edit?tab=t.0#heading=h.fjpogu53q1mx
+https://5e.tools/spells.html#fog%20cloud_xphb

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Floating Disk.md",
+                "file": "SPELL-TEMPLATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Floating Disk"
+              "title": "SPELL-TEMPLATE"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Floating Disk.md",
+                "file": "SPELL-TEMPLATE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Floating Disk"
+              "title": "Backlinks for SPELL-TEMPLATE"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Floating Disk.md",
+                "file": "SPELL-TEMPLATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Floating Disk"
+              "title": "Outgoing links from SPELL-TEMPLATE"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Floating Disk.md",
+                "file": "SPELL-TEMPLATE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Floating Disk"
+              "title": "Outline of SPELL-TEMPLATE"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Floating Disk.md",
     "Spells/1st Circle Spells/Find Familiar.md",
-    "Floating Disk.md",
     "Classes/Warlock.md",
     "Spells/Spells.md",
     "Spells/1st Circle Spells/Feather Fall.md",

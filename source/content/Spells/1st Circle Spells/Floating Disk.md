@@ -3,9 +3,9 @@ School: Conjuration
 Spell Circle: 1st
 Casting Time: Action or Ritual
 Range: 30 ft
-Components:
-Duration:
-Spell List:
+Components: V, S, M (a drop of mercury)
+Duration: Until Rest
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -14,9 +14,9 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
 
-| School | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
-| ------ | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
-| \-     | 1st          | \-           | \-    | \-         | \-       | \-         |
+| School      | Spell Circle | Casting Time     | Range | Components                  | Duration   | Spell List |
+| ----------- | ------------ | ---------------- | ----- | --------------------------- | ---------- | ---------- |
+| Conjuration | 1st          | Action or Ritual | 30 ft | V, S, M (a drop of mercury) | Until Rest | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
