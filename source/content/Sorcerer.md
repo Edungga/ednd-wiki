@@ -126,9 +126,24 @@ Whenever you Cast a Spell of 1st Level or higher that deals fire damage, fiery m
 Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.
 ### Level 1: Wild Magic Spells
 
+| Sorcerer Level | Spells                         |
+| -------------- | ------------------------------ |
+| 1st            | Chaos Bolt, Detect Magic       |
+| 3rd            | Enlarge/Reduce, Misty Step     |
+| 5th            | Blink, Hypnotic Pattern        |
+| 7th            | Confusion, Polymorph           |
+| 9th            | Animate Objects, Wall of Force |
 
-### Level 3: 
+### Level 3: Tides of Chaos
+Your innate manipulation of magic grant you the following:
 
+**Bend Luck**. Give yourself Advantage on any d20 Test. You gain a Chaos Mote when doing so.
+
+**The Sight**. You can innately read the magic of the world around you. You can cast the [[Detect Magic]] Spell at will, without expending a Sorcery Points. You gain a Chaos Mote when doing so.
+
+When Chaos Breaks. Immediately after you cast a Spell expending Sorcery Points, roll a d20 and minus the number of Chaos Motes you have from the roll. If the result is less than or equal to the number of Sorcery Points spent casting the Spell (including any Metamagic options added to the Spell) then Magic Breaks. When Magic Breaks you roll on the Magic Surge chart. 
+
+All Chaos Mote’s disappear on completing a Long Rest or when Magic Breaks.
 
 
 
