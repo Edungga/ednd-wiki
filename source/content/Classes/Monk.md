@@ -49,9 +49,11 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 ## Level 2: Mystic Techniques
 Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Ki. You can draw on your Ki to perform supernatural physical feats known as Techniques.
 ### Ki
-**Ki Points**. Your spiritual power is represented by a pool of Ki, equal to your Monk level + your Wisdom modifier (a minimum of 0)
+**Ki Points**. Your spiritual power is represented by a pool of Ki, equal to your Monk level + your Wisdom modifier (a minimum of 0). 
+**Spending Ki**. You can only expend Ki on one feature or Technique per attack, ability check, reaction, or saving throw.
+Regain
 
-Your Monk level determines the number of points you have, as shown in the Ki Points column of the Monk Features table.
+
 
 You can expend these points to enhance or fuel certain Monk features known as [[#Forms|Forms]]. You start by knowing the three [[#Basic Forms|Basic Forms]]: [[#Flurry of Blows|Flurry of Blows]], [[#Patient Defense|Patient Defense]], and [[#Step of the Wind|Step of the Wind]].
 
