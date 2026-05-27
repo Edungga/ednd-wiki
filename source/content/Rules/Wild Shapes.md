@@ -124,16 +124,16 @@ Such as a Badger
 
 | Wild Shape                                                                                             |
 | ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
+| *Medium Beast*                                                                                         |
 | **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 2 + your Druid level                                                                   |
+| **Hit Points**: 15 + your Druid level                                                                  |
 | **Speed**: 40ft Walk                                                                                   |
 | STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
-| **Skills**                                                                                             |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **Skills** Perception +4, Stealth +4                                                                   |
+| **Senses** Darkvision 60 ft., passive Perception 14                                                    |
 | **TRAITS**<br>**test**.                                                                                |
 | **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **BONUS ACTIONS**<br>**Nimble Escape**. Can take the Disengage or Hide action.                         |
 | **REACTIONS**<br>**test**.                                                                             |
 
 ## Monkey
