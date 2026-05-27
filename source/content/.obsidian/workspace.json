@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compelled Duel.md",
+                "file": "Comprehend Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compelled Duel"
+              "title": "Comprehend Languages"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compelled Duel.md",
+                "file": "Comprehend Languages.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Compelled Duel"
+              "title": "Backlinks for Comprehend Languages"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compelled Duel.md",
+                "file": "Comprehend Languages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Compelled Duel"
+              "title": "Outline of Comprehend Languages"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Compelled Duel.md",
+    "Comprehend Languages.md",
     "SPELL-TEMPLATE.md",
-    "Compelled Duel.md",
     "Spells/1st Circle Spells/Command.md",
     "Spells/1st Circle Spells/Color Spray.md",
     "Spells/1st Circle Spells/Burning Hands.md",
@@ -213,7 +214,6 @@
     "Classes/Ranger.md",
     "Rules/Wild Shapes.md",
     "Classes/Druid.md",
-    "Classes/Bloodhunter.md",
     "Spells/Schools of Magic",
     "Blindness",
     "Spells/Spells.base",
