@@ -151,19 +151,17 @@ Such as a Badger
 
 ## Monkey
 
-| Wild Shape                                           |
-| ---------------------------------------------------- |
-| *Tiny Beast*                                         |
-| **Armour Class**: 9 + your WIS modifier              |
-| **Hit Points**: 2 + your Druid level                 |
-| **Speed**: 40ft Walk                                 |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
-| **Skills**                                           |
-| **Senses** Darkvision 120 ft., passive Perception 12 |
-| **TRAITS**<br>**test**.                              |
-| **ACTIONS**<br>**test**.                             |
-| **BONUS ACTIONS**<br>**test**.                       |
-| **REACTIONS**<br>**test**.                           |
+| Monkey Wild Shape                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                                                                |
+| **Armour Class**: 9 + your WIS modifier                                                                                                                                     |
+| **Hit Points**: 3 + your Druid level                                                                                                                                        |
+| **Speed**: 30ft Walk, 30ft Climb                                                                                                                                            |
+| STR 8 (-1)  \|  DEX 14 (+2)  \|  CON 11 (0)                                                                                                                                 |
+| **Skills** Acrobatics +6, Sleight of Hand +4                                                                                                                                |
+| **Senses** Passive Perception 11                                                                                                                                            |
+| **TRAITS**<br>**Opposable Thumbs**. The Baboon can manipulate tools and objects as well as a Commoner, though it cannot wield weapons, shields, or complex artisan's tools. |
+| **ACTIONS**<br>**Bite**. Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage.                                                                               |
 
 ## Pack Hound
 
@@ -199,7 +197,21 @@ Such as a Badger
 
 # Band 2
 Equivalent of CR 1/2
+## Ape
 
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
 
 # Band 3
 Equivalent of CR 1
