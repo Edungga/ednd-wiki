@@ -157,11 +157,11 @@ Such as a Badger
 | **Armour Class**: 9 + your WIS modifier                                                                                                                                     |
 | **Hit Points**: 3 + your Druid level                                                                                                                                        |
 | **Speed**: 30ft Walk, 30ft Climb                                                                                                                                            |
-| STR 8 (-1)  \|  DEX 14 (+2)  \|  CON 11 (0)                                                                                                                                 |
+| STR 8 (-1)  \|  DEX 14 (+2)  \|  CON 10 (0)                                                                                                                                 |
 | **Skills** Acrobatics +6, Sleight of Hand +4                                                                                                                                |
 | **Senses** Passive Perception 11                                                                                                                                            |
 | **TRAITS**<br>**Opposable Thumbs**. The Baboon can manipulate tools and objects as well as a Commoner, though it cannot wield weapons, shields, or complex artisan's tools. |
-| **ACTIONS**<br>**Bite**. Melee Attack Roll: 1+PB, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage.                                                                             |
+| **ACTIONS**<br>**Bite**. Melee Attack Roll: 2+PB, reach 5 ft. Hit: 1d4+2 Piercing damage.                                                                                   |
 
 ## Pack Hound
 
