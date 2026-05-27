@@ -230,11 +230,40 @@ Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum o
 
 Armor Training. You gain training with Light armor and Shields.
 
+## Mage Slayer
+PHB'24
+p205
+General Feat (Prerequisite: Level 4+)
 
+You gain the following benefits.
 
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
 
+Concentration Breaker. When you damage a creature that is Concentrating, it has Disadvantage on the saving throw it makes to maintain Concentration.
 
+Guarded Mind. If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Short or Long Rest.
 
+## Martial Weapon Training
+PHB'24
+p205
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Weapon Proficiency. You gain proficiency with Martial weapons.
+
+## Medium Armor Master
+PHB'24
+p205
+General Feat (Prerequisites: Level 4+, Medium Armor Training)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Dexterous Wearer. While you're wearing Medium armor, you can add 3, rather than 2 to your AC if you have a Dexterity score of 16 or higher.
 
 
 
