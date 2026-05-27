@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alarm.md",
+                "file": "Spells/1st Circle Spells/Alarm.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alarm.md",
+                "file": "Spells/1st Circle Spells/Alarm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alarm.md",
+                "file": "Spells/1st Circle Spells/Alarm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f41b2a0659b23708",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "SPELL-TEMPLATE.md",
-    "Alarm.md",
+    "Spells/1st Circle Spells/Alarm.md",
     "Spells/Spells.md",
     "Spells/1st Circle Spells",
     "Spells/1st Circle Spells/Absorb Elements.md",
