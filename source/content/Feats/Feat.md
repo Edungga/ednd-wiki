@@ -299,20 +299,15 @@ You gain the following benefits.
 - **Ability Score Increase**. Increase your Dexterity score by 1, to a maximum of 20.
 - **Bypass Cover**. Your ranged attacks with weapons ignore Half Cover and Three-Quarters Cover.
 - **Firing in Melee**. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with Ranged weapons.
-- Long Shots. Attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.
+- **Long Shots**. Attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
 ## Skill Expert
-PHB'24
-p207
-General Feat (Prerequisite: Level 4+)
+*Prerequisites: Level 4+
 
 You gain the following benefits.
-
-Ability Score Increase. Increase one ability score of your choice by 1, to a maximum of 20.
-
-Skill Proficiency. You gain proficiency in one skill of your choice.
-
-Expertise. Choose one skill in which you have proficiency but lack Expertise. You gain Expertise with that skill.
+- **Ability Score Increase**. Increase one ability score of your choice by 1, to a maximum of 20.
+- **Skill Proficiency**. You gain proficiency in one skill of your choice.
+- **Expertise**. Choose one skill in which you have proficiency but lack Expertise. You gain Expertise with that skill.
 
 ## Skulker
 *Prerequisites: Level 4+, Dexterity 13+*
@@ -325,9 +320,7 @@ You gain the following benefits.
 
 
 ## Speedy
-PHB'24
-p208
-General Feat (Prerequisites: Level 4+, Dexterity or Constitution 13+)
+Prerequisites: Level 4+, Dexterity or Constitution 13+
 
 You gain the following benefits.
 
