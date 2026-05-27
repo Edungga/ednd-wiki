@@ -177,9 +177,7 @@ You gain the following benefits.
 - **Hew**. Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 
 ## Heavily Armored
-PHB'24
-p204
-General Feat (Prerequisites: Level 4+, Medium Armor Training)
+Prerequisites: Level 4+, Medium Armor Training
 
 You gain the following benefits.
 
