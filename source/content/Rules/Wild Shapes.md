@@ -231,10 +231,10 @@ Dino Chicken
 | Giant Crustacean Wild Shape                                                                            |
 | ------------------------------------------------------------------------------------------------------ |
 | *Large Beast*                                                                                          |
-| **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 3 + your Druid level                                                                   |
-| **Speed**: 20ft Walk, 20ft Swim                                                                        |
-| STR 6 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                                            |
+| **Armour Class**: 12 + your WIS modifier                                                               |
+| **Hit Points**: 15 + your Druid level                                                                  |
+| **Speed**: 30ft Walk, 30ft Swim                                                                        |
+| STR 17 (-2)  \|  DEX 11 (0)  \|  CON 12 (+1)                                                           |
 | **Skills** Stealth +2                                                                                  |
 | **Senses** Darkvision 120 ft., passive Perception 12                                                   |
 | **TRAITS**<br>**Amphibious**. The crab can breathe air and water.                                      |
@@ -244,8 +244,21 @@ Giant Lizard
 Giant Wasp
 Reef Shark
 Snake
-Ursine
 
+## Ursine
+| Ursine Wild Shape                                                                                      |
+| ------------------------------------------------------------------------------------------------------ |
+| *Tiny Beast*                                                                                           |
+| **Armour Class**: 9 + your WIS modifier                                                                |
+| **Hit Points**: 2 + your Druid level                                                                   |
+| **Speed**: 40ft Walk                                                                                   |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
+| **Skills**                                                                                             |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
+| **TRAITS**<br>**test**.                                                                                |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
+| **BONUS ACTIONS**<br>**test**.                                                                         |
+| **REACTIONS**<br>**test**.                                                                             |
 
 # Band 3
 Equivalent of CR 1
