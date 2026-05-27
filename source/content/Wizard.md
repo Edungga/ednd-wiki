@@ -78,7 +78,17 @@ You have scribed a set of arcane formulas in your Spellbook that you can use to 
 
 
 ## Level 3: Arcane Traditions
-You choose an [[Wizard#Arcane Traditions]], shaping your practice of magic through one of the following schools. Your choice grants you features at certain Wizard Levels.
+You choose an [[Wizard#Arcane Traditions|Arcane Tradition]], shaping your practice of magic through one of the following schools. Your choice grants you features at certain Wizard Levels.
+
+
+
+## Level 4: Ability Score Improvement
+You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] or another [[Feat]] of your choice for which you qualify. 
+
+## Level 5: Flash Recall
+You've developed the ability to instantly recall an unprepared spell in moments of sudden necessity.
+As a Bonus Action, you Prepare a Spell of 1st level or higher from your Spellbook. This Spell must be of a level for which you have Spell Slots, and it replaces another Spell that you had previously Prepared.
+Once you use this feat to recall a spell, you can't do so again until you complete a Short or Long Rest.
 
 
 ---
