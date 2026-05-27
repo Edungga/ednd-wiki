@@ -464,10 +464,36 @@ Hamstring. Once per turn when you hit a creature with an attack that deals Slash
 
 Enhanced Critical. When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
 
+## Speedy
+PHB'24
+p208
+General Feat (Prerequisites: Level 4+, Dexterity or Constitution 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Dexterity or Constitution by 1, to a maximum of 20.
+
+Speed Increase. Your Speed increases by 10 feet.
+
+Dash over Difficult Terrain. When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
+
+Agile Movement. Opportunity Attacks have Disadvantage against you.
 
 
+## Spell Sniper
+PHB'24
+p208
+General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature)
 
+You gain the following benefits.
 
+Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+
+Bypass Cover. Your attack rolls for spells ignore Half Cover and Three-Quarters Cover.
+
+Casting in Melee. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with spells.
+
+Increased Range. When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
 
 
 
