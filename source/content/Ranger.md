@@ -369,10 +369,11 @@ Finally, you can add your Quarry Die to any Stealth checks that you make.
 You have learned to hunt your prey while remaining unseen. You can take the Hide action as a bonus action on your turn.
 
 ## Stalker III
+*Prerequisite: Ranger Level 9, Stalker I, II*
 
-Prerequisite: 9th-level Ranger, Stalker I, II
-You cannot be tracked, even by magic. You are always under the effects of the nondetection spell, and you can't be tracked by Divination magic or magical means unless you wish to be.
-Stalker IV
+You cannot be tracked, even by magic. You are always under the effects of the [[Nondetection]] spell, and you can't be tracked by Divination magic or magical means unless you wish to be.
+
+## Stalker IV
 
 Prerequisite: 14th-level Ranger, Stalker I, II, III
 Your mythic skill allow you to become undetectable. Any time you take a Hide action, you, and anything you are wearing or carrying, becomes invisible until the start of your next turn.
