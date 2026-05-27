@@ -16,7 +16,7 @@ WHERE file.name = this.file.name
 
 | School    | Spell Circle | Casting Time | Range            | Components                     | Duration                     | Spell List |
 | --------- | ------------ | ------------ | ---------------- | ------------------------------ | ---------------------------- | ---------- |
-| Evocation | 1st          | Action       | Self (30ft line) | V, S, M (a bit of rotten food) | Concentration up to 1 minute | \-         |
+| Evocation | 1st          | Action       | Self (30ft line) | V, S, M (a bit of rotten food) | Concentration up to 1 minute | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
