@@ -388,13 +388,13 @@ You ignore the effects of difficult terrain imposed by natural environments, you
 Finally, you can add your Quarry Die to any Survival checks that you make.
 
 ## Strider II
+*Prerequisite: Ranger Level 3, Strider I*
 
-Prerequisite: 3rd-level Ranger, Strider I
 Once in your sights, you pursue your foes relentlessly. You can take the Dash action as a bonus action on your turn.
 
-Strider III
+## Strider III
+*Prerequisite: Ranger Level 6, Strider I, II*
 
-Prerequisite: 6th-level Ranger, Strider I, II
 You can surmount almost any obstacle that would block your path. Your walking speed increases by 10 feet, and you ignore the effects of difficult terrain imposed by any spell, magical phenomena, or any other supernatural effect.
 
 Strider IV
