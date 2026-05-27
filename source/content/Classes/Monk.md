@@ -22,13 +22,13 @@
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Martial Arts | Techniques Known | Unarmoured Movement | Features                                                                                                       |
-| ----- | ----------------- | ------------ | ---------------- | ------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1st   | +2                | 1d6          | -                | –                   | [[Monk#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Monk#Level 1 Martial Arts\|Martial Arts]]           |
-| 2nd   | +2                | 1d6          | 3                | +10 ft.             | [[Monk#Level 2 Mystic Techniques\|Mystic Techniques]]                                                          |
-| 3rd   | +2                | 1d6          | 4                | +10 ft.             | [[Monk#Level 3 Deflect Missiles\|Deflect Missiles]], [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]] |
-| 4th   | +2                | 1d6          | 5                | +10 ft.             | [[Monk#Level 4 Slow Fall\|Slow Fall]], [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]   |
-| 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                                    |
+| Level | Proficiency Bonus | Martial Arts | Techniques Known | Unarmoured Movement | Features                                                                                             |
+| ----- | ----------------- | ------------ | ---------------- | ------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1st   | +2                | 1d6          | -                | –                   | [[Monk#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Monk#Level 1 Martial Arts\|Martial Arts]] |
+| 2nd   | +2                | 1d6          | 3                | +10 ft.             | [[Monk#Level 2 Mystic Techniques\|Mystic Techniques]]                                                |
+| 3rd   | +2                | 1d6          | 4                | +10 ft.             | [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]]                                            |
+| 4th   | +2                | 1d6          | 5                | +10 ft.             | [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                |
+| 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                          |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
@@ -62,11 +62,6 @@ At certain Monk levels you learn additional Techniques, as shown on the Techniqu
 **Ki save DC** = 8 + your Proficiency Bonus + your WIS modifier
 ### Flurry of Blows
 All Monks, no matter their training or level of enlightenment, can channel spiritual power to strike their foes with blinding speed. You always know the [[#Flurry of Blows|Flurry of Blows]] technique and it doesnt count towards your number of known techniques. 
-
-## Level 2: Uncanny Metabolism
-When you roll Initiative, you can regain all expended Ki. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
-
-Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ## Level 3: Unarmed Movement
 Your Walk Speed increases by 10ft while you are not wearing Armour. This bonus increases when you reach certain Monk levels, as shown in the Monk table.
@@ -146,7 +141,10 @@ You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
 ### Step of the Wind
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+### Uncanny Metabolism
+When you roll Initiative, you can regain all expended Ki. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
+Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ## Elemental Ki Forms
 ### Grade 1
