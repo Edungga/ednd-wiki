@@ -322,12 +322,18 @@ You have learned to use natural plants and herbs to create healing salves. Over 
 *Prerequisite: Level 6, Herbalist  II*
 When you use your Herbalism Kit to craft potions of healing during a long rest, you craft a number of these potions equal to 1 + your Wisdom modifier (minimum of 2).
 
-Naturalist I
+## Naturalist I
+*Prerequisite: proficiency in Nature*
 
-Prerequisite: proficiency in Nature
 You are an intuitive scholar of the wild. You use Wisdom, in place of Intelligence, for Nature checks. Also, you can use a bonus action on each turn to make a Nature check to recall knowledge about one Beast or Plant you can see.
 
-Finally, you can add double your Proficiency Bonus to any Nature checks that you make.
+Finally, you can add your Quarry Die to any Nature checks that you make.
+
+## Naturalist II
+*Prerequisite: Ranger Level 9, Naturalist I*
+
+Your understanding grants you a mystical connection to the natural world. At the end of each short or long rest, you gain benefits as if you had cast the commune with nature spell.
+
 ## Primeval Awareness
 As a Bonus Action, you focus your awareness on the region around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
 
