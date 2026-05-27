@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Find Familiar.md",
+                "file": "Conjure Oozelings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find Familiar"
+              "title": "Conjure Oozelings"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Warlock.md",
+                "file": "Conjure Oozelings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Warlock"
+              "title": "Backlinks for Conjure Oozelings"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Warlock.md",
+                "file": "Conjure Oozelings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Warlock"
+              "title": "Outline of Conjure Oozelings"
             }
           }
         ],
@@ -199,13 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8628b15abe8707c3",
+  "active": "54baa124d85df1d3",
   "lastOpenFiles": [
-    "index.md",
+    "SPELL-TEMPLATE.md",
+    "Conjure Oozelings.md",
     "Find Familiar.md",
+    "Spells/Spells.md",
+    "Classes/Warlock.md",
+    "index.md",
     "Spells/1st Circle Spells/Comprehend Languages.md",
     "Spells/1st Circle Spells/Compelled Duel.md",
-    "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Command.md",
     "Spells/1st Circle Spells/Color Spray.md",
     "Spells/1st Circle Spells/Burning Hands.md",
@@ -220,14 +223,11 @@
     "Spells/1st Circle Spells/Bane.md",
     "Spells/1st Circle Spells/Beast Bond.md",
     "Feats/Feat.md",
-    "Spells/Spells.md",
     "Spells/1st Circle Spells/Armour of The Forest Bearer.md",
     "Spells/1st Circle Spells/Animal Friendship.md",
     "Spells/1st Circle Spells/Alarm.md",
     "Spells/1st Circle Spells",
     "Spells/1st Circle Spells/Absorb Elements.md",
-    "Classes/Ranger.md",
-    "Rules/Wild Shapes.md",
     "Spells/Schools of Magic",
     "Blindness",
     "Spells/Spells.base",
