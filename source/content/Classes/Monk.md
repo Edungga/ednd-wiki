@@ -25,7 +25,7 @@
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmoured Movement | Features                                                                                                       |
 | ----- | ----------------- | ------------ | --------- | ------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 1st   | +2                | 1d6          | 2         | –                   | [[Monk#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Monk#Level 1 Martial Arts\|Martial Arts]]           |
-| 2nd   | +2                | 1d6          | 4         | +10 ft.             | [[Monk#Level 2 Ki\|Ki]], [[Monk#Level 2 Uncanny Metabolism\|Uncanny Metabolism]]                               |
+| 2nd   | +2                | 1d6          | 4         | +10 ft.             | [[Monk#Level 2 Mystic Techniques]]                                                                             |
 | 3rd   | +2                | 1d6          | 6         | +10 ft.             | [[Monk#Level 3 Deflect Missiles\|Deflect Missiles]], [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]] |
 | 4th   | +2                | 1d6          | 8         | +10 ft.             | [[Monk#Level 4 Slow Fall\|Slow Fall]], [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]   |
 | 5th   | +3                | 1d8          | 10        | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                                    |
@@ -55,6 +55,8 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 ### Techniques Known
 You know three [[Monk#Mystic Techniques|Mystic Techniques]]. To learn a Technique you must meet any prerequisites it has. Whenever you gain a Monk level, you can replace one Technique you know with another.
 
+At certain Monk levels you learn additional Techniques, as shown on the Techniques Known column of the Monk table.
+### Ki Attack and Save
 **Ki attack modifier** = your Proficiency Bonus + your WIS modifier
 
 **Ki save DC** = 8 + your Proficiency Bonus + your WIS modifier
