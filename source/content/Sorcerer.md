@@ -104,4 +104,6 @@ _Cost: 1 Sorcery Point_
 
 When you cast a Spell that deals Fire or Radiant Damage, you can force one target of the Spell to make a CON Save. On a failed save, the target [[Conditions#Blinded (Debuff)|Blinded (Debuff)]] for one minute. The creature can repeat their Save at the start of each turn, ending the effect on a success.
 ## Brutal Spell
-(Cost: 2). [Free Action] When you cast a Spell that deals Damage, you can empower the casting. If you roll the highest number of any of the Spell's Damage dice you can roll that die again and add it to the total Damage. 
+_Cost: 3 Sorcery Point_
+
+When you cast a Spell that deals Damage, you can empower the casting. If you roll the highest number of any of the Spell's Damage dice you can roll that die again and add it to the total Damage. 
