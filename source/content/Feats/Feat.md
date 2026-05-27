@@ -253,8 +253,6 @@ Dexterous Wearer. While you're wearing Medium armor, you can add 3, rather than 
 
 
 ## Metamagic Adept
-TCE
-p80
 Prerequisite: Spellcasting or Pact Magic Feature
 
 You've learned how to exert your will on your spells to alter how they function:
