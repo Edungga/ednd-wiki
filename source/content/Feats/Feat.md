@@ -26,7 +26,7 @@ You gain the following benefits.
 **Encouraging Song**. As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
 ## Savage Attacker
-You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll an additional weapon's damage dice twice and add to the total.
+You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll an additional weapon's damage dice and add to the total.
 
 ## Skilled
 You gain Proficiency in any combination of three Skills or tools of your choice.

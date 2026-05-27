@@ -35,7 +35,8 @@
               "title": "SPELL-TEMPLATE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "SPELL-TEMPLATE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spells"
+              "title": "Backlinks for SPELL-TEMPLATE"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells/Spells.md",
+                "file": "SPELL-TEMPLATE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells"
+              "title": "Outline of SPELL-TEMPLATE"
             }
           }
         ],
@@ -184,17 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f41b2a0659b23708",
+  "active": "54baa124d85df1d3",
   "lastOpenFiles": [
-    "SPELL-TEMPLATE.md",
+    "Feats/Feat.md",
+    "index.md",
     "Spells/Spells.md",
+    "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Arms of Darkness.md",
     "Spells/1st Circle Spells/Armour of The Forest Bearer.md",
     "Spells/1st Circle Spells/Animal Friendship.md",
     "Spells/1st Circle Spells/Alarm.md",
     "Spells/1st Circle Spells",
     "Spells/1st Circle Spells/Absorb Elements.md",
-    "index.md",
     "Classes/Ranger.md",
     "Rules/Wild Shapes.md",
     "Classes/Druid.md",
@@ -214,7 +216,6 @@
     "Blindness/Deafness.md",
     "Blindness",
     "Classes/Rogue.md",
-    "Classes/Fighter.md",
     "Spells/Spells.base",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
