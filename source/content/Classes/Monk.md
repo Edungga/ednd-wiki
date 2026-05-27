@@ -167,20 +167,16 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 Once per turn in place of an attack, you can expend 1 Ki to touch a creature and manipulate its Ki to put it to sleep. Roll five Martial Arts Dice. If the target's remaining hit points are less than or equal to the total roll, it falls [[Conditions#Unconscious (Condition)|Unconscious (Condition)]] for 10 minutes. The creature wakes up if another creature uses its action to wake it, or if it takes any damage.
 
 You can expend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
-
 #### Seeking Strike
 Your spirit can guide your strikes if your body fails. Whenever you miss with a Monk Weapon attack, you can spend 1 Ki to roll your attack again, but you must use the new result.
 
 This Technique does not count against the normal limit of one Ki feature or Technique per attack.
-
 #### Slowing Strike
-Once per turn when you hit a creature with a melee Martial Arts attack, you can spend 1 Ki to assault its Ki flow, forcing it to make a Wisdom saving throw. On a failure, it suffers the effects of the slow spell until the start of your next turn.
+When you hit a creature with a melee Martial Arts attack, you can spend 1 Ki to assault its Ki flow, forcing it to make a Wisdom saving throw. On a failure, it suffers the effects of the slow spell until the start of your next turn.
 
 You do not need to concentrate on this effect.
 #### Stunning Strike
-
-Prerequisite: 5th-level Monk
-Once per turn when you hit a creature with a melee Martial Arts attack, you can spend 1 Ki to strike body, mind, and soul, forcing it to make a Constitution saving throw. On a failure, it is Stunned until the beginning of your next turn.
+When you hit a creature with a melee Monk Weapon attack, you can spend 1 Ki to strike body, mind, and soul, forcing it to make a Constitution saving throw. On a failure, it is [[Conditions#Stunned (Debuff)|Stunned (Debuff)]] until the beginning of your next turn.
 
 
 
