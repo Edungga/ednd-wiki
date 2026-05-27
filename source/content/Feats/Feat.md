@@ -78,8 +78,8 @@ Prerequisites: Level 4+, Strength or Dexterity 13+)
 - Improved Dash. When you take the Dash action, your Speed increases by 10 feet for that action.
 - Charge Attack. If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
 
-## # Crossbow Expert
-Prerequisites: Level 4+, Dexterity 13+)
+## Crossbow Expert
+*Prerequisites: Level 4+, Dexterity 13+*
 
 You gain the following benefits.
 
@@ -508,9 +508,47 @@ Minor Telekinesis. You learn the Mage Hand spell. You can cast it without Verbal
 
 Telekinetic Shove. As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your Proficiency Bonus) or be moved 5 feet toward or away from you.
 
+## Telepathic
+PHB'24
+p208
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+
+Telepathic Utterance. You can speak telepathically to any creature you can see within 60 feet of yourself. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
+
+Detect Thoughts. You always have the Detect Thoughts spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
 
 
 
+## War Caster
+PHB'24
+p209
+General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+
+Concentration. You have Advantage on Constitution saving throws that you make to maintain Concentration.
+
+Reactive Spell. When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.
+
+Somatic Components. You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
 
 
-# Epic boons
+## Weapon Master
+PHB'24
+p209
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Mastery Property. Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
+
+
+# Epic Boons
