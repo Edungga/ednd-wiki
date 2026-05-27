@@ -102,13 +102,11 @@ Push. Once per turn, when you hit a creature with an attack that deals Bludgeoni
 Enhanced Critical. When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
 
 ## Defensive Duelist
-Prerequisites: Level 4+, Dexterity 13+)
+*Prerequisites: Level 4+, Dexterity 13+*
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Dexterity score by 1, to a maximum of 20.
-
-Parry. If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
+- **Ability Score Increase**. Increase your Dexterity score by 1, to a maximum of 20.
+- **Parry**. If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
 ## Dual Wielder
 *Prerequisites: Level 4+, Strength or Dexterity 13+*
@@ -167,9 +165,7 @@ Attack Advantage. You have Advantage on attack rolls against a creature Grappled
 Fast Wrestler. You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller.
 
 ## Great Weapon Master
-PHB'24
-p204
-General Feat (Prerequisites: Level 4+, Strength 13+)
+*Prerequisites: Level 4+, Strength 13+*
 
 You gain the following benefits.
 
@@ -238,11 +234,12 @@ Concentration Breaker. When you damage a creature that is Concentrating, it has 
 
 Guarded Mind. If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Short or Long Rest.
 
-## Martial Initiate
+## Martial Training
 *Prerequisites: Level 4+, Strength or Dexterity 13+*
 
 You gain the following benefits.
  - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+ - 
 
 ## Martial Weapon Training
 PHB'24
