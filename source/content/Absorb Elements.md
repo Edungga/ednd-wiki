@@ -20,6 +20,6 @@ WHERE file.name = this.file.name
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
-The spell captures some of the incoming energy, lessening its effect on you and storing it for your next Melee Attack. You have Resistance to the triggering Damage Type until the start of your next turn. Also, the first time you hit with a Melee Attack on your next turn, the target takes an extra 1d6 Damage of the triggering type, and the Spell ends.
+The spell captures some of the incoming energy, lessening its effect on you and storing it for your next Melee Attack. You have Resistance to the triggering Damage Type for the Duration. Also, the next Melee Attack you hit with deals an extra 1d6 Damage of the triggering type, and the Spell ends.
 
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+**At Higher Levels**. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
