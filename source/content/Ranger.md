@@ -198,7 +198,9 @@ When you mark a creature as your Quarry, you learn its Spellcasting ability (if 
 
 If your Quarry is hidden from Divination magic, such as by a [[Nondetection]] spell, it appears as if it cannot cast spells.
 
-**Magic Detection**. As a Bonus Action, you focus your awareness around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
+**Magic Detection**. As a Bonus Action, you focus your awareness around you. For 1 minute you can sense the presence of magic within 30ft of yourself.
+
+You can use this a number of times equal to your WIS 
 ### Level 3: 
 
 
