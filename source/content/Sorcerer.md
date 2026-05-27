@@ -122,18 +122,15 @@ Your innate magic manifests in fire. You are your fire, and your fire is you.
 Whenever you Cast a Spell of 1st Level or higher that deals fire damage, fiery magic erupts from you. This eruption causes creatures of your choice that you can see within 10ft of you to take Fire Damage equal to half your Sorcerer Level (min 1).
 
 
+## Wild Magic
+Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.
+### Level 1: Wild Magic Spells
 
-### Level 1: Draconic Spells
+
 ### Level 3: 
 
-### Level 1: Draconic Spells
-### Level 3: 
 
-### Level 1: Draconic Spells
-### Level 3: 
 
-### Level 1: Draconic Spells
-### Level 3: 
 
 ---
 # Metamagic
