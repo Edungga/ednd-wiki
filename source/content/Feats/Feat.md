@@ -71,10 +71,41 @@ Prerequisites: Level 4+, Strength or Dexterity 13+)
 - Improved Dash. When you take the Dash action, your Speed increases by 10 feet for that action.
 - Charge Attack. If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
 
+## # Crossbow Expert
+Prerequisites: Level 4+, Dexterity 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Dexterity score by 1, to a maximum of 20.
+
+Ignore Loading. You ignore the Loading property of the Hand Crossbow, Heavy Crossbow, and Light Crossbow (all called crossbows elsewhere in this feat). If you're holding one of them, you can load a piece of ammunition into it even if you lack a free hand.
+
+Firing in Melee. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.
+
+Dual Wielding. When you make the extra attack of the Light property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the Light property and you aren't already adding that modifier to the damage.
 
 
+## Crusher
+PHB'24
+p203
+General Feat (Prerequisite: Level 4+)
 
+You gain the following benefits.
 
+Ability Score Increase. Increase your Strength or Constitution by 1, to a maximum of 20.
+
+Push. Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
+
+Enhanced Critical. When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
+
+## Defensive Duelist
+Prerequisites: Level 4+, Dexterity 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Dexterity score by 1, to a maximum of 20.
+
+Parry. If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
 
 
