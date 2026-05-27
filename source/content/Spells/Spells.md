@@ -68,9 +68,13 @@ FLATTEN spell-list
 -->
 <!-- SerializedQuery: table School, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "1st" FLATTEN spell-list -->
 
-| File                                                             | School     | Spell List     |
-| ---------------------------------------------------------------- | ---------- | -------------- |
-| [[Absorb Elements]] | Abjuration | Arcane, Primal |
+| File                                                                                     | School      | Spell List     |
+| ---------------------------------------------------------------------------------------- | ----------- | -------------- |
+| [[Absorb Elements]]                         | Abjuration  | Arcane, Primal |
+| [[Alarm]]                                             | Abjuration  | Arcane, Primal |
+| [[Animal Friendship]]                     | Enchantment | Primal         |
+| [[Armour of The Forest Bearer]] | Abjuration  | Arcane, Primal |
+| [[Arms of Darkness]]                       | Conjuration | Arcane         |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
