@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Monk.md",
+                "file": "Feats/Feat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monk"
+              "title": "Feat"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Monk.md",
+                "file": "Feats/Feat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monk"
+              "title": "Backlinks for Feat"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Monk.md",
+                "file": "Feats/Feat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Monk"
+              "title": "Outline of Feat"
             }
           }
         ],
@@ -201,12 +201,12 @@
   },
   "active": "5d1ec92faf8892e2",
   "lastOpenFiles": [
+    "Classes/Monk.md",
     "Feats/Feat.md",
     "index.md",
     "Sorcerer.md",
     "Ancestries/Human.md",
     "Rules/Bonus Actions.md",
-    "Classes/Monk.md",
     "Classes/Ranger.md",
     "Find Familiar.md",
     "Spells/Spells.md",
