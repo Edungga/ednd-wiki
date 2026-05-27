@@ -132,13 +132,16 @@ You Monk abilities fuelled by [[Monk#Ki|Ki]]
 Once per turn when you hit a creature with a Monk Weapon attack, you can spend 1 Ki to stunt its mobility and force it to make a Dexterity saving throw. On a failed save, its speed is reduced to zero until the beginning of your next turn.
 #### Crippling Strike
 Once per turn when you hit a creature with a melee Monk Weapon attack, you can spend 1 Ki to cripple its senses and force it to make a CON Save. On a failed save, you choose if it is
-[[copn]]
-Blinded, Deafened, or unable to speak until the beginning of your next turn.
+[[Conditions#Blinded (Debuff)|Blinded (Debuff)]], [[Conditions#Deafened (Debuff)|Deafened (Debuff)]], or [[Conditions#Silenced (Debuff)|Silenced (Debuff)]] until the beginning of your next turn.
 #### Deflect Missiles
 You can use your Reaction to deflect or catch the missile when you are hit by a Ranged Weapon Attack. When you do so, the Damage you take from the Attack is reduced by 1d10 + your DEX modifier + your Monk level.
 
 If you reduce the Damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 Ki to make a Ranged Attack with a Range of 30/60 using the Weapon or piece of Ammunition you just caught, as part of the same Reaction. 
 You make this Attack with Proficiency, regardless of your Weapon Proficiencies, and the missile counts as a Monk Weapon for the Attack.
+#### Empowered Strike
+Once per turn when you hit a creature with a melee Monk Wattack, you can spend 1 Ki to strike with great power and force it to make a Strength saving throw. On a failed save, it is knocked back horizontally from you in a line a number of feet equal to 5 times your Wisdom modifier, then falls Prone.
+
+Creatures that are at least one size larger than you have advantage on this Strength saving throw.
 #### Flurry of Blows
 You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 #### Patient Defense
