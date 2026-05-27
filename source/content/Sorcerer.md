@@ -30,6 +30,9 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 4th   | +2                | Feat / ASI                     | 5        | 7            | 22             | 2nd         | 2               |
 | 5th   | +3                | -                              | 5        | 9            | 32             | 3rd         | 3               |
 
+## Level 1 Sorcerous Origin
+Your very soul bears an innate spark of arcane magic. Choose a [[Sorcerer]], which describes the source of your innate magical power. Your choice grants you features at certain Sorcerer Levels.
+
 ## Level 1: Spellcasting
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
 
@@ -73,7 +76,7 @@ Additionally, when you gain a level in this class, you can choose one of the Arc
 
 
 ---
-
+# Sorcerous Origins
 
 
 
