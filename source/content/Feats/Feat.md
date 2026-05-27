@@ -64,7 +64,7 @@ You gain the following benefits.
 - **Hop Up**. When you have the Prone condition, you can right yourself with only 5 feet of movement.
 - **Jumping**. You can make a running Long or High Jump after moving only 5 feet.
 
-# Charger
+## Charger
 Prerequisites: Level 4+, Strength or Dexterity 13+)
 - You gain the following benefits.
 - Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
@@ -107,7 +107,53 @@ Ability Score Increase. Increase your Dexterity score by 1, to a maximum of 20.
 
 Parry. If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
+## Dual Wielder
+PHB'24
+p203
+General Feat (Prerequisites: Level 4+, Strength or Dexterity 13+)
 
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Enhanced Dual Wielding. When you take the Attack action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
+
+Quick Draw. You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
+
+## Durable
+PHB'24
+p203
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Constitution score by 1, to a maximum of 20.
+
+Defy Death. You have Advantage on Death Saving Throws.
+
+Speedy Recovery. As a Bonus Action, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
+
+## Elemental Adept
+PHB'24
+p203
+General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+
+Energy Mastery. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
+
+Repeatable. You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
+
+## Fey-Touched
+Prerequisite: Level 4+)
+
+Your exposure to the Feywild's magic grants you the following benefits.
+
+Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+
+Fey Magic. Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the Misty Step spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 
 
