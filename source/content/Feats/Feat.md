@@ -62,6 +62,14 @@ Your Hit Point maximum increases by an amount equal to twice your character leve
 
 
 
+## Heavily Armored
+*Prerequisites: Medium Armor Training*
+
+You gain the following benefits.
+ - **Ability Score Increase**. Increase your Constitution or Strength by 1, to a maximum of 20.
+ - **Armor Training**. You gain training with Heavy armor.
+
+
 # Level 4 Feats
 ## Ability Score Improvement
 Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.
@@ -185,14 +193,6 @@ You gain the following benefits.
 - **Heavy Weapon Mastery**. When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 - **Hew**. Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 
-## Heavily Armored
-Prerequisites: Level 4+, Medium Armor Training
-
-You gain the following benefits.
-
-Ability Score Increase. Increase your Constitution or Strength by 1, to a maximum of 20.
-
-Armor Training. You gain training with Heavy armor.
 
 ## Heavy Armor Master
 PHB'24
