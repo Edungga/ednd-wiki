@@ -151,19 +151,17 @@ Such as a Badger
 
 ## Pack Hound
 
-| Wild Shape                                                                                             |
-| ------------------------------------------------------------------------------------------------------ |
-| *Tiny Beast*                                                                                           |
-| **Armour Class**: 9 + your WIS modifier                                                                |
-| **Hit Points**: 2 + your Druid level                                                                   |
-| **Speed**: 40ft Walk                                                                                   |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
-| **Skills**                                                                                             |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
-| **TRAITS**<br>**test**.                                                                                |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                                         |
-| **REACTIONS**<br>**test**.                                                                             |
+| Wild Shape                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| *Tiny Beast*                                                                                                                 |
+| **Armour Class**: 9 + your WIS modifier                                                                                      |
+| **Hit Points**: 2 + your Druid level                                                                                         |
+| **Speed**: 40ft Walk                                                                                                         |
+| STR 14 (+2)  \|  DEX 15 (+2)  \|  CON 12 (+1)                                                                                |
+| **Skills**                                                                                                                   |
+| **Senses** Darkvision 120 ft., passive Perception 12                                                                         |
+| **TRAITS**<br>Pack Tactics. Have advantage on its attack rolls if a conscious allied creature is within 5 ft. of its target. |
+| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage.                       |
 
 ## Spider
 
