@@ -71,6 +71,13 @@ You adopt a particular style of fighting as your speciality. Choose one of the f
 - **Two-Weapon Fighting**. When you engage in [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting]], you can add your ability modifier to the damage of the second attack.
 - **Unarmed Fighting**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.
 
+## Grappler
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+- **Punch and Grab**. When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+- **Attack Advantage**. You have Advantage on attack rolls against a creature Grappled by you.
+- **Fast Wrestler**. You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller.
+
 ## Heavily Armored
 *Prerequisites: Medium Armor Training*
 
@@ -177,19 +184,6 @@ Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to
 Energy Mastery. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 
 Repeatable. You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
-
-## Grappler
-Prerequisites: Level 4+, Strength or Dexterity 13+
-
-You gain the following benefits.
-
-Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
-
-Punch and Grab. When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
-
-Attack Advantage. You have Advantage on attack rolls against a creature Grappled by you.
-
-Fast Wrestler. You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller.
 
 ## Great Weapon Master
 *Prerequisites: Level 4+, Strength 13+*
