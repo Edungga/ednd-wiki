@@ -446,9 +446,8 @@ Your skills as a Trapper have grown. So long as you have enough natural material
 Prerequisite: proficiency in Insight
 You can verbally communicate with and understand Beasts. However, when communicating with a Beast, its awareness and ability to recall knowledge is limited by its Intelligence.
 
-Finally, you can add your Quarry  to any Insight checks that you make.
+Finally, you can add your Quarry Die to any Insight checks that you make.
 
-Wild Insight II
-
-Prerequisite: 3rd-level Ranger, Wild Insight I
+## Wild Insight II
+*Prerequisite: Ranger Level 3, Wild Insight I*
 Your bond with the wild allows you to conjure bestial spirits. You always have the conjure familiar ll spell prepared, but it doesn't count against the spells you prepare each day. When you cast conjure familiar, its creature type is always Fey.
