@@ -225,8 +225,7 @@ Lore Knowledge. Choose one of the following skills: Arcana, History, Investigati
 
 Quick Study. You can take the Study action as a Bonus Action.
 
-## 
-Lightly Armored
+## Lightly Armored
 PHB'24
 p205
 General Feat (Prerequisite: Level 4+)
@@ -308,4 +307,59 @@ Mounted Strike. While mounted, you have Advantage on attack rolls against any un
 Leap Aside. If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can have the Incapacitated condition.
 
 Veer. While mounted, you can force an attack that hits your mount to hit you instead if you don't have the Incapacitated condition.
+
+## Observant
+PHB'24
+p205
+General Feat (Prerequisites: Level 4+, Intelligence or Wisdom 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Intelligence or Wisdom by 1, to a maximum of 20.
+
+Keen Observer. Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
+
+Quick Search. You can take the Search action as a Bonus Action.
+
+## Piercer
+PHB'24
+p206
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Puncture. Once per turn, when you hit a creature with an attack that deals Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+
+Enhanced Critical. When you score a Critical Hit that deals Piercing damage to a creature, you can roll one additional damage die when determining the extra Piercing damage the target takes.
+
+## Poisoner
+PHB'24
+p206
+General Feat (Prerequisite: Level 4+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Dexterity or Intelligence by 1, to a maximum of 20.
+
+Potent Poison. When you make a damage roll that deals Poison damage, it ignores Resistance to Poison damage.
+
+Brew Poison. You gain proficiency with the Poisoner's Kit. With 1 hour of work using such a kit and expending 50 GP worth of materials, you can create a number of poison doses equal to your Proficiency Bonus. As a Bonus Action, you can apply a poison dose to a weapon or piece of ammunition. Once applied, the poison retains its potency for 1 minute or until you deal damage with the poisoned item, whichever is shorter. When a creature takes damage from the poisoned item, that creature must succeed on a Constitution saving throw (DC 8 plus the modifier of the ability increased by this feat and your Proficiency Bonus) or take 2d8 Poison damage and have the Poisoned condition until the end of your next turn.
+
+## Polearm Master
+PHB'24
+p206
+General Feat (Prerequisites: Level 4+, Strength or Dexterity 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Dexterity or Strength by 1, to a maximum of 20.
+
+Pole Strike. Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
+
+Reactive Strike. While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
+
+
+
 # Level 19 Feats
