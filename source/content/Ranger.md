@@ -354,7 +354,6 @@ Also, when you mark a creature as your Quarry, the mark lasts indefinitely and o
 ## Slayer III
 *Prerequisite: Ranger Level 14, Slayer I, II*
 
-Once on each of your turns when you hit your Quarry with an attack, you can force it to make a CON Save. On a failed save, you choose if it is [[con]]
-Blinded, Deafened, unable to speak, or Restrained until the start of your following turn.
+Once on each of your turns when you hit your Quarry with an attack, you can force it to make a CON Save. On a failed save, you choose if it is [[Conditions#Blinded (Debuff)|Blinded (Debuff)]], [[Conditions#Deafened (Debuff)|Deafened (Debuff)]], [[Conditions#Silenced (Debuff)|Silenced (Debuff)]], or [[Conditions#Restrained (Condition)|Restrained (Condition)]] until the start of your following turn.
 
 ## Wild Insight I
