@@ -55,6 +55,21 @@ Such as a Badger
 
 ## Feline
 
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Frog
 
 | Wild Shape                                           |
 | ---------------------------------------------------- |
@@ -69,14 +84,118 @@ Such as a Badger
 | **ACTIONS**<br>**test**.                             |
 | **BONUS ACTIONS**<br>**test**.                       |
 | **REACTIONS**<br>**test**.                           |
-Frog
-Giant Insect
-Giant Rodent
-Giant Spider
-Large Cat
-Monkey
-Pack Hound
-Spider
+
+## Giant Insect
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Giant Rodent
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Giant Spider
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Large Cat
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Monkey
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Pack Hound
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
+
+## Spider
+
+| Wild Shape                                           |
+| ---------------------------------------------------- |
+| *Tiny Beast*                                         |
+| **Armour Class**: 9 + your WIS modifier              |
+| **Hit Points**: 2 + your Druid level                 |
+| **Speed**: 40ft Walk                                 |
+| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)         |
+| **Skills**                                           |
+| **Senses** Darkvision 120 ft., passive Perception 12 |
+| **TRAITS**<br>**test**.                              |
+| **ACTIONS**<br>**test**.                             |
+| **BONUS ACTIONS**<br>**test**.                       |
+| **REACTIONS**<br>**test**.                           |
 
 # Band 2
 Equivalent of CR 1/2
