@@ -68,6 +68,17 @@ You can cast any spell as a Ritual if that spell has the Ritual tag and the spel
 ## Level 2: Arcane Recovery
 
 
+ Level 2: Scholar PHB'24 p166
+
+While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
+
+
+Level 2: Cantrip Formulas
+You have scribed a set of arcane formulas in your Spellbook that you can use to formulate a Cantrip in your mind. Whenever you finish a Long Rest and consult those formulas in your Spellbook, you can replace one Wizard Cantrip you know with another Cantrip from the Arcane Spell List.
+
+
+## Level 3: Arcane Traditions
+You choose an [[Wizard#Arcane Traditions]], shaping your practice of magic through one of the following schools. Your choice grants you features at certain Wizard Levels.
 
 
 ---
