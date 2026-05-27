@@ -86,9 +86,9 @@ When you reach certain Druid levels, your number of known forms and the max CR f
 | 2           | 4           | 1    | No        |
 | 4           | 6           | 2    | No        |
 | 8           | 8           | 3    | Yes       |
-| 13          | 10          | 4    | Yes       |
-| 17          | 12          | 5    | Yes       |
-
+| 12          | 10          | 4    | Yes       |
+| 16          | 12          | 5    | Yes       |
+| 20          | 14          | 6    | Yes       |
 
 **Rules While Shapechanged**. While in a Beast form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
