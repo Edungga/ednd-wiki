@@ -55,13 +55,17 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 ### Techniques Known
 You know three [[Monk#Mystic Techniques|Mystic Techniques]]. To learn a Technique you must meet any prerequisites it has. Whenever you gain a Monk level, you can replace one Technique you know with another.
 
+**Ki attack modifier** = your Proficiency Bonus + your WIS modifier
+
+**Ki save DC** = 8 + your Proficiency Bonus + your WIS modifier
+### Flurry of Blow
+
+
+
 You can expend these points to enhance or fuel certain Monk features known as [[#Forms|Forms]]. You start by knowing the three [[#Basic Forms|Basic Forms]]: [[#Flurry of Blows|Flurry of Blows]], [[#Patient Defense|Patient Defense]], and [[#Step of the Wind|Step of the Wind]].
 
 When you regain all expended Ki, when you finish a Short or Long Rest.
 
-**Ki attack modifier** = your Proficiency Bonus + your WIS modifier
-
-**Ki save DC** = 8 + your Proficiency Bonus + your WIS modifier
 
 ## Level 2: Uncanny Metabolism
 When you roll Initiative, you can regain all expended Ki. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
