@@ -385,9 +385,9 @@ This effect instantly ends if you Cast a Spell, or you attack
 
 You ignore the effects of difficult terrain imposed by natural environments, you cannot become lost so long as you can see the night sky, and you and up to 10 creatures who travel with you don't have travel slowed by natural difficult terrain.
 
-Finally, you can add double your Proficiency Bonus to any Survival checks that you make.
+Finally, you can add your Quarry Die to any Survival checks that you make.
 
-Strider II
+## Strider II
 
 Prerequisite: 3rd-level Ranger, Strider I
 Once in your sights, you pursue your foes relentlessly. You can take the Dash action as a bonus action on your turn.
