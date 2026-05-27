@@ -68,8 +68,16 @@ Additionally, when you gain a level in this class, you can choose one of the Arc
 
 
 ## Level 2: Metamagic
+You gain the ability to twist your Spells to suit your needs. You gain two [[Sorcerer#Metamagic|Metamagic]] options of your choice. You gain additional metamagic options as outlined in the Sorcerer Table.
+
+Each Metamagic option costs a number of Sorcery Points as noted in the options description. You can use only one Metamagic option on a Spell when you cast it, unless otherwise noted.
 
 
+
+## Level 5: Arcane Recharge
+You have learned to draw upon the innate magic presence in all things to restore your own arcane power. When you finish a Short Rest you can choose to regain expended Sorcery Points equal to your Sorcerer Level.
+
+Once you use this feature to regain Sorcery Points, you must finish a Long Rest before you can use it again.
 
 
 
