@@ -1,3 +1,12 @@
+# Band 1
+equivelent of CR 1/4 - 
+
+
+# Band 2
+
+
+
+# Band 3
 
 # CR 1/4
 ## Baboon
