@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catapult.md",
+                "file": "Spells/1st Circle Spells/Catapult.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catapult.md",
+                "file": "Spells/1st Circle Spells/Catapult.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catapult.md",
+                "file": "Spells/1st Circle Spells/Catapult.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54baa124d85df1d3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "SPELL-TEMPLATE.md",
-    "Catapult.md",
+    "Spells/1st Circle Spells/Catapult.md",
     "Spells/1st Circle Spells/Arms of Darkness.md",
     "Rules/Burning.md",
     "Spells/1st Circle Spells/Burning Hands.md",
