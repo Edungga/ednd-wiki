@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPELL-TEMPLATE 1.md",
+                "file": "Arms of Darkness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPELL-TEMPLATE 1"
+              "title": "Arms of Darkness"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPELL-TEMPLATE 1.md",
+                "file": "Arms of Darkness.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SPELL-TEMPLATE 1"
+              "title": "Backlinks for Arms of Darkness"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPELL-TEMPLATE 1.md",
+                "file": "Arms of Darkness.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SPELL-TEMPLATE 1"
+              "title": "Outline of Arms of Darkness"
             }
           }
         ],
@@ -188,7 +188,7 @@
   "active": "f41b2a0659b23708",
   "lastOpenFiles": [
     "Spells/1st Circle Spells/Armour of The Forest Bearer.md",
-    "SPELL-TEMPLATE 1.md",
+    "Arms of Darkness.md",
     "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Animal Friendship.md",
     "Spells/1st Circle Spells/Alarm.md",
