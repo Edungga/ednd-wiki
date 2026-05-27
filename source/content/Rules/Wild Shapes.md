@@ -95,19 +95,19 @@ Such as a Badger
 
 ## Giant Insect
 
-| Wild Shape                                                                                             |
-| ------------------------------------------------------------------------------------------------------ |
-| *Small Beast*                                                                                          |
-| **Armour Class**: 11 + your WIS modifier                                                               |
-| **Hit Points**: 10 + your Druid level                                                                  |
-| **Speed**: 40ft Walk                                                                                   |
-| STR 3 (-4)  \|  DEX 14 (+2)  \|  CON 12 (+1)                                                           |
-| **Skills**                                                                                             |
-| **Senses** Darkvision 120 ft., passive Perception 12                                                   |
-| **TRAITS**<br>**test**.                                                                                |
-| **ACTIONS**<br>**Beast's Strike**. Melee Attack Roll: 4+PB, reach 5 ft. Hit: 1d6+4 Bludgeoning damage. |
-| **BONUS ACTIONS**<br>**test**.                                                                         |
-| **REACTIONS**<br>**test**.                                                                             |
+| Wild Shape                                         |
+| -------------------------------------------------- |
+| *Small Beast*                                      |
+| **Armour Class**: 11 + your WIS modifier           |
+| **Hit Points**: 10 + your Druid level              |
+| **Speed**: 40ft Walk                               |
+| STR 5 (-3)  \|  DEX 14 (+2)  \|  CON 12 (+1)       |
+| **Senses** Blindsight 30ft., passive Perception 12 |
+|                                                    |
+| **TRAITS**<br>**test**.                            |
+|                                                    |
+| **BONUS ACTIONS**<br>**test**.                     |
+| **REACTIONS**<br>**test**.                         |
 
 ## Giant Rodent
 
