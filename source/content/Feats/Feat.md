@@ -368,13 +368,17 @@ You gain the following benefits.
 - **Reactive Spell**. When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.
 - **Somatic Components**. You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
 
-
 ## Weapon Master
-Prerequisite: Level 4+
+*Prerequisite: Level 4+*
 
 You gain the following benefits.
 - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
 - **Mastery Property**. Your training with weapons allows you to use the [[Weapon Mastery Properties|Weapon Mastery Property]] of one weapon of your choice you have proficiency with. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.
 
+### Whip Master
+*Prerequisite: Level 4+, STR or DEX 13+*
 
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Dexterity score by 1, up to a maximum of 20.
+- 
 # Epic Boons
