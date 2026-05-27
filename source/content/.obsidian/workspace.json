@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gift of Alacrity.md",
+                "file": "Goodberry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gift of Alacrity"
+              "title": "Goodberry"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gift of Alacrity.md",
+                "file": "Goodberry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gift of Alacrity"
+              "title": "Backlinks for Goodberry"
             }
           },
           {
@@ -200,9 +200,10 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
-    "Spells/1st Circle Spells/Fog Cloud.md",
-    "Gift of Alacrity.md",
     "SPELL-TEMPLATE.md",
+    "Goodberry.md",
+    "Spells/1st Circle Spells/Gift of Alacrity.md",
+    "Spells/1st Circle Spells/Fog Cloud.md",
     "Spells/1st Circle Spells/Floating Disk.md",
     "Spells/1st Circle Spells/Find Familiar.md",
     "Classes/Warlock.md",
@@ -225,7 +226,6 @@
     "Spells/1st Circle Spells/Create or Destroy Water.md",
     "Spells/1st Circle Spells/Summon Oozelings.md",
     "index.md",
-    "Spells/1st Circle Spells/Comprehend Languages.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
