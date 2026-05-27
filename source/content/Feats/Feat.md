@@ -155,6 +155,46 @@ Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to
 
 Fey Magic. Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the Misty Step spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
+## Grappler
+PHB'24
+p204
+General Feat (Prerequisites: Level 4+, Strength or Dexterity 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+
+Punch and Grab. When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+
+Attack Advantage. You have Advantage on attack rolls against a creature Grappled by you.
+
+Fast Wrestler. You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller.
+
+## Great Weapon Master
+PHB'24
+p204
+General Feat (Prerequisites: Level 4+, Strength 13+)
+
+You gain the following benefits.
+
+Ability Score Increase. Increase your Strength score by 1, to a maximum of 20.
+
+Heavy Weapon Mastery. When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
+
+Hew. Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Level 19 Feats
