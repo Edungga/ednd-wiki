@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Illusion school.md",
+                "file": "Druid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Illusion school"
+              "title": "Druid"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Illusion school.md",
+                "file": "Druid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Illusion school"
+              "title": "Backlinks for Druid"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Illusion school.md",
+                "file": "Druid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Illusion school"
+              "title": "Outline of Druid"
             }
           }
         ],
@@ -172,18 +172,19 @@
   },
   "active": "5d1ec92faf8892e2",
   "lastOpenFiles": [
-    "Spells/Evocation school.md",
-    "Spells/Divination school.md",
-    "Spells/Abjuration school.md",
-    "Spells/All Spells List.md",
     "index.md",
+    "Spells/Schools of Magic/Necromancy school.md",
+    "Spells/Schools of Magic",
+    "Spells/Schools of Magic/Illusion school.md",
+    "Spells/Schools of Magic/Evocation school.md",
+    "Spells/Schools of Magic/Divination school.md",
+    "Spells/Schools of Magic/Abjuration school.md",
+    "Spells/All Spells List.md",
     "Classes/Wizard.md",
-    "Necromancy school.md",
-    "Illusion school.md",
     "Druid.md",
     "Classes/Sorcerer.md",
     "Rules/Wild Magic Table.md",
-    "Concordance.md",
+    "Rules/Concordance.md",
     "Classes/Warlock.md",
     "Blindness/Deafness.md",
     "Blindness",
@@ -198,7 +199,6 @@
     "Rules/Bonus Actions.md",
     "Find Familiar.md",
     "Spells/Spells.md",
-    "Spells/Arcane Spell List.md",
     "Spells/Spells.base",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
@@ -206,7 +206,6 @@
     "The Setting/Higher Powers/Elemental Powers",
     "The Setting/Higher Powers/Fiends",
     "The Setting/Higher Powers/Fathomless Beings",
-    "The Setting/Higher Powers/Archfae",
-    "The Setting/Higher Powers/The Virtues"
+    "The Setting/Higher Powers/Archfae"
   ]
 }
