@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ensnaring Strike.md",
+                "file": "Spells/Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ensnaring Strike"
+              "title": "Spells"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ensnaring Strike.md",
+                "file": "Entangle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ensnaring Strike"
+              "title": "Entangle"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Warlock"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ensnaring Strike.md",
+                "file": "Entangle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ensnaring Strike"
+              "title": "Backlinks for Entangle"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ensnaring Strike.md",
+                "file": "Entangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ensnaring Strike"
+              "title": "Outgoing links from Entangle"
             }
           },
           {
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ensnaring Strike.md",
+                "file": "Entangle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ensnaring Strike"
+              "title": "Outline of Entangle"
             }
           }
         ]
@@ -197,11 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f41b2a0659b23708",
+  "active": "54baa124d85df1d3",
   "lastOpenFiles": [
     "SPELL-TEMPLATE.md",
+    "Entangle.md",
+    "Spells/1st Circle Spells/Ensnaring Strike.md",
     "Spells/Spells.md",
-    "Ensnaring Strike.md",
     "Spells/1st Circle Spells/Earth Tremor.md",
     "Spells/1st Circle Spells/Divine Favour.md",
     "Spells/1st Circle Spells/Distort Value.md",
@@ -224,7 +226,6 @@
     "Spells/1st Circle Spells/Chromatic Orb.md",
     "Spells/1st Circle Spells/Charm Person.md",
     "Spells/1st Circle Spells/Chaos Bolt.md",
-    "Spells/1st Circle Spells/Caustic Brew.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",

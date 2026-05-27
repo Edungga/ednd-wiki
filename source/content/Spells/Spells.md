@@ -99,6 +99,7 @@ FLATTEN spell-list
 | [[Distort Value]]                             | Illusion      | Arcane         |
 | [[Divine Favour]]                             | Evocation     | Divine         |
 | [[Earth Tremor]]                               | Evocation     | Arcane, Primal |
+| [[Ensnaring Strike]]                       | Conjuration   | Primal         |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
