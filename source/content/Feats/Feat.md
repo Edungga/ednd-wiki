@@ -464,9 +464,7 @@ You gain the following benefits.
 
 
 ## War Caster
-PHB'24
-p209
-General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature)
+*Prerequisites: Level 4+; Spellcasting or Pact Magic Feature*
 
 You gain the following benefits.
 - **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
