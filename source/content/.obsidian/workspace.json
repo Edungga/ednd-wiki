@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Wizard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Wizard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Wizard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Wizard"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Wizard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Wizard"
             }
           }
         ],
@@ -170,13 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "5d1ec92faf8892e2",
   "lastOpenFiles": [
+    "index.md",
+    "Wizard.md",
     "Rules/Wild Magic Table.md",
     "Concordance.md",
     "Classes/Sorcerer.md",
     "Druid.md",
-    "index.md",
     "Classes/Warlock.md",
     "Blindness/Deafness.md",
     "Blindness",
@@ -198,7 +199,6 @@
     "Classes/Barbarian.md",
     "Rules/Conditions.md",
     "Classes/Cleric.md",
-    "Rules/Wild Shapes.md",
     "Spells/Spells.base",
     "The Setting/Higher Powers/Undead Beings",
     "The Setting/Higher Powers/Great Wyrms",
