@@ -45,15 +45,15 @@ An event in your past, or in the life of a parent or ancestor, left an indelible
 | 4th         | 6          |
 | 5th         | 7          |
 
-Spell Limit. Your Sorcerer Level limits the potency of Spells that you can produce. This limit is reflected in the Spell Limit column of the Sorcerer Table. For example, as a 5th level Sorcerer, you are limited to casting Sorcerer Spells of 3rd Level or lower.
+**Spell Limit**. Your Sorcerer Level limits the potency of Spells that you can produce. This limit is reflected in the Spell Limit column of the Sorcerer Table. For example, as a 5th level Sorcerer, you are limited to casting Sorcerer Spells of 3rd Level or lower.
 
-Spells Known of 1st Level and Higher. You know four 1st-level spells of your choice from the Arcane Spell List.
+**Spells Known of 1st Level and Higher**. You know four 1st-level spells of your choice from the Arcane Spell List.
 
 The Spells Known column of the Sorcerer table shows when you learn more Sorcerer Spells of your choice. Each of these Spells must be of a level within your Spell Limit, as shown on the table.
 
 Additionally, when you gain a level in this class, you can choose one of the Arcane Spells you know and replace it with another spell from the Arcane Spell List, which also must be of a level within your Spell Limit.
 
-Origin Spells. Each Sorcerous Origin has a list of Origin Spells that you learn at the Sorcerer Levels noted in your Origin's description. Your Origin Spells count as Sorcerer Spells for you, but they do not count against your total number of Spells Known.
+**Origin Spells**. Each Sorcerous Origin has a list of Origin Spells that you learn at the Sorcerer Levels noted in your Origin's description. Your Origin Spells count as Sorcerer Spells for you, but they do not count against your total number of Spells Known.
 
 Spellcasting Ability. Constitution or Charisma (choose when you take this feature) is your Spellcasting Ability for your Sorcerer spells. Depending on how your sorcerous origin manifests its magics through you, it could either be your ability to project your will into the world, or how much arcane power your physical being can withstand outputting.
 
