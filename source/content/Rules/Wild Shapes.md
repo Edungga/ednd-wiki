@@ -263,6 +263,7 @@ Dire Feline
 Dire Hound
 Giant Burrower
 Giant Cephalopod
+Giant Frog Toad
 Great Ape
 Velociraptor
 
