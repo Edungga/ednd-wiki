@@ -196,6 +196,7 @@ You have learned to see the arcane ability of creatures. When you mark a creatur
 
 If your Quarry is hidden from Divination magic, such as by a [[Nondetection]] spell, it appears as if it cannot cast spells.
 
+Additionally, as a Bonus Action, you focus your awareness around you. For 1 minute you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favoured terrain): Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, and Undead. This feature doesn’t reveal the creatures’ location or number unless it is one of your Favoured Enemies.
 ### Level 3: 
 
 
