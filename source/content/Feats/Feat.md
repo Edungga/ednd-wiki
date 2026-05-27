@@ -73,6 +73,11 @@ You gain the following benefits.
  - **Armor Training**. You gain training with Light armor and Shields.
 
 
+## Weapon Training
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+- **Weapon Proficiency**. You gain proficiency with Simple and Martial weapons.
+
 # Level 4 Feats
 ## Ability Score Improvement
 Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.
@@ -242,10 +247,6 @@ You gain the following benefits.
  - **Manoeuvres**. You learn two [[Fighter#Maneuvers|Maneuvers]] of your choice. If a maneuver you use requires your target to make a Save, the DC equals 8 + your proficiency bonus + your STR or DEX modifier (your choice).
  - **Superiority Die**. You gain two superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a Short or Long Rest.
 
-## Martial Weapon Training
-You gain the following benefits.
-- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
-- **Weapon Proficiency**. You gain proficiency with Simple and Martial weapons.
 
 ## Medium Armor Master
 PHB'24
@@ -428,17 +429,10 @@ You gain the following benefits.
 - **Sniper**. If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
 
 ## Slasher
-PHB'24
-p208
-General Feat (Prerequisite: Level 4+)
-
 You gain the following benefits.
-
-Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
-
-Hamstring. Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
-
-Enhanced Critical. When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
+- Ability Score Increase. Increase your Strength or Dexterity by 1, to a maximum of 20.
+- Hamstring. Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
+- **Enhanced Critical**. When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
 
 ## Speedy
 PHB'24
@@ -490,17 +484,12 @@ Minor Telekinesis. You learn the Mage Hand spell. You can cast it without Verbal
 Telekinetic Shove. As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your Proficiency Bonus) or be moved 5 feet toward or away from you.
 
 ## Telepathic
-PHB'24
-p208
-General Feat (Prerequisite: Level 4+)
+Prerequisite: Level 4+
 
 You gain the following benefits.
-
-Ability Score Increase. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
-
-Telepathic Utterance. You can speak telepathically to any creature you can see within 60 feet of yourself. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
-
-Detect Thoughts. You always have the Detect Thoughts spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
+- **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
+- **Telepathic Utterance**. You can speak telepathically to any creature you can see within 60 feet of yourself. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
+- **Detect Thoughts**. You always have the Detect Thoughts spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
 
 
 
