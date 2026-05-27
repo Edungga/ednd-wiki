@@ -9,7 +9,7 @@
 
 **Skilful**: You gain Proficiency in one Skill of your choice.
 
-**Versatile**: You gain a [[Feat#Level 1 Feats|Level 1 feat]] of your choice
+**Versatile**: You gain a [[Feat]] of your choice that you meet the prerequisites for
 
 ---
 # Lore
