@@ -51,6 +51,17 @@ You know how to strike subtly and exploit a foe's distraction. Once per turn you
 
 The amount of the extra Damage is as shown in the Sneak Attack column of the Rogue table.
 
+## Level 1: Weapon Mastery
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of Weapons you have Proficiency with. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+
+When you reach certain Rogue levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Rogue Features table.
+
+## Level 2: Cunning Action
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
+
+
+
+
 
 ---
 # Roguish Archetypes
