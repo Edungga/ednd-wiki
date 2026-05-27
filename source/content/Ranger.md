@@ -380,4 +380,80 @@ Your mythic skill allow you to become undetectable. Any time you take a Hide act
 
 This effect instantly ends if you Cast a Spell, or you attack 
 
+## Strider I
+*Prerequisite: proficiency in Survival*
+
+You ignore the effects of difficult terrain imposed by natural environments, you cannot become lost so long as you can see the night sky, and you and up to 10 creatures who travel with you don't have travel slowed by natural difficult terrain.
+
+Finally, you can add double your Proficiency Bonus to any Survival checks that you make.
+
+Strider II
+
+Prerequisite: 3rd-level Ranger, Strider I
+Once in your sights, you pursue your foes relentlessly. You can take the Dash action as a bonus action on your turn.
+
+Strider III
+
+Prerequisite: 6th-level Ranger, Strider I, II
+You can surmount almost any obstacle that would block your path. Your walking speed increases by 10 feet, and you ignore the effects of difficult terrain imposed by any spell, magical phenomena, or any other supernatural effect.
+
+Strider IV
+
+Prerequisite: 14th-level Ranger, Strider I, II, III
+You move through the world unhindered by even the most powerful magic and restraints. You are always under the effects of a freedom of movement spell while conscious.
+
+Student of the Wild
+
+Time in the wild has honed your skills. You gain proficiency in two skills of your choice from the Ranger class skill list.
+
+You can learn this Knack more than once, but you choose
+two new Ranger class skills each time that you learn it.
+
+Survivor I
+
+Prerequisite: 6th-level Ranger
+Your time in the wilds has hardened your body. As a bonus action on your turn, you can grant yourself temporary hit points equal to your Constitution
+modifier (minimum of 1).
+
+
+Survivor II
+
+Prerequisite: 9th-level Ranger, Survivor I
+Your body can rapidly recover from injury. When you expend a Hit Die to regain hit points, you regain additional hit points equal to your Wisdom modifier (minimum of 1 hit point).
+
+Survivor III
+
+Prerequisite: 14th-level Ranger, Survivor I, II
+When you make a death saving throw, you add your Wisdom modifier to the roll (minimum of +1). If the result of your roll is 20 or higher, it is as if you had rolled a 20 on the d20.
+
+Trapper I
+
+Prerequisite: proficiency in Sleight of Hand
+You craft traps from materials on hand. You also add double your Proficiency Bonus to your Sleight of Hand checks. The Traps you create use the following rules:
+
+Crafting a Trap. Over the course of 1 hour, which can be during a short or long rest, you use a knife, natural materials, and 10 feet of rope to craft one Trap. It remains usable until the end of your next long rest, when it breaks down.
+
+Setting a Trap. As an action, you can place one Trap in an adjacent, unoccupied 5-foot space. The first Large or smaller creature that moves into the Trap's space must succeed on a Dexterity saving throw or become Restrained by the Trap.
+
+As an action, the Restrained creature, or a creature within 5 feet, can make a Strength check (DC is your Spell save DC). On a success, the creature is freed and the Trap is destroyed.
+
+Hiding a Trap. As an action (separate from setting it), you can hide a Trap. Creatures have disadvantage on their saving throws against Traps if they are unaware of them. To detect a hidden Trap, a creature must make a successful Investigation or Perception check against your Spell save DC.
+
+Trapper II
+
+Prerequisite: 6th-level Ranger, Trapper I
+   Your skills as a Trapper have grown. So long as you have
+               enough natural material and rope, you can craft up
+                      to three Traps in 1 hour, and once you set your
+                          Traps, they last until triggered or destroyed.
+
 ## Wild Insight I
+Prerequisite: proficiency in Insight
+You can verbally communicate with and understand Beasts. However, when communicating with a Beast, its awareness and ability to recall knowledge is limited by its Intelligence.
+
+Finally, you can add double your Proficiency Bonus to any Insight checks that you make.
+
+Wild Insight II
+
+Prerequisite: 3rd-level Ranger, Wild Insight I
+Your bond with the wild allows you to conjure bestial spirits. You always have the conjure familiar ll spell prepared, but it doesn't count against the spells you prepare each day. When you cast conjure familiar, its creature type is always Fey.
