@@ -36,7 +36,7 @@ We also have some Home Rules to spice things up a bit
 - [[Monk]] - up to lvl 5
 - [[Paladin]] - up to lvl 5
 - [[Ranger]] - up to lvl 5
-- [[Rogue]]
+- [[Rogue]]- up to lvl 5
 - [[Sorcerer]]
 - [[Warlock]]
 - [[Wizard]]

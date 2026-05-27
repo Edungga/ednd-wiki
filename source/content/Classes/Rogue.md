@@ -159,3 +159,6 @@ You have additional options for the Bonus Action of your Cunning Action::
 - **Use an Object**. Take the Utilize action, or take the Magic action to use a magic item that requires that action.
 
 ### Level 3: Second Story Work
+You have trained to reach especially hard-to reach places, granting you these benefits:
+- **Climb Speed**. You gain a Climb Speed equal to your Walk Speed.
+- **Jump Distance**. You can determine your jump distance using your Dexterity rather than your Strength.
