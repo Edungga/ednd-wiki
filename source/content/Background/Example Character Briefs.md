@@ -21,7 +21,7 @@
 - **Class**. [[Druid]]
 	- **Skills**. Animal Handling, Survival
 	- **Spells**. [[Frostbite]], [[Resistance]], [[Detect Poison and Disease]], [[Goodberry]], [[Ice Knife]], [[Ray of Sickness]]
-- **Backstory**. 
+- **Backstory**. Being born into [[The Tidebound Grove]], your life has been spent maintaining the harmonious balance of the natural world. Until one day you were 
 
 
 - **Ancestry**. [[Elf|Sea Elf]]
