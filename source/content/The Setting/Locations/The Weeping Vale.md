@@ -7,4 +7,4 @@ A fog-covered valley of isolated villages, old burial grounds, and abandoned cha
 Frequent fogs blanket the fields. Travelers disappear on lonely roads. Locals leave charms of bone and iron above their doors.
 
 Locations:
-- 
+- H
