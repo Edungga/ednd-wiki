@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/1st Circle Spells/Protection from Evil and Good.md",
+                "file": "Ray of Sickness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protection from Evil and Good"
+              "title": "Ray of Sickness"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/1st Circle Spells/Protection from Evil and Good.md",
+                "file": "Ray of Sickness.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Protection from Evil and Good"
+              "title": "Backlinks for Ray of Sickness"
             }
           },
           {
@@ -198,10 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "1cb2f5792ce6e86a",
   "lastOpenFiles": [
-    "Spells/1st Circle Spells/Magnify Gravity.md",
+    "Spells/1st Circle Spells/Purify Food and Drink.md",
+    "Ray of Sickness.md",
     "Spells/1st Circle Spells/Protection from Evil and Good.md",
+    "Spells/1st Circle Spells/Magnify Gravity.md",
     "Spells/1st Circle Spells/Magic Missile.md",
     "Spells/1st Circle Spells/Mage Armor.md",
     "Spells/1st Circle Spells/Longstrider.md",
@@ -224,8 +226,6 @@
     "Spells/1st Circle Spells/Goodberry.md",
     "Spells/1st Circle Spells/Gift of Alacrity.md",
     "Spells/1st Circle Spells/Fog Cloud.md",
-    "Spells/1st Circle Spells/Floating Disk.md",
-    "Spells/1st Circle Spells/Find Familiar.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
