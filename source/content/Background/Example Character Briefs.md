@@ -16,8 +16,8 @@
 - **Languages**. Common, Elven, Primordial
 - **Skill Proficiencies**. Nature, Religion
 - **Tool Proficiencies**. [[Woodcarver's Tools]]
-- **Feat**. [[Feat#Magic Initiate|Magic Initiate (Primal), using WIS]] - [[Druidcraft]]
-- **Stats**. 
+- **Feat**. [[Feat#Magic Initiate|Magic Initiate (Primal), using WIS]] - [[Druidcraft]], [[Mending]], [[Absorb Elements]]
+- **Stats**. 8, 10, 12, 13, 17, 13
 - **Class**. 
 	- **Skills**. Animal Handling, Survival
 	- 
