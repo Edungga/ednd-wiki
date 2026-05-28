@@ -84,7 +84,7 @@
 	- 
 - **Backstory**. You are not from around these parts. You're from another world all together, where souls are the currency, and you're here to collect. 
 
-## 
+## They Who Strike like a Talon from the skies
 - **Ancestry**. [[Elf|Wode Elf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
@@ -94,7 +94,7 @@
 - **Class**. [[Monk]]
 	- **Skills**. 
 	- 
-- **Backstory**. Born under the wrong moon phase, or star sign, or some other nonsense, you people abandoned you at the edge of the woods. It was [[The Talon]] who saved you, raised you, and trained you. Now a killer for hire, you have a new mark and come hel
+- **Backstory**. Born under the wrong moon phase, or star sign, or some other nonsense, you people abandoned you at the edge of the woods. It was [[The Talon]] who saved you, raised you, and trained you. Now a killer for hire, you have a new mark and you were trained to never miss.
 
 ## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
