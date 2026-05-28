@@ -6,10 +6,10 @@
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
-- **Class**. 
+- **Class**. [[Barbarian]]
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. [[Children of Colossus]]
 
 ## Vale Wandering Musician
 - **Ancestry**. 
@@ -18,12 +18,22 @@
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
-- **Class**. 
+- **Class**. [[Bard]]
+	- **Skills**. 
+	- 
+- **Backstory**. often visiting [[The Nobility of the Vale]], singing them ballads of times long past
+
+## Hunter of Shadows and Foul Creatures
+- **Ancestry**. 
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. [[Bloodhunter]]
 	- **Skills**. 
 	- 
 - **Backstory**. 
-
-Hunter of Shadows and Foul creatues
 
 ## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
