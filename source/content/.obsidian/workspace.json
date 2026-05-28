@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Locations/The Ashen Hills.md",
+                "file": "Hollow Harbour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Ashen Hills"
+              "title": "Hollow Harbour"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Setting/Locations/The Ashen Hills.md",
+                "file": "Hollow Harbour.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Ashen Hills"
+              "title": "Backlinks for Hollow Harbour"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Locations/The Ashen Hills.md",
+                "file": "Hollow Harbour.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Ashen Hills"
+              "title": "Outline of Hollow Harbour"
             }
           }
         ],
@@ -188,7 +188,15 @@
   },
   "active": "52a83ae15903ebc6",
   "lastOpenFiles": [
+    "The Setting/Locations/The Mirelands.md",
+    "Hollow Harbour.md",
+    "The Drowned Archives.md",
+    "Pilgrim’s Reach.md",
     "The Setting/The Shrouded Realm of Callitè.md",
+    "The Setting/Locations/The Ashen Hills.md",
+    "Titan's Grave.md",
+    "Ember's Cairn.md",
+    "Stone's Wake.md",
     "The Setting/Locations/The Gloamwood.md",
     "The Setting/Locations/The Crown of Crows.md",
     "Background/Example Character Briefs.md",
@@ -206,16 +214,8 @@
     "Barrowend.md",
     "Dunmarrow.md",
     "Miremark.md",
-    "Irongate.md",
-    "Harrow's Keep.md",
-    "Veycross.md",
-    "Moss Stone Abbey.md",
     "The Setting/Organisations & Factions",
-    "The Setting/Locations/The Mourning Isles.md",
-    "The Setting/Locations/The Mirelands.md",
-    "The Setting/Locations/The Ashen Hills.md",
     "The Setting/Locations",
-    "Classes/Warlock.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
