@@ -82,7 +82,7 @@
 - **Class**. [[Illrigger]]
 	- **Skills**. 
 	- 
-- **Backstory**. [[The Bone Keepers]]
+- **Backstory**. You are not from around these parts, you're from another world all together, where sould 
 
 ## 
 - **Ancestry**. 
