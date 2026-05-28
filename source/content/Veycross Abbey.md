@@ -1,1 +1,1 @@
-A fortified monastery-settlement devoted to the Virtue of Hope and one of the remaining Chapter Houses for [[]]
+A fortified monastery-settlement devoted to the Virtue of Hope and one of the remaining Chapter Houses for [[The Order of Saint Vey]]
