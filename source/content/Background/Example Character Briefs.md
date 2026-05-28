@@ -33,7 +33,7 @@
 - **Class**. [[Bloodhunter]]
 	- **Skills**. 
 	- 
-- **Backstory**. Taken by [[The Bone Keepers]]
+- **Backstory**. You were taken by [[The Bone Keepers]] from your home when you were young. They forced you through harrowing alchemical trial, twisting you mind and body
 
 ## Acolyte of Mercy
 - **Ancestry**. [[Human]]
