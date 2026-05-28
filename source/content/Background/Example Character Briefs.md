@@ -25,13 +25,13 @@
 
 ## Hunter of Shadows and Foul Creatures
 - **Ancestry**. [[Human]]
-- **Languages**. Common
-- **Skill Proficiencies**. 
+- **Languages**. Common, Sylvan, Elven
+- **Skill Proficiencies**. Athletic
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Bloodhunter]]
-	- **Skills**. 
+	- **Skills**. Arcana, History
 	- 
 - **Backstory**. You were taken by a coven of hags of [[The Bone Keepers]] from your home when you were young. They forced you through harrowing alchemical trial, twisting you mind and body for years. Until one day you broke free of your captors and slaughtered them all, from that day you vowed to never allow the same fate to fall others
 
