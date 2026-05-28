@@ -20,7 +20,7 @@
 - **Stats**. 8, 10, 15, 12, 17, 13
 - **Class**. [[Druid]]
 	- **Skills**. Animal Handling, Survival
-	- **Spells**. 
+	- **Spells**. [[Frostbite]], [[Resistance]], 
 - **Backstory**. 
 
 
