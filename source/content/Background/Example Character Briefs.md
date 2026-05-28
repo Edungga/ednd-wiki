@@ -25,7 +25,7 @@ Brief: Follower of the Virtue of Mercy
 - **Class**. [[Paladin]]
 	- Skills. Athletics, Insight
 	- Spells. [[Command]], [[Cure Wounds]], [[Shield of Faith]], [Wrathful Smite]
-- **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]] and [[Irongate]], you spent much of your youth training to be a Knight of [[The Order of Saint Vey]]. 
+- **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]] and [[Irongate]], you spent much of your youth training to be a Knight of [[The Order of Saint Vey]]. After spending many years in training and serving as squire, you have been set out on your own to achieve a deed worthy of being granted knighthood.
 
 
 
