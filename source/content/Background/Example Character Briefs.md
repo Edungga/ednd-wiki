@@ -108,7 +108,7 @@
 	- Spells. [[Command]], [[Cure Wounds]], [[Shield of Faith]], [Wrathful Smite]
 - **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]] and [[Irongate]], you spent much of your youth training to be a Knight of [[The Order of Saint Vey]]. After spending many years in training and serving as squire, you have been set out on your own to achieve a deed worthy of being granted knighthood.
 
-## Sailor 
+## Sailor of The Mirelands
 - **Ancestry**. [[Human]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
@@ -120,7 +120,7 @@
 	- 
 - **Backstory**. [[Sailors Union]]
 
-## 
+## Mine Delver
 - **Ancestry**. [[Half-folk]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
@@ -132,7 +132,7 @@
 	- 
 - **Backstory**. [[The Troll King's Bandits]]
 
-## 
+## Born of Magics
 - **Ancestry**. [[Beast-folk|Beast-folk (Porsine)]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
@@ -144,8 +144,7 @@
 	- 
 - **Backstory**. You were born different, your parents knew that the day you came out with a snout, but they loved you regardless. It wasnt until you started showing magical tendencies did they get concerned and call [[The Order Arcanum Exterminatus]], by then it was too late. When the order had arrived you already burnt down your families house, with them still inside. You've lived the rest of your life in a dungeon...until a week ago when you found your door unlocked. You took the opportunity and escaped, knowing full well the order will be on your trail and hunting you down. 
 
-
-## 
+## Unwilling Acolyte
 - **Ancestry**. [[Elf|Dark Elf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
@@ -157,8 +156,7 @@
 	- 
 - **Backstory**. [[The Hollow Court]]
 
-
-## 
+## Scholar of the high arcane
 - **Ancestry**. [[Elf|High Elf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
