@@ -1,7 +1,9 @@
-Western boarder of the Weeping Vale
-An immense ancient forest older than recorded history.
+“The wode remembers.”
 
-Paths shift without warning. Entire knightly expeditions have vanished beneath its canopy. Strange music is sometimes heard among the trees at night.
+Encompassing all of the known west, bordering of the Weeping Vale, can be found an immense ancient forest older than recorded history.
 
-Seats of Power:
-- 
+Very few true settlements exist within the Gloamwood, the forest itself seems hostile to permanence. Paths shift without warning. Entire knightly expeditions have vanished beneath its canopy. Strange music is sometimes heard among the trees at night.
+
+Only a couple settlements within the wode are known about:
+- [[Briarthorne]]
+- [[Luntwood Lodge]]
