@@ -3,8 +3,8 @@
 - **Ancestry**. [[Goliath|Goliath (Stone)]]
 - **Languages**. Common, Giant, Primordial
 - **Skill Proficiencies**. Acrobatics, Insight
-- **Tool Proficiencies**. 
-- **Feat**. 
+- **Tool Proficiencies**. [[Brewer's Supplies]]
+- **Feat**. [[Feat#Tough|Tough]]
 - **Stats**. 
 - **Class**. [[Barbarian]]
 	- **Skills**. Athletics, Intimidation, Perception
