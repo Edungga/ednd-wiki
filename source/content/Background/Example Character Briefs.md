@@ -60,7 +60,7 @@
 	- **Spells**. [[Frostbite]], [[Resistance]], [[Detect Poison and Disease]], [[Goodberry]], [[Ice Knife]], [[Ray of Sickness]]
 - **Backstory**. Being born into [[The Tidebound Grove]], your life has been spent maintaining the harmonious balance of the natural world. Until one day you were tasked by one of the Elders to deliver a letter in a land far from your home.
 
-## x 
+## Guard of Fortress Gate
 - **Ancestry**. [[Dwarf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
@@ -72,7 +72,7 @@
 	- 
 - **Backstory**. [[The Mountain Kingdom]]
 
-## Servant of 
+## Servant of Desolation
 - **Ancestry**. [[Ill-Fated]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
@@ -84,7 +84,7 @@
 	- 
 - **Backstory**. You are not from around these parts. You're from another world all together, where souls are the currency, and you're here to collect. 
 
-## They Who Strike like a Talon from the skies
+## They Who Strike like a Talon from the Roost
 - **Ancestry**. [[Elf|Wode Elf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
@@ -108,8 +108,8 @@
 	- Spells. [[Command]], [[Cure Wounds]], [[Shield of Faith]], [Wrathful Smite]
 - **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]] and [[Irongate]], you spent much of your youth training to be a Knight of [[The Order of Saint Vey]]. After spending many years in training and serving as squire, you have been set out on your own to achieve a deed worthy of being granted knighthood.
 
-## 
-- **Ancestry**. 
+## Sailor 
+- **Ancestry**. [[Human]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
