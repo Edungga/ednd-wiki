@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage Armor.md",
+                "file": "Magic Missile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mage Armor"
+              "title": "Magic Missile"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage Armor.md",
+                "file": "Magic Missile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mage Armor"
+              "title": "Backlinks for Magic Missile"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "1cb2f5792ce6e86a",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Mage Armor.md",
+    "Magic Missile.md",
     "Spells/1st Circle Spells/Longstrider.md",
-    "Mage Armor.md",
     "Spells/1st Circle Spells/Jump.md",
     "Rules/Jumping.md",
     "Spells/1st Circle Spells/Inflict Wounds.md",
@@ -225,7 +226,6 @@
     "Spells/1st Circle Spells/Find Familiar.md",
     "Classes/Warlock.md",
     "Spells/Spells.md",
-    "Spells/1st Circle Spells/Feather Fall.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",

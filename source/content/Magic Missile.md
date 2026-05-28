@@ -1,11 +1,11 @@
 ---
-School: Abjuration
+School: Evocation
 Spell Circle: 1st
 Casting Time: Action
-Range: Touch
-Components: V, S, M (a piece of cured leather)
-Duration: Until Long Rest
-Spell List:
+Range: 120 ft
+Components: V,S
+Duration: Instantaneous
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -14,9 +14,9 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
 
-| School     | Spell Circle | Casting Time | Range | Components                         | Duration | Spell List |
-| ---------- | ------------ | ------------ | ----- | ---------------------------------- | -------- | ---------- |
-| Abjuration | 1st          | Action       | Touch | V, S, M (a piece of cured leather) | \-       | \-         |
+| School    | Spell Circle | Casting Time | Range  | Components | Duration      | Spell List |
+| --------- | ------------ | ------------ | ------ | ---------- | ------------- | ---------- |
+| Evocation | 1st          | Action       | 120 ft | V,S        | Instantaneous | \-         |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
