@@ -46,5 +46,6 @@ The Realm of Callitè is broken up into 6 main regions
 - [[The Gloamwood]]
 - [[The Ashen Hills]]
 - [[The Mirelands]]
+- [[The Mourning Isles]]
 
 
