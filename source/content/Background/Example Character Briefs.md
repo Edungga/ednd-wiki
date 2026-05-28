@@ -1,5 +1,30 @@
 # Level 1 Examples
 ## Ritual Gladiator
+- **Ancestry**. 
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. 
+	- **Skills**. 
+	- 
+- **Backstory**. 
+
+## Vale Wandering Musician
+- **Ancestry**. 
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. 
+	- **Skills**. 
+	- 
+- **Backstory**. 
+
+Hunter of Shadows and Foul creatues
+
 ## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
@@ -25,7 +50,7 @@
 - **Backstory**. Being born into [[The Tidebound Grove]], your life has been spent maintaining the harmonious balance of the natural world. Until one day you were tasked by one of the Elders to deliver a letter in a land far from your home.
 
 
-- **Ancestry**. [[Elf|Sea Elf]]
+- **Ancestry**. 
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
