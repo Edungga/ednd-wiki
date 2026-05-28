@@ -2,12 +2,12 @@
 ## Ritual Gladiator
 - **Ancestry**. [[Goliath|Goliath (Stone)]]
 - **Languages**. Common, Giant, Primordial
-- **Skill Proficiencies**. 
+- **Skill Proficiencies**. Acrobatics, Insight
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Barbarian]]
-	- **Skills**. 
+	- **Skills**. Athletics, Intimidation, Perception
 	- 
 - **Backstory**. [[Children of Colossus]] well known for their ritualised gladiatorial combat, its a coming of age thing where the winner of that classes tournament would be set off on a pilgrimage to retrieve an artefact ash from the northern colossus said to rest at the jewel of [[The Crown of Crows]]
 
