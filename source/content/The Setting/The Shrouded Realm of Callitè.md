@@ -36,3 +36,7 @@ Today ones Faith survives in another form. Across the realm, people devote thems
 No one claims the Virtues are gods. They do not speak in thunder or send chosen kings. Instead they are felt - in moments of unbearable courage, in acts of selfless kindness, in vows upheld long after reason says to abandon them.
 
 Whether the Virtues are truly alive, or merely reflections of humanity desperately searching for meaning in an abandoned world, remains unknown. But for many, they are the only light left.
+
+See [[Higher Powers of Callitè]] for more beings that can be worshiped
+
+# Locations

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "The Shrouded Realm of Callitè"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for The Shrouded Realm of Callitè"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of The Shrouded Realm of Callitè"
             }
           }
         ],
@@ -172,6 +172,8 @@
   },
   "active": "8628b15abe8707c3",
   "lastOpenFiles": [
+    "The Setting/Higher Powers/Higher Powers of Callitè.md",
+    "index.md",
     "Classes/Warlock.md",
     "Spells/Arcane Spell List.md",
     "Spells/Divine Spell List.md",
@@ -196,8 +198,6 @@
     "Spells/1st Circle Spells/Protection from Evil and Good.md",
     "Spells/1st Circle Spells/Magnify Gravity.md",
     "Spells/1st Circle Spells/Magic Missile.md",
-    "Spells/1st Circle Spells/Mage Armor.md",
-    "Spells/1st Circle Spells/Longstrider.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
