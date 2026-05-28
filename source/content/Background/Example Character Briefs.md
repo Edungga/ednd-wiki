@@ -20,7 +20,7 @@
 - **Stats**. 8, 10, 15, 12, 17, 13
 - **Class**. [[Druid]]
 	- **Skills**. Animal Handling, Survival
-	- **Spells**. [[Frostbite]], [[Resistance]], 
+	- **Spells**. [[Frostbite]], [[Resistance]], [[Detect Poison and Disease]], [[Goodberry]], [[Ice Knife]], [[Ray of Sickness]]
 - **Backstory**. 
 
 
