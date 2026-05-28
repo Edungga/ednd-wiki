@@ -1,0 +1,25 @@
+---
+School: Transmutation
+Spell Circle: 1st
+Casting Time: Bonus Action
+Range: Touch
+Components: V, S, M (a pinch of dirt)
+Duration: 1 hour
+Spell List: Arcane, Primal
+tags:
+  - Spell
+---
+<!-- QueryToSerialize: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List"
+WHERE file.name = this.file.name
+-->
+<!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
+
+| School        | Spell Circle | Casting Time | Range | Components                | Duration | Spell List     |
+| ------------- | ------------ | ------------ | ----- | ------------------------- | -------- | -------------- |
+| Transmutation | 1st          | Bonus Action | Touch | V, S, M (a pinch of dirt) | 1 hour   | Arcane, Primal |
+
+<!-- SerializedQuery END -->
+<!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
+You touch a creature. The target’s Speed increases by 15ft until the spell ends.
+
+**At Higher Levels**. You can affect one additional creature for each spell slot level above 1.
