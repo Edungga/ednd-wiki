@@ -156,7 +156,7 @@
 	- 
 - **Backstory**. [[The Hollow Court]]
 
-## Scholar of the high arcane
+## Scholar of the High Arcane
 - **Ancestry**. [[Elf|High Elf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
