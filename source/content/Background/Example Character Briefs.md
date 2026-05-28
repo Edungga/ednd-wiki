@@ -94,7 +94,7 @@
 - **Class**. [[Monk]]
 	- **Skills**. 
 	- 
-- **Backstory**. Born under the wrong moon phase or star sign, or 
+- **Backstory**. Born under the wrong moon phase, or star sign, or some other nonsense, you people abandoned you at the edge of the woods. It was [[The Talon]] who saved you, raised you, and trained you. Now a killer for hire, you have a new mark and come hel
 
 ## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
