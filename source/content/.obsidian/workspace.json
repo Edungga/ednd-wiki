@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Veycross Abbey.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Veycross Abbey"
+              "title": "Backlinks for The Shrouded Realm of Callitè"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Veycross Abbey.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Veycross Abbey"
+              "title": "Outline of The Shrouded Realm of Callitè"
             }
           }
         ],
@@ -200,13 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52a83ae15903ebc6",
+  "active": "bc2b2a010aae21ad",
   "lastOpenFiles": [
-    "Background/Example Character Briefs.md",
     "Veycross Abbey.md",
+    "index.md",
+    "Background/Example Character Briefs.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "Ancestries/Goliath.md",
-    "index.md",
     "The Setting/Organisations & Factions",
     "The Setting/Locations/The Mourning Isles.md",
     "The Setting/Locations/The Mirelands.md",
