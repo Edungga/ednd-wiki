@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veycross Abbey.md",
+                "file": "Background/Example Character Briefs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Veycross Abbey"
+              "title": "Example Character Briefs"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/The Shrouded Realm of Callitè.md",
+                "file": "The Setting/Locations/The Weeping Vale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Shrouded Realm of Callitè"
+              "title": "The Weeping Vale"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Veycross Abbey.md",
+                "file": "The Setting/Locations/The Weeping Vale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Veycross Abbey"
+              "title": "Backlinks for The Weeping Vale"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Veycross Abbey.md",
+                "file": "The Setting/Locations/The Weeping Vale.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Veycross Abbey"
+              "title": "Outline of The Weeping Vale"
             }
           }
         ],
@@ -200,11 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52a83ae15903ebc6",
+  "active": "bc2b2a010aae21ad",
   "lastOpenFiles": [
-    "Background/Example Character Briefs.md",
-    "Veycross Abbey.md",
     "The Setting/The Shrouded Realm of Callitè.md",
+    "Background/Example Character Briefs.md",
+    "Moss Stone Abbey.md",
     "index.md",
     "Ancestries/Goliath.md",
     "The Setting/Organisations & Factions",
