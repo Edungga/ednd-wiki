@@ -133,16 +133,16 @@
 - **Backstory**. [[The Troll King's Bandits]]
 
 ## 
-- **Ancestry**. 
+- **Ancestry**. [[Beast-folk|Beast-folk (Porsine)]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
-- **Class**. [[[Sorcerer]]]
+- **Class**. [[Sorcerer]]
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. You were born different, your parents knew that the day you came out with a snout
 
 
 ## 
