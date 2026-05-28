@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "54baa124d85df1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jump.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jump"
-            }
-          },
-          {
             "id": "1cb2f5792ce6e86a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jump.md",
+                "file": "Longstrider.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jump"
+              "title": "Longstrider"
             }
           },
           {
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jump.md",
+                "file": "Longstrider.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jump"
+              "title": "Backlinks for Longstrider"
             }
           },
           {
@@ -214,8 +200,9 @@
   },
   "active": "1cb2f5792ce6e86a",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Jump.md",
+    "Longstrider.md",
     "Rules/Jumping.md",
-    "Jump.md",
     "Spells/1st Circle Spells/Inflict Wounds.md",
     "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Illusory Script.md",
@@ -239,7 +226,6 @@
     "Spells/Spells.md",
     "Spells/1st Circle Spells/Feather Fall.md",
     "Spells/1st Circle Spells/False Life.md",
-    "Spells/1st Circle Spells/Faerie Fire.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
