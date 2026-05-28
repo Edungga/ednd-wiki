@@ -14,10 +14,14 @@ Brief:
 - **Feat**: [[Feat#Magic Initiate|Magic Initiate (Cleric)]]
 Brief: Follower of the Virtue of Mercy
 
-
+# Level 1 Examples
 # Aspirant of Saint Vey
 
-- **Ancestry**. Likely [[Human]] or [[Blessed Born]]
+- **Ancestry**. [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
 - **Skill Proficiencies**: 
 - **Tool Proficiency**: 
+- Feat. 
+- Stats.
+- Class.
+- Brief
