@@ -19,8 +19,8 @@ Brief: Follower of the Virtue of Mercy
 - **Ancestry**. [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
 - **Skill Proficiencies**: Religion, Medicine
-- **Tool Proficiency**: 
-- **Feat**. 
+- **Tool Proficiency**: Calligrapher's Supplies
+- **Feat**. [[Feat#Healer|Healer]]
 - **Stats**. 16, 8, 13, 8, 13, 16
 - **Class**. [[Paladin]]
 	- Skills. Athletics, Insight
