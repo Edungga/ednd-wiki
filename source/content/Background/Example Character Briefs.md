@@ -12,7 +12,7 @@
 - **Backstory**. [[Children of Colossus]]
 
 ## Vale Wandering Musician
-- **Ancestry**. 
+- **Ancestry**. [[Human]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
@@ -37,7 +37,7 @@
 
 
 ## Acolyte of Mercy
-- **Ancestry**. 
+- **Ancestry**. [[Human]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
@@ -94,7 +94,7 @@
 - **Class**. [[Monk]]
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. [[The Talon]]
 
 ## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
@@ -155,7 +155,7 @@
 - **Class**. [[Warlock]]
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. [[The Hollow Court]]
 
 
 ## 
