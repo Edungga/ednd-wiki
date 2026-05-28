@@ -22,7 +22,6 @@ WHERE file.name = this.file.name
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
 Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or be [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]] until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the [[Conditions#Unconscious (Condition)|Unconscious (Condition)]] for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
 
-Creatures that don't sleep, such as elves, or that have Immunity to being [[Conditions#Exhaustion (Condition)|Ex]] automatically succeed on saves against this spell.
+Creatures that don't sleep, such as elves, or that have Immunity to [[Conditions#Exhaustion (Condition)|Exhaustion (Condition)]] automatically succeed on saves against this spell.
 
-**At Higher Levels**. The damage increases by 1d6 for each spell slot level above 1.
-You can affect one additional creature for each spell slot level above 1.
+**At Higher Levels**. The radius increases by 5ft for each spell slot level above 1.
