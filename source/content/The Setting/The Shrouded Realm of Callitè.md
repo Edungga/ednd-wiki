@@ -44,5 +44,7 @@ The Realm of Callitè is broken up into 6 main regions
 - [[The Weeping Vale]]
 - [[The Crown of Crows]]
 - [[The Gloamwood]]
+- [[The Ashen Hills]]
+- [[The Mirelands]]
 
 
