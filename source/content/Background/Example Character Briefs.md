@@ -1,5 +1,5 @@
 # Level 1 Examples
-# Squire of Saint Vey
+## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
 - **Skill Proficiencies**: Religion, Medicine
@@ -13,5 +13,14 @@
 
 
 
-Druidic Envoy of the Tidebound
-
+## Druidic Envoy of the Tidebound
+- **Ancestry**. [[]]
+- **Languages**.
+- **Skill Proficiencies**.
+- **Tool Proficiencies**.
+- **Feat**.
+- **Stats**.
+- **Class**.
+	- **Skills**.
+	- 
+- **Backstory**.
