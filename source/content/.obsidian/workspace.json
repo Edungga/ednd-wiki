@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Missile.md",
+                "file": "Magnify Gravity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Missile"
+              "title": "Magnify Gravity"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Missile.md",
+                "file": "Magnify Gravity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Magic Missile"
+              "title": "Backlinks for Magnify Gravity"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "1cb2f5792ce6e86a",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Magic Missile.md",
+    "Magnify Gravity.md",
     "Spells/1st Circle Spells/Mage Armor.md",
-    "Magic Missile.md",
     "Spells/1st Circle Spells/Longstrider.md",
     "Spells/1st Circle Spells/Jump.md",
     "Rules/Jumping.md",
@@ -225,7 +226,6 @@
     "Spells/1st Circle Spells/Floating Disk.md",
     "Spells/1st Circle Spells/Find Familiar.md",
     "Classes/Warlock.md",
-    "Spells/Spells.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
