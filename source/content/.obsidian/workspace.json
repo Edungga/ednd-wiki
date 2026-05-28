@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protection from Evil and Good.md",
+                "file": "Spells/1st Circle Spells/Protection from Evil and Good.md",
                 "mode": "source",
                 "source": false
               },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protection from Evil and Good.md",
+                "file": "Spells/1st Circle Spells/Protection from Evil and Good.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cb2f5792ce6e86a",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Spells/1st Circle Spells/Magnify Gravity.md",
-    "Protection from Evil and Good.md",
+    "Spells/1st Circle Spells/Protection from Evil and Good.md",
     "Spells/1st Circle Spells/Magic Missile.md",
     "Spells/1st Circle Spells/Mage Armor.md",
     "Spells/1st Circle Spells/Longstrider.md",
