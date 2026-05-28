@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Locations/The Crown of Crows.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Crown of Crows"
+              "title": "The Shrouded Realm of Callitè"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "The Shrouded Realm of Callitè"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancestries/Elf.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elf"
+              "title": "Backlinks for The Shrouded Realm of Callitè"
             }
           },
           {
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ancestries/Elf.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elf"
+              "title": "Outline of The Shrouded Realm of Callitè"
             }
           }
         ],
@@ -213,12 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8628b15abe8707c3",
+  "active": "bc2b2a010aae21ad",
   "lastOpenFiles": [
-    "The Setting/The Shrouded Realm of Callitè.md",
-    "The Setting/Higher Powers/Higher Powers of Callitè.md",
     "The Setting/Locations/The Crown of Crows.md",
     "Ancestries/Elf.md",
+    "The Setting/The Shrouded Realm of Callitè.md",
+    "The Setting/Higher Powers/Higher Powers of Callitè.md",
     "index.md",
     "Ancestries/Goliath.md",
     "The Setting/Locations/The Weeping Vale.md",
