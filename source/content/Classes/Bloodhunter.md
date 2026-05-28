@@ -51,7 +51,7 @@ You have survived the Hunter’s Bane - a dangerous, long-guarded ritual that al
 **Sinister Insight**. Whenever you take the Study Action to analyse non-Humanoid creatures, you treat a roll of 7 or lower on the d20 as an 8.
 
 ## Level 1: Hemocraft
-You gain the ability to channel-or sometimes sacrifice-a part of your vital essence to curse and manipulate creatures through hemocraft magic. You know one [[#Blood Curses|Blood Curse]] of your choice. You learn additional Blood Curses of your choice at certain levels, as noted in the Blood Curses Known column of the Bloodhunter table.
+You gain the ability to channel-or sometimes sacrifice-a part of your vital essence to curse and manipulate creatures through hemocraft magic. You know one [[Bloodhunter#Blood Curses|Blood Curse]] of your choice. You learn additional Blood Curses of your choice at certain levels, as noted in the Blood Curses Known column of the Bloodhunter table.
 
 You can use this feature Proficiency Bonus times per Short or Long Rest
 
