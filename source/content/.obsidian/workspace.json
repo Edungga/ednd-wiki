@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hollow Harbour.md",
+                "file": "The Setting/Locations/The Mourning Isles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hollow Harbour"
+              "title": "The Mourning Isles"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hollow Harbour.md",
+                "file": "The Setting/Locations/The Mourning Isles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hollow Harbour"
+              "title": "Backlinks for The Mourning Isles"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hollow Harbour.md",
+                "file": "The Setting/Locations/The Mourning Isles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hollow Harbour"
+              "title": "Outline of The Mourning Isles"
             }
           }
         ],
@@ -186,19 +186,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52a83ae15903ebc6",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "The Setting/Locations/The Gloamwood",
+    "The Setting/Locations/The Crown of Crows",
+    "The Setting/Locations/The Ashen Hills",
+    "Caer Thalos.md",
+    "The Setting/Locations/The Mourning Isles.md",
+    "City of Gold.md",
+    "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Locations/The Mirelands.md",
     "Hollow Harbour.md",
     "The Drowned Archives.md",
     "Pilgrim’s Reach.md",
-    "The Setting/The Shrouded Realm of Callitè.md",
-    "The Setting/Locations/The Ashen Hills.md",
+    "The Setting/Locations/The Ashen Hills/The Ashen Hills.md",
     "Titan's Grave.md",
     "Ember's Cairn.md",
     "Stone's Wake.md",
-    "The Setting/Locations/The Gloamwood.md",
-    "The Setting/Locations/The Crown of Crows.md",
+    "The Setting/Locations/The Gloamwood/The Gloamwood.md",
+    "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
     "Background/Example Character Briefs.md",
     "Luntwood Lodge.md",
     "Briarthorne.md",
@@ -210,10 +216,6 @@
     "The Setting/Higher Powers/Higher Powers of Callitè.md",
     "Ancestries/Elf.md",
     "index.md",
-    "Ancestries/Goliath.md",
-    "Barrowend.md",
-    "Dunmarrow.md",
-    "Miremark.md",
     "The Setting/Organisations & Factions",
     "The Setting/Locations",
     "Spells/1st Circle Spells",
@@ -221,8 +223,6 @@
     "Blindness",
     "Spells/Spells.base",
     "The Setting/Higher Powers/Undead Beings",
-    "The Setting/Higher Powers/Great Wyrms",
-    "The Setting/Higher Powers/Great Old Ones",
-    "The Setting/Higher Powers/Elemental Powers"
+    "The Setting/Higher Powers/Great Wyrms"
   ]
 }
