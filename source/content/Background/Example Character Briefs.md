@@ -17,10 +17,10 @@
 - **Skill Proficiencies**. Nature, Religion
 - **Tool Proficiencies**. [[Woodcarver's Tools]]
 - **Feat**. [[Feat#Magic Initiate|Magic Initiate (Primal), using WIS]] - [[Druidcraft]], [[Mending]], [[Absorb Elements]]
-- **Stats**. 8, 10, 12, 13, 17, 13
-- **Class**. 
+- **Stats**. 8, 10, 15, 12, 17, 13
+- **Class**. [[Druid]]
 	- **Skills**. Animal Handling, Survival
-	- 
+	- **Spells**. 
 - **Backstory**. 
 
 
