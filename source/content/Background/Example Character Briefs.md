@@ -16,12 +16,12 @@
 ## Druidic Envoy of the Tidebound
 - **Ancestry**. [[Elf|Sea Elf]]
 - **Languages**. Common, Elven, Primordial
-- **Skill Proficiencies**. 
+- **Skill Proficiencies**. Nature, Religion
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
 - **Class**. 
-	- **Skills**. 
+	- **Skills**. Animal Handling, Survival
 	- 
 - **Backstory**. 
 
