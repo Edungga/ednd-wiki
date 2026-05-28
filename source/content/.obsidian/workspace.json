@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/The Shrouded Realm of Callitè.md",
+                "file": "The Order of Saint Vey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Shrouded Realm of Callitè"
+              "title": "The Order of Saint Vey"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Setting/The Shrouded Realm of Callitè.md",
+                "file": "The Order of Saint Vey.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Shrouded Realm of Callitè"
+              "title": "Backlinks for The Order of Saint Vey"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/The Shrouded Realm of Callitè.md",
+                "file": "The Order of Saint Vey.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Shrouded Realm of Callitè"
+              "title": "Outline of The Order of Saint Vey"
             }
           }
         ],
@@ -202,11 +202,12 @@
   },
   "active": "52a83ae15903ebc6",
   "lastOpenFiles": [
+    "The Setting/The Shrouded Realm of Callitè.md",
+    "The Order of Saint Vey.md",
     "index.md",
     "Background/Example Character Briefs.md",
     "The Setting/Locations/The Mourning Isles/Hollow Harbour.md",
     "The Setting/Locations/The Mirelands/The Mirelands.md",
-    "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
     "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
     "Ancestries/Dwarf.md",
@@ -233,7 +234,6 @@
     "The Setting/Locations/The Gloamwood/Luntwood Lodge.md",
     "The Setting/Locations/The Gloamwood/Briarthorne.md",
     "The Setting/Locations/The Crown of Crows/Troll King's Rest.md",
-    "The Setting/Locations/The Crown of Crows/Enclaves of the Hollow Court.md",
     "The Setting/Organisations & Factions",
     "The Setting/Locations",
     "Spells/1st Circle Spells",
