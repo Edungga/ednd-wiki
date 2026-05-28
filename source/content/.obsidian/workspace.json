@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
+                "file": "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Crown of Crows"
+              "title": "Veinreach Hold"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
+                "file": "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Crown of Crows"
+              "title": "Backlinks for Veinreach Hold"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
+                "file": "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Crown of Crows"
+              "title": "Outline of Veinreach Hold"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "25b120187f903016",
   "lastOpenFiles": [
+    "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "index.md",
     "Ancestries/Dwarf.md",
@@ -228,7 +229,6 @@
     "The Setting/Locations/The Ashen Hills/Ember's Cairn.md",
     "The Setting/Locations/The Ashen Hills/Stone's Wake.md",
     "The Setting/Locations/The Gloamwood/The Gloamwood.md",
-    "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
     "The Setting/Locations/The Gloamwood/Luntwood Lodge.md",
     "The Setting/Locations/The Gloamwood/Briarthorne.md",
     "The Setting/Locations/The Crown of Crows/Troll King's Rest.md",
