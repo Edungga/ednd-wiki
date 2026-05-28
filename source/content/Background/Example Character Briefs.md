@@ -14,13 +14,36 @@
 
 
 ## Druidic Envoy of the Tidebound
-- **Ancestry**. [[]]
-- **Languages**.
-- **Skill Proficiencies**.
-- **Tool Proficiencies**.
-- **Feat**.
-- **Stats**.
-- **Class**.
-	- **Skills**.
+- **Ancestry**. [[Elf|Sea Elf]]
+- **Languages**. Common, Elven, Primordial
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. 
+	- **Skills**. 
 	- 
-- **Backstory**.
+- **Backstory**. 
+
+
+- **Ancestry**. [[Elf|Sea Elf]]
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. 
+	- **Skills**. 
+	- 
+- **Backstory**. 
+
+- **Ancestry**. [[Elf|Sea Elf]]
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. 
+	- **Skills**. 
+	- 
+- **Backstory**. 
