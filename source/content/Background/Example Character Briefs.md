@@ -32,8 +32,8 @@
 - **Stats**. 16, 13, 13, 8, 16, 8
 - **Class**. [[Bloodhunter]]
 	- **Skills**. Arcana, History
-	- Hemocraft. Blood Curse of the Marked
-	- Weapon Mastery. Graze, Slow
+	- **Hemocraft**. Blood Curse of the Eyeless
+	- **Weapon Mastery**. Graze, Slow
 - **Backstory**. You were taken by a coven of hags of [[The Bone Keepers]] from your home when you were young. They forced you through harrowing alchemical trial, twisting you mind and body for years. Until one day you broke free of your captors and slaughtered them all, from that day you vowed to never allow the same fate to fall others
 
 ## Acolyte of Mercy
