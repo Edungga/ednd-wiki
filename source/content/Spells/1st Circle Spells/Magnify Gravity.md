@@ -24,5 +24,4 @@ The gravity in a 10-foot-radius sphere centered on a point you can see within ra
 
 Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.
 
-**At Higher Levels**. The damage increases by 1d6 for each spell slot level above 1.
-You can affect one additional creature for each spell slot level above 1.
+**At Higher Levels**. The damage increases by 1d8 for each spell slot level above 1.
