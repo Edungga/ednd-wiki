@@ -60,20 +60,20 @@
 	- **Spells**. [[Frostbite]], [[Resistance]], [[Detect Poison and Disease]], [[Goodberry]], [[Ice Knife]], [[Ray of Sickness]]
 - **Backstory**. Being born into [[The Tidebound Grove]], your life has been spent maintaining the harmonious balance of the natural world. Until one day you were tasked by one of the Elders to deliver a letter in a land far from your home.
 
-## Town 
+## x 
 - **Ancestry**. 
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
-- **Class**. 
+- **Class**. [[Fighter]]
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. [[The Mountain Kingdom]]
 
-
-- **Ancestry**. [[Elf|Sea Elf]]
+## Servant of 
+- **Ancestry**. 
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
