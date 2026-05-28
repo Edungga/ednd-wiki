@@ -1,0 +1,1 @@
+Built around the the Chapter House of [[The Order of Saint Vey]] on the ruins of an ancient city backing on a vicious river; Veycross serves as refuge city and a beacon of hope for the region.
