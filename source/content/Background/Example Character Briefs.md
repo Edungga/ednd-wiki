@@ -22,7 +22,8 @@ Brief: Follower of the Virtue of Mercy
 - **Tool Proficiency**: 
 - **Feat**. 
 - **Stats**.
-- **Class**.
+- **Class**. Paladin
+	- Skills, Religion, 
 - **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between 
 
 
