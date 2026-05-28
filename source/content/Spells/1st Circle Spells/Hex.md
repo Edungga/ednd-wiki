@@ -26,4 +26,4 @@ Also, choose one ability when you cast the spell. The target has Disadvantage on
 
 If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
 
-**At Higher Levels**. Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours). The damage also increases by 1d6 for each spell slot level above 1.
+**At Higher Levels**. When you cast this spell using a Spell Slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours, and the extra damage increases to 2d6. When you use a Spell Slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours, and the extra damage increases to 3d6.
