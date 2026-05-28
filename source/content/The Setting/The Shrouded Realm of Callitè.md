@@ -43,5 +43,6 @@ See [[Higher Powers of Callitè]] for more beings that can be worshiped
 The Realm of Callitè is broken up into 6 main regions
 - [[The Weeping Vale]]
 - [[The Crown of Crows]]
+- [[The Gloamwood]]
 
 
