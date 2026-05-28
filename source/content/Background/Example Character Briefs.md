@@ -15,7 +15,7 @@ Brief:
 Brief: Follower of the Virtue of Mercy
 
 # Level 1 Examples
-# Aspirant of Saint Vey
+# Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
 - **Skill Proficiencies**: Religion, Medicine
@@ -25,7 +25,7 @@ Brief: Follower of the Virtue of Mercy
 - **Class**. [[Paladin]]
 	- Skills. Athletics, Insight
 	- Spells. [[Command]], [[Cure Wounds]], [[Shield of Faith]], [Wrathful Smite]
-- **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]]  
+- **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]] and [[Irongate]], you spent much of your youth training to be a Knight of [[The Order of Saint Vey]]. 
 
 
 
