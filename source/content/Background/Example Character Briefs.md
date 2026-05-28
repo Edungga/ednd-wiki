@@ -142,7 +142,7 @@
 - **Class**. [[Sorcerer]]
 	- **Skills**. 
 	- 
-- **Backstory**. You were born different, your parents knew that the day you came out with a snout, but they loved you regardless. It wasnt until you started showing magical tendencies did they get concerned 
+- **Backstory**. You were born different, your parents knew that the day you came out with a snout, but they loved you regardless. It wasnt until you started showing magical tendencies did they get concerned and call [[The Order Arcanum Exterminatus]]. By then it was too late, when 
 
 
 ## 
