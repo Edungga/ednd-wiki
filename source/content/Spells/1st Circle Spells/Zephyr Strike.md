@@ -24,4 +24,4 @@ You move like the wind. Until the spell ends, your movement doesn't provoke oppo
 
 Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 
-**At Higher Levels**. The damage increases by 1d6 for each spell slot level above 1.
+**At Higher Levels**. The damage increases by 1d8 and the speed by 10ft for each spell slot level above 1.
