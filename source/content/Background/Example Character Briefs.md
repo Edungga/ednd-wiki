@@ -21,8 +21,8 @@ Brief: Follower of the Virtue of Mercy
 - **Skill Proficiencies**: Religion, Medicine
 - **Tool Proficiency**: 
 - **Feat**. 
-- **Stats**.
-- **Class**. Paladin
+- **Stats**. 16, 8, 13, 8
+- **Class**. [[Paladin]]
 	- Skills. Athletics, Insight
 	- Spells. 
 - **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between 

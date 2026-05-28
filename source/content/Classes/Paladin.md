@@ -68,7 +68,7 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 ## Level 2: Fighting Style
 You have honed your martial prowess and gain a [[Feat#Fighting Style|Fighting Style Feat]] of your choice, or you can choose the below option:
 
-**Blessed Warrior**. You learn two Cleric cantrips of your choice. Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+**Blessed Warrior**. You learn two cantrips of your choice from the [[Divine Spell List]]. Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ## Level 2: Divine Smite
 When you hit a creature with a Melee Weapon Attack, you can expend one Spell Slot to deal Radiant Damage to the target, in addition to the Weapon's Damage. The extra Damage is 2d8 for a 1st Level Spell Slot, plus 1d8 for each Spell Level higher than 1st. The Damage increases by 1d8 if the target is an Undead or a Fiend.
