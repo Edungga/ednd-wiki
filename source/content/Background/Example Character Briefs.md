@@ -82,10 +82,10 @@
 - **Class**. [[Illrigger]]
 	- **Skills**. 
 	- 
-- **Backstory**. You are not from around these parts, you're from another world all together, where sould 
+- **Backstory**. You are not from around these parts. You're from another world all together, where souls are the currency, and you're here to collect. 
 
 ## 
-- **Ancestry**. 
+- **Ancestry**. [[Elf|Wode Elf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
@@ -94,7 +94,7 @@
 - **Class**. [[Monk]]
 	- **Skills**. 
 	- 
-- **Backstory**. [[The Talon]]
+- **Backstory**. Born under the wrong moon phase or star sign, or 
 
 ## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
