@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Locations/The Weeping Vale.md",
+                "file": "Dunmarrow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Weeping Vale"
+              "title": "Dunmarrow"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Setting/Locations/The Weeping Vale.md",
+                "file": "Dunmarrow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Weeping Vale"
+              "title": "Backlinks for Dunmarrow"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Locations/The Weeping Vale.md",
+                "file": "Dunmarrow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Weeping Vale"
+              "title": "Outline of Dunmarrow"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "bc2b2a010aae21ad",
   "lastOpenFiles": [
-    "Miremark.md",
     "The Setting/Locations/The Weeping Vale.md",
+    "Dunmarrow.md",
+    "Miremark.md",
     "Irongate.md",
     "Harrow's Keep.md",
     "Veycross.md",
@@ -229,7 +230,6 @@
     "Spells/1st Circle Spells/Wrathful Smite.md",
     "Spells/1st Circle Spells/Witch Bolt.md",
     "Spells/1st Circle Spells/Unseen Servant.md",
-    "Spells/1st Circle Spells/Unearthly Chorus.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
