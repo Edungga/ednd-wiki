@@ -1,8 +1,8 @@
 ---
-School: Conjuration
+School:
 Spell Circle: 1st
-Casting Time: Action
-Range: 60 ft
+Casting Time:
+Range:
 Components:
 Duration:
 Spell List:
