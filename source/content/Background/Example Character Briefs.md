@@ -73,7 +73,7 @@
 - **Backstory**. [[The Mountain Kingdom]]
 
 ## Servant of 
-- **Ancestry**. 
+- **Ancestry**. [[Ill-Fated]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
@@ -82,7 +82,7 @@
 - **Class**. [[Illrigger]]
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. [[The Bone Keepers]]
 
 ## 
 - **Ancestry**. 
@@ -121,7 +121,7 @@
 - **Backstory**. [[Sailors Union]]
 
 ## 
-- **Ancestry**. 
+- **Ancestry**. [[Half-folk]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
@@ -142,7 +142,7 @@
 - **Class**. [[Sorcerer]]
 	- **Skills**. 
 	- 
-- **Backstory**. You were born different, your parents knew that the day you came out with a snout, but they loved you regardless. It wasnt until you started showing magical tendencies did they get concerned and call [[The Order Arcanum Exterminatus]], by then it was too late. When the order had arrived you already burnt down your families house, with them still inside. You've lived the rest of your life in a dungeon...until a week ago when you found your door unlocked. You took the opportunity and esca 
+- **Backstory**. You were born different, your parents knew that the day you came out with a snout, but they loved you regardless. It wasnt until you started showing magical tendencies did they get concerned and call [[The Order Arcanum Exterminatus]], by then it was too late. When the order had arrived you already burnt down your families house, with them still inside. You've lived the rest of your life in a dungeon...until a week ago when you found your door unlocked. You took the opportunity and escaped, knowing full well the order will be on your trail and hunting you down. 
 
 
 ## 
