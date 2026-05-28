@@ -1,6 +1,6 @@
 # Level 1 Examples
 ## Ritual Gladiator
-- **Ancestry**. 
+- **Ancestry**. [[Goliath]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
@@ -46,7 +46,7 @@
 - **Class**. 
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. [[The Synodos]]
 
 ## Druidic Envoy of the Tidebound
 - **Ancestry**. [[Elf|Sea Elf]]
@@ -61,7 +61,7 @@
 - **Backstory**. Being born into [[The Tidebound Grove]], your life has been spent maintaining the harmonious balance of the natural world. Until one day you were tasked by one of the Elders to deliver a letter in a land far from your home.
 
 ## x 
-- **Ancestry**. 
+- **Ancestry**. [[Dwarf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
