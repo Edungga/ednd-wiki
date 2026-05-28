@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Locations/The Mourning Isles/The Mourning Isles.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Mourning Isles"
+              "title": "The Shrouded Realm of Callitè"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Setting/Locations/The Mourning Isles/The Mourning Isles.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Mourning Isles"
+              "title": "Backlinks for The Shrouded Realm of Callitè"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Locations/The Mourning Isles/The Mourning Isles.md",
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Mourning Isles"
+              "title": "Outline of The Shrouded Realm of Callitè"
             }
           }
         ],
@@ -186,8 +186,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "52a83ae15903ebc6",
   "lastOpenFiles": [
+    "The Setting/Locations/The Mourning Isles/The Mourning Isles.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",
@@ -195,7 +196,6 @@
     "The Setting/Locations/The Crown of Crows",
     "The Setting/Locations/The Ashen Hills",
     "The Setting/Locations/The Mourning Isles/Caer Thalos.md",
-    "The Setting/Locations/The Mourning Isles/The Mourning Isles.md",
     "The Setting/Locations/The Mourning Isles/City of Gold.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Locations/The Mirelands/The Mirelands.md",
@@ -222,7 +222,6 @@
     "The Setting/Organisations & Factions",
     "The Setting/Locations",
     "Spells/1st Circle Spells",
-    "Spells/Schools of Magic",
-    "Blindness"
+    "Spells/Schools of Magic"
   ]
 }
