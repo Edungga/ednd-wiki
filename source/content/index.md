@@ -7,13 +7,13 @@ The [[#Ancestries]], [[#Classes]], [[Spells]] (Cantrips & lvl 1 spells so far), 
 
 We also have some Home Rules to spice things up a bit
 
-## Backgroun & Origin
+## Background & Origin
 - **Languages**. You know Common and two additional [[Languages]] of your choice
 - **Skill Proficiency**. You gain Proficiency in two Skills of your choice 
 - **Tool Proficiency**. You gain Proficiency in a Tool of your choice
 - **Feat**. Gain a [[Feat#Origin Feats|Origin Feat]]
 - **Stats**. There are 2 [[Stat Methods]]; [[Stat Methods#Standard Array|Standard Array]] & [[Stat Methods#Point Buy|Point Buy]] 
-- [[Example Backgrounds]]
+
 
 ## Ancestries
 - [[Human]]
