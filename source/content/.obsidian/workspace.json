@@ -48,9 +48,22 @@
               "icon": "lucide-file",
               "title": "The Crown of Crows"
             }
+          },
+          {
+            "id": "aeafdfd010f8ea8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Setting/The Shrouded Realm of Callitè.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Shrouded Realm of Callitè"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Setting/Locations/The Crown of Crows.md",
+                "file": "Ancestries/Elf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Crown of Crows"
+              "title": "Backlinks for Elf"
             }
           },
           {
@@ -171,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Locations/The Crown of Crows.md",
+                "file": "Ancestries/Elf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Crown of Crows"
+              "title": "Outline of Elf"
             }
           }
         ],
@@ -200,13 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc2b2a010aae21ad",
+  "active": "8628b15abe8707c3",
   "lastOpenFiles": [
+    "The Setting/The Shrouded Realm of Callitè.md",
+    "The Setting/Higher Powers/Higher Powers of Callitè.md",
+    "The Setting/Locations/The Crown of Crows.md",
     "Ancestries/Elf.md",
     "index.md",
     "Ancestries/Goliath.md",
-    "The Setting/Locations/The Crown of Crows.md",
-    "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Locations/The Weeping Vale.md",
     "Barrowend.md",
     "Dunmarrow.md",
@@ -222,7 +236,6 @@
     "The Setting/Locations/The Gloamwood.md",
     "The Setting/Locations/The Ashen Hills.md",
     "The Setting/Locations",
-    "The Setting/Higher Powers/Higher Powers of Callitè.md",
     "Classes/Warlock.md",
     "Spells/Arcane Spell List.md",
     "Spells/Divine Spell List.md",
