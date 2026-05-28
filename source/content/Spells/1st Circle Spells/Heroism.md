@@ -20,7 +20,6 @@ WHERE file.name = this.file.name
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to beinf [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being [[Conditions#Frightened (Debuff)|Frightened (Debuff)]] and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
 
-**At Higher Levels**. The damage increases by 1d6 for each spell slot level above 1.
-You can affect one additional creature for each spell slot level above 1.
+**At Higher Levels**. You can affect one additional creature for each spell slot level above 1.

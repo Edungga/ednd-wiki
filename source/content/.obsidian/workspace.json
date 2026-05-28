@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heroism.md",
+                "file": "Hex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heroism"
+              "title": "Hex"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heroism.md",
+                "file": "Hex.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Heroism"
+              "title": "Backlinks for Hex"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Heroism.md",
+    "Hex.md",
     "Spells/1st Circle Spells/Hell’s Lash.md",
-    "Heroism.md",
     "Spells/1st Circle Spells/Hellish Rebuke.md",
     "Spells/1st Circle Spells/Healing Word.md",
     "Spells/1st Circle Spells/Hail of Thorns.md",
@@ -225,7 +226,6 @@
     "Spells/1st Circle Spells/Divine Favour.md",
     "Spells/1st Circle Spells/Distort Value.md",
     "Spells/1st Circle Spells/Dissonant Whispers.md",
-    "Spells/1st Circle Spells/Disguise Self.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
