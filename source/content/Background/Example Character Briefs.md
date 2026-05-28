@@ -33,7 +33,7 @@
 - **Class**. [[Bloodhunter]]
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. [[The Bone Keepers]]
 
 
 ## Acolyte of Mercy
@@ -79,15 +79,22 @@
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
-- **Class**. 
+- **Class**. [[Illrigger]]
 	- **Skills**. 
 	- 
 - **Backstory**. 
 
-
-
-
-
+## 
+- **Ancestry**. 
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. [[Monk]]
+	- **Skills**. 
+	- 
+- **Backstory**. 
 
 ## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
@@ -100,3 +107,15 @@
 	- Skills. Athletics, Insight
 	- Spells. [[Command]], [[Cure Wounds]], [[Shield of Faith]], [Wrathful Smite]
 - **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]] and [[Irongate]], you spent much of your youth training to be a Knight of [[The Order of Saint Vey]]. After spending many years in training and serving as squire, you have been set out on your own to achieve a deed worthy of being granted knighthood.
+
+## 
+- **Ancestry**. 
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. 
+	- **Skills**. 
+	- 
+- **Backstory**. 
