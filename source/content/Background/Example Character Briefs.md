@@ -1,4 +1,5 @@
 # Level 1 Examples
+## Ritual Gladiator
 ## Squire of Saint Vey
 - **Ancestry**. [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
@@ -21,7 +22,7 @@
 - **Class**. [[Druid]]
 	- **Skills**. Animal Handling, Survival
 	- **Spells**. [[Frostbite]], [[Resistance]], [[Detect Poison and Disease]], [[Goodberry]], [[Ice Knife]], [[Ray of Sickness]]
-- **Backstory**. Being born into [[The Tidebound Grove]], your life has been spent maintaining the harmonious balance of the natural world. Until one day you were 
+- **Backstory**. Being born into [[The Tidebound Grove]], your life has been spent maintaining the harmonious balance of the natural world. Until one day you were tasked by one of the Elders to deliver a letter in a land far from your home.
 
 
 - **Ancestry**. [[Elf|Sea Elf]]
