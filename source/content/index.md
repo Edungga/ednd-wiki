@@ -4,6 +4,7 @@ title: Welcome to EDnD
 A cobbled edition of D&D drawing from 5th, 5.5, & 3rd Party fun
 
 The [[#Ancestries]], [[#Classes]], [[Spells]] (Cantrips & lvl 1 spells so far), etc. are assembled with [[The Shrouded Realm of Callitè]] in mind. A low magic, grimdark setting. Far from the heroic high fantasy many D&D games takes place.
+- Some [[Example Character Briefs]] have been thrown together to help you with Character Creation
 
 We also have some [[index#Home Rules|Home Rules]] to spice things up a bit
 

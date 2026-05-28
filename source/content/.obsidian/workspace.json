@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background/Example Backgrounds.md",
+                "file": "Background/Example Character Briefs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example Backgrounds"
+              "title": "Example Character Briefs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Background/Example Character Briefs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Example Character Briefs"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Background/Example Character Briefs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Example Character Briefs"
             }
           }
         ],
@@ -184,11 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8628b15abe8707c3",
+  "active": "52a83ae15903ebc6",
   "lastOpenFiles": [
-    "The Setting/The Shrouded Realm of Callitè.md",
-    "Background/Example Backgrounds.md",
     "index.md",
+    "Background/Example Character Briefs.md",
+    "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Organisations & Factions",
     "The Setting/Locations/The Mourning Isles.md",
     "The Setting/Locations/The Mirelands.md",
