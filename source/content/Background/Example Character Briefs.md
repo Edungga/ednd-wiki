@@ -24,4 +24,4 @@ Brief: Follower of the Virtue of Mercy
 - **Feat**. 
 - **Stats**.
 - **Class**.
-- **Backstory**. Born at the [[Veycross Abbey]]
+- **Backstory**. Born at the 
