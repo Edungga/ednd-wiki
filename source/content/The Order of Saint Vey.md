@@ -31,7 +31,7 @@ The foundational rank of the order. While it confers knighthood, it is still hig
 ### 9. Brothers-at-arms
 Non-knightly, enlisted members of the order who serve as administrative staff, specialized laborers, or secondary combatants.
 ### 10.Chaplains
-Priests or bishops who handle the religious, spiritual, and ceremonial duties of the order
+Priests who handle the religious, spiritual, and ceremonial duties of the order
 ## Initiates & Trainees
 ### 11. Squires / Pages
 Young candidates or aides who are assigned to serve a full knight, train in martial arts, and learn the tenets of the order before receiving their own knighthood.
