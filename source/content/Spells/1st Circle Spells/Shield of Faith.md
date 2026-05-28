@@ -22,5 +22,4 @@ WHERE file.name = this.file.name
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**At Higher Levels**. The damage increases by 1d6 for each spell slot level above 1.
-You can affect one additional creature for each spell slot level above 1.
+**At Higher Levels**. You can affect one additional creature for each spell slot level above 1.
