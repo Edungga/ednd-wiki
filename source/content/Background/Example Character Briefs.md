@@ -5,7 +5,7 @@
 - **Skill Proficiencies**. Acrobatics, Insight
 - **Tool Proficiencies**. [[Brewer's Supplies]]
 - **Feat**. [[Feat#Tough|Tough]]
-- **Stats**. 
+- **Stats**. 15, 16, 16, 9, 8, 8
 - **Class**. [[Barbarian]]
 	- **Skills**. Athletics, Intimidation, Perception
 	- 
