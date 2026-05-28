@@ -9,7 +9,7 @@
 - **Class**. [[Barbarian]]
 	- **Skills**. 
 	- 
-- **Backstory**. [[Children of Colossus]] well known for their ritualised gladiatorial combat, its a coming of age thing where the winner of 
+- **Backstory**. [[Children of Colossus]] well known for their ritualised gladiatorial combat, its a coming of age thing where the winner of that classes tournament would be set off on a pilgramige to retriv
 
 ## Vale Wandering Musician
 - **Ancestry**. [[Human]]
