@@ -115,7 +115,57 @@
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
-- **Class**. 
+- **Class**. [[Ranger]]
+	- **Skills**. 
+	- 
+- **Backstory**. [[Sailors Union]]
+
+## 
+- **Ancestry**. 
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. [[Rogue]]
+	- **Skills**. 
+	- 
+- **Backstory**. [[The Troll King's Bandits]]
+
+## 
+- **Ancestry**. 
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. [[[Sorcerer]]]
+	- **Skills**. 
+	- 
+- **Backstory**. 
+
+
+## 
+- **Ancestry**. 
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. [[Warlock]]
+	- **Skills**. 
+	- 
+- **Backstory**. 
+
+
+## 
+- **Ancestry**. [[Elf]]
+- **Languages**. Common
+- **Skill Proficiencies**. 
+- **Tool Proficiencies**. 
+- **Feat**. 
+- **Stats**. 
+- **Class**. [[Wizard]]
 	- **Skills**. 
 	- 
 - **Backstory**. 
