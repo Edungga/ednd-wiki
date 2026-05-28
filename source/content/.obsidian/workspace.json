@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jumping.md",
+                "file": "Jump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jumping"
+              "title": "Jump"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jumping.md",
+                "file": "Jump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jumping"
+              "title": "Backlinks for Jump"
             }
           },
           {
@@ -214,8 +214,8 @@
   },
   "active": "1cb2f5792ce6e86a",
   "lastOpenFiles": [
+    "Rules/Jumping.md",
     "Jump.md",
-    "Jumping.md",
     "Spells/1st Circle Spells/Inflict Wounds.md",
     "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Illusory Script.md",
