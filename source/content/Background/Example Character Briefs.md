@@ -21,7 +21,7 @@ Brief: Follower of the Virtue of Mercy
 - **Skill Proficiencies**: Religion, Medicine
 - **Tool Proficiency**: 
 - **Feat**. 
-- **Stats**. 16, 8, 13, 8
+- **Stats**. 16, 8, 13, 8, 13, 16
 - **Class**. [[Paladin]]
 	- Skills. Athletics, Insight
 	- Spells. 
