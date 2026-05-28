@@ -1,7 +1,7 @@
 # Level 1 Examples
 ## Ritual Gladiator
-- **Ancestry**. [[Goliath]]
-- **Languages**. Common
+- **Ancestry**. [[Goliath|Goliath (Stone)]]
+- **Languages**. Common, Giant, Primordial
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
 - **Feat**. 
