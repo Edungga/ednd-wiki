@@ -159,7 +159,7 @@
 
 
 ## 
-- **Ancestry**. [[Elf]]
+- **Ancestry**. [[Elf|High Elf]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
@@ -168,4 +168,4 @@
 - **Class**. [[Wizard]]
 	- **Skills**. 
 	- 
-- **Backstory**. 
+- **Backstory**. [[The Auric Houses]]
