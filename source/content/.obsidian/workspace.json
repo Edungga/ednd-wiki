@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells/1st Circle Spells/Hellish Rebuke.md",
+                "file": "Hell’s Lash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hellish Rebuke"
+              "title": "Hell’s Lash"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spells/1st Circle Spells/Hellish Rebuke.md",
+                "file": "Hell’s Lash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hellish Rebuke"
+              "title": "Backlinks for Hell’s Lash"
             }
           },
           {
@@ -198,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "54baa124d85df1d3",
   "lastOpenFiles": [
-    "Spells/1st Circle Spells/Healing Word.md",
     "Spells/1st Circle Spells/Hellish Rebuke.md",
+    "Hell’s Lash.md",
+    "Spells/1st Circle Spells/Healing Word.md",
     "Spells/1st Circle Spells/Hail of Thorns.md",
     "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Guiding Bolt.md",
@@ -225,7 +226,6 @@
     "Spells/1st Circle Spells/Dissonant Whispers.md",
     "Spells/1st Circle Spells/Disguise Self.md",
     "Spells/1st Circle Spells/Detect Poison and Disease.md",
-    "Spells/1st Circle Spells/Detect Magic.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
