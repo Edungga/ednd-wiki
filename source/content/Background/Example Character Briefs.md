@@ -25,3 +25,8 @@ Brief: Follower of the Virtue of Mercy
 - **Stats**.
 - **Class**.
 - **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between 
+
+
+
+
+druid of the mouning i

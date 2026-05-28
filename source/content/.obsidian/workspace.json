@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancestries/Elf.md",
+                "file": "Background/Example Character Briefs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elf"
+              "title": "Example Character Briefs"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "The Shrouded Realm of Callitè"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Setting/The Shrouded Realm of Callitè.md",
+                "file": "Background/Example Character Briefs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Shrouded Realm of Callitè"
+              "title": "Backlinks for Example Character Briefs"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/The Shrouded Realm of Callitè.md",
+                "file": "Background/Example Character Briefs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Shrouded Realm of Callitè"
+              "title": "Outline of Example Character Briefs"
             }
           }
         ],
@@ -186,12 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52a83ae15903ebc6",
+  "active": "8628b15abe8707c3",
   "lastOpenFiles": [
+    "index.md",
+    "Ancestries/Elf.md",
+    "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Higher Powers/Higher Powers of Callitè.md",
     "The Setting/Higher Powers/Undead Beings/Lady Seraphel, The Crimson Widow.md",
     "The Setting/Higher Powers/Great Wyrms/Storm's Tyrant.md",
-    "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Locations/The Mourning Isles/The Mourning Isles.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
@@ -218,8 +219,6 @@
     "The Setting/Locations/The Crown of Crows/Enclaves of the Hollow Court.md",
     "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
     "The Setting/Locations/The Weeping Vale/The Weeping Vale.md",
-    "Ancestries/Elf.md",
-    "index.md",
     "The Setting/Organisations & Factions",
     "The Setting/Locations",
     "Spells/1st Circle Spells",
