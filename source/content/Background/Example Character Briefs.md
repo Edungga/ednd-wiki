@@ -21,7 +21,7 @@ Brief: Follower of the Virtue of Mercy
 - **Languages**: Common, Celestial, Abyssal
 - **Skill Proficiencies**: 
 - **Tool Proficiency**: 
-- Feat. 
-- Stats.
-- Class.
-- Brief
+- **Feat**. 
+- **Stats**.
+- **Class**.
+- **Backstory**.
