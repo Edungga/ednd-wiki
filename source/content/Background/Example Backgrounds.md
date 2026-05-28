@@ -13,3 +13,5 @@ Brief:
 - **Tool Proficiency**: 
 - **Feat**: [[Feat#Magic Initiate|Magic Initiate (Cleric)]]
 Brief: Follower of the Virtue of Mercy
+
+
