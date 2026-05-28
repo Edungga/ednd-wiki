@@ -8,4 +8,4 @@ Frequent fogs blanket the fields. Travelers disappear on lonely roads. Locals le
 
 Locations:
 - [[Harrow's Keep]]
-- 
+- Veyccross
