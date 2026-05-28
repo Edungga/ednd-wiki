@@ -15,13 +15,12 @@ The supreme head of the order. They hold ultimate authority over policy, finance
 High-ranking officials who govern specific areas, reporting directly to the Grand Master
 ## Senior Officials & Commanders
 ### 3. Seneschal
-Top administrative and logistical officers. The Seneschal often manages the castle, monastery, or headquarters, while a Bailiff rules over larger estates.
+Top administrative and logistical officers. The often manages the castle, monastery, or chapter house.
 ### 4. Marshal
 The commander of the order's military forces or knightly operations in the field. They are responsible for training, arms inspection, and combat readiness
-
 ## Knight & Dame Ranks
 ### 5. Grand Collar
-The most prestigious class of membership, typically reserved for royalty, heads of state, or members who have given exceptional service.
+The most prestigious class of membership, typically reserved for nobility, heads of state, or members who have given exceptional service.
 ### 6. Knight Commander
 Mid-level officers who hold authority over minor houses or lead specific chapters of the order.
 ### 7. Officer
