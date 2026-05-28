@@ -16,6 +16,7 @@ Brief: Follower of the Virtue of Mercy
 
 
 # Aspirant of Saint Vey
+
 - **Ancestry**. Likely [[Human]] or [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
 - **Skill Proficiencies**: 
