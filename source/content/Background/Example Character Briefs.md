@@ -26,9 +26,9 @@
 ## Hunter of Shadows and Foul Creatures
 - **Ancestry**. [[Human]]
 - **Languages**. Common, Sylvan, Elven
-- **Skill Proficiencies**. Athletic
-- **Tool Proficiencies**. 
-- **Feat**. 
+- **Skill Proficiencies**. Athletics, Survival
+- **Tool Proficiencies**. [[Cook's Utensils]]
+- **Feat**. [[Feat#Savage Attacker|Savage Attacker]]
 - **Stats**. 
 - **Class**. [[Bloodhunter]]
 	- **Skills**. Arcana, History
