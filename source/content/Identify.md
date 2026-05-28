@@ -1,11 +1,11 @@
 ---
-School: Conjuration
+School: Divination
 Spell Circle: 1st
-Casting Time: Action
-Range:
-Components:
-Duration:
-Spell List:
+Casting Time: 1 minute or Ritual
+Range: Touch
+Components: V, S, M (a pearl worth 100+ GP)
+Duration: Instantaneous
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -14,9 +14,9 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
 
-| School      | Spell Circle | Casting Time | Range | Components | Duration | Spell List |
-| ----------- | ------------ | ------------ | ----- | ---------- | -------- | ---------- |
-| Conjuration | 1st          | \-           | \-    | \-         | \-       | \-         |
+| School     | Spell Circle | Casting Time       | Range | Components                      | Duration      | Spell List |
+| ---------- | ------------ | ------------------ | ----- | ------------------------------- | ------------- | ---------- |
+| Divination | 1st          | 1 minute or Ritual | Touch | V, S, M (a pearl worth 100+ GP) | Instantaneous | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->

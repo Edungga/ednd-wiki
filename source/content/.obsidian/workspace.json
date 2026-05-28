@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ice Knife.md",
+                "file": "Identify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ice Knife"
+              "title": "Identify"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ice Knife.md",
+                "file": "Identify.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ice Knife"
+              "title": "Backlinks for Identify"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "54baa124d85df1d3",
   "lastOpenFiles": [
+    "Spells/1st Circle Spells/Ice Knife.md",
+    "Identify.md",
     "SPELL-TEMPLATE.md",
-    "Ice Knife.md",
     "Spells/1st Circle Spells/Hideous Laughter.md",
     "Spells/1st Circle Spells/Hex.md",
     "Spells/1st Circle Spells/Heroism.md",
@@ -225,7 +226,6 @@
     "Spells/1st Circle Spells/Entangle.md",
     "Spells/1st Circle Spells/Ensnaring Strike.md",
     "Spells/1st Circle Spells/Earth Tremor.md",
-    "Spells/1st Circle Spells/Divine Favour.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
