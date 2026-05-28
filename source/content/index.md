@@ -5,7 +5,7 @@ A cobbled edition of D&D drawing from 5th, 5.5, & 3rd Party fun
 
 The [[#Ancestries]], [[#Classes]], [[Spells]] (Cantrips & lvl 1 spells so far), etc. are assembled with [[The Shrouded Realm of Callitè]] in mind. A low magic, grimdark setting. Far from the heroic high fantasy many D&D games takes place.
 
-We also have some Home Rules to spice things up a bit
+We also have some [[index#Home Rules|Home Rules]] to spice things up a bit
 
 ## Background & Origin
 - **Languages**. You know Common and two additional [[Languages]] of your choice
@@ -13,7 +13,6 @@ We also have some Home Rules to spice things up a bit
 - **Tool Proficiency**. You gain Proficiency in a Tool of your choice
 - **Feat**. Gain a [[Feat#Origin Feats|Origin Feat]]
 - **Stats**. There are 2 [[Stat Methods]]; [[Stat Methods#Standard Array|Standard Array]] & [[Stat Methods#Point Buy|Point Buy]] 
-
 
 ## Ancestries
 - [[Human]]
@@ -43,7 +42,7 @@ We also have some Home Rules to spice things up a bit
 
 
 ---
-# Home-Rules
+# Home Rules
 
 Short Rests - 5 minutes but a limit of 2 per Long Rest
 
