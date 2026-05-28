@@ -41,8 +41,7 @@ See [[Higher Powers of Callitè]] for more beings that can be worshiped
 
 # Locations
 The Realm of Callitè is broken up into 6 main regions
-## [[The Weeping Vale]]
-A cold valley of isolated villages, old burial grounds, and abandoned chapels.
+- [[The Weeping Vale]]
+- [[The Crown of Crows]]
 
-Frequent fogs blanket the fields. Travelers disappear on lonely roads. Locals leave charms of bone and iron above their doors.
 
