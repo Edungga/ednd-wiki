@@ -29,10 +29,11 @@
 - **Skill Proficiencies**. Athletics, Survival
 - **Tool Proficiencies**. [[Cook's Utensils]]
 - **Feat**. [[Feat#Savage Attacker|Savage Attacker]]
-- **Stats**. 
+- **Stats**. 16, 13, 13, 8, 16, 8
 - **Class**. [[Bloodhunter]]
 	- **Skills**. Arcana, History
-	- 
+	- Hemocraft.
+	- Weapon Mastery. 
 - **Backstory**. You were taken by a coven of hags of [[The Bone Keepers]] from your home when you were young. They forced you through harrowing alchemical trial, twisting you mind and body for years. Until one day you broke free of your captors and slaughtered them all, from that day you vowed to never allow the same fate to fall others
 
 ## Acolyte of Mercy
