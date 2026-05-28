@@ -8,7 +8,7 @@
 - **Stats**. 15, 16, 16, 9, 8, 8
 - **Class**. [[Barbarian]]
 	- **Skills**. Athletics, Intimidation, Perception
-	- 
+	- **Weapon Mastery**. Cleave, Graze
 - **Backstory**. [[Children of Colossus]] well known for their ritualised gladiatorial combat, its a coming of age thing where the winner of that classes tournament would be set off on a pilgrimage to retrieve an artefact ash from the northern colossus said to rest at the jewel of [[The Crown of Crows]]
 
 ## Vale Wandering Musician
@@ -33,8 +33,7 @@
 - **Class**. [[Bloodhunter]]
 	- **Skills**. 
 	- 
-- **Backstory**. [[The Bone Keepers]]
-
+- **Backstory**. Taken by [[The Bone Keepers]]
 
 ## Acolyte of Mercy
 - **Ancestry**. [[Human]]
