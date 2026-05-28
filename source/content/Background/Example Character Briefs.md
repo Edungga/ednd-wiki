@@ -24,8 +24,8 @@ Brief: Follower of the Virtue of Mercy
 - **Stats**. 16, 8, 13, 8, 13, 16
 - **Class**. [[Paladin]]
 	- Skills. Athletics, Insight
-	- Spells. 
-- **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between 
+	- Spells. [[Command]], [[Cure Wounds]], [[Shield of Faith]], [Wrathful Smite]
+- **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]]  
 
 
 
