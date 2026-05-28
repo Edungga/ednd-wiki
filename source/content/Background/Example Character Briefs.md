@@ -142,7 +142,7 @@
 - **Class**. [[Sorcerer]]
 	- **Skills**. 
 	- 
-- **Backstory**. You were born different, your parents knew that the day you came out with a snout, but they loved you regardless. It wasnt until you started showing magical tendencies did they get concerned and call [[The Order Arcanum Exterminatus]]. By then it was too late, when 
+- **Backstory**. You were born different, your parents knew that the day you came out with a snout, but they loved you regardless. It wasnt until you started showing magical tendencies did they get concerned and call [[The Order Arcanum Exterminatus]], by then it was too late. When the order had arrived you already burnt down your families house, with them still inside. You've lived the rest of your life in a dungeon...until a week ago when you found your door unlocked. You took the opportunity and esca 
 
 
 ## 
