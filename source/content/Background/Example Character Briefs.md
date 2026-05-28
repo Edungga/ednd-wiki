@@ -18,12 +18,13 @@ Brief: Follower of the Virtue of Mercy
 # Aspirant of Saint Vey
 - **Ancestry**. [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
-- **Skill Proficiencies**: 
+- **Skill Proficiencies**: Religion, Medicine
 - **Tool Proficiency**: 
 - **Feat**. 
 - **Stats**.
 - **Class**. Paladin
-	- Skills, Religion, 
+	- Skills. Athletics, Insight
+	- Spells. 
 - **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between 
 
 
