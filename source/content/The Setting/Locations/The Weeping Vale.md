@@ -1,6 +1,6 @@
 *"The Heartland of a dead kingdom"*
 
-The weeping vale remains the most populous region in the realm, though it much more strongly resembles an old fractured kingdom.
+The Weeping Vale remains the most populous region in the realm, though it much more strongly resembles an old fractured kingdom.
 
 A fog-covered valley of isolated villages, old burial grounds, and abandoned chapels dominate the landscape between the few remaining seats of power.
 
