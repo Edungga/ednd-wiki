@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hellish Rebuke.md",
+                "file": "Spells/1st Circle Spells/Hellish Rebuke.md",
                 "mode": "source",
                 "source": false
               },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hellish Rebuke.md",
+                "file": "Spells/1st Circle Spells/Hellish Rebuke.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54baa124d85df1d3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Spells/1st Circle Spells/Healing Word.md",
-    "Hellish Rebuke.md",
+    "Spells/1st Circle Spells/Hellish Rebuke.md",
     "Spells/1st Circle Spells/Hail of Thorns.md",
     "SPELL-TEMPLATE.md",
     "Spells/1st Circle Spells/Guiding Bolt.md",

@@ -5,7 +5,7 @@ Casting Time: Reaction, to taking damage from a creature that you can see within
 Range: 60 ft
 Components: V,S
 Duration: Instantaneous
-Spell List:
+Spell List: Arcane
 tags:
   - Spell
 ---
@@ -14,9 +14,9 @@ WHERE file.name = this.file.name
 -->
 <!-- SerializedQuery: table WITHOUT ID School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" WHERE file.name = this.file.name -->
 
-| School    | Spell Circle | Casting Time                                                             | Range | Components | Duration | Spell List |
-| --------- | ------------ | ------------------------------------------------------------------------ | ----- | ---------- | -------- | ---------- |
-| Evocation | 1st          | Reaction, to taking damage from a creature that you can see within Range | 60 ft | V,S        | \-       | \-         |
+| School    | Spell Circle | Casting Time                                                             | Range | Components | Duration      | Spell List |
+| --------- | ------------ | ------------------------------------------------------------------------ | ----- | ---------- | ------------- | ---------- |
+| Evocation | 1st          | Reaction, to taking damage from a creature that you can see within Range | 60 ft | V,S        | Instantaneous | Arcane     |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
