@@ -134,7 +134,7 @@
 
 ## Born of Magics
 - **Ancestry**. [[Beast-folk|Beast-folk (Porsine)]]
-- **Languages**. Common
+- **Languages**. Common, Draconic, Abyssal
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
 - **Feat**. 
