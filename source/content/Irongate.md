@@ -1,0 +1,1 @@
+Situated along the old western road between [[Harrow's Keep]] and the outer villages of the Vale, Irongate is the largest town on the west side of the vale and the seat of Baron Nicolae Yarov, one of the few remaining nobles outside the great cities.
