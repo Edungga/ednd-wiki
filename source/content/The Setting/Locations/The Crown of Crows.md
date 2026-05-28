@@ -2,5 +2,5 @@ North of the Weeping Vale rises the Crown of Crows, a vast and jagged mountain r
 
 The mountains are home to a long fallen dwarven Thanedome, the bones of which are constantly being fought over.
 
-Seats of Power:
+Locations:
 - 

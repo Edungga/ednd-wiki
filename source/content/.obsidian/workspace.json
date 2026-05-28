@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancestries/Goliath.md",
+                "file": "Ancestries/Elf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goliath"
+              "title": "Elf"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dunmarrow.md",
+                "file": "The Setting/Locations/The Crown of Crows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dunmarrow"
+              "title": "The Crown of Crows"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dunmarrow.md",
+                "file": "Ancestries/Elf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dunmarrow"
+              "title": "Backlinks for Elf"
             }
           },
           {
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dunmarrow.md",
+                "file": "Ancestries/Elf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dunmarrow"
+              "title": "Outline of Elf"
             }
           }
         ],
@@ -200,23 +199,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc2b2a010aae21ad",
+  "active": "8628b15abe8707c3",
   "lastOpenFiles": [
+    "index.md",
+    "Ancestries/Goliath.md",
+    "The Setting/Locations/The Crown of Crows.md",
+    "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Locations/The Weeping Vale.md",
+    "Barrowend.md",
     "Dunmarrow.md",
     "Miremark.md",
     "Irongate.md",
     "Harrow's Keep.md",
     "Veycross.md",
-    "The Setting/The Shrouded Realm of Callitè.md",
     "Background/Example Character Briefs.md",
     "Moss Stone Abbey.md",
-    "index.md",
-    "Ancestries/Goliath.md",
     "The Setting/Organisations & Factions",
     "The Setting/Locations/The Mourning Isles.md",
     "The Setting/Locations/The Mirelands.md",
-    "The Setting/Locations/The Crown of Crows.md",
     "The Setting/Locations/The Gloamwood.md",
     "The Setting/Locations/The Ashen Hills.md",
     "The Setting/Locations",
@@ -229,7 +229,6 @@
     "Spells/1st Circle Spells/Zephyr Strike.md",
     "Spells/1st Circle Spells/Wrathful Smite.md",
     "Spells/1st Circle Spells/Witch Bolt.md",
-    "Spells/1st Circle Spells/Unseen Servant.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
