@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "25b120187f903016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Veinreach Hold"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Veinreach Hold"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Veinreach Hold"
+              "title": "Outline of index"
             }
           }
         ],
@@ -200,8 +186,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25b120187f903016",
+  "active": "52a83ae15903ebc6",
   "lastOpenFiles": [
+    "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
     "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "index.md",
@@ -233,7 +220,6 @@
     "The Setting/Locations/The Gloamwood/Briarthorne.md",
     "The Setting/Locations/The Crown of Crows/Troll King's Rest.md",
     "The Setting/Locations/The Crown of Crows/Enclaves of the Hollow Court.md",
-    "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
     "The Setting/Organisations & Factions",
     "The Setting/Locations",
     "Spells/1st Circle Spells",
