@@ -16,7 +16,6 @@ Brief: Follower of the Virtue of Mercy
 
 # Level 1 Examples
 # Aspirant of Saint Vey
-
 - **Ancestry**. [[Blessed Born]]
 - **Languages**: Common, Celestial, Abyssal
 - **Skill Proficiencies**: 
