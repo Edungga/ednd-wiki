@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background/Example Character Briefs.md",
+                "file": "Veycross Abbey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example Character Briefs"
+              "title": "Veycross Abbey"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Background/Example Character Briefs.md",
+                "file": "Veycross Abbey.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Example Character Briefs"
+              "title": "Backlinks for Veycross Abbey"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Background/Example Character Briefs.md",
+                "file": "Veycross Abbey.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Example Character Briefs"
+              "title": "Outline of Veycross Abbey"
             }
           }
         ],
@@ -202,10 +202,11 @@
   },
   "active": "52a83ae15903ebc6",
   "lastOpenFiles": [
+    "Background/Example Character Briefs.md",
+    "Veycross Abbey.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "Ancestries/Goliath.md",
     "index.md",
-    "Background/Example Character Briefs.md",
     "The Setting/Organisations & Factions",
     "The Setting/Locations/The Mourning Isles.md",
     "The Setting/Locations/The Mirelands.md",
@@ -229,7 +230,6 @@
     "Spells/1st Circle Spells/Thunderous Smite.md",
     "Spells/1st Circle Spells/Speak with Animals.md",
     "Spells/1st Circle Spells/Sleep.md",
-    "Spells/1st Circle Spells/Silent Image.md",
     "Spells/1st Circle Spells",
     "Spells/Schools of Magic",
     "Blindness",
