@@ -121,8 +121,8 @@
 - **Stats**. 
 - **Class**. [[Ranger]]
 	- **Skills**. Athletics, Investigation, Perception
-	- **Knack**.
-	- **Weapon Mastery**. 
+	- **Knack**. [[Ranger]]
+	- **Weapon Mastery**. Nick, Slow
 - **Backstory**. [[Sailors Union]]
 
 ## Mine Delver
