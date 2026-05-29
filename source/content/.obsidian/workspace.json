@@ -53,16 +53,18 @@
             "id": "3e3ab784d704ff74",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells/Spells.base",
-                "viewName": "All Spells"
+                "file": "Spells/Cantrips/Blade Ward.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "lucide-file",
+              "title": "Blade Ward"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,13 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8628b15abe8707c3",
+  "active": "3e3ab784d704ff74",
   "lastOpenFiles": [
+    "Spells/Spells.base",
+    "Background/Example Character Briefs.md",
     "Classes/Ranger.md",
     "index.md",
-    "Spells/Spells.base",
     "Classes/Illrigger.md",
-    "Background/Example Character Briefs.md",
     "Spells/Spells.md",
     "Classes/Bloodhunter.md",
     "The Setting/Organisations & Factions/The Order Arcanum Exterminatus.md",
@@ -240,7 +242,6 @@
     "The Setting/Locations/The Mirelands/The Mirelands.md",
     "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
     "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
-    "Ancestries/Dwarf.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",

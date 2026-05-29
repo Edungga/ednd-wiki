@@ -24,4 +24,4 @@ FLATTEN spell-list
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->
 
-You extend your hand and trace a sigil of warding in the air, granting yourself [[Conditions#Warded|Warded (Condition)]] for the duration.
+You extend your hand and trace a sigil of warding in the air, granting yourself [[Conditions#Warded (Buff)|Warded (Buff)]] for the duration.
