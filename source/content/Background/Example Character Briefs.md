@@ -84,7 +84,7 @@
 - **Stats**. 
 - **Class**. [[Illrigger]]
 	- **Skills**. 
-	- 
+	- **Weapon Mastery**. Cleave, Sap
 - **Backstory**. You are not from around these parts, you're from another world all together, where souls are the currency. Someone made a deal they didn't fulfil and you're here to collect. 
 
 ## They Who Strike like a Talon from the Roost
