@@ -117,10 +117,10 @@
 - **Languages**. Common, Elven, Abyssal
 - **Skill Proficiencies**. Nature, Survival
 - **Tool Proficiencies**. [[Navigator's Tools]]
-- **Feat**. 
+- **Feat**. [[Feat#Alert|Alert]]
 - **Stats**. 
 - **Class**. [[Ranger]]
-	- **Skills**. [[Feat#Alert|Alert]]
+	- **Skills**. Athletics, Investigation, Perception
 	- 
 - **Backstory**. [[Sailors Union]]
 
