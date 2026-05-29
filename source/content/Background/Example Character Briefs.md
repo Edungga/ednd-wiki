@@ -72,7 +72,7 @@
 - **Class**. [[Fighter]]
 	- **Skills**. Acrobatics, Perception
 	- **Fighting Style**. [[Feat#Fighting Style|Fighting Style (Unarmed Fighting)]]
-	- **Weapon Mastery**.
+	- **Weapon Mastery**. Nick, Push, Topple
 - **Backstory**. [[The Mountain Kingdom]]
 
 ## Servant of Desolation
