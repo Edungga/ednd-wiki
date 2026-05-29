@@ -48,7 +48,7 @@
 	- **Skills**. Insight, Medicine
 	- **Spells**. [[Guidance]], [[Light]], [[Sacred Flame]], [[Cure Wounds]], [[Divine Favour]], [[Guiding Bolt]], [[Protection from Evil and Good]]
 	- **Holy Order**. Scholar
-- **Backstory**. "Your past is behind you", at least that's what you keep telling yourself these last few years. You left it all behind and joined [[The Synodos]], to . They showed you mercy, now you must impart that same virtue onto others.
+- **Backstory**. "Your past is behind you", at least that's what you keep telling yourself these last few years. You left it all behind and joined [[The Synodos]] to do better for yourself. They showed you mercy, now you must impart that same virtue onto others.
 
 ## Druidic Envoy of the Tidebound
 - **Ancestry**. [[Elf|Sea Elf]]
@@ -64,10 +64,10 @@
 
 ## Guard of Fortress Gate
 - **Ancestry**. [[Dwarf]]
-- **Languages**. Common
-- **Skill Proficiencies**. 
-- **Tool Proficiencies**. 
-- **Feat**. 
+- **Languages**. Common, Common, Giant
+- **Skill Proficiencies**. Athletics, Intimidation
+- **Tool Proficiencies**. Smith's Tools
+- **Feat**. [[Feat#Tavern Brawler|Tavern Brawler]]
 - **Stats**. 
 - **Class**. [[Fighter]]
 	- **Skills**. 
