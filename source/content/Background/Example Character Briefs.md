@@ -114,13 +114,13 @@
 
 ## Sailor of The Mirelands
 - **Ancestry**. [[Human]]
-- **Languages**. Common
-- **Skill Proficiencies**. 
+- **Languages**. Common, Elven, Abyssal
+- **Skill Proficiencies**. Nature, Survival
 - **Tool Proficiencies**. [[Navigator's Tools]]
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Ranger]]
-	- **Skills**. [[Feat#Alert]]
+	- **Skills**. [[Feat#Alert|Alert]]
 	- 
 - **Backstory**. [[Sailors Union]]
 
