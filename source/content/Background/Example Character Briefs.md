@@ -156,7 +156,7 @@
 - **Languages**. Common, Elven, Abyssal
 - **Skill Proficiencies**. History, Religion
 - **Tool Proficiencies**. [[Jeweler's Tools]]
-- **Feat**. 
+- **Feat**. [[Feat#Magic Initiate|Magic Initiate (Divine)]] [[Guidance]], 
 - **Stats**. 8, 14, 12, 14, 12, 16
 - **Class**. [[Warlock]]
 	- **Skills**. Arcane, Deception
