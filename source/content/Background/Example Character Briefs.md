@@ -43,10 +43,11 @@
 - **Skill Proficiencies**. Religion, History
 - **Tool Proficiencies**. [[Calligrapher's Supplies]]
 - **Feat**. [[Feat#Healer|Healer]]
-- **Stats**. 8, 13, 12
-- **Class**. 
-	- **Skills**. 
-	- 
+- **Stats**. 8, 13, 12, 15, 10, 17
+- **Class**. [[Cleric]]
+	- **Skills**. Insight, Medicine
+	- **Spells**. 
+	- **Holy Order**. 
 - **Backstory**. [[The Synodos]]
 
 ## Druidic Envoy of the Tidebound
