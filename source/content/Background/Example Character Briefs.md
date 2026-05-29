@@ -153,9 +153,9 @@
 
 ## Unwilling Acolyte
 - **Ancestry**. [[Elf|Dark Elf]]
-- **Languages**. Common
-- **Skill Proficiencies**. 
-- **Tool Proficiencies**. 
+- **Languages**. Common, Elven, Abyssal
+- **Skill Proficiencies**. History, Religion
+- **Tool Proficiencies**. [[Jeweler's Tools]]
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Warlock]]
