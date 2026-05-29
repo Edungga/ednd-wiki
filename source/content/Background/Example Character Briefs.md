@@ -12,12 +12,12 @@
 - **Backstory**. [[Children of Colossus]] well known for their ritualised gladiatorial combat, its a coming of age thing where the winner of that classes tournament would be set off on a pilgrimage to retrieve an artefact ash from the northern colossus said to rest at the jewel of [[The Crown of Crows]]
 
 ## Vale Wandering Musician
-- **Ancestry**. [[Human]] (Nature, [[Feat#Fey-Touched|Fey-Touched]])
+- **Ancestry**. [[Human]] (Nature, [[Feat#Fey-Touched|Fey-Touched (CHA)]])
 - **Languages**. Common, Elven, Celestial
 - **Skill Proficiencies**. Performance, Persuasion
 - **Tool Proficiencies**. [[Woodcarver's Tools]]
 - **Feat**. [[Feat#Musician|Musician]] (Flute, Bagpipes, Viol)
-- **Stats**. 8, 13, 10, 15, 12, 17
+- **Stats**. 8, 13, 10, 15, 12, 18
 - **Class**. [[Bard]]
 	- **Skills**. Arcane, History, Deception
 	- **Instruments**. Lute, Drum, Horn
@@ -25,7 +25,7 @@
 - **Backstory**. Growing up in city of [[Harrow's Keep]] you were fortunate enough to come from a well off family, well off enough where you had your own tutor. In your youth, you learnt plenty and loved the thrill of uncovering new secrets of the world around you, but nothing brought you more joy than music. Now later in life, you spend your days travelling between cities and towns, performing and sharing snippets of knowledge through tale and song, often visiting [[The Nobility of the Vale]], singing them ballads of times long past, after all that's where the real money's at.
 
 ## Hunter of Shadows and Foul Creatures
-- **Ancestry**. [[Human]]
+- **Ancestry**. [[Human]] (Perception, )
 - **Languages**. Common, Sylvan, Elven
 - **Skill Proficiencies**. Athletics, Survival
 - **Tool Proficiencies**. [[Herbalism Kit]]
