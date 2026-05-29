@@ -27,12 +27,12 @@
 ## Hunter of Shadows and Foul Creatures
 - **Ancestry**. [[Human]] (Perception, [[Feat#Fighting Style|Fighting Style (Defence)]])
 - **Languages**. Common, Sylvan, Elven
-- **Skill Proficiencies**. Athletics, Investigation, Survival
+- **Skill Proficiencies**. Athletics, Survival
 - **Tool Proficiencies**. [[Herbalism Kit]]
 - **Feat**. [[Feat#Savage Attacker|Savage Attacker]]
 - **Stats**. 16, 13, 13, 8, 16, 8
 - **Class**. [[Bloodhunter]]
-	- **Skills**. Arcana, History
+	- **Skills**. Arcana, History, Investigation
 	- **Hemocraft**. Blood Curse of the Eyeless
 	- **Weapon Mastery**. Graze, Slow
 - **Backstory**. You were taken by a coven of hags of [[The Bone Keepers]] from your home when you were young. They forced you through harrowing alchemical trial, twisting you mind and body for years. Until one day you broke free of your captors and slaughtered them all, from that day you vowed to never allow the same fate to fall others
@@ -121,7 +121,8 @@
 - **Stats**. 
 - **Class**. [[Ranger]]
 	- **Skills**. Athletics, Investigation, Perception
-	- 
+	- **Knack**.
+	- **Weapon Mastery**. 
 - **Backstory**. [[Sailors Union]]
 
 ## Mine Delver
