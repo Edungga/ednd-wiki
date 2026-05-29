@@ -123,12 +123,12 @@
 	- **Skills**. Athletics, Investigation, Perception
 	- **Knack**. [[Ranger#Deft Explorer I|Deft Explorer I (Swamp)]]
 	- **Weapon Mastery**. Nick, Slow
-- **Backstory**. Growing up in [[Hollow Harbour]], everyone knows the only ways to make a living is being a scavenger or join the [[Sailors Union]]. You chose the latter and spent many years navigating a small boat through dangerous and shallow waters. That was until your boat was sabotaged, putting you out of work for too long. You missed your union dues and were kicked out of town 
+- **Backstory**. Growing up in [[Hollow Harbour]], everyone knows the only ways to make a living is being a scavenger or join the [[Sailors Union]]. You chose the latter and spent many years navigating a small boat through dangerous and shallow waters. That was until your boat was sabotaged, putting you out of work for too long. You missed your union dues and were kicked out of town. 
 
 ## Mine Delver
 - **Ancestry**. [[Half-folk]]
-- **Languages**. Common
-- **Skill Proficiencies**. 
+- **Languages**. Common, Giant, Dwarf
+- **Skill Proficiencies**. Investigation, Perception
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
