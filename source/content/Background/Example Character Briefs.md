@@ -16,11 +16,12 @@
 - **Languages**. Common, Elven, Celestial
 - **Skill Proficiencies**. Performance, Persuasion
 - **Tool Proficiencies**. 
-- **Feat**. Musician (Flute, Bagpipes, Viol)
-- **Stats**. 8, 13, 12, 15, 14, 17
+- **Feat**. [[Feat#Musician|Musician]] (Flute, Bagpipes, Viol)
+- **Stats**. 8, 13, 10, 15, 12, 17
 - **Class**. [[Bard]]
 	- **Skills**. Arcane, History, Deception
 	- **Instruments**. Lute, Drum, Horn
+	- **Spells**. [[Vicious Mockery]]
 - **Backstory**. often visiting [[The Nobility of the Vale]], singing them ballads of times long past
 
 ## Hunter of Shadows and Foul Creatures
