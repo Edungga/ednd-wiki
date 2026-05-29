@@ -169,9 +169,9 @@
 - **Languages**. Common, Elven, Draconic
 - **Skill Proficiencies**. Persuasion, Investigation
 - **Tool Proficiencies**. [[Calligrapher's Supplies]]
-- **Feat**. 
+- **Feat**. [[Feat#Skilled|Skilled]] Nature, Persuasion
 - **Stats**. 
 - **Class**. [[Wizard]]
 	- **Skills**. Arcana, History
-	- **Spells**. [[Fire Bolt]], [[Mage Hand]], [[Minor Illusion]], 
+	- **Spells**. [[Fire Bolt]], [[Mage Hand]], [[Minor Illusion]], [[Chromatic Orb]], [[Magic Missile]], [[Shield]]
 - **Backstory**. One of the Highborn of [[The Auric Houses]] you've spent your life dedicated to learning the old ways. Now you have set off on a personal quest to learn the current ways in hopes for a better future
