@@ -17,44 +17,44 @@ FLATTEN spell-list
 | --------------------------------------------------------- | ------------- | ---------------------- |
 | [[Acid Splash]]           | Evocation     | Arcane                 |
 | [[Blade Ward]]             | Abjuration    | Arcane                 |
-| [[Control Flames]]     | Transmutation | Arcane, Primal         |
 | [[Chill Touch]]           | Necromancy    | Arcane                 |
-| [[Fire Bolt]]               | Evocation     | Arcane                 |
 | [[Dancing Lights]]     | Evocation     | Arcane, Primal         |
-| [[Druidcraft]]             | Transmutation | Arcane, Primal         |
-| [[Eldritch Blast]]     | Evocation     | \-                     |
-| [[Gust]]                         | Transmutation | Arcane, Primal         |
-| [[Frostbite]]               | Evocation     | Arcane, Primal         |
-| [[Guidance]]                 | Divination    | Divine                 |
+| [[Control Flames]]     | Transmutation | Arcane, Primal         |
+| [[Druidcraft]]             | Transmutation | Primal                 |
+| [[Fire Bolt]]               | Evocation     | Arcane                 |
 | [[Friends]]                   | Enchantment   | Arcane                 |
-| [[Light]]                       | Evocation     | Arcane, Divine, Primal |
-| [[Mending]]                   | Transmutation | Arcane, Divine, Primal |
+| [[Guidance]]                 | Divination    | Divine                 |
+| [[Gust]]                         | Transmutation | Arcane, Primal         |
 | [[Lightning Lure]]     | Evocation     | Arcane, Primal         |
-| [[Magic Stone]]           | Transmutation | Arcane, Primal         |
+| [[Eldritch Blast]]     | Evocation     | \-                     |
+| [[Frostbite]]               | Evocation     | Arcane, Primal         |
 | [[Mage Hand]]               | Conjuration   | Arcane                 |
+| [[Magic Stone]]           | Transmutation | Arcane, Primal         |
 | [[Message]]                   | Transmutation | Arcane                 |
+| [[Mending]]                   | Transmutation | Arcane, Divine, Primal |
+| [[Light]]                       | Evocation     | Arcane, Divine, Primal |
 | [[Minor Illusion]]     | Illusion      | Arcane                 |
+| [[Prestidigitation]] | Transmutation | Arcane                 |
 | [[Mould Earth]]           | Transmutation | Arcane, Primal         |
 | [[Poison Spray]]         | Necromancy    | Arcane, Primal         |
-| [[Produce Flame]]       | Conjuration   | Primal                 |
-| [[Primal Savagery]]   | Transmutation | Primal                 |
-| [[Prestidigitation]] | Transmutation | Arcane                 |
 | [[Ray of Frost]]         | Evocation     | Arcane, Primal         |
 | [[Resistance]]             | Abjuration    | Divine, Primal         |
-| [[Sapping Sting]]       | Necromancy    | Arcane, Primal         |
+| [[Primal Savagery]]   | Transmutation | Primal                 |
 | [[Sacred Flame]]         | Evocation     | Divine                 |
-| [[Shape Water]]           | Transmutation | Arcane, Primal         |
-| [[Shocking Grasp]]     | Evocation     | Arcane                 |
-| [[Spare the Dying]]   | Necromancy    | Divine, Primal         |
-| [[Sword Burst]]           | Conjuration   | Arcane                 |
+| [[Produce Flame]]       | Conjuration   | Primal                 |
 | [[Shillelagh]]             | Transmutation | Primal                 |
+| [[Shocking Grasp]]     | Evocation     | Arcane                 |
+| [[Sapping Sting]]       | Necromancy    | Arcane, Primal         |
+| [[Spare the Dying]]   | Necromancy    | Divine, Primal         |
+| [[Shape Water]]           | Transmutation | Arcane, Primal         |
 | [[Thaumaturgy]]           | Transmutation | Divine                 |
-| [[Thunderclap]]           | Evocation     | Arcane, Primal         |
+| [[Thorn Whip]]             | Conjuration   | Primal                 |
+| [[Sword Burst]]           | Conjuration   | Arcane                 |
 | [[Toll the Dead]]       | Necromancy    | Divine                 |
 | [[True Strike]]           | Divination    | Arcane                 |
-| [[Thorn Whip]]             | Conjuration   | Primal                 |
 | [[Word of Radiance]] | Evocation     | Divine                 |
 | [[Vicious Mockery]]   | Enchantment   | Arcane                 |
+| [[Thunderclap]]           | Evocation     | Arcane, Primal         |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School FROM "Spells" -->
@@ -73,78 +73,78 @@ FLATTEN spell-list
 | [[Absorb Elements]]                             | Abjuration    | Arcane, Primal         |
 | [[Alarm]]                                                 | Abjuration    | Arcane, Primal         |
 | [[Animal Friendship]]                         | Enchantment   | Primal                 |
-| [[Armour of The Forest Bearer]]     | Abjuration    | Arcane, Primal         |
 | [[Arms of Darkness]]                           | Conjuration   | Arcane                 |
+| [[Armour of The Forest Bearer]]     | Abjuration    | Arcane, Primal         |
 | [[Bane]]                                                   | Enchantment   | Divine                 |
-| [[Beast Bond]]                                       | Divination    | Primal                 |
 | [[Bless]]                                                 | Enchantment   | Divine                 |
 | [[Burning Hands]]                                 | Evocation     | Arcane, Primal         |
-| [[Caustic Brew]]                                   | Evocation     | Arcane                 |
-| [[Chaos Bolt]]                                       | Evocation     | Arcane                 |
 | [[Catapult]]                                           | Transmutation | Arcane                 |
-| [[Charm Person]]                                   | Enchantment   | Arcane                 |
-| [[Chromatic Orb]]                                 | Evocation     | Arcane                 |
+| [[Beast Bond]]                                       | Divination    | Primal                 |
+| [[Chaos Bolt]]                                       | Evocation     | Arcane                 |
 | [[Color Spray]]                                     | Illusion      | Arcane                 |
+| [[Charm Person]]                                   | Enchantment   | Arcane                 |
 | [[Command]]                                             | Enchantment   | Divine                 |
 | [[Compelled Duel]]                               | Enchantment   | Divine                 |
+| [[Caustic Brew]]                                   | Evocation     | Arcane                 |
 | [[Comprehend Languages]]                   | Divination    | Arcane                 |
+| [[Chromatic Orb]]                                 | Evocation     | Arcane                 |
+| [[Detect Magic]]                                   | Divination    | Arcane                 |
 | [[Create or Destroy Water]]             | Transmutation | Divine, Primal         |
 | [[Cure Wounds]]                                     | Necromancy    | Divine, Primal         |
-| [[Detect Magic]]                                   | Divination    | Arcane                 |
 | [[Detect Evil and Good]]                   | Divination    | Divine                 |
-| [[Detect Poison and Disease]]         | Divination    | Divine, Primal         |
 | [[Disguise Self]]                                 | Illusion      | Arcane                 |
-| [[Dissonant Whispers]]                       | Enchantment   | Arcane                 |
-| [[Distort Value]]                                 | Illusion      | Arcane                 |
-| [[Earth Tremor]]                                   | Evocation     | Arcane, Primal         |
 | [[Divine Favour]]                                 | Evocation     | Divine                 |
-| [[Ensnaring Strike]]                           | Conjuration   | Primal                 |
-| [[Entangle]]                                           | Conjuration   | Primal                 |
+| [[Distort Value]]                                 | Illusion      | Arcane                 |
+| [[Detect Poison and Disease]]         | Divination    | Divine, Primal         |
+| [[Dissonant Whispers]]                       | Enchantment   | Arcane                 |
+| [[Earth Tremor]]                                   | Evocation     | Arcane, Primal         |
 | [[Expeditious Retreat]]                     | Transmutation | Arcane                 |
 | [[Faerie Fire]]                                     | Evocation     | Primal                 |
-| [[False Life]]                                       | Necromancy    | Arcane                 |
 | [[Feather Fall]]                                   | Transmutation | Arcane                 |
+| [[False Life]]                                       | Necromancy    | Arcane                 |
+| [[Ensnaring Strike]]                           | Conjuration   | Primal                 |
 | [[Find Familiar]]                                 | Conjuration   | Arcane                 |
-| [[Floating Disk]]                                 | Conjuration   | Arcane                 |
-| [[Summon Oozelings]]                           | Conjuration   | Arcane                 |
-| [[Fog Cloud]]                                         | Conjuration   | Arcane, Primal         |
+| [[Entangle]]                                           | Conjuration   | Primal                 |
 | [[Gift of Alacrity]]                           | Divination    | Arcane                 |
-| [[Goodberry]]                                         | Conjuration   | Primal                 |
-| [[Grease]]                                               | Conjuration   | Arcane                 |
-| [[Guiding Bolt]]                                   | Evocation     | Divine                 |
+| [[Fog Cloud]]                                         | Conjuration   | Arcane, Primal         |
+| [[Floating Disk]]                                 | Conjuration   | Arcane                 |
 | [[Hail of Thorns]]                               | Conjuration   | Primal                 |
 | [[Healing Word]]                                   | Necromancy    | Divine                 |
-| [[Hellish Rebuke]]                               | Evocation     | Arcane                 |
+| [[Grease]]                                               | Conjuration   | Arcane                 |
+| [[Goodberry]]                                         | Conjuration   | Primal                 |
+| [[Guiding Bolt]]                                   | Evocation     | Divine                 |
 | [[Hell’s Lash]]                                     | Evocation     | Arcane                 |
 | [[Heroism]]                                             | Enchantment   | Divine                 |
 | [[Hex]]                                                     | Enchantment   | Arcane                 |
 | [[Hideous Laughter]]                           | Enchantment   | Arcane                 |
 | [[Ice Knife]]                                         | Conjuration   | Arcane, Primal         |
+| [[Hellish Rebuke]]                               | Evocation     | Arcane                 |
 | [[Identify]]                                           | Divination    | Arcane                 |
-| [[Illusory Script]]                             | Illusion      | Arcane                 |
 | [[Inflict Wounds]]                               | Necromancy    | Divine                 |
 | [[Jump]]                                                   | Transmutation | Arcane, Primal         |
-| [[Longstrider]]                                     | Transmutation | Arcane, Primal         |
 | [[Mage Armor]]                                       | Abjuration    | \-                     |
+| [[Longstrider]]                                     | Transmutation | Arcane, Primal         |
 | [[Magic Missile]]                                 | Evocation     | Arcane                 |
-| [[Magnify Gravity]]                             | Transmutation | Arcane                 |
-| [[Protection from Evil and Good]] | Abjuration    | Arcane, Divine, Primal |
+| [[Illusory Script]]                             | Illusion      | Arcane                 |
 | [[Purify Food and Drink]]                 | Transmutation | Divine, Primal         |
+| [[Protection from Evil and Good]] | Abjuration    | Arcane, Divine, Primal |
 | [[Sanctuary]]                                         | Abjuration    | Divine                 |
 | [[Ray of Sickness]]                             | Necromancy    | Arcane, Primal         |
-| [[Searing Smite]]                                 | Evocation     | Divine                 |
-| [[Shield]]                                               | Abjuration    | Arcane                 |
+| [[Magnify Gravity]]                             | Transmutation | Arcane                 |
 | [[Shield of Faith]]                             | Abjuration    | Divine                 |
-| [[Silent Image]]                                   | Illusion      | Arcane                 |
+| [[Shield]]                                               | Abjuration    | Arcane                 |
 | [[Sleep]]                                                 | Enchantment   | Arcane                 |
+| [[Searing Smite]]                                 | Evocation     | Divine                 |
 | [[Speak with Animals]]                       | Divination    | Primal                 |
-| [[Thunderous Smite]]                           | Evocation     | Divine                 |
+| [[Silent Image]]                                   | Illusion      | Arcane                 |
+| [[Summon Oozelings]]                           | Conjuration   | Arcane                 |
 | [[Thunderwave]]                                     | Evocation     | Arcane, Primal         |
-| [[Unearthly Chorus]]                           | Illusion      | Arcane, Divine         |
-| [[Unseen Servant]]                               | Conjuration   | Arcane                 |
+| [[Thunderous Smite]]                           | Evocation     | Divine                 |
 | [[Witch Bolt]]                                       | Evocation     | Arcane                 |
 | [[Wrathful Smite]]                               | Enchantment   | Divine                 |
 | [[Zephyr Strike]]                                 | Transmutation | Primal                 |
+| [[Unearthly Chorus]]                           | Illusion      | Arcane, Divine         |
+| [[Unseen Servant]]                               | Conjuration   | Arcane                 |
 
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: table School, spell-circle as "Spell Circle", casting-time as "Casting Time", Range, Components, Duration, spell-list as "Spell List" FROM "Spells" WHERE spell-circle = "Cantrip" -->

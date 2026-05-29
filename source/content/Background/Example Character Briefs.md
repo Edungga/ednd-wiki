@@ -173,5 +173,5 @@
 - **Stats**. 
 - **Class**. [[Wizard]]
 	- **Skills**. Arcana, History
-	- 
+	- **Spells**.  
 - **Backstory**. One of the Highborn of [[The Auric Houses]] you've spent your life dedicated to learning the old ways. Now you have set off on a personal quest to learn the current ways in hopes for a better future
