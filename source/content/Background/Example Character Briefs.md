@@ -28,7 +28,7 @@
 - **Ancestry**. [[Human]]
 - **Languages**. Common, Sylvan, Elven
 - **Skill Proficiencies**. Athletics, Survival
-- **Tool Proficiencies**. [[Cook's Utensils]]
+- **Tool Proficiencies**. [[Herbalism Kit]]
 - **Feat**. [[Feat#Savage Attacker|Savage Attacker]]
 - **Stats**. 16, 13, 13, 8, 16, 8
 - **Class**. [[Bloodhunter]]
@@ -66,7 +66,7 @@
 - **Ancestry**. [[Dwarf]]
 - **Languages**. Common, Common, Giant
 - **Skill Proficiencies**. Athletics, Intimidation
-- **Tool Proficiencies**. Smith's Tools
+- **Tool Proficiencies**. [[Smith's Tools]]
 - **Feat**. [[Feat#Tavern Brawler|Tavern Brawler]]
 - **Stats**. 16, 13, 16, 13, 8, 8
 - **Class**. [[Fighter]]
