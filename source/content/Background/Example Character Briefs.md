@@ -22,7 +22,7 @@
 	- **Skills**. Arcane, History, Deception
 	- **Instruments**. Lute, Drum, Horn
 	- **Spells**. [[Dancing Lights]], [[Vicious Mockery]], [[Charm Person]], [[Dissonant Whispers]], [[Hideous Laughter]], [[Unearthly Chorus]]
-- **Backstory**. Growing up often visiting [[The Nobility of the Vale]], singing them ballads of times long past
+- **Backstory**. Growing up in the big city you were fortunate enough to come from a well off family, well off enough where you had your own tutor. In your youth, you learnt plenty and loved the  often visiting [[The Nobility of the Vale]], singing them ballads of times long past
 
 ## Hunter of Shadows and Foul Creatures
 - **Ancestry**. [[Human]]
