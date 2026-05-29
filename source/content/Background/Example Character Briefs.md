@@ -27,7 +27,7 @@
 ## Hunter of Shadows and Foul Creatures
 - **Ancestry**. [[Human]] (Perception, [[Feat#Fighting Style|Fighting Style (Defence)]])
 - **Languages**. Common, Sylvan, Elven
-- **Skill Proficiencies**. Athletics, Survival
+- **Skill Proficiencies**. Athletics, Investigation, Survival
 - **Tool Proficiencies**. [[Herbalism Kit]]
 - **Feat**. [[Feat#Savage Attacker|Savage Attacker]]
 - **Stats**. 16, 13, 13, 8, 16, 8
