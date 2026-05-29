@@ -92,7 +92,7 @@
 - **Ancestry**. [[Elf|Wode Elf]]
 - **Languages**. Common
 - **Skill Proficiencies**. Perception, Sleight of Hand
-- **Tool Proficiencies**. 
+- **Tool Proficiencies**. [[Thieve's Tools]]
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Monk]]
