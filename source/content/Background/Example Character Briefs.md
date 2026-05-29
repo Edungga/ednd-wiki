@@ -116,11 +116,11 @@
 - **Ancestry**. [[Human]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
-- **Tool Proficiencies**. Navigator
+- **Tool Proficiencies**. [[Navigator's Tools]]
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Ranger]]
-	- **Skills**. 
+	- **Skills**. [[Feat#Alert]]
 	- 
 - **Backstory**. [[Sailors Union]]
 
