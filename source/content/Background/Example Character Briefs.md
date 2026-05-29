@@ -169,8 +169,8 @@
 - **Languages**. Common, Elven, Draconic
 - **Skill Proficiencies**. Persuasion, Investigation
 - **Tool Proficiencies**. [[Calligrapher's Supplies]]
-- **Feat**. [[Feat#Skilled|Skilled]] Nature, Persuasion
-- **Stats**. 
+- **Feat**. [[Feat#Skilled|Skilled]] Nature, Persuasion, Medicine
+- **Stats**. 8, 11, 12, 17, 14, 13
 - **Class**. [[Wizard]]
 	- **Skills**. Arcana, History
 	- **Spells**. [[Fire Bolt]], [[Mage Hand]], [[Minor Illusion]], [[Chromatic Orb]], [[Magic Missile]], [[Shield]]
