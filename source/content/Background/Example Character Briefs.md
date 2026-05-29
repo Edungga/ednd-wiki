@@ -15,7 +15,7 @@
 - **Ancestry**. [[Human]]
 - **Languages**. Common, Elven, Celestial
 - **Skill Proficiencies**. Performance, Persuasion
-- **Tool Proficiencies**. 
+- **Tool Proficiencies**. [[Woodcarver's Tools]]
 - **Feat**. [[Feat#Musician|Musician]] (Flute, Bagpipes, Viol)
 - **Stats**. 8, 13, 10, 15, 12, 17
 - **Class**. [[Bard]]
@@ -39,8 +39,8 @@
 
 ## Acolyte of Mercy
 - **Ancestry**. [[Human]]
-- **Languages**. Common, Celestial, 
-- **Skill Proficiencies**. 
+- **Languages**. Common, Celestial, Primordial
+- **Skill Proficiencies**. Religion, History
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
