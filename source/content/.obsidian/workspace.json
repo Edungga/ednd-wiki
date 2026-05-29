@@ -53,18 +53,16 @@
             "id": "3e3ab784d704ff74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Spells/Cantrips/Blade Ward.md",
-                "mode": "source",
-                "source": false
+                "file": "Spells/Spells.base",
+                "viewName": "All Spells"
               },
-              "icon": "lucide-file",
-              "title": "Blade Ward"
+              "icon": "lucide-table",
+              "title": "Spells"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,9 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e3ab784d704ff74",
+  "active": "8628b15abe8707c3",
   "lastOpenFiles": [
     "Spells/Spells.base",
+    "Spells/Cantrips/Blade Ward.md",
     "Background/Example Character Briefs.md",
     "Classes/Ranger.md",
     "index.md",
@@ -241,7 +240,6 @@
     "The Setting/Locations/The Mourning Isles/Hollow Harbour.md",
     "The Setting/Locations/The Mirelands/The Mirelands.md",
     "The Setting/Locations/The Crown of Crows/Veinreach Hold.md",
-    "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",
