@@ -118,10 +118,10 @@
 - **Skill Proficiencies**. Nature, Survival
 - **Tool Proficiencies**. [[Navigator's Tools]]
 - **Feat**. [[Feat#Alert|Alert]]
-- **Stats**. 
+- **Stats**. 8, 16, 12, 13, 16, 8
 - **Class**. [[Ranger]]
 	- **Skills**. Athletics, Investigation, Perception
-	- **Knack**. [[Ranger]]
+	- **Knack**. [[Ranger#Deft Explorer I|Deft Explorer I (Swamp)]]
 	- **Weapon Mastery**. Nick, Slow
 - **Backstory**. [[Sailors Union]]
 
