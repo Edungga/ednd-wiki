@@ -85,7 +85,6 @@ Whenever you gain an Illrigger level, you can choose a Boon you know and replace
 
 ## Level 3: Diabolic Contracts
 You sign a [[Illrigger#Diabolic Contracts|Diabolic Contract]] with an archdevil who welcomes you into the Order of Desolation Choose one of the following:
-- 
 
 ## Level 3: Invoke Hell
 Your diabolic connection allows you to channel infernal energy to empower magical effects. Your chosen Diabolic Contract grants you two Invoke Hell options and describes how to use each. 
