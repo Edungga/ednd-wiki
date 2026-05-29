@@ -68,10 +68,11 @@
 - **Skill Proficiencies**. Athletics, Intimidation
 - **Tool Proficiencies**. Smith's Tools
 - **Feat**. [[Feat#Tavern Brawler|Tavern Brawler]]
-- **Stats**. 
+- **Stats**. 16, 13, 16, 13, 8, 8
 - **Class**. [[Fighter]]
-	- **Skills**. 
-	- 
+	- **Skills**. Acrobatics, Perception
+	- Fighting Style. 
+	- Weapon 
 - **Backstory**. [[The Mountain Kingdom]]
 
 ## Servant of Desolation
