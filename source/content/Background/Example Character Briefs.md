@@ -131,12 +131,12 @@
 - **Skill Proficiencies**. Investigation, Perception
 - **Tool Proficiencies**. [[Cartographer's Tools]]
 - **Feat**. [[Feat#Magic Initiate|Magic Initiate (Primal)]] [[Mending]], [[Produce Flame]], [[Ensnaring Strike]]
-- **Stats**. 
+- **Stats**. 8, 16, 11, 16, 14, 8
 - **Class**. [[Rogue]]
 	- **Skills**. Acrobatics, Athletics, Sleight of Hand, Stealth
 	- **Expertise**. Perception, Stealth
 	- **Weapon Mastery**. Nick, Vex
-- **Backstory**. [[The Troll King's Bandits]]
+- **Backstory**. You found your way working for [[The Troll King's Bandits]] as a delver and mapper, and you were damn good at it. For the better part of 2 years you were one of their best, until  
 
 ## Born of Magics
 - **Ancestry**. [[Beast-folk|Beast-folk (Porsine)]]
