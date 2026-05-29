@@ -41,9 +41,9 @@
 - **Ancestry**. [[Human]]
 - **Languages**. Common, Celestial, Primordial
 - **Skill Proficiencies**. Religion, History
-- **Tool Proficiencies**. 
-- **Feat**. 
-- **Stats**. 
+- **Tool Proficiencies**. [[Calligrapher's Supplies]]
+- **Feat**. [[Feat#Healer|Healer]]
+- **Stats**. 8, 13, 12
 - **Class**. 
 	- **Skills**. 
 	- 
