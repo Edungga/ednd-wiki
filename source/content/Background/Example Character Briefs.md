@@ -136,7 +136,7 @@
 	- **Skills**. Acrobatics, Athletics, Sleight of Hand, Stealth
 	- **Expertise**. Perception, Stealth
 	- **Weapon Mastery**. Nick, Vex
-- **Backstory**. You found your way working for [[The Troll King's Bandits]] as a delver and mapper, and you were damn good at it. For the better part of 2 years you were one of their best, until  
+- **Backstory**. You found your way working for [[The Troll King's Bandits]] as a delver and mapper, and you were damn good at it. For the better part of 2 years you were one of their best, until one day you came across a haul you just couldnt share, a trinket to some, but you know better, so you took it and ran 
 
 ## Born of Magics
 - **Ancestry**. [[Beast-folk|Beast-folk (Porsine)]]
