@@ -157,7 +157,7 @@
 - **Skill Proficiencies**. History, Religion
 - **Tool Proficiencies**. [[Jeweler's Tools]]
 - **Feat**. 
-- **Stats**. 8, 
+- **Stats**. 8, 14, 12, 14, 12, 16
 - **Class**. [[Warlock]]
 	- **Skills**. Arcane, Deception
 	- **Eldritch Invocation**. [[Warlock#Agonising Blast|Agonising Blast (Eldritch Blast)]]
