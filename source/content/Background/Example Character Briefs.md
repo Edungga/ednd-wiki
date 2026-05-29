@@ -38,12 +38,12 @@
 - **Backstory**. You were taken by a coven of hags of [[The Bone Keepers]] from your home when you were young. They forced you through harrowing alchemical trial, twisting you mind and body for years. Until one day you broke free of your captors and slaughtered them all, from that day you vowed to never allow the same fate to fall others
 
 ## Acolyte of Mercy
-- **Ancestry**. [[Human]] (Intimidation, )
+- **Ancestry**. [[Human]] (Intimidation, [[Feat#Heavily Armored|Heavily Armoured (CON)]])
 - **Languages**. Common, Celestial, Primordial
 - **Skill Proficiencies**. Religion, History
 - **Tool Proficiencies**. [[Calligrapher's Supplies]]
 - **Feat**. [[Feat#Healer|Healer]]
-- **Stats**. 8, 13, 12, 10, 17, 15
+- **Stats**. 8, 12, 14, 10, 17, 15
 - **Class**. [[Cleric]]
 	- **Skills**. Insight, Medicine
 	- **Spells**. [[Guidance]], [[Light]], [[Sacred Flame]], [[Cure Wounds]], [[Divine Favour]], [[Guiding Bolt]], [[Protection from Evil and Good]]
