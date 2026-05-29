@@ -77,13 +77,14 @@
 
 ## Servant of Desolation
 - **Ancestry**. [[Ill-Fated]]
-- **Languages**. Common
-- **Skill Proficiencies**. 
+- **Languages**. Common, Celestial, Abyssal
+- **Skill Proficiencies**. Athletics
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Illrigger]]
-	- **Skills**. 
+	- **Skills**. Intimidation, Investigation
+	- Forked Tongue. Infernal, Giant, Dwarven
 	- **Weapon Mastery**. Cleave, Sap
 - **Backstory**. You are not from around these parts, you're from another world all together, where souls are the currency. Someone made a deal they didn't fulfil and you're here to collect. 
 
