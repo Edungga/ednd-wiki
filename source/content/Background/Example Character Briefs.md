@@ -46,7 +46,7 @@
 - **Stats**. 8, 13, 12, 15, 10, 17
 - **Class**. [[Cleric]]
 	- **Skills**. Insight, Medicine
-	- **Spells**. 
+	- **Spells**. [[Guidance]], [[Light]], [[Sacred Flame]], 
 	- **Holy Order**. 
 - **Backstory**. [[The Synodos]]
 
