@@ -129,12 +129,12 @@
 - **Ancestry**. [[Half-folk]]
 - **Languages**. Common, Giant, Dwarf
 - **Skill Proficiencies**. Investigation, Perception
-- **Tool Proficiencies**. 
+- **Tool Proficiencies**. [[Cartographer's Tools]]
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Rogue]]
-	- **Skills**. 
-	- 
+	- **Skills**. Acrobatics, Athletics, Sleight of Hand, Stealth
+	- Expertise
 - **Backstory**. [[The Troll King's Bandits]]
 
 ## Born of Magics
