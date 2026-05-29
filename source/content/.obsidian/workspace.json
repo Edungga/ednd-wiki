@@ -48,8 +48,7 @@
               "title": "Spells"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "604bb18e7bce8990",
+  "active": "8628b15abe8707c3",
   "lastOpenFiles": [
+    "Classes/Wizard.md",
     "index.md",
     "Classes/Ranger.md",
     "Background/Example Character Briefs.md",
