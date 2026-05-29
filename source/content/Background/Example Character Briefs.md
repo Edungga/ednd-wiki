@@ -130,7 +130,7 @@
 - **Languages**. Common, Giant, Dwarf
 - **Skill Proficiencies**. Investigation, Perception
 - **Tool Proficiencies**. [[Cartographer's Tools]]
-- **Feat**. [[Feat#Magic Initiate|Magic Initiate (Primal)]] 
+- **Feat**. [[Feat#Magic Initiate|Magic Initiate (Primal)]] [[Mending]], [[Produce Flame]], [[Ensnaring Strike]]
 - **Stats**. 
 - **Class**. [[Rogue]]
 	- **Skills**. Acrobatics, Athletics, Sleight of Hand, Stealth
