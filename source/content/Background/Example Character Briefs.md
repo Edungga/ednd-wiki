@@ -46,8 +46,8 @@
 - **Stats**. 8, 13, 12, 15, 10, 17
 - **Class**. [[Cleric]]
 	- **Skills**. Insight, Medicine
-	- **Spells**. [[Guidance]], [[Light]], [[Sacred Flame]], 
-	- **Holy Order**. 
+	- **Spells**. [[Guidance]], [[Light]], [[Sacred Flame]], [[Cure Wounds]], [[Divine Favour]], [[Guiding Bolt]], [[Protection from Evil and Good]]
+	- **Holy Order**. Scholar
 - **Backstory**. [[The Synodos]]
 
 ## Druidic Envoy of the Tidebound
