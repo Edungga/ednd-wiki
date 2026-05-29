@@ -160,7 +160,8 @@
 - **Stats**. 
 - **Class**. [[Warlock]]
 	- **Skills**. 
-	- 
+	- **Eldritch Invocation**.
+	- **Spells**. [[Eldritch Blast]], [[True Strike]], 
 - **Backstory**. Once a mere scavenger within [[The Hollow Court]], you stumbled across a strange relic that bound itself to you. Now you've found you have powers, but with power comes a voice in your dreams.
 
 ## Scholar of the High Arcane
