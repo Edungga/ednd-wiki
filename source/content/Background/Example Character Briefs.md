@@ -22,7 +22,7 @@
 	- **Skills**. Arcane, History, Deception
 	- **Instruments**. Lute, Drum, Horn
 	- **Spells**. [[Dancing Lights]], [[Vicious Mockery]], [[Charm Person]], [[Dissonant Whispers]], [[Hideous Laughter]], [[Unearthly Chorus]]
-- **Backstory**. Growing up in the big city you were fortunate enough to come from a well off family, well off enough where you had your own tutor. In your youth, you learnt plenty and loved the thrill of uncovering new secrets of the world around you, but nothing brought you more joy than music. Now later in life, you spend your days travelling between cities and towns, performing and shar often visiting [[The Nobility of the Vale]], singing them ballads of times long past
+- **Backstory**. Growing up in the big city you were fortunate enough to come from a well off family, well off enough where you had your own tutor. In your youth, you learnt plenty and loved the thrill of uncovering new secrets of the world around you, but nothing brought you more joy than music. Now later in life, you spend your days travelling between cities and towns, performing and sharing snippets of knowledge through tale and song, often visiting [[The Nobility of the Vale]], singing them ballads of times long past, after all that's where the real money's at.
 
 ## Hunter of Shadows and Foul Creatures
 - **Ancestry**. [[Human]]
@@ -39,7 +39,7 @@
 
 ## Acolyte of Mercy
 - **Ancestry**. [[Human]]
-- **Languages**. Common
+- **Languages**. Common, Celestial, 
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
 - **Feat**. 
