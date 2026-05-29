@@ -34,6 +34,19 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "3e3ab784d704ff74",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Spells/Spells.base",
+                "viewName": "All Spells"
+              },
+              "icon": "lucide-table",
+              "title": "Spells"
+            }
           }
         ]
       }
@@ -185,11 +198,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "8628b15abe8707c3",
   "lastOpenFiles": [
+    "Spells/Spells.base",
+    "Spells/Spells.md",
     "index.md",
-    "Classes/Bloodhunter.md",
     "Background/Example Character Briefs.md",
+    "Classes/Bloodhunter.md",
     "The Setting/Organisations & Factions/The Order Arcanum Exterminatus.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "Classes/Paladin.md",
@@ -211,8 +226,6 @@
     "The Setting/Locations/The Crown of Crows/The Crown of Crows.md",
     "Ancestries/Dwarf.md",
     "Ancestries/Elf.md",
-    "The Setting/Higher Powers/Higher Powers of Callitè.md",
-    "The Setting/Higher Powers/Undead Beings/Lady Seraphel, The Crimson Widow.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",
