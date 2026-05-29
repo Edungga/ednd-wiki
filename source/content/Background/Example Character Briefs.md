@@ -62,7 +62,7 @@
 	- **Spells**. [[Frostbite]], [[Resistance]], [[Detect Poison and Disease]], [[Goodberry]], [[Ice Knife]], [[Ray of Sickness]]
 - **Backstory**. Being born into [[The Tidebound Grove]], your life has been spent maintaining the harmonious balance of the natural world. Until one day you were tasked by one of the Elders to deliver a letter in a land far from your home.
 
-## Guard of Fortress Gate
+## Guard of the Fortress Gate
 - **Ancestry**. [[Dwarf]]
 - **Languages**. Common, Common, Giant
 - **Skill Proficiencies**. Athletics, Intimidation
@@ -71,8 +71,8 @@
 - **Stats**. 16, 13, 16, 13, 8, 8
 - **Class**. [[Fighter]]
 	- **Skills**. Acrobatics, Perception
-	- Fighting Style. 
-	- Weapon 
+	- **Fighting Style**. [[Feat#Fighting Style|Fighting Style (Unarmed Fighting)]]
+	- **Weapon Mastery**.
 - **Backstory**. [[The Mountain Kingdom]]
 
 ## Servant of Desolation
