@@ -113,17 +113,17 @@
 - **Backstory**. Born at the [[Moss Stone Abbey]] in the wilds of [[The Weeping Vale]] between [[Veycross]] and [[Irongate]], you spent much of your youth training to be a Knight of [[The Order of Saint Vey]]. After spending many years in training and serving as squire, you have been set out on your own to achieve a deed worthy of being granted knighthood.
 
 ## Sailor of The Mirelands
-- **Ancestry**. [[Human]] (History, [[Feat#]])
+- **Ancestry**. [[Human]] (History, [[Feat#Piercer|Piercer (DEX)]])
 - **Languages**. Common, Elven, Abyssal
 - **Skill Proficiencies**. Nature, Survival
 - **Tool Proficiencies**. [[Navigator's Tools]]
 - **Feat**. [[Feat#Alert|Alert]]
-- **Stats**. 8, 16, 12, 13, 16, 8
+- **Stats**. 8, 18, 12, 11, 16, 8
 - **Class**. [[Ranger]]
 	- **Skills**. Athletics, Investigation, Perception
 	- **Knack**. [[Ranger#Deft Explorer I|Deft Explorer I (Swamp)]]
 	- **Weapon Mastery**. Nick, Slow
-- **Backstory**. [[Sailors Union]]
+- **Backstory**. Growing up  [[Sailors Union]]
 
 ## Mine Delver
 - **Ancestry**. [[Half-folk]]
