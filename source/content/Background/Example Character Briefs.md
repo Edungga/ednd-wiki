@@ -80,7 +80,7 @@
 - **Languages**. Common, Celestial, Abyssal
 - **Skill Proficiencies**. Athletics, Insight
 - **Tool Proficiencies**. [[Calligrapher's Supplies]]
-- **Feat**. [[Feat#Magic Initiate|Magic Initiate (Arcane)]] - [[Sword Burst]], [[True Strike]], 
+- **Feat**. [[Feat#Magic Initiate|Magic Initiate (Arcane)]] - [[Sword Burst]], [[True Strike]], [[Shield]]
 - **Stats**. 
 - **Class**. [[Illrigger]]
 	- **Skills**. Intimidation, Investigation
