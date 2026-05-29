@@ -13,13 +13,13 @@
 
 ## Vale Wandering Musician
 - **Ancestry**. [[Human]]
-- **Languages**. Common
+- **Languages**. Common, Elven, Ce
 - **Skill Proficiencies**. 
 - **Tool Proficiencies**. 
-- **Feat**. 
+- **Feat**. Musician ()
 - **Stats**. 
 - **Class**. [[Bard]]
-	- **Skills**. 
+	- **Skills**. Arcane, History, 
 	- 
 - **Backstory**. often visiting [[The Nobility of the Vale]], singing them ballads of times long past
 
