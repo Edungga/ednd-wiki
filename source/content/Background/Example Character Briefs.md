@@ -81,7 +81,7 @@
 - **Skill Proficiencies**. Athletics, Insight
 - **Tool Proficiencies**. [[Calligrapher's Supplies]]
 - **Feat**. [[Feat#Magic Initiate|Magic Initiate (Arcane)]] - [[Sword Burst]], [[True Strike]], [[Shield]]
-- **Stats**. 
+- **Stats**. 14, 10, 14, 12, 10, 16
 - **Class**. [[Illrigger]]
 	- **Skills**. Intimidation, Investigation
 	- Forked Tongue. Infernal, Giant, Dwarven
@@ -91,12 +91,12 @@
 ## They Who Strike like a Talon from the Roost
 - **Ancestry**. [[Elf|Wode Elf]]
 - **Languages**. Common
-- **Skill Proficiencies**. 
+- **Skill Proficiencies**. Perception, Sleight of Hand
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Monk]]
-	- **Skills**. 
+	- **Skills**. Acrobatics, Stealth
 	- 
 - **Backstory**. Born under the wrong moon phase, or star sign, or some other nonsense, you people abandoned you at the edge of the woods. It was [[The Talon]] who saved you, raised you, and trained you. Now a killer for hire, you have a new mark and you were trained to never miss.
 
