@@ -62,8 +62,7 @@
               "title": "Spells"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +212,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffe28679ac27b0bb",
+  "active": "8628b15abe8707c3",
   "lastOpenFiles": [
+    "Classes/Illrigger.md",
     "index.md",
     "Background/Example Character Briefs.md",
     "Spells/Spells.base",
