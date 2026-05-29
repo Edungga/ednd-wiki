@@ -22,7 +22,7 @@
 	- **Skills**. Arcane, History, Deception
 	- **Instruments**. Lute, Drum, Horn
 	- **Spells**. [[Dancing Lights]], [[Vicious Mockery]], [[Charm Person]], [[Dissonant Whispers]], [[Hideous Laughter]], [[Unearthly Chorus]]
-- **Backstory**. Growing up in the big city you were fortunate enough to come from a well off family, well off enough where you had your own tutor. In your youth, you learnt plenty and loved the thrill of uncovering new secrets of the world around you, but nothing brought you more joy than music. Now later in life, you spend your days travelling between cities and towns, performing and sharing snippets of knowledge through tale and song, often visiting [[The Nobility of the Vale]], singing them ballads of times long past, after all that's where the real money's at.
+- **Backstory**. Growing up in city of [[Harrow's Keep]] you were fortunate enough to come from a well off family, well off enough where you had your own tutor. In your youth, you learnt plenty and loved the thrill of uncovering new secrets of the world around you, but nothing brought you more joy than music. Now later in life, you spend your days travelling between cities and towns, performing and sharing snippets of knowledge through tale and song, often visiting [[The Nobility of the Vale]], singing them ballads of times long past, after all that's where the real money's at.
 
 ## Hunter of Shadows and Foul Creatures
 - **Ancestry**. [[Human]]
@@ -48,7 +48,7 @@
 	- **Skills**. Insight, Medicine
 	- **Spells**. [[Guidance]], [[Light]], [[Sacred Flame]], [[Cure Wounds]], [[Divine Favour]], [[Guiding Bolt]], [[Protection from Evil and Good]]
 	- **Holy Order**. Scholar
-- **Backstory**. [[The Synodos]]
+- **Backstory**. Your past [[The Synodos]]
 
 ## Druidic Envoy of the Tidebound
 - **Ancestry**. [[Elf|Sea Elf]]
