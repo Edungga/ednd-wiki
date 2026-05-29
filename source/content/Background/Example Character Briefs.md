@@ -48,7 +48,7 @@
 	- **Skills**. Insight, Medicine
 	- **Spells**. [[Guidance]], [[Light]], [[Sacred Flame]], [[Cure Wounds]], [[Divine Favour]], [[Guiding Bolt]], [[Protection from Evil and Good]]
 	- **Holy Order**. Scholar
-- **Backstory**. Your past [[The Synodos]]
+- **Backstory**. "Your past is behind you", at least that's what you keep telling yourself these last few years. You left it all behind and joined [[The Synodos]], 
 
 ## Druidic Envoy of the Tidebound
 - **Ancestry**. [[Elf|Sea Elf]]
