@@ -134,7 +134,8 @@
 - **Stats**. 
 - **Class**. [[Rogue]]
 	- **Skills**. Acrobatics, Athletics, Sleight of Hand, Stealth
-	- Expertise
+	- **Expertise**. Perception, Stealth
+	- **Weapon Mastery**. Nick, Vex
 - **Backstory**. [[The Troll King's Bandits]]
 
 ## Born of Magics
