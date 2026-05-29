@@ -21,8 +21,8 @@
 - **Class**. [[Bard]]
 	- **Skills**. Arcane, History, Deception
 	- **Instruments**. Lute, Drum, Horn
-	- **Spells**. [[Dancing Lights]], [[Vicious Mockery]]
-- **Backstory**. often visiting [[The Nobility of the Vale]], singing them ballads of times long past
+	- **Spells**. [[Dancing Lights]], [[Vicious Mockery]], [[Charm Person]], [[Dissonant Whispers]], [[Hideous Laughter]], [[Unearthly Chorus]]
+- **Backstory**. Growing up often visiting [[The Nobility of the Vale]], singing them ballads of times long past
 
 ## Hunter of Shadows and Foul Creatures
 - **Ancestry**. [[Human]]
