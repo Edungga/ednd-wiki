@@ -136,17 +136,17 @@
 	- **Skills**. Acrobatics, Athletics, Sleight of Hand, Stealth
 	- **Expertise**. Perception, Stealth
 	- **Weapon Mastery**. Nick, Vex
-- **Backstory**. You found your way working for [[The Troll King's Bandits]] as a delver and mapper, and you were damn good at it. For the better part of 2 years you were one of their best, until one day you came across a haul you just couldnt share, a trinket to some, but you know better, so you took it and ran 
+- **Backstory**. You found your way working for [[The Troll King's Bandits]] as a delver and mapper, and you were damn good at it. For the better part of 2 years you were one of their best, until one day you came across a haul you just couldnt share, a trinket to some, but you knew better. You took it and ran and havent looked back, now just to figure out what this thing is.
 
 ## Born of Magics
 - **Ancestry**. [[Beast-folk|Beast-folk (Porsine)]]
 - **Languages**. Common, Draconic, Abyssal
-- **Skill Proficiencies**. 
+- **Skill Proficiencies**. Intimidation, Survival
 - **Tool Proficiencies**. 
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Sorcerer]]
-	- **Skills**. 
+	- **Skills**. Arcane, 
 	- 
 - **Backstory**. You were born different, your parents knew that the day you came out with a snout, but they loved you regardless. It wasnt until you started showing magical tendencies did they get concerned and call [[The Order Arcanum Exterminatus]], by then it was too late. When the order had arrived you already burnt down your families house, with them still inside. You've lived the rest of your life in a dungeon...until a week ago when you found your door unlocked. You took the opportunity and escaped, knowing full well the order will be on your trail and hunting you down. 
 
