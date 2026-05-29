@@ -78,9 +78,9 @@
 ## Servant of Desolation
 - **Ancestry**. [[Ill-Fated]]
 - **Languages**. Common, Celestial, Abyssal
-- **Skill Proficiencies**. Athletics
-- **Tool Proficiencies**. 
-- **Feat**. 
+- **Skill Proficiencies**. Athletics, Insight
+- **Tool Proficiencies**. [[Calligrapher's Supplies]]
+- **Feat**. [[Feat#Magic Initiate|Magic Initiate (Arcane)]] 
 - **Stats**. 
 - **Class**. [[Illrigger]]
 	- **Skills**. Intimidation, Investigation
