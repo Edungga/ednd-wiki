@@ -97,7 +97,7 @@
 - **Stats**. 8, 16, 14, 11, 16, 8
 - **Class**. [[Monk]]
 	- **Skills**. Acrobatics, Stealth
-	- 
+	- **Tool**. [[Poisoner's Kit]]
 - **Backstory**. Born under the wrong moon phase, or star sign, or some other nonsense, you people abandoned you at the edge of the woods. It was [[The Talon]] who saved you, raised you, and trained you. Now a killer for hire, you have a new mark and you were trained to never miss.
 
 ## Squire of Saint Vey
@@ -116,7 +116,7 @@
 - **Ancestry**. [[Human]]
 - **Languages**. Common
 - **Skill Proficiencies**. 
-- **Tool Proficiencies**. 
+- **Tool Proficiencies**. Navigator
 - **Feat**. 
 - **Stats**. 
 - **Class**. [[Ranger]]
