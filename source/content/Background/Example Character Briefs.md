@@ -144,7 +144,7 @@
 - **Skill Proficiencies**. Intimidation, Survival
 - **Tool Proficiencies**. [[Cook's Utensils]]
 - **Feat**. [[Feat#Tough|Tough]]
-- **Stats**. 
+- **Stats**. 12, 15, 17, 8, 13, 10
 - **Class**. [[Sorcerer]] CON
 	- **Skills**. Arcane, Insight
 	- **Spells**. [[Blade Ward]], [[Control Flames]], [[Fire Bolt]], [[Message]], [[Absorb Elements]], [[Chaos Bolt]]
