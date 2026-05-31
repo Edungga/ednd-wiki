@@ -50,5 +50,15 @@ SORT ac-bonus
 
 # Shields
 
+<!-- QueryToSerialize: table ac-bonus AS "AC Bonus", str-requirement AS "STR requirement", Cost
+WHERE contains(tags, "Shield")
+SORT ac-bonus
+-->
+<!-- SerializedQuery: table ac-bonus AS "AC Bonus", str-requirement AS "STR requirement", Cost WHERE contains(tags, "Shield") SORT ac-bonus -->
 
+| File                                                               | AC Bonus | STR requirement | Cost  |
+| ------------------------------------------------------------------ | -------- | --------------- | ----- |
+| [[Standard Shield]] | +2       | \-              | 10 GP |
+
+<!-- SerializedQuery END -->
 

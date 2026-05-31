@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Armour.md",
+                "file": "Equipment/Weapons & Armour/Tower Shield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armour"
+              "title": "Tower Shield"
             }
           },
           {
@@ -187,20 +187,21 @@
   },
   "active": "604bb18e7bce8990",
   "lastOpenFiles": [
+    "Equipment/Weapons & Armour/Chain Mail.md",
     "Equipment/Weapons & Armour/Scale Mail.md",
-    "Equipment/Weapons & Armour/Breastplate.md",
+    "Equipment/Weapons & Armour/Ring Mail.md",
+    "Equipment/Weapons & Armour/Tower Shield.md",
     "Equipment/Armour.md",
+    "Equipment/Weapons & Armour/Breastplate.md",
     "SPELL-TEMPLATE.md",
     "Equipment/Weapons & Armour/Splint Armour.md",
     "Equipment/Weapons & Armour/Studded Leather Armour.md",
-    "Equipment/Weapons & Armour/Ring Mail.md",
     "Equipment/Weapons & Armour/Plate Armour.md",
     "Equipment/Weapons & Armour/Padded Armour.md",
     "Equipment/Weapons & Armour/Leather Armour.md",
     "Equipment/Weapons & Armour/Hide Armour.md",
     "Equipment/Weapons & Armour/Half Plate Armour.md",
     "Equipment/Weapons & Armour/Chain Shirt.md",
-    "Equipment/Weapons & Armour/Chain Mail.md",
     "Equipment/Weapons & Armour/Standard Shield.md",
     "Equipment/Items.base",
     "Equipment/Weapons & Armour",
@@ -216,7 +217,6 @@
     "Spells/Spells.base",
     "Classes/Ranger.md",
     "Spells/Cantrips/Blade Ward.md",
-    "Classes/Illrigger.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",
