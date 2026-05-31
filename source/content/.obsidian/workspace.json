@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Equipment/Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Weapons"
             }
           }
         ]
@@ -171,8 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "604bb18e7bce8990",
   "lastOpenFiles": [
+    "index.md",
+    "Equipment/Weapons.md",
     "Equipments",
     "Classes/Wizard.md",
     "Spells/Spells.md",
@@ -180,7 +182,6 @@
     "Spells/Primal Spell List.md",
     "Spells/Divine Spell List.md",
     "Spells/Arcane Spell List.md",
-    "index.md",
     "Spells/Spells.base",
     "Classes/Ranger.md",
     "Spells/Cantrips/Blade Ward.md",
@@ -207,7 +208,6 @@
     "The Setting/Locations/The Crown of Crows",
     "The Setting/Locations/The Ashen Hills",
     "The Setting/Organisations & Factions",
-    "The Setting/Locations",
-    "Spells/1st Circle Spells"
+    "The Setting/Locations"
   ]
 }
