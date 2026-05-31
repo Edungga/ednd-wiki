@@ -51,7 +51,7 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 ### Ki
 - **Ki Points**. Your spiritual power is represented by a pool of Ki, equal to your Monk level + your Wisdom modifier (min 1). 
 - **Spending Ki**. You can only expend Ki on one feature or Technique per attack, ability check, reaction, or saving throw unless otherwise stated.
-- Exalting. Some [[Monk#Mystic Techniques|Mystic Techniques]] have an exalt option which allows you to spend additional Ki on it () to gain certain benefits.
+- Exalting. Some [[Monk#Mystic Techniques|Mystic Techniques]] have an exalt option which allows you to spend additional Ki on it (up to your WIS modifier) to empower it, granting certain increases.
 - **Regaining Ki**. You regain all expended Ki, when you finish a Short or Long Rest.
 ### Techniques Known
 You know three [[Monk#Mystic Techniques|Mystic Techniques]]. To learn a Technique you must meet any prerequisites it has. Whenever you gain a Monk level, you can replace one Technique you know with another.
@@ -156,7 +156,7 @@ You can take a Reaction when you fall to reduce any damage you take from the fal
 #### Step of the Wind
 You can take the Dash action as a Bonus Action. 
 
-Alternatively, you can expend 1 Ki Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+**Exalt**. Spend 1 Ki Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 #### Typhoon Strike
 As an action, you can spend 1 Ki strike out at every creature near you. All creatures within reach of a Monk Weapon you are wielding must succeed on a Dexterity saving throw or take damage of your attack's type equal to your Martial Arts Die + your Dexterity modifier.
 #### Uncanny Metabolism
@@ -169,7 +169,7 @@ Once you use this feature, you can't use it again until you finish a Long Rest.
 #### Astral Arms
 As a Bonus Action you can spend 1 Ki to conjure astral arms that burst out from you. Each enemy within 10ft of you. must make a DEX save or take Force Damage equal to a Martial Arts Die + WIS modifier on a fail, half Damage on a success.
 
-**Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die damage for each additional Ki spent.
+**Exalt**. Deals an additional Martial Arts Die damage for each additional Ki spent.
 #### Gentling Touch
 Once per turn in place of an attack, you can expend 1 Ki to touch a creature and manipulate its Ki to put it to sleep. Roll five Martial Arts Dice. If the target's remaining hit points are less than or equal to the total roll, it falls [[Conditions#Unconscious (Condition)|Unconscious (Condition)]] for 10 minutes. The creature wakes up if another creature uses its action to wake it, or if it takes any damage.
 
