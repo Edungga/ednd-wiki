@@ -222,9 +222,7 @@ As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must ma
 #### True Step of Wind
 *Prerequisite: [[Monk#Step of the Wind|Step of the Wind Technique]]*
 
-When you exalt the [[Monk#Step of the Wind|Step of the Wind Technique]], and spend the Additional Ki to Empower it
-
-You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+When you exalt the [[Monk#Step of the Wind|Step of the Wind Technique]], your Speed and Jump increases by 10ft each for each additional Ki spent.
 #### Water Whip
 You can spend 2 Ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a DEX Save. On a failed save, the creature takes 3 Martial Arts Die bludgeoning damage, and you can Pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it.
 #### Wave Crasher
