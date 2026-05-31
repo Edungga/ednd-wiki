@@ -1,0 +1,8 @@
+# Weapons Table
+
+
+
+
+---
+# Weapons Properties
+
