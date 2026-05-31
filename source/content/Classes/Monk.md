@@ -230,7 +230,8 @@ As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move
 #### Wind Cushion
 *Prerequisite: [[Monk#Slow Fall|Slow Fall Technique]]*
 
-When you reduce damage
+When you reduce damage through the [[Monk#Slow Fall|Slow Fall Technique]], the amount reduced is doubled.
+Additionally, you can apply that damage reduction to 
 [[Feather Fall]]
 
 [[Monk#Slow Fall]]
