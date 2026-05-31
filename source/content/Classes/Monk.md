@@ -49,10 +49,9 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 ## Level 2: Mystic Techniques
 Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Ki. You can draw on your Ki to perform supernatural physical feats known as Techniques.
 ### Ki
-- 
-**Ki Points**. Your spiritual power is represented by a pool of Ki, equal to your Monk level + your Wisdom modifier (a minimum of 0). 
-**Spending Ki**. You can only expend Ki on one feature or Technique per attack, ability check, reaction, or saving throw.
-**Regaining Ki**. You regain all expended Ki, when you finish a Short or Long Rest.
+- **Ki Points**. Your spiritual power is represented by a pool of Ki, equal to your Monk level + your Wisdom modifier (min 1). 
+- **Spending Ki**. You can only expend Ki on one feature or Technique per attack, ability check, reaction, or saving throw unless otherwise stated.
+- **Regaining Ki**. You regain all expended Ki, when you finish a Short or Long Rest.
 ### Techniques Known
 You know three [[Monk#Mystic Techniques|Mystic Techniques]]. To learn a Technique you must meet any prerequisites it has. Whenever you gain a Monk level, you can replace one Technique you know with another.
 
@@ -126,7 +125,7 @@ You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long R
 ---
 # Mystic Techniques
 You Monk abilities fuelled by [[Monk#Ki|Ki]]
-## Basic Forms
+## Basic Techniques
 ### Grade 1
 *Prerequisite: N/A*
 #### Arresting Strike
@@ -187,7 +186,7 @@ When you hit a creature with a melee Monk Weapon attack, you can spend 1 Ki to s
 
 
 
-## Elemental Ki Forms
+## Elemental Ki Techniques
 *Prerequisite: [[Monk#Way of the Elements|Way of the Elements]]*
 ### Grade 1
 *Prerequisite: N/A*
