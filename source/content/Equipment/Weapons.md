@@ -1,22 +1,31 @@
 # Simple Melee Weapons
 <!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
-WHERE contains(tags, "Simple-Weapon")
+WHERE contains(tags, "Simple-Melee-Weapon")
 SORT Cost
 -->
-<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Simple-Weapon") SORT Cost -->
+<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Simple-Melee-Weapon") SORT Cost -->
 
 | File | Damage | Weapon Mastery | Weapon Property | Cost |
 | ---- | ------ | -------------- | --------------- | ---- |
 
 <!-- SerializedQuery END -->
 # Simple Ranged Weapons
-
-# Martial Melee Weapons
 <!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
-WHERE contains(tags, "Martial-Weapon")
+WHERE contains(tags, "Simple-Ranged-Weapon")
 SORT Cost
 -->
-<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Martial-Weapon") SORT Cost -->
+<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Simple-Ranged-Weapon") SORT Cost -->
+
+| File | Damage | Weapon Mastery | Weapon Property | Cost |
+| ---- | ------ | -------------- | --------------- | ---- |
+
+<!-- SerializedQuery END -->
+# Martial Melee Weapons
+<!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
+WHERE contains(tags, "Martial-Melee-Weapon")
+SORT Cost
+-->
+<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Martial-Melee-Weapon") SORT Cost -->
 
 | File                                  | Damage       | Weapon Mastery                                            | Weapon Property                                     | Cost  |
 | ------------------------------------- | ------------ | --------------------------------------------------------- | --------------------------------------------------- | ----- |
