@@ -153,7 +153,9 @@ You can take the Disengage action as a Bonus Action. Alternatively, you can expe
 #### Slow Fall
 You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 #### Step of the Wind
-You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Ki Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+You can take the Dash action as a Bonus Action. 
+
+Alternatively, you can expend 1 Ki Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 #### Typhoon Strike
 As an action, you can spend 1 Ki strike out at every creature near you. All creatures within reach of a Monk Weapon you are wielding must succeed on a Dexterity saving throw or take damage of your attack's type equal to your Martial Arts Die + your Dexterity modifier.
 #### Uncanny Metabolism
@@ -170,7 +172,7 @@ As a Bonus Action you can spend 1 Ki to conjure astral arms that burst out from 
 #### Gentling Touch
 Once per turn in place of an attack, you can expend 1 Ki to touch a creature and manipulate its Ki to put it to sleep. Roll five Martial Arts Dice. If the target's remaining hit points are less than or equal to the total roll, it falls [[Conditions#Unconscious (Condition)|Unconscious (Condition)]] for 10 minutes. The creature wakes up if another creature uses its action to wake it, or if it takes any damage.
 
-**Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
+**Empower**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
 #### Rage Fist
 Spend 1 Ki to perform the [[Monk#Flurry of Blows|Flurry of Blows]] technique against a single target. Your future Rage Fist techniques against that target deal PB additional points of damage (this stacks).
 #### Seeking Strike
@@ -219,7 +221,7 @@ As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must ma
 #### True Step of Wind
 *Prerequisite: [[Monk#Step of the Wind|Step of the Wind Technique]]*
 
-When you use the [[Monk#Step of the Wind|Step of the Wind Technique]], you do not need to spend the a
+When you use the [[Monk#Step of the Wind|Step of the Wind Technique]], and spend the Additional Ki to Empower it
 
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 
