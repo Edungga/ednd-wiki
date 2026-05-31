@@ -1,5 +1,4 @@
 # Light Armour
-
 <!-- QueryToSerialize: table ac-bonus AS "AC Bonus", armour-stealth AS "Armour Stealth", Cost
 WHERE contains(tags, "Light-Armour")
 SORT ac-bonus
@@ -47,18 +46,17 @@ SORT ac-bonus
 
 <!-- SerializedQuery END -->
 
-
 # Shields
-
 <!-- QueryToSerialize: table ac-bonus AS "AC Bonus", str-requirement AS "STR requirement", Cost
 WHERE contains(tags, "Shield")
 SORT ac-bonus
 -->
 <!-- SerializedQuery: table ac-bonus AS "AC Bonus", str-requirement AS "STR requirement", Cost WHERE contains(tags, "Shield") SORT ac-bonus -->
 
-| File                                                               | AC Bonus | STR requirement | Cost  |
-| ------------------------------------------------------------------ | -------- | --------------- | ----- |
-| [[Standard Shield]] | +2       | \-              | 10 GP |
+| File                                                               | AC Bonus | STR requirement                                                                      | Cost   |
+| ------------------------------------------------------------------ | -------- | ------------------------------------------------------------------------------------ | ------ |
+| [[Standard Shield]] | +2       | \-                                                                                   | 10 GP  |
+| [[Tower Shield]]       | +3       | If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet. | 150 GP |
 
 <!-- SerializedQuery END -->
 
