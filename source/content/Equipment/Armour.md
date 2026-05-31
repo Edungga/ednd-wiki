@@ -1,3 +1,7 @@
+Light Armor (1 Minute to Don or Doff)
+Medium Armor (5 Minutes to Don and 1 Minute to Doff)
+Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)
+Shield (Utilize Action to Don or Doff)
 # Light Armour
 <!-- QueryToSerialize: table ac-bonus AS "AC Bonus", armour-stealth AS "Armour Stealth", Cost
 WHERE contains(tags, "Light-Armour")
