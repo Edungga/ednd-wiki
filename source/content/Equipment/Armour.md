@@ -31,10 +31,21 @@ SORT ac-bonus
 
 <!-- SerializedQuery END -->
 
-
-
 # Heavy Armour
+<!-- QueryToSerialize: table ac-bonus AS "AC Bonus", str-requirement, armour-stealth AS "Armour Stealth", Cost
+WHERE contains(tags, "Heavy-Armour")
+SORT ac-bonus
+-->
+<!-- SerializedQuery: table ac-bonus AS "AC Bonus", str-requirements, armour-stealth AS "Armour Stealth", Cost WHERE contains(tags, "Heavy-Armour") SORT ac-bonus -->
 
+| File                                                           | AC Bonus | str-requirements | Armour Stealth | Cost    |
+| -------------------------------------------------------------- | -------- | ---------------- | -------------- | ------- |
+| [[Ring Mail]]         | AC 14    | \-               | Disadvantage   | 30 GP   |
+| [[Chain Mail]]       | AC 16    | \-               | Disadvantage   | 75 GP   |
+| [[Splint Armour]] | AC 17    | \-               | Disadvantage   | 200 GP  |
+| [[Plate Armour]]   | AC 18    | \-               | Disadvantage   | 1500 GP |
+
+<!-- SerializedQuery END -->
 
 
 # Shields
