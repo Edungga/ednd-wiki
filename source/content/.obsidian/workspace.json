@@ -35,7 +35,8 @@
               "title": "Weapons"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,11 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "604bb18e7bce8990",
+  "active": "809142647c4da8d9",
   "lastOpenFiles": [
+    "Equipment/Blowgun.md",
     "Equipment/Weapons.md",
     "Equipment/Battleaxe.md",
-    "Equipment/Blowgun.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour.md",

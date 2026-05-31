@@ -33,7 +33,17 @@ SORT Cost
 
 <!-- SerializedQuery END -->
 # Martial Ranged Weapons
+<!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
+WHERE contains(tags, "Martial-Ranged-Weapon")
+SORT Cost
+-->
+<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Martial-Ranged-Weapon") SORT Cost -->
 
+| File                              | Damage     | Weapon Mastery                                      | Weapon Property                                                                                     | Cost  |
+| --------------------------------- | ---------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----- |
+| [[Blowgun]] | 1 Piercing | [[Weapon Mastery Properties.md#Vex\|Vex]] | [[Weapons#Range\|Range (25/100)]], [[Weapons#Ammunition\|Ammunition]], [[Weapons#Loading\|Loading]] | 10 GP |
+
+<!-- SerializedQuery END -->
 
 ---
 # Weapons Properties
