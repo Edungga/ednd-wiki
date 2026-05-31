@@ -49,6 +49,7 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 ## Level 2: Mystic Techniques
 Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Ki. You can draw on your Ki to perform supernatural physical feats known as Techniques.
 ### Ki
+- 
 **Ki Points**. Your spiritual power is represented by a pool of Ki, equal to your Monk level + your Wisdom modifier (a minimum of 0). 
 **Spending Ki**. You can only expend Ki on one feature or Technique per attack, ability check, reaction, or saving throw.
 **Regaining Ki**. You regain all expended Ki, when you finish a Short or Long Rest.
@@ -217,6 +218,8 @@ Creatures and flammable objects in the Cone that aren't being worn or carried st
 #### Tremor
 As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must make a STR Save. On a failed save they take 2 Martial Arts Die Bludgeoning Damage and are [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. Half damage on a success and are not [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. 
 ### True Step of Wind
+*Prerequisite: [[Monk#Step of the Wind|Step of the Wind]]*
+
 
 #### Water Whip
 You can spend 2 Ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a DEX Save. On a failed save, the creature takes 3 Martial Arts Die bludgeoning damage, and you can Pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it.
