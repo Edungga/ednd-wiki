@@ -173,7 +173,7 @@ As a Bonus Action you can spend 1 Ki to conjure astral arms that burst out from 
 #### Gentling Touch
 Once per turn in place of an attack, you can expend 1 Ki to touch a creature and manipulate its Ki to put it to sleep. Roll five Martial Arts Dice. If the target's remaining hit points are less than or equal to the total roll, it falls [[Conditions#Unconscious (Condition)|Unconscious (Condition)]] for 10 minutes. The creature wakes up if another creature uses its action to wake it, or if it takes any damage.
 
-**Empower**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die and adding it to the total for each additional Ki spent.
+**Exalt**. Deals an additional Martial Arts Die damage for each additional Ki spent.
 #### Rage Fist
 Spend 1 Ki to perform the [[Monk#Flurry of Blows|Flurry of Blows]] technique against a single target. Your future Rage Fist techniques against that target deal PB additional points of damage (this stacks).
 #### Seeking Strike
@@ -206,7 +206,7 @@ When you use the Attack action on your turn, you can spend 1 ki point to cause t
 #### Fist of Unbroken Air
 You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 1 Ki point and choose a creature within 30 feet of you. That creature must make a STR Save. On a failed save, the creature takes 3 Martial Arts Die bludgeoning damage and you can push the creature up to 20 feet away from you and knock it [[Conditions#Prone (Condition)|Prone (Condition)]]. On a successful save, the creature takes half as much damage, and you don't push it or knock it prone.
 
-**Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die damage for each additional Ki spent.
+**Exalt**. Deals an additional Martial Arts Die damage for each additional Ki spent.
 #### Ice Shard
 As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage. Any creatures within 5ft of the target must succeed WIS Saves or take a Martial Arts Die Cold Damage.
 #### Raise Earth
@@ -216,16 +216,15 @@ You can focus your Ki into a thin sheet of flame that shoots forth from you. As 
 
 Creatures and flammable objects in the Cone that aren't being worn or carried start [[Burning]].
 
-**Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die damage for each additional Ki spent.
+**Exalt**. Deals an additional Martial Arts Die damage for each additional Ki spent.
 #### Tremor
 As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must make a STR Save. On a failed save they take 2 Martial Arts Die Bludgeoning Damage and are [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. Half damage on a success and are not [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. 
 #### True Step of Wind
 *Prerequisite: [[Monk#Step of the Wind|Step of the Wind Technique]]*
 
-When you use the [[Monk#Step of the Wind|Step of the Wind Technique]], and spend the Additional Ki to Empower it
+When you exalt the [[Monk#Step of the Wind|Step of the Wind Technique]], and spend the Additional Ki to Empower it
 
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
-
 #### Water Whip
 You can spend 2 Ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a DEX Save. On a failed save, the creature takes 3 Martial Arts Die bludgeoning damage, and you can Pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it.
 #### Wave Crasher
@@ -238,6 +237,8 @@ As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move
 *Prerequisite: N/A*
 #### Conjured Shuriken
 As an Action, spend 1 Ki Point to throw a shuriken of solid Ki towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Force Damage.
+
+**Exalt**. Deals an additional Martial Arts Die damage for each additional Ki spent.
 #### Darkness
 As an Action you can expend 1 Ki Point to cast the [[Darkness]] spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of Darkness to a space within 60 feet of yourself at the start of each of your turns.
 #### Darkvision
