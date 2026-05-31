@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8628b15abe8707c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Background/Example Character Briefs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Example Character Briefs"
-            }
-          },
-          {
             "id": "604bb18e7bce8990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Wizard.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wizard"
-            }
-          },
-          {
-            "id": "3e3ab784d704ff74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spells/Spells.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spells"
+              "title": "index"
             }
           }
         ]
@@ -199,16 +171,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8628b15abe8707c3",
+  "active": "604bb18e7bce8990",
   "lastOpenFiles": [
+    "Classes/Wizard.md",
     "Spells/Spells.md",
+    "Background/Example Character Briefs.md",
     "Spells/Primal Spell List.md",
     "Spells/Divine Spell List.md",
     "Spells/Arcane Spell List.md",
     "index.md",
     "Spells/Spells.base",
-    "Background/Example Character Briefs.md",
-    "Classes/Wizard.md",
     "Classes/Ranger.md",
     "Spells/Cantrips/Blade Ward.md",
     "Classes/Illrigger.md",
