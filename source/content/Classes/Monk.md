@@ -91,7 +91,7 @@ As an action, you can expend 1 Ki Point to touch a creature and restore a number
 ## Way of the Elements
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
 ### Level 3: Elemental Manipulation
-You know two [[Monk#Grade 1|Grade 1 Elemental Ki Forms]]. At the end of a Long Rest you can change any of these known forms for other Elemental Ki Forms of a Grade you can know. 
+You know two [[Monk#Grade 1|Grade 1 Elemental Ki Techniques]]. At the end of a Long Rest you can change any of these known forms for other Elemental Ki Forms of a Grade you can know. 
 
 Additionally. you know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, they all count as [[#Forms|Forms]] for you.
 
@@ -126,7 +126,7 @@ You know three [[Monk#Grade 1|Grade 1 Shadows Ki Forms]]. At the end of a Long R
 # Mystic Techniques
 You Monk abilities fuelled by [[Monk#Ki|Ki]]
 ## Basic Techniques
-### Grade 1
+### Basic Techniques - Grade 1
 *Prerequisite: N/A*
 #### Arresting Strike
 Once per turn when you hit a creature with a Monk Weapon attack, you can spend 1 Ki to stunt its mobility and force it to make a Dexterity saving throw. On a failed save, its speed is reduced to zero until the beginning of your next turn.
@@ -161,7 +161,7 @@ When you roll Initiative, you can regain all expended Ki. When you do so, roll y
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
 
-### Grade 2
+### Basic Techniques - Grade 2
 *Prerequisite: Monk Level 5*
 #### Astral Arms
 As a Bonus Action you can spend 1 Ki to conjure astral arms that burst out from you. Each enemy within 10ft of you. must make a DEX save or take Force Damage equal to a Martial Arts Die + WIS modifier on a fail, half Damage on a success.
@@ -186,9 +186,9 @@ When you hit a creature with a melee Monk Weapon attack, you can spend 1 Ki to s
 
 
 
-## Elemental Ki Techniques
+## Elemental Techniques
 *Prerequisite: [[Monk#Way of the Elements|Way of the Elements]]*
-### Grade 1
+### Elemental Techniques - Grade 1
 *Prerequisite: N/A*
 #### Boulder Toss
 As an Action, you can spend 1 Ki point to launch a large rock towards a creature you can see within 30ft, make a Ranged Attack against the target. On a hit, it takes 2 Martial Arts Die + WIS modifier Bludgeoning Damage.
