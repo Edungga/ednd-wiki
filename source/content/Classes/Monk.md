@@ -145,15 +145,15 @@ Creatures that are at least one size larger than you have advantage on this Stre
 #### Front Lotus
 Each time a creature starts its turn [[Conditions#Grappled (Condition)|Grappled (Condition)]] by you it takes bludgeoning damage equal to your Martial Arts Die. You can also drag Grappled creatures up to your full speed.
 #### Flurry of Blows
-You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
+You can expend 1 Ki Point to make two Unarmed Strikes as a Bonus Action.
 #### Improvised Strikes
 You are adept at fighting with whatever is at hand. You gain proficiency with improvised weapons, and your attacks with improvised weapons count as Monk Weapons.
 #### Patient Defense
-You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
+You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Ki Point to take both the Disengage and the Dodge actions as a Bonus Action.
 #### Slow Fall
 You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 #### Step of the Wind
-You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Ki Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 #### Typhoon Strike
 As an action, you can spend 1 Ki strike out at every creature near you. All creatures within reach of a Monk Weapon you are wielding must succeed on a Dexterity saving throw or take damage of your attack's type equal to your Martial Arts Die + your Dexterity modifier.
 #### Uncanny Metabolism
@@ -219,7 +219,7 @@ As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must ma
 #### True Step of Wind
 *Prerequisite: [[Monk#Step of the Wind|Step of the Wind Technique]]*
 
-When you use the Step
+When you use the [[Monk#Step of the Wind|Step of the Wind Technique]], 
 
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 
