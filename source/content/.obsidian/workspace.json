@@ -11,14 +11,13 @@
             "id": "604bb18e7bce8990",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Equipment/Armour.md",
-                "mode": "source",
-                "source": false
+                "file": "Equipment/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Armour"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -173,8 +172,10 @@
   },
   "active": "604bb18e7bce8990",
   "lastOpenFiles": [
-    "Equipment/Weapons.md",
     "Equipment/Armour.md",
+    "Equipment/Untitled.base",
+    "Equipment/Untitled.md",
+    "Equipment/Weapons.md",
     "index.md",
     "Equipments",
     "Classes/Wizard.md",
@@ -199,15 +200,12 @@
     "The Setting/Organisations & Factions/The Hollow Court.md",
     "The Setting/Organisations & Factions/The Mountain Kingdom.md",
     "The Setting/Organisations & Factions/The Troll King's Bandits.md",
-    "The Setting/Organisations & Factions/The Nobility of the Vale.md",
-    "The Setting/Organisations & Factions/The Bone Keepers.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",
     "The Setting/Locations/The Gloamwood",
     "The Setting/Locations/The Crown of Crows",
     "The Setting/Locations/The Ashen Hills",
-    "The Setting/Organisations & Factions",
-    "The Setting/Locations"
+    "The Setting/Organisations & Factions"
   ]
 }
