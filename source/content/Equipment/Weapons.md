@@ -12,15 +12,15 @@ SORT Cost
 # Simple Ranged Weapons
 
 # Martial Melee Weapons
-<!-- QueryToSerialize: table Damage, weapon-mastery, weapon-property, Cost
+<!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
 WHERE contains(tags, "Martial-Weapon")
 SORT Cost
 -->
-<!-- SerializedQuery: table Damage, weapon-mastery, weapon-property, Cost WHERE contains(tags, "Martial-Weapon") SORT Cost -->
+<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Mastery", Cost WHERE contains(tags, "Martial-Weapon") SORT Cost -->
 
-| File                                  | Damage       | weapon-mastery                                            | weapon-property                          | Cost  |
-| ------------------------------------- | ------------ | --------------------------------------------------------- | ---------------------------------------- | ----- |
-| [[Battleaxe]] | 1d8 Slashing | [[Weapon Mastery Properties.md#Topple\|Topple]] | [[Weapons#Versatile\|Versatile]] (d10)]] | 10 GP |
+| File                                  | Damage       | Weapon Mastery                                      | Weapon Mastery                                      | Cost  |
+| ------------------------------------- | ------------ | --------------------------------------------------- | --------------------------------------------------- | ----- |
+| [[Battleaxe]] | 1d8 Slashing | [[Weapons.md#Versatile\|Versatile (d10)]] | [[Weapons.md#Versatile\|Versatile (d10)]] | 10 GP |
 
 <!-- SerializedQuery END -->
 # Martial Ranged Weapons
