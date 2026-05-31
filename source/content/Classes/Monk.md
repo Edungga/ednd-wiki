@@ -231,10 +231,8 @@ As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move
 *Prerequisite: [[Monk#Slow Fall|Slow Fall Technique]]*
 
 When you reduce damage through the [[Monk#Slow Fall|Slow Fall Technique]], the amount reduced is doubled.
-Additionally, you can apply that damage reduction to 
-[[Feather Fall]]
+Additionally, you can apply that damage reduction to any number of creatures within 15ft of you.
 
-[[Monk#Slow Fall]]
 
 ## Shadow Techniques
 *Prerequisite: [[Monk#Way of the Shadow|Way of the Shadow]]*
