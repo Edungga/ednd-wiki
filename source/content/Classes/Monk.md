@@ -219,7 +219,7 @@ As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must ma
 #### True Step of Wind
 *Prerequisite: [[Monk#Step of the Wind|Step of the Wind Technique]]*
 
-When you use the [[Monk#Step of the Wind|Step of the Wind Technique]], 
+When you use the [[Monk#Step of the Wind|Step of the Wind Technique]], you do not need to spend the a
 
 You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 
