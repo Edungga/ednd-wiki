@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Chain Mail.md",
+                "file": "Equipment/Chain Shirt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chain Mail"
+              "title": "Chain Shirt"
             }
           }
         ]
@@ -173,10 +173,11 @@
   },
   "active": "604bb18e7bce8990",
   "lastOpenFiles": [
+    "Equipment/Chain Mail.md",
+    "Equipment/Chain Shirt.md",
     "Equipment/Armour.md",
     "Equipment/Weapons & Armour/Standard Shield.md",
     "Equipment/Weapons & Armour/Breastplate.md",
-    "Equipment/Chain Mail.md",
     "Equipment/Padded Armour.md",
     "Equipment/Items.base",
     "Equipment/Weapons & Armour",
@@ -202,7 +203,6 @@
     "The Setting/Organisations & Factions/Sailors Union.md",
     "The Setting/Organisations & Factions/The Tidebound Grove.md",
     "The Setting/Organisations & Factions/The Auric Houses.md",
-    "The Setting/Organisations & Factions/The Hollow Court.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",
