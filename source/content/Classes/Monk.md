@@ -208,6 +208,11 @@ As an Action, spend 1 Ki point to launch a shard of ice towards a creature you c
 As a Bonus Action, you can spend 1 Ki Point to Raise of Boulder out of the ground in an unoccupied space you can see within 30ft. The boulder occupied that space and acts as Half Cover for Medium or Smaller Creatures.
 #### Sweeping Cinder Strike
 You can spend 2 Ki Points to cast [[Burning Hands]] as a Ki Form.
+A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking 3d6 Fire damage on a failed save or half as much damage on a successful one.
+
+Flammable objects in the Cone that aren't being worn or carried start [[Burning]].
+
+
 #### Tremor
 As an Action, spend 1 Ki Point to cause all creatures within 10ft of you must make a STR Save. On a failed save they take 2 Martial Arts Die Bludgeoning Damage and are [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. Half damage on a success and are not [[Conditions#Slowed (Debuff)|Slowed (Debuff)]]. 
 #### Water Whip
