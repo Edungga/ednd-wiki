@@ -91,9 +91,9 @@ As an action, you can expend 1 Ki Point to touch a creature and restore a number
 ## Way of the Elements
 You follow a monastic tradition that teaches you to harness Elemental Chaos. When you focus your Ki, you can align yourself with the forces of creation and bend an element to your will, using it as an extension of your body.
 ### Level 3: Elemental Manipulation
-You know two [[Monk#Elemental Techniques - Grade 1|Grade 1 Elemental Ki Techniques]]. At the end of a Long Rest you can change any of these known forms for other Elemental Ki Forms of a Grade you can know. 
+You know two [[Monk#Elemental Techniques - Grade 1|Grade 1 Elemental Techniques]]. 
 
-Additionally. you know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, they all count as [[#Forms|Forms]] for you.
+Additionally. you know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, which all count as [[Monk#Mystic Techniques|Mystic Techniques]] for you that cost no Ki points to use.
 
 
 ## Way of the Drunken Master
