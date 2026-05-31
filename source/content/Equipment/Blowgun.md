@@ -5,6 +5,5 @@ tags:
 Cost: 10 GP
 Damage: 1 Piercing
 Weapon Mastery: "[[Weapon Mastery Properties#Vex|Vex]]"
-Weapon Property: "[[Weapons#Range|Range (25/100)]]"
+Weapon Property: "[[Weapons#Range|Range (25/100)]], [[Weapons#Ammunition|Ammunition]], [[Weapons#Loading|Loading]]"
 ---
-[[Weapons#Ammunition]]
