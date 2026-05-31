@@ -3,6 +3,6 @@ tags:
   - Item
   - Heavy-Armour
 Cost: 75 GP
-AC Bonus: AC 14 + Dex (max 2)
-Armour Stealth:
+AC Bonus: AC 16
+Armour Stealth: Disadvantage
 ---
