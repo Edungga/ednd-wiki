@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Plate Armour.md",
+                "file": "Equipment/Scale Mail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plate Armour"
+              "title": "Scale Mail"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "604bb18e7bce8990",
   "lastOpenFiles": [
-    "Equipment/Padded Armour.md",
+    "Equipment/Ring Mail.md",
+    "Equipment/Scale Mail.md",
     "Equipment/Plate Armour.md",
+    "Equipment/Padded Armour.md",
     "Equipment/Weapons & Armour/Leather Armour.md",
     "Equipment/Hide Armour.md",
     "Equipment/Weapons & Armour/Half Plate Armour.md",
@@ -201,8 +203,6 @@
     "Classes/Bloodhunter.md",
     "The Setting/Organisations & Factions/The Order Arcanum Exterminatus.md",
     "The Setting/The Shrouded Realm of Callitè.md",
-    "Classes/Paladin.md",
-    "The Setting/Organisations & Factions/The Talon.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",
