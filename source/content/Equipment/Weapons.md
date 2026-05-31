@@ -12,8 +12,18 @@ SORT Cost
 # Simple Ranged Weapons
 
 # Martial Melee Weapons
+<!-- QueryToSerialize: table ac-bonus AS "AC Bonus", armour-stealth AS "Armour Stealth", Cost
+WHERE contains(tags, "Martial-Weapon")
+SORT Cost
+-->
+<!-- SerializedQuery: table ac-bonus AS "AC Bonus", armour-stealth AS "Armour Stealth", Cost WHERE contains(tags, "Martial-Weapon") SORT Cost -->
 
-#  Martial Ranged Weapons
+| File                                  | AC Bonus | Armour Stealth | Cost  |
+| ------------------------------------- | -------- | -------------- | ----- |
+| [[Battleaxe]] | \-       | \-             | 10 GP |
+
+<!-- SerializedQuery END -->
+# Martial Ranged Weapons
 
 
 ---
