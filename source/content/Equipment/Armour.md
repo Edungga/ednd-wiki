@@ -32,18 +32,18 @@ SORT ac-bonus
 <!-- SerializedQuery END -->
 
 # Heavy Armour
-<!-- QueryToSerialize: table ac-bonus AS "AC Bonus", str-requirement, armour-stealth AS "Armour Stealth", Cost
+<!-- QueryToSerialize: table ac-bonus AS "AC Bonus", str-requirement AS "STR requirement", armour-stealth AS "Armour Stealth", Cost
 WHERE contains(tags, "Heavy-Armour")
 SORT ac-bonus
 -->
-<!-- SerializedQuery: table ac-bonus AS "AC Bonus", str-requirements, armour-stealth AS "Armour Stealth", Cost WHERE contains(tags, "Heavy-Armour") SORT ac-bonus -->
+<!-- SerializedQuery: table ac-bonus AS "AC Bonus", str-requirement AS "STR requirement", armour-stealth AS "Armour Stealth", Cost WHERE contains(tags, "Heavy-Armour") SORT ac-bonus -->
 
-| File                                                           | AC Bonus | str-requirements | Armour Stealth | Cost    |
-| -------------------------------------------------------------- | -------- | ---------------- | -------------- | ------- |
-| [[Ring Mail]]         | AC 14    | \-               | Disadvantage   | 30 GP   |
-| [[Chain Mail]]       | AC 16    | \-               | Disadvantage   | 75 GP   |
-| [[Splint Armour]] | AC 17    | \-               | Disadvantage   | 200 GP  |
-| [[Plate Armour]]   | AC 18    | \-               | Disadvantage   | 1500 GP |
+| File                                                           | AC Bonus | STR requirement                                                                      | Armour Stealth | Cost    |
+| -------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ | -------------- | ------- |
+| [[Ring Mail]]         | AC 14    | \-                                                                                   | Disadvantage   | 30 GP   |
+| [[Chain Mail]]       | AC 16    | If the wearer has a Strength score lower than 13, their speed is reduced by 10 feet. | Disadvantage   | 75 GP   |
+| [[Splint Armour]] | AC 17    | If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet. | Disadvantage   | 200 GP  |
+| [[Plate Armour]]   | AC 18    | If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet. | Disadvantage   | 1500 GP |
 
 <!-- SerializedQuery END -->
 
