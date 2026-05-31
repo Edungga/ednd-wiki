@@ -51,7 +51,7 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 ### Ki
 - **Ki Points**. Your spiritual power is represented by a pool of Ki, equal to your Monk level + your Wisdom modifier (min 1). 
 - **Spending Ki**. You can only expend Ki on one feature or Technique per attack, ability check, reaction, or saving throw unless otherwise stated.
-- Exalting. Some [[Monk#Mystic Techniques|Mystic Techniques]] have the option to be further 
+- Exalting. Some [[Monk#Mystic Techniques|Mystic Techniques]] have an exalt option which allows you to spend additional Ki on it () to gain certain benefits.
 - **Regaining Ki**. You regain all expended Ki, when you finish a Short or Long Rest.
 ### Techniques Known
 You know three [[Monk#Mystic Techniques|Mystic Techniques]]. To learn a Technique you must meet any prerequisites it has. Whenever you gain a Monk level, you can replace one Technique you know with another.
