@@ -201,6 +201,7 @@ When you use this Form, or as an Action on a later turn, you can hurl the flame 
 When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by 10 feet for that action, as well as the rest of the turn. A hit with such an attack deals fire damage instead of bludgeoning damage, and if you spend 1 ki point when the attack hits, it also deals an extra 1d10 fire damage.
 ### Fist of Unbroken Air
 You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 1 Ki point and choose a creature within 30 feet of you. That creature must make a STR Save. On a failed save, the creature takes 3 Martial Arts Die bludgeoning damage and you can push the creature up to 20 feet away from you and knock it [[Conditions#Prone (Condition)|Prone (Condition)]]. On a successful save, the creature takes half as much damage, and you don't push it or knock it prone.
+
 **Enhancement**. Spend additional Ki (up to your Wisdom modifier) to empower this Technique, rolling an additional Martial Arts Die damage for each additional Ki spent.
 #### Ice Shard
 As an Action, spend 1 Ki point to launch a shard of ice towards a creature you can see within 60ft, make a Ranged Attack against the target. On a hit, it takes a Martial Arts Die + WIS modifier Cold Damage. Any creatures within 5ft of the target must succeed WIS Saves or take a Martial Arts Die Cold Damage.
@@ -208,9 +209,10 @@ As an Action, spend 1 Ki point to launch a shard of ice towards a creature you c
 As a Bonus Action, you can spend 1 Ki Point to Raise of Boulder out of the ground in an unoccupied space you can see within 30ft. The boulder occupied that space and acts as Half Cover for Medium or Smaller Creatures.
 #### Sweeping Cinder Strike
 You can spend 2 Ki Points to cast [[Burning Hands]] as a Ki Form.
-A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking 3d6 Fire damage on a failed save or half as much damage on a successful one.
 
-Flammable objects in the Cone that aren't being worn or carried start [[Burning]].
+You can focus your Ki into a thin sheet of flame that shoots forth from you. As an Action, spend 2 Ki and force each creature in a 15-foot Cone makes a DEX Save, taking 3 Martial Arts Die Fire damage on a failed save or half as much damage on a successful one.
+
+Creatures and flammable objects in the Cone that aren't being worn or carried start [[Burning]].
 
 
 #### Tremor
