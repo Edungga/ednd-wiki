@@ -12,15 +12,15 @@ SORT Cost
 # Simple Ranged Weapons
 
 # Martial Melee Weapons
-<!-- QueryToSerialize: table ac-bonus AS "AC Bonus", armour-stealth AS "Armour Stealth", Cost
+<!-- QueryToSerialize: table Damage, weapon-mastery, weapon-property, Cost
 WHERE contains(tags, "Martial-Weapon")
 SORT Cost
 -->
-<!-- SerializedQuery: table ac-bonus AS "AC Bonus", armour-stealth AS "Armour Stealth", Cost WHERE contains(tags, "Martial-Weapon") SORT Cost -->
+<!-- SerializedQuery: table Damage, weapon-mastery, weapon-property, Cost WHERE contains(tags, "Martial-Weapon") SORT Cost -->
 
-| File                                  | AC Bonus | Armour Stealth | Cost  |
-| ------------------------------------- | -------- | -------------- | ----- |
-| [[Battleaxe]] | \-       | \-             | 10 GP |
+| File                                  | Damage       | weapon-mastery                                            | weapon-property                          | Cost  |
+| ------------------------------------- | ------------ | --------------------------------------------------------- | ---------------------------------------- | ----- |
+| [[Battleaxe]] | 1d8 Slashing | [[Weapon Mastery Properties.md#Topple\|Topple]] | [[Weapons#Versatile\|Versatile]] (d10)]] | 10 GP |
 
 <!-- SerializedQuery END -->
 # Martial Ranged Weapons
