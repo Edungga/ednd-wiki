@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Chain Shirt.md",
+                "file": "Equipment/Hide Armour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chain Shirt"
+              "title": "Hide Armour"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "604bb18e7bce8990",
   "lastOpenFiles": [
-    "Equipment/Chain Mail.md",
+    "Equipment/Half Plate Armour.md",
+    "Equipment/Hide Armour.md",
     "Equipment/Chain Shirt.md",
+    "Equipment/Chain Mail.md",
     "Equipment/Armour.md",
     "Equipment/Weapons & Armour/Standard Shield.md",
     "Equipment/Weapons & Armour/Breastplate.md",
@@ -201,8 +203,6 @@
     "The Setting/Organisations & Factions/The Talon.md",
     "The Setting/Organisations & Factions/Children of Colossus.md",
     "The Setting/Organisations & Factions/Sailors Union.md",
-    "The Setting/Organisations & Factions/The Tidebound Grove.md",
-    "The Setting/Organisations & Factions/The Auric Houses.md",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
     "The Setting/Locations/The Mirelands",
