@@ -228,6 +228,9 @@ You can spend 2 Ki points as an action to create a whip of water that shoves and
 #### Wave Crasher
 As a Bonus Action, spend 1 Ki and take the Dash Action during which you can move through a creatures space freely. Any Creature whose space you move through must make STR Save or be knocked [[Conditions#Prone (Condition)|Prone (Condition)]].
 #### Wind Cushion
+*Prerequisite: [[Monk#Slow Fall|Slow Fall Technique]]*
+
+When you reduce damage
 [[Feather Fall]]
 
 [[Monk#Slow Fall]]
