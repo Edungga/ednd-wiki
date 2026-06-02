@@ -42,23 +42,23 @@ WHERE contains(tags, "Martial-Melee-Weapon")
 | ----------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------ |
 | [[Battleaxe]]                           | 1d8 Slashing    | [[Weapons.md#Versatile\|Versatile (d10)]]                                                     | [[Weapon Mastery Properties.md#Topple\|Topple]] | 10 GP  |
 | [[Double-Bladed Scimitar]] | 2d4 Slashing    | [[Double-Bladed Scimitar\|Special]], [[Weapons#Two-Handed\|Two-Handed]]                                 | [[Weapon Mastery Properties.md#Graze\|Graze]]   | 100 GP |
-| [[Flail]]                                           | 1d8 Bludgeoning | \-                                                                                                      | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 10 GP  |
-| [[Glaive]]                                         | 1d10 Slashing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Reach\|Reach]], [[Weapons#Two-Handed\|Two-Handed]]                  | [[Weapon Mastery Properties.md#Graze\|Graze]]   | 20 GP  |
-| [[Halberd]]                                       | 1d10 Slashing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Reach\|Reach]], [[Weapons#Two-Handed\|Two-Handed]]                  | [[Weapon Mastery Properties.md#Cleave\|Cleave]] | 20 GP  |
-| [[Greataxe]]                                     | 1d12 Slashing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                                            | [[Weapon Mastery Properties.md#Cleave\|Cleave]] | 30 GP  |
-| [[Greatsword]]                                 | 2d6 Slashing    | [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                                            | [[Weapon Mastery Properties.md#Graze\|Graze]]   | 50 GP  |
-| [[Lance]]                                           | 1d10 Piercing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Reach\|Reach]], [[Weapons#Two-Handed\|Two-Handed (unless mounted)]] | [[Weapon Mastery Properties.md#Topple\|Topple]] | 10 GP  |
-| [[Longsword]]                                   | 1d10 Slashing   | [[Weapons.md#Versatile\|Versatile (d10)]]                                                     | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 15 GP  |
-| [[Maul]]                                             | 2d6 Bludgeoning | [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                                            | [[Weapon Mastery Properties.md#Topple\|Topple]] | 10 GP  |
-| [[Morningstar]]                               | 1d8 Piercing    | \-                                                                                                      | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 15 GP  |
-| [[Pike]]                                             | 1d10 Piercing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Reach\|Reach]], [[Weapons#Two-Handed\|Two-Handed]]                  | [[Weapon Mastery Properties.md#Push\|Push]]     | 5 GP   |
-| [[Rapier]]                                         | 1d8 Piercing    | [[Weapons.md#Finesse\|Finesse]]                                                               | [[Weapon Mastery Properties.md#Vex\|Vex]]       | 25 GP  |
-| [[Scimitar]]                                     | 1d6 Slashing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Light\|Light]]                                                  | [[Weapon Mastery Properties.md#Nick\|Nick]]     | 25 GP  |
-| [[Shortsword]]                                 | 1d6 Piercing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Light\|Light]]                                                  | [[Weapon Mastery Properties.md#Vex\|Vex]]       | 10 GP  |
-| [[Trident]]                                       | 1d8 Piercing    | [[Weapons#Thrown\|Thrown (Range 20/60)]], [[Weapons#Versatile\|Versatile (d10)]]                        | [[Weapon Mastery Properties.md#Topple\|Topple]] | 5 GP   |
-| [[Warhammer]]                                   | 1d8 Bludgeoning | [[Weapons.md#Versatile\|Versatile (d10)]]                                                     | [[Weapon Mastery Properties.md#Push\|Push]]     | 15 GP  |
-| [[War Pick]]                                     | 1d8 Piercing    | [[Weapons.md#Versatile\|Versatile (d10)]]                                                     | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 5 GP   |
-| [[Whip]]                                             | 1d4 Piercing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Reach\|Reach]]                                                  | [[Weapon Mastery Properties.md#Slow\|Slow]]     | 2 GP   |
+| [[Flail]]                                   | 1d8 Bludgeoning | \-                                                                                                      | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 10 GP  |
+| [[Glaive]]                                 | 1d10 Slashing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Reach\|Reach]], [[Weapons#Two-Handed\|Two-Handed]]                  | [[Weapon Mastery Properties.md#Graze\|Graze]]   | 20 GP  |
+| [[Greataxe]]                             | 1d12 Slashing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                                            | [[Weapon Mastery Properties.md#Cleave\|Cleave]] | 30 GP  |
+| [[Greatsword]]                         | 2d6 Slashing    | [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                                            | [[Weapon Mastery Properties.md#Graze\|Graze]]   | 50 GP  |
+| [[Halberd]]                               | 1d10 Slashing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Reach\|Reach]], [[Weapons#Two-Handed\|Two-Handed]]                  | [[Weapon Mastery Properties.md#Cleave\|Cleave]] | 20 GP  |
+| [[Lance]]                                   | 1d10 Piercing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Reach\|Reach]], [[Weapons#Two-Handed\|Two-Handed (unless mounted)]] | [[Weapon Mastery Properties.md#Topple\|Topple]] | 10 GP  |
+| [[Longsword]]                           | 1d10 Slashing   | [[Weapons.md#Versatile\|Versatile (d10)]]                                                     | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 15 GP  |
+| [[Maul]]                                     | 2d6 Bludgeoning | [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                                            | [[Weapon Mastery Properties.md#Topple\|Topple]] | 10 GP  |
+| [[Morningstar]]                       | 1d8 Piercing    | \-                                                                                                      | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 15 GP  |
+| [[Pike]]                                     | 1d10 Piercing   | [[Weapons#Heavy\|Heavy]], [[Weapons#Reach\|Reach]], [[Weapons#Two-Handed\|Two-Handed]]                  | [[Weapon Mastery Properties.md#Push\|Push]]     | 5 GP   |
+| [[Rapier]]                                 | 1d8 Piercing    | [[Weapons.md#Finesse\|Finesse]]                                                               | [[Weapon Mastery Properties.md#Vex\|Vex]]       | 25 GP  |
+| [[Scimitar]]                             | 1d6 Slashing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Light\|Light]]                                                  | [[Weapon Mastery Properties.md#Nick\|Nick]]     | 25 GP  |
+| [[Shortsword]]                         | 1d6 Piercing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Light\|Light]]                                                  | [[Weapon Mastery Properties.md#Vex\|Vex]]       | 10 GP  |
+| [[Trident]]                               | 1d8 Piercing    | [[Weapons#Thrown\|Thrown (Range 20/60)]], [[Weapons#Versatile\|Versatile (d10)]]                        | [[Weapon Mastery Properties.md#Topple\|Topple]] | 5 GP   |
+| [[War Pick]]                             | 1d8 Piercing    | [[Weapons.md#Versatile\|Versatile (d10)]]                                                     | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 5 GP   |
+| [[Warhammer]]                           | 1d8 Bludgeoning | [[Weapons.md#Versatile\|Versatile (d10)]]                                                     | [[Weapon Mastery Properties.md#Push\|Push]]     | 15 GP  |
+| [[Whip]]                                     | 1d4 Piercing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Reach\|Reach]]                                                  | [[Weapon Mastery Properties.md#Slow\|Slow]]     | 2 GP   |
 
 <!-- SerializedQuery END -->
 # Martial Ranged Weapons
@@ -67,13 +67,13 @@ WHERE contains(tags, "Martial-Ranged-Weapon")
 -->
 <!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Martial-Ranged-Weapon") -->
 
-| File                                                    | Damage        | Weapon Property                                                                                                                       | Weapon Mastery                                        | Cost  |
-| ------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- |
-| [[Blowgun]]               | 1 Piercing    | [[Weapons#Range\|Range (25/100)]], [[Weapons#Ammunition\|Ammunition (Needle)]], [[Weapons#Loading\|Loading]]                          | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 10 GP |
-| [[Hand Crossbow]]   | 1d6 Piercing  | [[Weapons#Range\|Range (30/120)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Light\|Light]], [[Weapons#Loading\|Loading]]  | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 75 GP |
-| [[Heavy Crossbow]] | 1d10 Piercing | [[Weapons#Range\|Range (100/400)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Loading\|Loading]] | [[Weapon Mastery Properties.md#Push\|Push]] | 50 GP |
-| [[Longbow]]               | 1d10 Piercing | [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Loading\|Loading]]                           | [[Weapon Mastery Properties.md#Slow\|Slow]] | 50 GP |
-| [[Greatbow]]             | 1d10 Piercing | [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Loading\|Loading]]                           | [[Weapon Mastery Properties.md#Slow\|Slow]] | 50 GP |
+| File                                                    | Damage        | Weapon Property                                                                                                                                                               | Weapon Mastery                                        | Cost  |
+| ------------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- |
+| [[Blowgun]]               | 1 Piercing    | [[Weapons#Range\|Range (25/100)]], [[Weapons#Ammunition\|Ammunition (Needle)]], [[Weapons#Loading\|Loading]]                                                                  | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 10 GP |
+| [[Hand Crossbow]]   | 1d6 Piercing  | [[Weapons#Range\|Range (30/120)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Light\|Light]], [[Weapons#Loading\|Loading]]                                          | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 75 GP |
+| [[Heavy Crossbow]] | 1d10 Piercing | [[Weapons#Range\|Range (100/400)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Loading\|Loading]], [[Weapons#Two-Handed\|\|Two-Handed\|]] | [[Weapon Mastery Properties.md#Push\|Push]] | 50 GP |
+| [[Longbow]]               | 1d10 Piercing | [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Arrow)]], [[Weapons#Loading\|Loading]], [[Weapons#Two-Handed\|\|Two-Handed\|]]                          | [[Weapon Mastery Properties.md#Slow\|Slow]] | 50 GP |
+| [[Greatbow]]             | 1d10 Piercing | [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Loading\|Loading]]                                                                   | [[Weapon Mastery Properties.md#Slow\|Slow]] | 50 GP |
 
 <!-- SerializedQuery END -->
 
@@ -86,7 +86,7 @@ You can use a weapon that has the Ammunition property to make a ranged attack on
 ## Finesse
 When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 ## Heavy
-You have Disadvantage on attack rolls with a Heavy weapon if it's your Strength score isn't at least 13.
+You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 ## Light 
 When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting Bonus Action]] on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 ## Loading
