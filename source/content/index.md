@@ -47,6 +47,8 @@ We also have some [[index#Home Rules|Home Rules]] to spice things up a bit
 
 Short Rests - 5 minutes but a limit of 2 per Long Rest
 
+[[Heroic Insp]]
+
 [[Concordance]] - beseech a higher power
 
 my own [[Wild Magic Table]]
