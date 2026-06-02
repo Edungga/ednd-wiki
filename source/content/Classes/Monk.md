@@ -31,6 +31,10 @@
 | 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                          |
 |       |                   |              |                  |                     |                                                                                                      |
 |       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
