@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Classes/Monk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Monk"
             }
           }
         ]
@@ -171,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "809142647c4da8d9",
   "lastOpenFiles": [
     "index.md",
     "Rules/Resurrection Rituals.md",
