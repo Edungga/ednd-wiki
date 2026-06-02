@@ -5,7 +5,7 @@
 
 If you accumulate 3 successes before 3 failures, you are Stabilised. If you accumulate 3 failures before 3 successes, you die.
 
-**Auto Fails**. Any time you take damage from a 
+**Auto Fails**. Any time you take damage, you automatically fail a Death Save. If its from an Attack that crits, you fail two Death Saves instead.
 
 **Deaths Door**. You lose Concentration and are Incapacitated
 
