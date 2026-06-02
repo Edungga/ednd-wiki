@@ -372,7 +372,9 @@ You know the [[Minor Illusion]] Cantrip, it counts as a [[Monk#Mystic Techniques
 #### Shadow Step
 While entirely within Dim Light or Darkness, you can use a Bonus Action to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have Advantage on the next melee attack you make before the end of the current turn.
 
+Mind Bend
 
+Cursed Seal
 
 ### Shadow Techniques - Grade 3
 *Prerequisite: Monk Level 11*
