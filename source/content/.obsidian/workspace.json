@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Dart.md",
+                "file": "Equipment/Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dart"
+              "title": "Weapons"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Spear.md",
+                "file": "Equipment/Light Crossbow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spear"
+              "title": "Light Crossbow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,11 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "809142647c4da8d9",
+  "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Weapons.md",
     "Equipment/Dart.md",
-    "Equipment/Spear.md",
+    "Equipment/Light Crossbow.md",
+    "Equipment/Weapons.md",
+    "Equipment/Weapons/Spear.md",
     "Equipment/Weapons/Sickle.md",
     "Equipment/Weapons/Quarterstaff.md",
     "Equipment/Weapons/Mace.md",
@@ -214,7 +216,6 @@
     "SPELL-TEMPLATE.md",
     "Equipment/Armour/Splint Armour.md",
     "Equipment/Armour/Studded Leather Armour.md",
-    "Equipment/Armour/Plate Armour.md",
     "Equipment/Armour",
     "Equipments",
     "Spells/Spells.base",

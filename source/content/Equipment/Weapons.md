@@ -26,8 +26,9 @@ SORT Cost
 -->
 <!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Simple-Ranged-Weapon") SORT Cost -->
 
-| File | Damage | Weapon Property | Weapon Mastery | Cost |
-| ---- | ------ | --------------- | -------------- | ---- |
+| File                        | Damage       | Weapon Property                                                        | Weapon Mastery                                      | Cost |
+| --------------------------- | ------------ | ---------------------------------------------------------------------- | --------------------------------------------------- | ---- |
+| [[Dart]] | 1d4 Piercing | [[Weapons#Finesse\|Finesse]], [[Weapons#Thrown\|Thrown (Range 20/60)]] | [[Weapon Mastery Properties.md#Vex\|Vex]] | 5 CP |
 
 <!-- SerializedQuery END -->
 # Martial Melee Weapons
