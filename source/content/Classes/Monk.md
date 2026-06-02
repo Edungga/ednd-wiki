@@ -118,6 +118,13 @@ Additionally, when completing Short Rests you reduce your Exhaustion [Condition]
 Purity of Mind
 at the end of each of your turns you can remove one debuff from yourself
 
+Level 15: Perfect Focus
+
+
+
+Level 16: Ability Score Improvement
+
+Level 17: Tradition Feature
 
 Level 18: Purity of Soul
 At the start of your turn, you can expend 3 Ki Points to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
