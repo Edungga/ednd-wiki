@@ -115,8 +115,8 @@ Level 10: Purity of Body
 While in Combat, you do not suffer the negative consequences of Exhaustion [Condition] for d20 tests. 
 Additionally, when completing Short Rests you reduce your Exhaustion [Condition] level by 1 and when completing Long Rests you reduce your Exhaustion [Condition] level by 2.
 
-Purity of Mind
-at the end of each of your turns you can remove one debuff from yourself
+Level 14: Purity of Mind
+at the end of each of your turns you can spend 1 Ki point to remove one debuff from yourself
 
 Level 15: Perfect Focus
 
@@ -155,6 +155,9 @@ Patient Defense. When you expend a Focus Point to use Patient Defense, you gain 
 
 Step of the Wind. When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
 
+
+Level 13: Deflect Energy
+You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
 
 ---
 # Monastic Traditions
