@@ -50,6 +50,7 @@ SORT ac-bonus
 
 <!-- SerializedQuery END -->
 If the wearer has a Strength score lower than the STR requirement, their speed is reduced by 10 feet.
+
 # Shields
 <!-- QueryToSerialize: table ac-bonus AS "AC Bonus", str-requirement AS "STR requirement", Cost
 WHERE contains(tags, "Shield")
