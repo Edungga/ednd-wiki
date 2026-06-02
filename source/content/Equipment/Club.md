@@ -1,0 +1,9 @@
+---
+tags:
+  - Item
+  - Martial-Melee-Weapon
+Cost: 10 GP
+Damage: 1d4 Bludgeoning
+Weapon Property: "[[Weapons#Light|Light]]"
+Weapon Mastery: "[[Weapon Mastery Properties#Slow|Slow]]"
+---
