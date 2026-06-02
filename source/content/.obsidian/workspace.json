@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Light Crossbow.md",
+                "file": "Equipment/Shortbow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light Crossbow"
+              "title": "Shortbow"
             }
           }
         ],
@@ -188,9 +188,11 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Dart.md",
     "Equipment/Light Crossbow.md",
+    "Equipment/Shortbow.md",
+    "Equipment/Weapons/Blowgun.md",
     "Equipment/Weapons.md",
+    "Equipment/Dart.md",
     "Equipment/Weapons/Spear.md",
     "Equipment/Weapons/Sickle.md",
     "Equipment/Weapons/Quarterstaff.md",
@@ -201,7 +203,6 @@
     "Equipment/Weapons/Greatclub.md",
     "Equipment/Weapons/Dagger.md",
     "Equipment/Weapons/Club.md",
-    "Equipment/Weapons/Blowgun.md",
     "Equipment/Weapons/Battleaxe.md",
     "Equipment/Armour.md",
     "Classes/Monk.md",
@@ -215,7 +216,6 @@
     "Equipment/Armour/Breastplate.md",
     "SPELL-TEMPLATE.md",
     "Equipment/Armour/Splint Armour.md",
-    "Equipment/Armour/Studded Leather Armour.md",
     "Equipment/Armour",
     "Equipments",
     "Spells/Spells.base",
