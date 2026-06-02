@@ -106,7 +106,7 @@ Level 8: Ability Score Improvement
 
 
 Level 9: Tranquillity 
-Whenever you are forced to make a saving throw, you can expend 1 Ki to add your Wisdom modifier (minimum of +1) to the result of your roll.
+Whenever you are forced to make a saving throw, you can expend 1 Ki to add your Wisdom modifier to the result of your roll.
 
 Level 10: Purity of Body
 While in Combat, you do not suffer the negative consequences of Exhaustion [Condition] for d20 tests. 
@@ -119,10 +119,10 @@ Level 12: Ability Score Improvement
 Level 13: Purity of Mind
 at the end of each of your turns you can spend 1 Ki point to remove one debuff from yourself
 
-Level 14: 
-
-Level 15: Perfect Focus
+Level 14: Perfect Focus
 Whenever you roll initiative, regain expended Ki up to your Wisdom modifier
+
+Level 15: 
 
 Level 16: Ability Score Improvement
 
