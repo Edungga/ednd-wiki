@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Maul.md",
+                "file": "Equipment/Pike.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maul"
+              "title": "Pike"
             }
           }
         ],
@@ -188,8 +188,10 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Greatsword.md",
+    "Equipment/Morningstar.md",
+    "Equipment/Pike.md",
     "Equipment/Maul.md",
+    "Equipment/Greatsword.md",
     "Equipment/Longsword.md",
     "Equipment/Weapons.md",
     "Equipment/Lance.md",
@@ -212,8 +214,6 @@
     "Equipment/Weapons/Javelin.md",
     "Equipment/Weapons/Handaxe.md",
     "Equipment/Weapons/Greatclub.md",
-    "Equipment/Weapons/Dagger.md",
-    "Equipment/Weapons/Club.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
