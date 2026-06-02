@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Greatsword.md",
+                "file": "Equipment/Longsword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greatsword"
+              "title": "Longsword"
             }
           }
         ],
@@ -188,13 +188,15 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Greataxe.md",
-    "Equipment/Greatsword.md",
+    "Equipment/Weapons.md",
+    "Equipment/Longsword.md",
+    "Equipment/Lance.md",
     "Equipment/Halberd.md",
+    "Equipment/Greatsword.md",
+    "Equipment/Greataxe.md",
     "Equipment/Glaive.md",
     "Equipment/Flail.md",
     "Equipment/Weapons/Double-Bladed Scimitar.md",
-    "Equipment/Weapons.md",
     "Equipment/Weapon Mastery Properties.md",
     "Equipment/Weapons/Sling.md",
     "Equipment/Weapons/Shortbow.md",
@@ -212,8 +214,6 @@
     "Equipment/Weapons/Dagger.md",
     "Equipment/Weapons/Club.md",
     "Equipment/Weapons/Battleaxe.md",
-    "Equipment/Armour.md",
-    "Classes/Monk.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
