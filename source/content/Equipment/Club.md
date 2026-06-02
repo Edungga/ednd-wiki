@@ -1,7 +1,7 @@
 ---
 tags:
   - Item
-  - Martial-Melee-Weapon
+  - Simple-Melee-Weapon
 Cost: 10 GP
 Damage: 1d4 Bludgeoning
 Weapon Property: "[[Weapons#Light|Light]]"

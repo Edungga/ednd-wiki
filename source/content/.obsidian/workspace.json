@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Blowgun.md",
+                "file": "Equipment/Club.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blowgun"
+              "title": "Club"
             }
           }
         ],
@@ -202,11 +202,11 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
+    "Equipment/Blowgun.md",
     "Equipment/Battleaxe.md",
     "Equipment/Club.md",
     "Equipment/Armour.md",
     "Equipment/Weapons.md",
-    "Equipment/Blowgun.md",
     "Classes/Monk.md",
     "index.md",
     "Equipment/Weapons",
