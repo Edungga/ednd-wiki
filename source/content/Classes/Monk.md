@@ -231,7 +231,10 @@ Monks of the Way of Shadow follow a tradition that values stealth and subterfuge
 ### Level 3: Shadow Arts
 You know three [[Monk#Shadow Techniques - Grade 1|Grade 1 Shadow Techniques]]. At the end of a Long Rest you can change any of these known forms for other Shadow Ki Forms of a Grade you can know. 
 
+### Level 6: Shadow Adept
 
+
+### Level 6: Shadow 
 
 
 ---
