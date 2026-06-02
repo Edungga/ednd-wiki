@@ -122,7 +122,7 @@ at the end of each of your turns you can spend 1 Ki point to remove one debuff f
 Level 14: 
 
 Level 15: Perfect Focus
-
+Whenever you roll initiative, regain expended Ki upto your Wisdom M
 
 
 Level 16: Ability Score Improvement
@@ -167,8 +167,7 @@ You can now use your Deflect Attacks feature against attacks that deal any damag
 You learn to touch the Ki of other minds so that you understand all spoken Languages. Moreover, any creature that can understand a Language can understand what you say.
 
 15th Level: Timeless Body
-Your Ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water. For every
-    10 years that pass, your body only physically ages 1 year.
+Your Ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water. For every 10 years that pass, your body only physically ages 1 year.
 
 
 
