@@ -22,30 +22,28 @@
 ---
 # Class Features
 
-| Level | Proficiency Bonus | Martial Arts | Techniques Known | Unarmoured Movement | Features                                                                                             |
-| ----- | ----------------- | ------------ | ---------------- | ------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1st   | +2                | 1d6          | -                | –                   | [[Monk#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Monk#Level 1 Martial Arts\|Martial Arts]] |
-| 2nd   | +2                | 1d6          | 3                | +10 ft.             | [[Monk#Level 2 Mystic Techniques\|Mystic Techniques]]                                                |
-| 3rd   | +2                | 1d6          | 4                | +10 ft.             | [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]]                                            |
-| 4th   | +2                | 1d6          | 5                | +10 ft.             | [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                |
-| 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                          |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
-|       |                   |              |                  |                     |                                                                                                      |
+| Level | Proficiency Bonus | Martial Arts       | Techniques Known | Unarmoured Movement | Features                                                                                             |
+| ----- | ----------------- | ------------------ | ---------------- | ------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1st   | +2                | 1d6                | -                | –                   | [[Monk#Level 1 Unarmoured Defence\|Unarmoured Defence]], [[Monk#Level 1 Martial Arts\|Martial Arts]] |
+| 2nd   | +2                | 1d6                | 3                | +10 ft.             | [[Monk#Level 2 Mystic Techniques\|Mystic Techniques]]                                                |
+| 3rd   | +2                | 1d6                | 4                | +10 ft.             | [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]]                                            |
+| 4th   | +2                | 1d6                | 5                | +10 ft.             | [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                |
+| 5th   | +3                | 1d8                | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                          |
+| 6th   |                   | 1d8                | +15 ft.          | 3                   | Empowered Strikes, Tradition Feature                                                                 |
+| 7th   |                   | 1d8                | +15 ft.          | 3                   |                                                                                                      |
+| 8th   |                   | 1d8                | +15 ft.          | 3                   |                                                                                                      |
+| 9th   |                   | 1d8                | +15 ft.          | 4                   |                                                                                                      |
+| 10th  |                   | 1d8                | +20 ft.          | 4                   |                                                                                                      |
+| 11th  |                   | 1d10               | +20 ft.          | 4                   |                                                                                                      |
+| 12th  |                   | 1d10               | +20 ft.          | 4                   |                                                                                                      |
+| 13th  |                   | 1d10               | +20 ft.          | 5                   |                                                                                                      |
+| 14th  |                   | 1d10               | +25 ft.          | 5                   |                                                                                                      |
+| 15th  |                   | 1d10               | +25 ft.          | 5                   |                                                                                                      |
+| 16th  |                   | 1d10               | +25 ft.          | 5                   |                                                                                                      |
+| 17th  |                   | 1d12               | +25 ft.          | 6                   |                                                                                                      |
+| 18th  |                   | 1d12               | +30 ft.          | 6                   |                                                                                                      |
+| 19th  |                   | 1d12               | +30 ft.          | 6                   |                                                                                                      |
+| 20th  |                   | 1d12               | +30 ft.          | 6                   |                                                                                                      |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
