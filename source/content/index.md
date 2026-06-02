@@ -51,8 +51,6 @@ Short Rests - 5 minutes but a limit of 2 per Long Rest
 
 [[Resurrection Rituals]]
 
-[[Concordance]] - beseech a higher power
-
 my own [[Wild Magic Table]]
 
 

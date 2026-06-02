@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resurrection Rituals.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resurrection Rituals"
+              "title": "index"
             }
           },
           {
@@ -187,8 +187,8 @@
   },
   "active": "809142647c4da8d9",
   "lastOpenFiles": [
-    "index.md",
     "Resurrection Rituals.md",
+    "index.md",
     "Rules/Heroic Inspiration.md",
     "Rules/Conditions.md",
     "Rules/Wild Magic Table.md",
