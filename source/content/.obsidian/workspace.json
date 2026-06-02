@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Quarterstaff.md",
+                "file": "Equipment/Sickle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quarterstaff"
+              "title": "Sickle"
             }
           }
         ],
@@ -188,8 +188,9 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Mace.md",
     "Equipment/Quarterstaff.md",
+    "Equipment/Sickle.md",
+    "Equipment/Mace.md",
     "Equipment/Light Hammer.md",
     "Equipment/Javelin.md",
     "Equipment/Handaxe.md",
@@ -215,7 +216,6 @@
     "Equipment/Armour/Plate Armour.md",
     "Equipment/Armour/Padded Armour.md",
     "Equipment/Armour/Leather Armour.md",
-    "Equipment/Armour/Hide Armour.md",
     "Equipment/Armour",
     "Equipments",
     "Spells/Spells.base",
