@@ -35,21 +35,17 @@
 |       |                   |              |                  |                     |                                                                                                      |
 |       |                   |              |                  |                     |                                                                                                      |
 |       |                   |              |                  |                     |                                                                                                      |
-6th	3	1d8	6	+15 ft.	Empowered Strikes, Tradition Feature
-7th	3	1d8	7	+15 ft.	
-8th	3	1d8	7	+15 ft.	
-9th	4	1d8	8	+15 ft.	
-10th	4	1d8	8	+20 ft.	
-11th	4	1d10	9	+20 ft.	
-12th	4	1d10	9	+20 ft.	
-13th	5	1d10	10	+20 ft.	
-14th	5	1d10	10	+25 ft.	
-15th	5	1d10	11	+25 ft.	
-16th	5	1d10	11	+25 ft.	
-17th	6	1d12	12	+25 ft.	
-18th	6	1d12	12	+30 ft.	
-19th	6	1d12	13	+30 ft.	
-20th	6	1d12	13	+30 ft.	
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
