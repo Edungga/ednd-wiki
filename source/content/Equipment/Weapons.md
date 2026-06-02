@@ -8,7 +8,7 @@ SORT Cost
 | File                                                | Damage          | Weapon Property                                                                                  | Weapon Mastery                                            | Cost |
 | --------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ---- |
 | [[Sickle]]             | 1d4 Slashing    | [[Weapons.md#Light\|Light]]                                                            | [[Weapon Mastery Properties.md#Nick\|Nick]]     | 1 GP |
-| [[Spear]]                       | 1d6 Piercing    | [[Weapons#Thrown\|Thrown (Range 20/60)]], [[Weapons#Versatile\|Versatile (d8)]]                  | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 1 GP |
+| [[Spear]]               | 1d6 Piercing    | [[Weapons#Thrown\|Thrown (Range 20/60)]], [[Weapons#Versatile\|Versatile (d8)]]                  | [[Weapon Mastery Properties.md#Sap\|Sap]]       | 1 GP |
 | [[Club]]                 | 1d4 Bludgeoning | [[Weapons.md#Light\|Light]]                                                            | [[Weapon Mastery Properties.md#Slow\|Slow]]     | 1 SP |
 | [[Dagger]]             | 1d4 Piercing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Light\|Light]], [[Weapons#Thrown\|Thrown (Range 20/60)]] | [[Weapon Mastery Properties.md#Nick\|Nick]]     | 2 GP |
 | [[Light Hammer]] | 1d4 Bludgeoning | [[Weapons#Light\|Light]], [[Weapons#Thrown\|Thrown (Range 20/60)]]                               | [[Weapon Mastery Properties.md#Nick\|Nick]]     | 2 GP |
@@ -26,8 +26,8 @@ SORT Cost
 -->
 <!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Simple-Ranged-Weapon") SORT Cost -->
 
-| File                                            | Damage          | Weapon Property                                                                                                                                | Weapon Mastery                                        | Cost  |
-| ----------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- |
+| File                                                    | Damage          | Weapon Property                                                                                                                                | Weapon Mastery                                        | Cost  |
+| ------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- |
 | [[Light Crossbow]] | 1d8 Piercing    | [[Weapons#Range\|Range (80/320)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Loading\|Loading]], [[Weapons#Two-Handed\|Two-Handed]] | [[Weapon Mastery Properties.md#Slow\|Slow]] | 25 GP |
 | [[Shortbow]]             | 1d6 Piercing    | [[Weapons#Range\|Range (80/320)]], [[Weapons#Ammunition\|Ammunition (Arrow)]], [[Weapons#Two-Handed\|Two-Handed]]                              | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 25 GP |
 | [[Sling]]                   | 1d4 Bludgeoning | [[Weapons#Range\|Range (30/120)]], [[Weapons#Ammunition\|Ammunition (Bullet)]]                                                                 | [[Weapon Mastery Properties.md#Slow\|Slow]] | 25 GP |
@@ -54,9 +54,9 @@ SORT Cost
 -->
 <!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Martial-Ranged-Weapon") SORT Cost -->
 
-| File                              | Damage     | Weapon Property                                                                                     | Weapon Mastery                                      | Cost  |
-| --------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
-| [[Blowgun]] | 1 Piercing | [[Weapons#Range\|Range (25/100)]], [[Weapons#Ammunition\|Ammunition]], [[Weapons#Loading\|Loading]] | [[Weapon Mastery Properties.md#Vex\|Vex]] | 10 GP |
+| File                                      | Damage     | Weapon Property                                                                                              | Weapon Mastery                                      | Cost  |
+| ----------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ----- |
+| [[Blowgun]] | 1 Piercing | [[Weapons#Range\|Range (25/100)]], [[Weapons#Ammunition\|Ammunition (Needle)]], [[Weapons#Loading\|Loading]] | [[Weapon Mastery Properties.md#Vex\|Vex]] | 10 GP |
 
 <!-- SerializedQuery END -->
 
@@ -69,7 +69,7 @@ You can use a weapon that has the Ammunition property to make a ranged attack on
 ## Finesse
 When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 ## Heavy
-You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+You have Disadvantage on attack rolls with a Heavy weapon if it's your Strength score isn't at least 13.
 ## Light 
 When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting Bonus Action]] on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 ## Loading
