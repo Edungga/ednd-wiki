@@ -201,6 +201,12 @@ When you spend Ki on a technique, you may apply one of the following:
 - **Inner Flame**. You gain bonus Fire Damage on Unarmed Strikes and Monk Weapon Attacks equal to the Ki spent until the end of your next turn.
 - **Enhanced Agility**. Your Walk Speed and jump speed are increased by 10ft for each Ki spend, and Movement does not provoke Opportunity Attacks. These benefits last until the end of your next turn.
 
+Level 11: Elemental Mastery
+
+
+Level 17: Elemental Epitome
+
+
 ## Way of the Drunken Master
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
 ### Level 3: Drunken Fool
