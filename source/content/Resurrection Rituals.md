@@ -3,13 +3,9 @@ Revivify is excluded from this as the soul as that spell catches the soul before
 DC = 10 + number of [[Soul Scar|Soul Scars]] (times the Creature has been resurrected previously)
 
 Up to 3 creatures may add on to the ritual before the caster makes the final Check (Skill Challenge Style)
-
 - Each use the working DC
-    
 - Success lowers DC by 1
-    
 - Failure increases by 1
-    
 
 Final check by caster to determine if the soul has a chance to come back to the body (Spellcasting Ability score d20 Test)
 
