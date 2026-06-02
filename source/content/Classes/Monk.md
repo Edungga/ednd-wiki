@@ -194,6 +194,8 @@ You know two [[Monk#Elemental Techniques - Grade 1|Grade 1 Elemental Techniques]
 
 Additionally. you know the [[Shape Water]], [[Mould Earth]], [[Control Flames]], and [[Gust]] Cantrips, which all count as [[Monk#Mystic Techniques|Mystic Techniques]] for you that cost no Ki points to use.
 
+Level 6: Elemental Command
+When you spend Ki on a teqni
 
 ## Way of the Drunken Master
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
