@@ -5,9 +5,10 @@ SORT Cost
 -->
 <!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Simple-Melee-Weapon") SORT Cost -->
 
-| File                        | Damage          | Weapon Mastery                                        | Weapon Property                       | Cost |
-| --------------------------- | --------------- | ----------------------------------------------------- | ------------------------------------- | ---- |
-| [[Club]] | 1d4 Bludgeoning | [[Weapon Mastery Properties.md#Slow\|Slow]] | [[Weapons.md#Light\|Light]] | 1 SP |
+| File                            | Damage          | Weapon Mastery                                        | Weapon Property                                                                                  | Cost |
+| ------------------------------- | --------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---- |
+| [[Club]]     | 1d4 Bludgeoning | [[Weapon Mastery Properties.md#Slow\|Slow]] | [[Weapons.md#Light\|Light]]                                                            | 1 SP |
+| [[Dagger]] | 1d4 Piercing    | [[Weapon Mastery Properties.md#Nick\|Nick]] | [[Weapons#Finesse\|Finesse]], [[Weapons#Light\|Light]], [[Weapons#Thrown\|Thrown (Range 20/60)]] | 2 GP |
 
 <!-- SerializedQuery END -->
 # Simple Ranged Weapons
