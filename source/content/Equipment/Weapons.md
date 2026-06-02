@@ -83,8 +83,12 @@ WHERE contains(tags, "Ammunition")
 -->
 <!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Ammunition") -->
 
-| File | Damage | Weapon Property | Weapon Mastery | Cost |
-| ---- | ------ | --------------- | -------------- | ---- |
+| File                                                | Damage | Weapon Property | Weapon Mastery | Cost          |
+| --------------------------------------------------- | ------ | --------------- | -------------- | ------------- |
+| [[Arrow]]               | \-     | \-              | \-             | 5 CP          |
+| [[Bolt]]                 | \-     | \-              | \-             | 5 CP          |
+| [[Needle]]             | \-     | \-              | \-             | 2 CP          |
+| [[Sling Bullet]] | \-     | \-              | \-             | 4 CP (for 20) |
 
 <!-- SerializedQuery END -->
 
