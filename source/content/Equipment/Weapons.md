@@ -72,7 +72,7 @@ WHERE contains(tags, "Martial-Ranged-Weapon")
 | [[Blowgun]]               | 1 Piercing    | [[Weapons#Range\|Range (25/100)]], [[Weapons#Ammunition\|Ammunition (Needle)]], [[Weapons#Loading\|Loading]]                                                              | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 10 GP |
 | [[Hand Crossbow]]   | 1d6 Piercing  | [[Weapons#Range\|Range (30/120)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Light\|Light]], [[Weapons#Loading\|Loading]]                                      | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 75 GP |
 | [[Heavy Crossbow]] | 1d10 Piercing | [[Weapons#Range\|Range (100/400)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Loading\|Loading]], [[Weapons#Two-Handed\|Two-Handed]] | [[Weapon Mastery Properties.md#Push\|Push]] | 50 GP |
-| [[Longbow]]               | 1d10 Piercing | [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Arrow)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|\|Two-Handed\|]]                          | [[Weapon Mastery Properties.md#Slow\|Slow]] | 50 GP |
+| [[Longbow]]               | 1d10 Piercing | [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Arrow)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                              | [[Weapon Mastery Properties.md#Slow\|Slow]] | 50 GP |
 | [[Greatbow]]             | 1d10 Piercing | [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Loading\|Loading]]                                                               | [[Weapon Mastery Properties.md#Slow\|Slow]] | 50 GP |
 
 <!-- SerializedQuery END -->

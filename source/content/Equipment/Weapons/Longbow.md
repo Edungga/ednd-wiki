@@ -4,7 +4,7 @@ tags:
   - Martial-Ranged-Weapon
 Cost: 50 GP
 Damage: 1d10 Piercing
-Weapon Property:
+Weapon Property: "[[Weapons#Range|Range (150/600)]], [[Weapons#Ammunition|Ammunition (Arrow)]], [[Weapons#Heavy|Heavy]], [[Weapons#Two-Handed|Two-Handed]]"
 Weapon Mastery: "[[Weapon Mastery Properties#Slow|Slow]]"
 ---
 
