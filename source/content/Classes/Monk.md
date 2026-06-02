@@ -360,4 +360,4 @@ You gain Darkvision with a range of 60 feet. If you already have Darkvision, its
 #### Displacement
 When targeted by an Attack or subjected to an effect that requires you to make a DEX Save, as a Reaction spend 1 Ki Point and Teleport up to 30ft to an unoccupied space, possibly escaping the range of line of effect.
 #### Shadowy Figments
-You know the [[Minor Illusion]] Cantrip, it counts as a [[#Forms|Form]] for you.
+You know the [[Minor Illusion]] Cantrip, it counts as a [[Monk#Mystic Techniques|technique]] for you.
