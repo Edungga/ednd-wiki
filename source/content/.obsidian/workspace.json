@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Weapons/Bolt.md",
+                "file": "Equipment/Weapons/Needle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bolt"
+              "title": "Needle"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "809142647c4da8d9",
   "lastOpenFiles": [
-    "Equipment/Weapons/Arrow.md",
     "Equipment/Weapons/Bolt.md",
+    "Equipment/Weapons/Needle.md",
+    "Equipment/Weapons/Arrow.md",
     "Equipment/Weapons.md",
     "Equipment/Weapons/Greatbow.md",
     "Equipment/Weapons/Longbow.md",
@@ -198,7 +199,6 @@
     "Equipment/Weapons/Greataxe.md",
     "Equipment/Weapons/Flail.md",
     "Equipment/Weapons/Double-Bladed Scimitar.md",
-    "Equipment/Weapon Mastery Properties.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
