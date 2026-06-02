@@ -115,7 +115,9 @@ Additionally, when completing Short Rests you reduce your Exhaustion [Condition]
 
 Level 11: Tradition Feature
 
-Level 12:
+Level 12: Ability Score Improvement
+
+Level 13: 
 
 Level 14: Purity of Mind
 at the end of each of your turns you can spend 1 Ki point to remove one debuff from yourself
