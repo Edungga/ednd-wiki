@@ -105,13 +105,17 @@ You don't benefit from this feature if you are [[Conditions#Incapacitated (Condi
 Level 8: Ability Score Improvement
 
 
-Purity of Soul
-
+Level 9: Purity of Soul
+Whenever you are forced to make a saving throw, you can expend 1 Ki to add your Wisdom modifier (minimum of +1) to the result of your roll.
 
 
 Level 10: Purity of Body
 While in Combat, you do not suffer the negative consequences of Exhaustion [Condition] for d20 tests. 
 Additionally, when completing Short Rests you reduce your Exhaustion [Condition] level by 1 and when completing Long Rests you reduce your Exhaustion [Condition] level by 2.
+
+Level 11: Tradition Feature
+
+Level 12:
 
 Level 14: Purity of Mind
 at the end of each of your turns you can spend 1 Ki point to remove one debuff from yourself
