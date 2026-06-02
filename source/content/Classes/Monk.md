@@ -105,7 +105,7 @@ You don't benefit from this feature if you are [[Conditions#Incapacitated (Condi
 Level 8: Ability Score Improvement
 
 
-Level 9: Tranquility 
+Level 9: Tranquillity 
 Whenever you are forced to make a saving throw, you can expend 1 Ki to add your Wisdom modifier (minimum of +1) to the result of your roll.
 
 Level 10: Purity of Body
@@ -122,14 +122,13 @@ at the end of each of your turns you can spend 1 Ki point to remove one debuff f
 Level 14: 
 
 Level 15: Perfect Focus
-Whenever you roll initiative, regain expended Ki upto your Wisdom M
-
+Whenever you roll initiative, regain expended Ki up to your Wisdom modifier
 
 Level 16: Ability Score Improvement
 
 Level 17: Tradition Feature
 
-Level 18: 
+Level 18: Empty Body
 At the start of your turn, you can expend 3 Ki Points to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
 
 
