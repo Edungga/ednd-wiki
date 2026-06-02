@@ -370,18 +370,20 @@ While entirely within Dim Light or Darkness, you can use a Bonus Action to telep
 
 
 ### Shadow Techniques - Grade 3
-
+*Prerequisite: Monk Level 11*
 #### Improved Shadow Step
 When you use your Shadow Step, you can expend 1 Ki Point to remove the requirement that you must start and end in Dim Light or Darkness for that use of the feature. As part of this Bonus Action, you can make an Unarmed Strike immediately after you teleport.
 
 
 ### Shadow Techniques - Grade 4
+*Prerequisite: Monk Level 17*
 
-Cloak of Shadows
-As a Magic action while entirely within Dim Light or Darkness, you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded by these shadows, you gain the following benefits.
+#### Cloak of Shadows
+As an Action while entirely within Dim Light or Darkness, you can expend 3 Ki Points to shroud yourself with shadows for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded by these shadows, you gain the following benefits.
 
-Invisibility. You have the Invisible condition.
+**Invisibility**. You have the Invisible condition.
 
-Partially Incorporeal. You can move through occupied spaces as if they were Difficult Terrain. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
+**Partially Incorporeal**. You can move through occupied spaces as if they were Difficult Terrain. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
 
-Shadow Flurry. You can use your Flurry of Blows without expending any Focus Points.
+**Shadow Flurry**. You can use your Flurry of Blows without expending any Focus Points.
+
