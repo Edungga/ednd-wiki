@@ -119,6 +119,10 @@ Purity of Mind
 at the end of each of your turns you can remove one debuff from yourself
 
 
+Level 18: Purity of Soul
+At the start of your turn, you can expend 3 Ki Points to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
+
+
 Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
 
