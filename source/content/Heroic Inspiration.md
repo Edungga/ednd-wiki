@@ -6,4 +6,4 @@ You can spend your Heroic Inspiration in one of the following ways:
 
 **Healing**. As a Free Action on your turn, you may spend your Heroic Inspiration to then spend any number of Hit Die to heal as you would via a [[Short Rest]].
 
-Blaze of Glory. If you are [[Conditions#Dying (Condition)|Dying (Condition)]] at the start of your turn, you may spend your Heroic Inspiration and fail 1 Death Save (instead of rolling the Death Save), to have a Blaze of Glory, taking your turn as if y
+Blaze of Glory. If you are [[Conditions#Dying (Condition)|Dying (Condition)]] at the start of your turn, you may spend your Heroic Inspiration and fail 1 Death Save (instead of rolling the Death Save), to have a Blaze of Glory, taking your turn as if you weren't [[Conditions#Dying (Condition)|Dying (Condition)]] 
