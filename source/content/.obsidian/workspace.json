@@ -185,13 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "809142647c4da8d9",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Equipment/Dagger.md",
     "Equipment/Weapons.md",
     "Equipment/Club.md",
-    "Equipment/Blowgun.md",
-    "Equipment/Battleaxe.md",
+    "Equipment/Weapons/Blowgun.md",
+    "Equipment/Weapons/Battleaxe.md",
     "Equipment/Armour.md",
     "Classes/Monk.md",
     "index.md",

@@ -1,49 +1,49 @@
 # Simple Melee Weapons
-<!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
+<!-- QueryToSerialize: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost
 WHERE contains(tags, "Simple-Melee-Weapon")
 SORT Cost
 -->
-<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Simple-Melee-Weapon") SORT Cost -->
+<!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Simple-Melee-Weapon") SORT Cost -->
 
-| File                            | Damage          | Weapon Mastery                                        | Weapon Property                                                                                  | Cost |
-| ------------------------------- | --------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---- |
-| [[Club]]     | 1d4 Bludgeoning | [[Weapon Mastery Properties.md#Slow\|Slow]] | [[Weapons.md#Light\|Light]]                                                            | 1 SP |
-| [[Dagger]] | 1d4 Piercing    | [[Weapon Mastery Properties.md#Nick\|Nick]] | [[Weapons#Finesse\|Finesse]], [[Weapons#Light\|Light]], [[Weapons#Thrown\|Thrown (Range 20/60)]] | 2 GP |
+| File                            | Damage          | Weapon Property                                                                                  | Weapon Mastery                                        | Cost |
+| ------------------------------- | --------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ---- |
+| [[Club]]     | 1d4 Bludgeoning | [[Weapons.md#Light\|Light]]                                                            | [[Weapon Mastery Properties.md#Slow\|Slow]] | 1 SP |
+| [[Dagger]] | 1d4 Piercing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Light\|Light]], [[Weapons#Thrown\|Thrown (Range 20/60)]] | [[Weapon Mastery Properties.md#Nick\|Nick]] | 2 GP |
 
 <!-- SerializedQuery END -->
 # Simple Ranged Weapons
-<!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
+<!-- QueryToSerialize: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost
 WHERE contains(tags, "Simple-Ranged-Weapon")
 SORT Cost
 -->
-<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Simple-Ranged-Weapon") SORT Cost -->
+<!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Simple-Ranged-Weapon") SORT Cost -->
 
-| File | Damage | Weapon Mastery | Weapon Property | Cost |
-| ---- | ------ | -------------- | --------------- | ---- |
+| File | Damage | Weapon Property | Weapon Mastery | Cost |
+| ---- | ------ | --------------- | -------------- | ---- |
 
 <!-- SerializedQuery END -->
 # Martial Melee Weapons
-<!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
+<!-- QueryToSerialize: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost
 WHERE contains(tags, "Martial-Melee-Weapon")
 SORT Cost
 -->
-<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Martial-Melee-Weapon") SORT Cost -->
+<!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Martial-Melee-Weapon") SORT Cost -->
 
-| File                                  | Damage       | Weapon Mastery                                            | Weapon Property                                     | Cost  |
-| ------------------------------------- | ------------ | --------------------------------------------------------- | --------------------------------------------------- | ----- |
-| [[Battleaxe]] | 1d8 Slashing | [[Weapon Mastery Properties.md#Topple\|Topple]] | [[Weapons.md#Versatile\|Versatile (d10)]] | 10 GP |
+| File                                  | Damage       | Weapon Property                                     | Weapon Mastery                                            | Cost  |
+| ------------------------------------- | ------------ | --------------------------------------------------- | --------------------------------------------------------- | ----- |
+| [[Battleaxe]] | 1d8 Slashing | [[Weapons.md#Versatile\|Versatile (d10)]] | [[Weapon Mastery Properties.md#Topple\|Topple]] | 10 GP |
 
 <!-- SerializedQuery END -->
 # Martial Ranged Weapons
-<!-- QueryToSerialize: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost
+<!-- QueryToSerialize: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost
 WHERE contains(tags, "Martial-Ranged-Weapon")
 SORT Cost
 -->
-<!-- SerializedQuery: table Damage, weapon-mastery AS "Weapon Mastery", weapon-property AS "Weapon Property", Cost WHERE contains(tags, "Martial-Ranged-Weapon") SORT Cost -->
+<!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Martial-Ranged-Weapon") SORT Cost -->
 
-| File                              | Damage     | Weapon Mastery                                      | Weapon Property                                                                                     | Cost  |
-| --------------------------------- | ---------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----- |
-| [[Blowgun]] | 1 Piercing | [[Weapon Mastery Properties.md#Vex\|Vex]] | [[Weapons#Range\|Range (25/100)]], [[Weapons#Ammunition\|Ammunition]], [[Weapons#Loading\|Loading]] | 10 GP |
+| File                              | Damage     | Weapon Property                                                                                     | Weapon Mastery                                      | Cost  |
+| --------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
+| [[Blowgun]] | 1 Piercing | [[Weapons#Range\|Range (25/100)]], [[Weapons#Ammunition\|Ammunition]], [[Weapons#Loading\|Loading]] | [[Weapon Mastery Properties.md#Vex\|Vex]] | 10 GP |
 
 <!-- SerializedQuery END -->
 
