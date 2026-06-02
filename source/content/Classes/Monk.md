@@ -363,7 +363,7 @@ When targeted by an Attack or subjected to an effect that requires you to make a
 You know the [[Minor Illusion]] Cantrip, it counts as a [[Monk#Mystic Techniques|technique]] for you.
 
 ### Shadow Techniques - Grade 2
-
+*Prerequisite: Monk Level 6*
 #### Shadow Step
 While entirely within Dim Light or Darkness, you can use a Bonus Action to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have Advantage on the next melee attack you make before the end of the current turn.
 
@@ -371,8 +371,17 @@ While entirely within Dim Light or Darkness, you can use a Bonus Action to telep
 
 ### Shadow Techniques - Grade 3
 
-Improved Shadow Step
-You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in Dim Light or Darkness for that use of the feature. As part of this Bonus Action, you can make an Unarmed Strike immediately after you teleport.
+#### Improved Shadow Step
+When you use your Shadow Step, you can expend 1 Ki Point to remove the requirement that you must start and end in Dim Light or Darkness for that use of the feature. As part of this Bonus Action, you can make an Unarmed Strike immediately after you teleport.
 
 
 ### Shadow Techniques - Grade 4
+
+Cloak of Shadows
+As a Magic action while entirely within Dim Light or Darkness, you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded by these shadows, you gain the following benefits.
+
+Invisibility. You have the Invisible condition.
+
+Partially Incorporeal. You can move through occupied spaces as if they were Difficult Terrain. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
+
+Shadow Flurry. You can use your Flurry of Blows without expending any Focus Points.
