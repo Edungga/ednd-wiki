@@ -163,6 +163,15 @@ Step of the Wind. When you expend a Focus Point to use Step of the Wind, you can
 Level 13: Deflect Energy
 You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
 
+13th Level: Tongue of the Sun and Moon
+You learn to touch the Ki of other minds so that you understand all spoken Languages. Moreover, any creature that can understand a Language can understand what you say.
+
+15th Level: Timeless Body
+Your Ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water. For every
+    10 years that pass, your body only physically ages 1 year.
+
+
+
 ---
 # Monastic Traditions
 ## Way of Mercy
