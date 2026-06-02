@@ -35,8 +35,7 @@
               "title": "Spear"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,18 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d0bd1aa9e8480c2",
+  "active": "809142647c4da8d9",
   "lastOpenFiles": [
-    "Equipment/Weapons.md",
     "Equipment/Spear.md",
-    "Equipment/Sickle.md",
-    "Equipment/Quarterstaff.md",
-    "Equipment/Mace.md",
-    "Equipment/Light Hammer.md",
-    "Equipment/Javelin.md",
-    "Equipment/Handaxe.md",
-    "Equipment/Greatclub.md",
-    "Equipment/Dagger.md",
+    "Equipment/Weapons.md",
+    "Equipment/Weapons/Sickle.md",
+    "Equipment/Weapons/Quarterstaff.md",
+    "Equipment/Weapons/Mace.md",
+    "Equipment/Weapons/Light Hammer.md",
+    "Equipment/Weapons/Javelin.md",
+    "Equipment/Weapons/Handaxe.md",
+    "Equipment/Weapons/Greatclub.md",
+    "Equipment/Weapons/Dagger.md",
     "Equipment/Weapons/Club.md",
     "Equipment/Weapons/Blowgun.md",
     "Equipment/Weapons/Battleaxe.md",
