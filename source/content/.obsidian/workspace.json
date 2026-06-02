@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Glaive.md",
+                "file": "Equipment/Halberd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glaive"
+              "title": "Halberd"
             }
           }
         ],
@@ -188,8 +188,9 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Flail.md",
     "Equipment/Glaive.md",
+    "Equipment/Halberd.md",
+    "Equipment/Flail.md",
     "Equipment/Weapons/Double-Bladed Scimitar.md",
     "Equipment/Weapons.md",
     "Equipment/Weapon Mastery Properties.md",
@@ -215,7 +216,6 @@
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour/Tower Shield.md",
-    "Equipment/Armour/Chain Mail.md",
     "Equipment/Armour",
     "Equipments",
     "Spells/Spells.base",
