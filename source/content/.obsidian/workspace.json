@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Mace 1.md",
+                "file": "Equipment/Quarterstaff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mace 1"
+              "title": "Quarterstaff"
             }
           }
         ],
@@ -189,7 +189,7 @@
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
     "Equipment/Mace.md",
-    "Equipment/Mace 1.md",
+    "Equipment/Quarterstaff.md",
     "Equipment/Light Hammer.md",
     "Equipment/Javelin.md",
     "Equipment/Handaxe.md",
