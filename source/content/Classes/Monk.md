@@ -105,23 +105,10 @@ You don't benefit from this feature if you are [[Conditions#Incapacitated (Condi
 Level 8: Ability Score Improvement
 
 
-Level 9: Wall Running
-While you aren't wearing armor, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 Level 9: Reactive
 You can spend a Ki to take an additional Reaction.
  - maybe this should be a technique
-
-Level 10: Heightened Focus 
-Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
-
-Flurry of Blows. You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
-
-Patient Defense. When you expend a Focus Point to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
-
-Step of the Wind. When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
-
-- These should all be techniques
 
 
 Level 10: Purity of Body
@@ -132,9 +119,23 @@ Purity of Mind
 at the end of each of your turns you can remove one debuff from yourself
 
 
+---
+class features to make techniques
+
+
+Level 9: Wall Running
+While you aren't wearing armor, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 
 
+Level 10: Heightened Focus 
+Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
+
+Flurry of Blows. You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
+
+Patient Defense. When you expend a Focus Point to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
+
+Step of the Wind. When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
 
 
 ---
