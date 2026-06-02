@@ -110,7 +110,7 @@ While you aren't wearing armor, you gain the ability to move along vertical surf
 
 Level 9: Reactive
 You can spend a Ki to take an additional Reaction.
- - maybe t
+ - maybe this should be a technique
 
 
 
