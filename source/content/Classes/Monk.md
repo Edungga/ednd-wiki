@@ -29,21 +29,21 @@
 | 3rd   | +2                | 1d6          | 4                | +10 ft.             | [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]]                                            |
 | 4th   | +2                | 1d6          | 5                | +10 ft.             | [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                |
 | 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                          |
-| 6th   | +3                | 1d8          | +15 ft.          | 3                   | Empowered Strikes, Tradition Feature                                                                 |
-| 7th   | +3                | 1d8          | +15 ft.          | 3                   | Evasion                                                                                              |
-| 8th   | +3                | 1d8          | +15 ft.          | 3                   | Ability Score Improvement                                                                            |
-| 9th   | +4                | 1d8          | +15 ft.          | 4                   | Acrobatic Movements                                                                                  |
-| 10th  | +4                | 1d8          | +20 ft.          | 4                   | Heightend Focus, Self-Restoration                                                                    |
-| 11th  | +4                | 1d10         | +20 ft.          | 4                   | Tradition Feature                                                                                    |
-| 12th  | +4                | 1d10         | +20 ft.          | 4                   | Ability Score Improvement                                                                            |
-| 13th  | +5                | 1d10         | +20 ft.          | 5                   | Deflect Energy                                                                                       |
-| 14th  | +5                | 1d10         | +25 ft.          | 5                   | Disciplined Survivor                                                                                 |
-| 15th  | +5                | 1d10         | +25 ft.          | 5                   | Perfect Focus                                                                                        |
-| 16th  | +5                | 1d10         | +25 ft.          | 5                   | Ability Score Improvement                                                                            |
-| 17th  | +6                | 1d12         | +25 ft.          | 6                   | Tradition Feature                                                                                    |
-| 18th  | +6                | 1d12         | +30 ft.          | 6                   | Superior Defence                                                                                     |
-| 19th  | +6                | 1d12         | +30 ft.          | 6                   | Epic Boon                                                                                            |
-| 20th  | +6                | 1d12         | +30 ft.          | 6                   | Body and Mind                                                                                        |
+| 6th   | +3                | 1d8          | 6                | +15 ft.             | Empowered Strikes, Tradition Feature                                                                 |
+| 7th   | +3                | 1d8          | 7                | +15 ft.             | Evasion                                                                                              |
+| 8th   | +3                | 1d8          | 7                | +15 ft.             | Ability Score Improvement                                                                            |
+| 9th   | +4                | 1d8          | 8                | +15 ft.             | Acrobatic Movements                                                                                  |
+| 10th  | +4                | 1d8          | 8                | +20 ft.             | Heightend Focus, Self-Restoration                                                                    |
+| 11th  | +4                | 1d10         | 9                | +20 ft.             | Tradition Feature                                                                                    |
+| 12th  | +4                | 1d10         | 9                | +20 ft.             | Ability Score Improvement                                                                            |
+| 13th  | +5                | 1d10         | 10               | +20 ft.             | Deflect Energy                                                                                       |
+| 14th  | +5                | 1d10         | 10               | +25 ft.             | Disciplined Survivor                                                                                 |
+| 15th  | +5                | 1d10         | 11               | +25 ft.             | Perfect Focus                                                                                        |
+| 16th  | +5                | 1d10         | 11               | +25 ft.             | Ability Score Improvement                                                                            |
+| 17th  | +6                | 1d12         | 12               | +25 ft.             | Tradition Feature                                                                                    |
+| 18th  | +6                | 1d12         | 12               | +30 ft.             | Superior Defence                                                                                     |
+| 19th  | +6                | 1d12         | 13               | +30 ft.             | Epic Boon                                                                                            |
+| 20th  | +6                | 1d12         | 13               | +30 ft.             | Body and Mind                                                                                        |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
@@ -112,6 +112,16 @@ Level 9: Reactive
 You can spend a Ki to take an additional Reaction.
  - maybe this should be a technique
 
+Level 10: Heightened Focus 
+Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
+
+Flurry of Blows. You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
+
+Patient Defense. When you expend a Focus Point to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
+
+Step of the Wind. When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
+
+- These should all be techniques
 
 
 ---
