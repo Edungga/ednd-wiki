@@ -57,6 +57,10 @@ my own [[Wild Magic Table]]
 
 [[Retainer]]
 
+[[Apothecary’s Handbook]]
+
+[[Monster bits and what they’re good for]]
+
 
 
 
