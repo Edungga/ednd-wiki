@@ -92,6 +92,14 @@ You gain the [[Feat#Ability Score Improvement|Ability Score Improvement Feat]] o
 You can attack twice instead of once whenever you take the Attack action on your turn.
 
 
+Level 6: Empowered Strikes
+
+
+
+
+
+
+
 ---
 # Monastic Traditions
 ## Way of Mercy
