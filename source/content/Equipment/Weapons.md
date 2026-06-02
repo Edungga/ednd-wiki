@@ -41,9 +41,10 @@ SORT Cost
 -->
 <!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Martial-Melee-Weapon") SORT Cost -->
 
-| File                                  | Damage       | Weapon Property                                     | Weapon Mastery                                            | Cost  |
-| ------------------------------------- | ------------ | --------------------------------------------------- | --------------------------------------------------------- | ----- |
-| [[Battleaxe]] | 1d8 Slashing | [[Weapons.md#Versatile\|Versatile (d10)]] | [[Weapon Mastery Properties.md#Topple\|Topple]] | 10 GP |
+| File                                                            | Damage       | Weapon Property                                                         | Weapon Mastery                                            | Cost   |
+| --------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------- | --------------------------------------------------------- | ------ |
+| [[Battleaxe]]                   | 1d8 Slashing | [[Weapons.md#Versatile\|Versatile (d10)]]                     | [[Weapon Mastery Properties.md#Topple\|Topple]] | 10 GP  |
+| [[Double-Bladed Scimitar]] | 2d4 Slashing | [[Double-Bladed Scimitar\|Special]], [[Weapons#Two-Handed\|Two-Handed]] | [[Weapon Mastery Properties.md#Graze\|Graze]]   | 100 GP |
 
 <!-- SerializedQuery END -->
 # Martial Ranged Weapons
