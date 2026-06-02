@@ -105,7 +105,7 @@ You don't benefit from this feature if you are [[Conditions#Incapacitated (Condi
 Level 8: Ability Score Improvement
 
 
-Level 9: Purity of Mind
+Level 9: Tranquility 
 Whenever you are forced to make a saving throw, you can expend 1 Ki to add your Wisdom modifier (minimum of +1) to the result of your roll.
 
 Level 10: Purity of Body
@@ -116,7 +116,7 @@ Level 11: Tradition Feature
 
 Level 12: Ability Score Improvement
 
-Level 13: Purity of Soul
+Level 13: Purity of Mind
 at the end of each of your turns you can spend 1 Ki point to remove one debuff from yourself
 
 Level 14: 
