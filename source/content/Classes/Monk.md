@@ -230,16 +230,14 @@ Monks of the Way of Shadow follow a tradition that values stealth and subterfuge
 
 ### Level 3: Shadow Novice
 You know three [[Monk#Shadow Techniques - Grade 1|Grade 1 Shadow Techniques]]. These do not count against the number of [[Monk#Level 2 Mystic Techniques|techniques]] you know.
-At the end of a Long Rest you can change any of these known forms for other Shadow Ki Forms of a Grade you can know. 
-
 ### Level 6: Shadow Arts
-
+You know one [[Monk#Shadow Techniques - Grade 2|Grade 2 Shadow Techniques]]. This does not count against the number of [[Monk#Level 2 Mystic Techniques|techniques]] you know.
 
 ### Level 11: Shadow Adept
-
+You know one [[Monk#Shadow Techniques - Grade 3|Grade 3 Shadow Techniques]]. This does not count against the number of [[Monk#Level 2 Mystic Techniques|techniques]] you know.
 
 ### Level 6: Shadow Master
-
+You know one [[Monk#Shadow Techniques - Grade 4|Grade 4 Shadow Techniques]]. This does not count against the number of [[Monk#Level 2 Mystic Techniques|techniques]] you know.
 
 ---
 # Mystic Techniques
