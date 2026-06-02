@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Weapons/Longbow 1.md",
+                "file": "Equipment/Weapons/Greatbow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longbow 1"
+              "title": "Greatbow"
             }
           }
         ],
@@ -189,10 +189,10 @@
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
     "Equipment/Weapons/Longbow.md",
-    "Equipment/Weapons/Longbow 1.md",
+    "Equipment/Weapons.md",
+    "Equipment/Weapons/Greatbow.md",
     "Equipment/Weapons/Heavy Crossbow.md",
     "Equipment/Weapons/Hand Crossbow.md",
-    "Equipment/Weapons.md",
     "Equipment/Weapons/Whip.md",
     "Equipment/Weapons/War Pick.md",
     "Equipment/Weapons/Warhammer.md",
