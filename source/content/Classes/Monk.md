@@ -197,12 +197,9 @@ Additionally. you know the [[Shape Water]], [[Mould Earth]], [[Control Flames]],
 Level 6: Elemental Command
 When you spend Ki on a technique, you may apply one of the following:
 - **Push and Pull**. If the technique targeted a creature or object, you move that creature up to 10ft towards or away from you for each Ki spent.
-- **Seismic Sense**. You gain a Tremorsense 30ft and Advantage on Saves against being knocked [[Conditions#Prone (Condition)|Prone (Condition)]] and being [[Conditions#Petrified (Condition)|Petrified (Condition)]]. These benefits last until the end of your next turn
-    
-- Inner Flame. You gain bonus Fire Damage on Unarmed Strikes and Monk Weapon Attacks equal to the Ki spent until the end of your next turn (does not stack).
-    
-
-Air (Enhanced Agility). Whenever you spend at least 1 Ki on a Ki Form, your Walk Speed is doubled, your Jump distance is tripled, and Movement does not provoke Opportunity Attacks until the end of your next turn
+- **Seismic Sense**. You gain a Tremorsense 30ft and Advantage on Saves against being knocked [[Conditions#Prone (Condition)|Prone (Condition)]] and being [[Conditions#Petrified (Condition)|Petrified (Condition)]]. These benefits last until the end of your next turn.
+- **Inner Flame**. You gain bonus Fire Damage on Unarmed Strikes and Monk Weapon Attacks equal to the Ki spent until the end of your next turn.
+- **Enhanced Agility**. Your Walk Speed and jump speed are increased by 10ft for each Ki spend, and Movement does not provoke Opportunity Attacks. These benefits last until the end of your next turn.
 
 ## Way of the Drunken Master
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
