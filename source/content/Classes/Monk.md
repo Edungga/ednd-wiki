@@ -30,13 +30,13 @@
 | 4th   | +2                | 1d6          | 5                | +10 ft.             | [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                |
 | 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                          |
 | 6th   | +3                | 1d8          | +15 ft.          | 3                   | Empowered Strikes, Tradition Feature                                                                 |
-| 7th   | +3                | 1d8          | +15 ft.          | 3                   |                                                                                                      |
-| 8th   | +3                | 1d8          | +15 ft.          | 3                   |                                                                                                      |
-| 9th   | +4                | 1d8          | +15 ft.          | 4                   |                                                                                                      |
-| 10th  | +4                | 1d8          | +20 ft.          | 4                   |                                                                                                      |
-| 11th  | +4                | 1d10         | +20 ft.          | 4                   |                                                                                                      |
-| 12th  | +4                | 1d10         | +20 ft.          | 4                   |                                                                                                      |
-| 13th  | +5                | 1d10         | +20 ft.          | 5                   |                                                                                                      |
+| 7th   | +3                | 1d8          | +15 ft.          | 3                   | Evasion                                                                                              |
+| 8th   | +3                | 1d8          | +15 ft.          | 3                   | Ability Score Improvement                                                                            |
+| 9th   | +4                | 1d8          | +15 ft.          | 4                   | Acrobatic Movements                                                                                  |
+| 10th  | +4                | 1d8          | +20 ft.          | 4                   | Heightend Focus, Self-Restoration                                                                    |
+| 11th  | +4                | 1d10         | +20 ft.          | 4                   | Tradition Feature                                                                                    |
+| 12th  | +4                | 1d10         | +20 ft.          | 4                   | Ability Score Improvement                                                                            |
+| 13th  | +5                | 1d10         | +20 ft.          | 5                   | Deflect Energy                                                                                       |
 | 14th  | +5                | 1d10         | +25 ft.          | 5                   |                                                                                                      |
 | 15th  | +5                | 1d10         | +25 ft.          | 5                   |                                                                                                      |
 | 16th  | +5                | 1d10         | +25 ft.          | 5                   |                                                                                                      |
