@@ -73,7 +73,7 @@ WHERE contains(tags, "Martial-Ranged-Weapon")
 | [[Hand Crossbow]]   | 1d6 Piercing  | [[Weapons#Range\|Range (30/120)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Light\|Light]], [[Weapons#Loading\|Loading]]                                      | [[Weapon Mastery Properties.md#Vex\|Vex]]     | 75 GP  |
 | [[Heavy Crossbow]] | 1d10 Piercing | [[Weapons#Range\|Range (100/400)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Loading\|Loading]], [[Weapons#Two-Handed\|Two-Handed]] | [[Weapon Mastery Properties.md#Push\|Push]]   | 50 GP  |
 | [[Longbow]]               | 1d10 Piercing | [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Arrow)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                              | [[Weapon Mastery Properties.md#Slow\|Slow]]   | 50 GP  |
-| [[Greatbow]]             | 2d6 Piercing  | Special, [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Arrow)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]                     | [[Weapon Mastery Properties.md#Graze\|Graze]] | 150 GP |
+| [[Greatbow]]             | 2d6 Piercing  | [[Greatbow\|Special]], [[Weapons#Range\|Range (150/600)]], [[Weapons#Ammunition\|Ammunition (Arrow)]], [[Weapons#Heavy\|Heavy]], [[Weapons#Two-Handed\|Two-Handed]]       | [[Weapon Mastery Properties.md#Graze\|Graze]] | 150 GP |
 
 <!-- SerializedQuery END -->
 
