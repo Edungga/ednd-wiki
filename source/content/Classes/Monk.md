@@ -37,13 +37,13 @@
 | 11th  | +4                | 1d10         | +20 ft.          | 4                   | Tradition Feature                                                                                    |
 | 12th  | +4                | 1d10         | +20 ft.          | 4                   | Ability Score Improvement                                                                            |
 | 13th  | +5                | 1d10         | +20 ft.          | 5                   | Deflect Energy                                                                                       |
-| 14th  | +5                | 1d10         | +25 ft.          | 5                   |                                                                                                      |
-| 15th  | +5                | 1d10         | +25 ft.          | 5                   |                                                                                                      |
-| 16th  | +5                | 1d10         | +25 ft.          | 5                   |                                                                                                      |
-| 17th  | +6                | 1d12         | +25 ft.          | 6                   |                                                                                                      |
-| 18th  | +6                | 1d12         | +30 ft.          | 6                   |                                                                                                      |
-| 19th  | +6                | 1d12         | +30 ft.          | 6                   |                                                                                                      |
-| 20th  | +6                | 1d12         | +30 ft.          | 6                   |                                                                                                      |
+| 14th  | +5                | 1d10         | +25 ft.          | 5                   | Disciplined Survivor                                                                                 |
+| 15th  | +5                | 1d10         | +25 ft.          | 5                   | Perfect Focus                                                                                        |
+| 16th  | +5                | 1d10         | +25 ft.          | 5                   | Ability Score Improvement                                                                            |
+| 17th  | +6                | 1d12         | +25 ft.          | 6                   | Tradition Feature                                                                                    |
+| 18th  | +6                | 1d12         | +30 ft.          | 6                   | Superior Defence                                                                                     |
+| 19th  | +6                | 1d12         | +30 ft.          | 6                   | Epic Boon                                                                                            |
+| 20th  | +6                | 1d12         | +30 ft.          | 6                   | Body and Mind                                                                                        |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
