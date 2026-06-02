@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Sickle.md",
+                "file": "Equipment/Spear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sickle"
+              "title": "Spear"
             }
           }
         ],
@@ -188,13 +188,14 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Quarterstaff.md",
+    "Equipment/Weapons.md",
+    "Equipment/Spear.md",
     "Equipment/Sickle.md",
+    "Equipment/Quarterstaff.md",
     "Equipment/Mace.md",
     "Equipment/Light Hammer.md",
     "Equipment/Javelin.md",
     "Equipment/Handaxe.md",
-    "Equipment/Weapons.md",
     "Equipment/Greatclub.md",
     "Equipment/Dagger.md",
     "Equipment/Weapons/Club.md",
@@ -215,7 +216,6 @@
     "Equipment/Armour/Studded Leather Armour.md",
     "Equipment/Armour/Plate Armour.md",
     "Equipment/Armour/Padded Armour.md",
-    "Equipment/Armour/Leather Armour.md",
     "Equipment/Armour",
     "Equipments",
     "Spells/Spells.base",
