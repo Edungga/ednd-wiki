@@ -228,13 +228,16 @@ Whenever you hit a creature with an attack granted by your [[Monk#Flurry of Blow
 # Way of the Shadow
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadow dancers, and they serve as spies and assassins.
 
-### Level 3: Shadow Arts
+### Level 3: Shadow Novice
 You know three [[Monk#Shadow Techniques - Grade 1|Grade 1 Shadow Techniques]]. At the end of a Long Rest you can change any of these known forms for other Shadow Ki Forms of a Grade you can know. 
 
-### Level 6: Shadow Adept
+### Level 6: Shadow Arts
 
 
-### Level 6: Shadow 
+### Level 11: Shadow Adept
+
+
+### Level 6: Shadow Master
 
 
 ---
