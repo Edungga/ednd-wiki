@@ -26,10 +26,12 @@ SORT Cost
 -->
 <!-- SerializedQuery: table Damage, weapon-property AS "Weapon Property", weapon-mastery AS "Weapon Mastery", Cost WHERE contains(tags, "Simple-Ranged-Weapon") SORT Cost -->
 
-| File                                            | Damage       | Weapon Property                                                                                                                                | Weapon Mastery                                        | Cost  |
-| ----------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- |
-| [[Light Crossbow]] | 1d8 Piercing | [[Weapons#Range\|Range (80/320)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Loading\|Loading]], [[Weapons#Two-Handed\|Two-Handed]] | [[Weapon Mastery Properties.md#Slow\|Slow]] | 25 GP |
-| [[Dart]]                     | 1d4 Piercing | [[Weapons#Finesse\|Finesse]], [[Weapons#Thrown\|Thrown (Range 20/60)]]                                                                         | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 5 CP  |
+| File                                            | Damage          | Weapon Property                                                                                                                                | Weapon Mastery                                        | Cost  |
+| ----------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- |
+| [[Light Crossbow]] | 1d8 Piercing    | [[Weapons#Range\|Range (80/320)]], [[Weapons#Ammunition\|Ammunition (Bolt)]], [[Weapons#Loading\|Loading]], [[Weapons#Two-Handed\|Two-Handed]] | [[Weapon Mastery Properties.md#Slow\|Slow]] | 25 GP |
+| [[Shortbow]]             | 1d6 Piercing    | [[Weapons#Range\|Range (80/320)]], [[Weapons#Ammunition\|Ammunition (Arrow)]], [[Weapons#Two-Handed\|Two-Handed]]                              | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 25 GP |
+| [[Sling]]                   | 1d4 Bludgeoning | [[Weapons#Range\|Range (30/120)]], [[Weapons#Ammunition\|Ammunition (Bullet)]]                                                                 | [[Weapon Mastery Properties.md#Slow\|Slow]] | 25 GP |
+| [[Dart]]                     | 1d4 Piercing    | [[Weapons#Finesse\|Finesse]], [[Weapons#Thrown\|Thrown (Range 20/60)]]                                                                         | [[Weapon Mastery Properties.md#Vex\|Vex]]   | 5 CP  |
 
 <!-- SerializedQuery END -->
 # Martial Melee Weapons

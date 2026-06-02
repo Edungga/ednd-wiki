@@ -35,8 +35,7 @@
               "title": "Sling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d0bd1aa9e8480c2",
+  "active": "809142647c4da8d9",
   "lastOpenFiles": [
-    "Equipment/Shortbow.md",
     "Equipment/Sling.md",
+    "Equipment/Shortbow.md",
     "Equipment/Light Crossbow.md",
     "Equipment/Weapons/Blowgun.md",
     "Equipment/Weapons.md",
