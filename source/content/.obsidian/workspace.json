@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Heroic Inspiration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Heroic Inspiration"
             }
           }
         ]
@@ -173,6 +173,12 @@
   },
   "active": "809142647c4da8d9",
   "lastOpenFiles": [
+    "Rules/Wild Magic Table.md",
+    "Classes/Sorcerer.md",
+    "index.md",
+    "Classes/Warlock.md",
+    "Feats/Feat.md",
+    "Heroic Inspiration.md",
     "Equipment/Weapons.md",
     "Equipment/Weapons/Sling Bullet.md",
     "Equipment/Weapons/Needle.md",
@@ -193,12 +199,6 @@
     "Equipment/Weapons/Glaive.md",
     "Equipment/Weapons/Morningstar.md",
     "Equipment/Weapons/Maul.md",
-    "Equipment/Weapons/Greatsword.md",
-    "Equipment/Weapons/Longsword.md",
-    "Equipment/Weapons/Lance.md",
-    "Equipment/Weapons/Halberd.md",
-    "Equipment/Weapons/Greataxe.md",
-    "Equipment/Weapons/Flail.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
