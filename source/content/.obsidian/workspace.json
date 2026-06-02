@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Greatclub.md",
+                "file": "Equipment/Handaxe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greatclub"
+              "title": "Handaxe"
             }
           }
         ],
@@ -188,8 +188,9 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Dagger.md",
     "Equipment/Greatclub.md",
+    "Equipment/Handaxe.md",
+    "Equipment/Dagger.md",
     "Equipment/Weapons.md",
     "Equipment/Weapons/Club.md",
     "Equipment/Weapons/Blowgun.md",
@@ -217,7 +218,6 @@
     "Equipment/Armour",
     "Equipments",
     "Classes/Wizard.md",
-    "Spells/Spells.md",
     "Spells/Spells.base",
     "The Setting/Locations/The Weeping Vale",
     "The Setting/Locations/The Mourning Isles",
