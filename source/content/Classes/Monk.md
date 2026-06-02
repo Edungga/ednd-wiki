@@ -32,7 +32,7 @@
 | 6th   | +3                | 1d8          | 6                | +15 ft.             | Empowered Strikes, Tradition Feature                                                                 |
 | 7th   | +3                | 1d8          | 7                | +15 ft.             | Evasion                                                                                              |
 | 8th   | +3                | 1d8          | 7                | +15 ft.             | Ability Score Improvement                                                                            |
-| 9th   | +4                | 1d8          | 8                | +15 ft.             | Acrobatic Movements                                                                                  |
+| 9th   | +4                | 1d8          | 8                | +15 ft.             | Purity of Soul                                                                                       |
 | 10th  | +4                | 1d8          | 8                | +20 ft.             | Heightend Focus, Self-Restoration                                                                    |
 | 11th  | +4                | 1d10         | 9                | +20 ft.             | Tradition Feature                                                                                    |
 | 12th  | +4                | 1d10         | 9                | +20 ft.             | Ability Score Improvement                                                                            |
@@ -105,10 +105,8 @@ You don't benefit from this feature if you are [[Conditions#Incapacitated (Condi
 Level 8: Ability Score Improvement
 
 
+Purity of Soul
 
-Level 9: Reactive
-You can spend a Ki to take an additional Reaction.
- - maybe this should be a technique
 
 
 Level 10: Purity of Body
@@ -126,7 +124,7 @@ Level 16: Ability Score Improvement
 
 Level 17: Tradition Feature
 
-Level 18: Purity of Soul
+Level 18: 
 At the start of your turn, you can expend 3 Ki Points to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
 
 
@@ -144,7 +142,8 @@ class features to make techniques
 Level 9: Wall Running
 While you aren't wearing armor, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
-
+Level 9: Reactive
+You can spend a Ki to take an additional Reaction.
 
 Level 10: Heightened Focus 
 Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
