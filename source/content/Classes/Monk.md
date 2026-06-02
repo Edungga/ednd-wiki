@@ -197,10 +197,9 @@ Additionally. you know the [[Shape Water]], [[Mould Earth]], [[Control Flames]],
 Level 6: Elemental Command
 When you spend Ki on a technique, you may apply one of the following:
 - **Push and Pull**. If the technique targeted a creature or object, you move that creature up to 10ft towards or away from you for each Ki spent.
+- **Seismic Sense**. You gain a Tremorsense 30ft and Advantage on Saves against being knocked [[Conditions#Prone (Condition)|Prone (Condition)]] and being [[Conditions#Petrified (Condition)|Petrified (Condition)]]. These benefits last until the end of your next turn
     
-- **Seismic Sense**. You gain a Tremorsense 30ft and Advantage on Saves against being knocked [[Conditions#pri]] Prone [Condition] or Petrified [Condition] until the end of your next turn
-    
-- Fire (Inner Flame). Whenever you spend at least 1 Ki on a Ki Form, you gain bonus Fire Damage on Unarmed Strikes and Monk Weapon Attacks equal to your Martials Arts die + Ki spent until the end of your next turn (does not stack).
+- Inner Flame. You gain bonus Fire Damage on Unarmed Strikes and Monk Weapon Attacks equal to the Ki spent until the end of your next turn (does not stack).
     
 
 Air (Enhanced Agility). Whenever you spend at least 1 Ki on a Ki Form, your Walk Speed is doubled, your Jump distance is tripled, and Movement does not provoke Opportunity Attacks until the end of your next turn
