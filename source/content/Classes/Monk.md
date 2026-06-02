@@ -119,6 +119,13 @@ Purity of Mind
 at the end of each of your turns you can remove one debuff from yourself
 
 
+Level 19: Epic Boon
+You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
+
+
+Level 20: Perfect Self
+Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
+
 ---
 class features to make techniques
 
