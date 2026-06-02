@@ -105,6 +105,12 @@ You don't benefit from this feature if you are [[Conditions#Incapacitated (Condi
 Level 8: Ability Score Improvement
 
 
+Level 9: Wall Running
+While you aren't wearing armor, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+
+Level 9: Reactive
+You can spend a Ki to take an additional Reaction.
+ - maybe t
 
 
 
