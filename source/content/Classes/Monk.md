@@ -361,3 +361,18 @@ You gain Darkvision with a range of 60 feet. If you already have Darkvision, its
 When targeted by an Attack or subjected to an effect that requires you to make a DEX Save, as a Reaction spend 1 Ki Point and Teleport up to 30ft to an unoccupied space, possibly escaping the range of line of effect.
 #### Shadowy Figments
 You know the [[Minor Illusion]] Cantrip, it counts as a [[Monk#Mystic Techniques|technique]] for you.
+
+### Shadow Techniques - Grade 2
+
+#### Shadow Step
+While entirely within Dim Light or Darkness, you can use a Bonus Action to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have Advantage on the next melee attack you make before the end of the current turn.
+
+
+
+### Shadow Techniques - Grade 3
+
+Improved Shadow Step
+You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in Dim Light or Darkness for that use of the feature. As part of this Bonus Action, you can make an Unarmed Strike immediately after you teleport.
+
+
+### Shadow Techniques - Grade 4
