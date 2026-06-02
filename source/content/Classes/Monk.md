@@ -128,6 +128,11 @@ Level 10: Purity of Body
 While in Combat, you do not suffer the negative consequences of Exhaustion [Condition] for d20 tests. 
 Additionally, when completing Short Rests you reduce your Exhaustion [Condition] level by 1 and when completing Long Rests you reduce your Exhaustion [Condition] level by 2.
 
+Purity of Mind
+
+
+
+
 
 ---
 # Monastic Traditions
