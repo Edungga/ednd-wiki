@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Light Hammer.md",
+                "file": "Equipment/Mace 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light Hammer"
+              "title": "Mace 1"
             }
           }
         ],
@@ -188,8 +188,10 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Javelin.md",
+    "Equipment/Mace.md",
+    "Equipment/Mace 1.md",
     "Equipment/Light Hammer.md",
+    "Equipment/Javelin.md",
     "Equipment/Handaxe.md",
     "Equipment/Weapons.md",
     "Equipment/Greatclub.md",
@@ -214,8 +216,6 @@
     "Equipment/Armour/Padded Armour.md",
     "Equipment/Armour/Leather Armour.md",
     "Equipment/Armour/Hide Armour.md",
-    "Equipment/Armour/Half Plate Armour.md",
-    "Equipment/Armour/Chain Shirt.md",
     "Equipment/Armour",
     "Equipments",
     "Spells/Spells.base",
