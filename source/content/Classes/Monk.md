@@ -30,20 +30,20 @@
 | 4th   | +2                | 1d6          | 5                | +10 ft.             | [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                |
 | 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                          |
 | 6th   | +3                | 1d8          | 6                | +15 ft.             | Empowered Strikes, Tradition Feature                                                                 |
-| 7th   | +3                | 1d8          | 7                | +15 ft.             | Evasion                                                                                              |
-| 8th   | +3                | 1d8          | 7                | +15 ft.             | Ability Score Improvement                                                                            |
-| 9th   | +4                | 1d8          | 8                | +15 ft.             | Purity of Soul                                                                                       |
-| 10th  | +4                | 1d8          | 8                | +20 ft.             | Heightend Focus, Self-Restoration                                                                    |
-| 11th  | +4                | 1d10         | 9                | +20 ft.             | Tradition Feature                                                                                    |
-| 12th  | +4                | 1d10         | 9                | +20 ft.             | Ability Score Improvement                                                                            |
-| 13th  | +5                | 1d10         | 10               | +20 ft.             | Deflect Energy                                                                                       |
-| 14th  | +5                | 1d10         | 10               | +25 ft.             | Disciplined Survivor                                                                                 |
-| 15th  | +5                | 1d10         | 11               | +25 ft.             | Perfect Focus                                                                                        |
-| 16th  | +5                | 1d10         | 11               | +25 ft.             | Ability Score Improvement                                                                            |
-| 17th  | +6                | 1d12         | 12               | +25 ft.             | Tradition Feature                                                                                    |
-| 18th  | +6                | 1d12         | 12               | +30 ft.             | Superior Defence                                                                                     |
-| 19th  | +6                | 1d12         | 13               | +30 ft.             | Epic Boon                                                                                            |
-| 20th  | +6                | 1d12         | 13               | +30 ft.             | Body and Mind                                                                                        |
+| 7th   | +3                | 1d8          | 7                | +15 ft.             |                                                                                                      |
+| 8th   | +3                | 1d8          | 7                | +15 ft.             |                                                                                                      |
+| 9th   | +4                | 1d8          | 8                | +15 ft.             |                                                                                                      |
+| 10th  | +4                | 1d8          | 8                | +20 ft.             |                                                                                                      |
+| 11th  | +4                | 1d10         | 9                | +20 ft.             |                                                                                                      |
+| 12th  | +4                | 1d10         | 9                | +20 ft.             |                                                                                                      |
+| 13th  | +5                | 1d10         | 10               | +20 ft.             |                                                                                                      |
+| 14th  | +5                | 1d10         | 10               | +25 ft.             |                                                                                                      |
+| 15th  | +5                | 1d10         | 11               | +25 ft.             |                                                                                                      |
+| 16th  | +5                | 1d10         | 11               | +25 ft.             |                                                                                                      |
+| 17th  | +6                | 1d12         | 12               | +25 ft.             |                                                                                                      |
+| 18th  | +6                | 1d12         | 12               | +30 ft.             |                                                                                                      |
+| 19th  | +6                | 1d12         | 13               | +30 ft.             |                                                                                                      |
+| 20th  | +6                | 1d12         | 13               | +30 ft.             |                                                                                                      |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
@@ -108,25 +108,33 @@ Level 8: Ability Score Improvement
 Level 9: Tranquillity 
 Whenever you are forced to make a saving throw, you can expend 1 Ki to add your Wisdom modifier to the result of your roll.
 
+
 Level 10: Purity of Body
 While in Combat, you do not suffer the negative consequences of Exhaustion [Condition] for d20 tests. 
 Additionally, when completing Short Rests you reduce your Exhaustion [Condition] level by 1 and when completing Long Rests you reduce your Exhaustion [Condition] level by 2.
+
 
 Level 11: Tradition Feature
 
 Level 12: Ability Score Improvement
 
+
 Level 13: Purity of Mind
 at the end of each of your turns you can spend 1 Ki point to remove one debuff from yourself
+
 
 Level 14: Perfect Focus
 Whenever you roll initiative, regain expended Ki up to your Wisdom modifier
 
-Level 15: 
+
+Level 15: Timeless Body
+Your Ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water. For every 10 years that pass, your body only physically ages 1 year.
+
 
 Level 16: Ability Score Improvement
 
 Level 17: Tradition Feature
+
 
 Level 18: Empty Body
 At the start of your turn, you can expend 3 Ki Points to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
@@ -164,9 +172,6 @@ You can now use your Deflect Attacks feature against attacks that deal any damag
 
 13th Level: Tongue of the Sun and Moon
 You learn to touch the Ki of other minds so that you understand all spoken Languages. Moreover, any creature that can understand a Language can understand what you say.
-
-15th Level: Timeless Body
-Your Ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water. For every 10 years that pass, your body only physically ages 1 year.
 
 
 
