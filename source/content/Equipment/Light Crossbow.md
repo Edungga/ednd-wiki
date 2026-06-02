@@ -2,8 +2,9 @@
 tags:
   - Item
   - Simple-Ranged-Weapon
-Cost: 5 CP
-Damage: 1d4 Piercing
-Weapon Property: "[[Weapons#Finesse|Finesse]], [[Weapons#Thrown|Thrown (Range 20/60)]]"
+Cost: 25 GP
+Damage: 1d8 Piercing
+Weapon Property:
 Weapon Mastery: "[[Weapon Mastery Properties#Vex|Vex]]"
 ---
+[[Weapons#Range|Range (80/320)]], [[Weapons#Ammunition|Ammunition (Bolt)]], [[Weapons#Loading|Loading]]
