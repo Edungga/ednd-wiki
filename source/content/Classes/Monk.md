@@ -29,6 +29,8 @@
 | 3rd   | +2                | 1d6          | 4                | +10 ft.             | [[Monk#Level 3 Monastic Traditions\|Monastic Traditions]]                                            |
 | 4th   | +2                | 1d6          | 5                | +10 ft.             | [[Monk#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                |
 | 5th   | +3                | 1d8          | 6                | +10 ft.             | [[Monk#Level 5 Extra Attack\|Extra Attack]]                                                          |
+|       |                   |              |                  |                     |                                                                                                      |
+|       |                   |              |                  |                     |                                                                                                      |
 
 ## Level 1: Unarmoured Defence
 While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
