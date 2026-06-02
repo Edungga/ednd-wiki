@@ -206,7 +206,7 @@ you know two more elemental techniques you meet the prerequisites for
 
 
 Level 17: Elemental Epitome
-once per turn you can perform an elemental teqnique 
+you can perform an elemental technique without spending Ki, when you do so you gain a level of exhaustion
 
 ## Way of the Drunken Master
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
