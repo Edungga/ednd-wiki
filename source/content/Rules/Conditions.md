@@ -1,4 +1,6 @@
 ## Dying (Condition)
+When a Player Character falls to 0
+
 **Death Saves**. Start of your turns you must make a Death Save; roll a d20, 10+ is a success, 9 or less is a failure. Rolling a 1 counts as two failures. Rolling a 20, you regain 1 Hit Point.
 
 If you accumulate 3 successes before 3 failures, you are Stabilised. If you accumulate 3 failures before 3 successes, you die.
