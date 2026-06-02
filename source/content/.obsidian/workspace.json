@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Double-Bladed Scimitar.md",
+                "file": "Equipment/Glaive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Double-Bladed Scimitar"
+              "title": "Glaive"
             }
           }
         ],
@@ -188,8 +188,10 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
+    "Equipment/Flail.md",
+    "Equipment/Glaive.md",
+    "Equipment/Weapons/Double-Bladed Scimitar.md",
     "Equipment/Weapons.md",
-    "Equipment/Double-Bladed Scimitar.md",
     "Equipment/Weapon Mastery Properties.md",
     "Equipment/Weapons/Sling.md",
     "Equipment/Weapons/Shortbow.md",
@@ -214,8 +216,6 @@
     "Equipment/Items.base",
     "Equipment/Armour/Tower Shield.md",
     "Equipment/Armour/Chain Mail.md",
-    "Equipment/Armour/Scale Mail.md",
-    "Equipment/Armour/Ring Mail.md",
     "Equipment/Armour",
     "Equipments",
     "Spells/Spells.base",
