@@ -53,4 +53,10 @@ Short Rests - 5 minutes but a limit of 2 per Long Rest
 
 my own [[Wild Magic Table]]
 
+[[Strongholds]]
+
+[[Retainer]]
+
+
+
 
