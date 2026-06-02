@@ -7,8 +7,6 @@ If you accumulate 3 successes before 3 failures, you are Stabilised. If you accu
 
 **Auto Fails**. Any time you take damage, you automatically fail a Death Save. If its from an Attack that crits, you fail two Death Saves instead.
 
-**Deaths Door**. You lose Concentration and are Incapacitated
-
 ## Exhaustion (Condition)
 **Levels of Exhaustion**. This Condition is cumulative. Each time you receive it, you gain 1 level of Exhaustion. You die if your Exhaustion level exceeds 10.
 

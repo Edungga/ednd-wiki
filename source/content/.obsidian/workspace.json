@@ -35,8 +35,7 @@
               "title": "Conditions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba2f4e217cb5d454",
+  "active": "809142647c4da8d9",
   "lastOpenFiles": [
+    "Rules/Conditions.md",
     "Heroic Inspiration.md",
     "Rules/Wild Magic Table.md",
     "Classes/Sorcerer.md",
@@ -213,7 +213,6 @@
     "Equipment/Weapons/Pike.md",
     "Equipment/Weapons/Glaive.md",
     "Equipment/Weapons/Morningstar.md",
-    "Equipment/Weapons/Maul.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
