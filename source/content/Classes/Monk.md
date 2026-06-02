@@ -93,8 +93,16 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 
 Level 6: Empowered Strikes
+Whenever you deal damage with your Unarmed Strike, it can deal your choice of Force damage or its normal damage type.
 
 
+Level 7: Evasion
+When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
+
+You don't benefit from this feature if you are [[Conditions#Incapacitated (Condition)|Incapacitated (Condition)]]
+
+
+Level 8: Ability Score Improvement
 
 
 
