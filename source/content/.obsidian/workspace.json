@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Shortbow.md",
+                "file": "Equipment/Sling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortbow"
+              "title": "Sling"
             }
           }
         ],
@@ -188,8 +188,9 @@
   },
   "active": "9d0bd1aa9e8480c2",
   "lastOpenFiles": [
-    "Equipment/Light Crossbow.md",
     "Equipment/Shortbow.md",
+    "Equipment/Sling.md",
+    "Equipment/Light Crossbow.md",
     "Equipment/Weapons/Blowgun.md",
     "Equipment/Weapons.md",
     "Equipment/Dart.md",
@@ -215,7 +216,6 @@
     "Equipment/Armour/Ring Mail.md",
     "Equipment/Armour/Breastplate.md",
     "SPELL-TEMPLATE.md",
-    "Equipment/Armour/Splint Armour.md",
     "Equipment/Armour",
     "Equipments",
     "Spells/Spells.base",
