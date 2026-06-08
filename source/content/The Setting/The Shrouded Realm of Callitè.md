@@ -62,3 +62,4 @@ The Realm of Callitè is broken up into 6 main regions
 - [[Children of Colossus]]
 - [[The Talon]]
 - [[The Order Arcanum Exterminatus]]
+- [[Rangers of the Lodge]]
