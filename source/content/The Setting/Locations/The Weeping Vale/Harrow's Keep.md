@@ -8,5 +8,5 @@ The keep itself which the city gains its modern name, is the old guard house now
 
 Power within Harrow's Keep is divided between the
 - [[Merchant Guilds]]
-- [[The Nobility of the Vale]]
+- [[The Nobility of the Vale#Noble Houses of Harrow's Keep|Noble Houses of Harrow's Keep]]
 - [[The Synodos]]
