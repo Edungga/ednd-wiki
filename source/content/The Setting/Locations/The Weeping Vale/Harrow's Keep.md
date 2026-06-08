@@ -9,4 +9,4 @@ The keep itself which the city gains its modern name, is the old guard house now
 Power within Harrow's Keep is divided between the
 - Merchants Guild 
 - Nobel houses
-- remnants of the old clergy
+- The Clergy
