@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "The Nobility of the Vale"
             }
-          },
-          {
-            "id": "d6fb487bb9dbf13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Merchant Guilds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Merchant Guilds"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6fb487bb9dbf13f",
+  "active": "7a7b19a23177726c",
   "lastOpenFiles": [
-    "The Setting/Locations/The Weeping Vale/Harrow's Keep.md",
     "Merchant Guilds.md",
+    "The Setting/Locations/The Weeping Vale/Harrow's Keep.md",
     "The Setting/Organisations & Factions/The Nobility of the Vale.md",
     "The Setting/Organisations & Factions/The Synodos.md",
     "The Setting/Locations/The Weeping Vale/The Weeping Vale.md",
