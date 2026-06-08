@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Locations/The Weeping Vale/Harrow's Keep.md",
+                "file": "The Setting/Organisations & Factions/The Nobility of the Vale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harrow's Keep"
+              "title": "The Nobility of the Vale"
             }
           }
         ],
@@ -188,8 +188,8 @@
   },
   "active": "7a7b19a23177726c",
   "lastOpenFiles": [
-    "The Setting/Organisations & Factions/The Synodos.md",
     "The Setting/Locations/The Weeping Vale/Harrow's Keep.md",
+    "The Setting/Organisations & Factions/The Synodos.md",
     "The Setting/Locations/The Weeping Vale/The Weeping Vale.md",
     "The Setting/The Shrouded Realm of Callitè.md",
     "The Setting/Organisations & Factions/Rangers of the Lodge.md",
