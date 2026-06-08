@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Setting/Locations/The Gloamwood/Luntwood Lodge.md",
+                "file": "Rangers of the Lodge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luntwood Lodge"
+              "title": "Rangers of the Lodge"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "809142647c4da8d9",
   "lastOpenFiles": [
+    "The Setting/Locations/The Gloamwood/Luntwood Lodge.md",
+    "Rangers of the Lodge.md",
     "The Setting/Locations/The Weeping Vale/Harrow's Keep.md",
     "Classes/Monk.md",
     "Pasted image 20260602150721.png",
@@ -200,8 +202,6 @@
     "Equipment/Weapons/Warhammer.md",
     "Equipment/Weapons/Trident.md",
     "Equipment/Weapons/Shortsword.md",
-    "Equipment/Weapons/Scimitar.md",
-    "Equipment/Weapons/Rapier.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
