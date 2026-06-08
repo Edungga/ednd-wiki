@@ -7,6 +7,6 @@ Much of the old city has crumpled into ruin along with the old citadel
 The keep itself which the city gains its modern name, is the old guard house now converted into the closest proximity of a royal estate these times allow for.
 
 Power within Harrow's Keep is divided between the
-- Merchants Guild 
+- [[Merchant Guilds]]
 - [[The Nobility of the Vale]]
 - [[The Synodos]]
