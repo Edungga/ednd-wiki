@@ -18,3 +18,7 @@ You can use this Bonus Action a number of times equal to your Proficiency Bonus,
 
 ---
 # Lore
+
+Once they held the mightiest kingdom in the known world, but that too fell into ruin.
+
+Known for their mighty metalurgy, min

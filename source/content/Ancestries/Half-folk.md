@@ -17,3 +17,5 @@
 
 ---
 # Lore
+
+mostly considered as Human, but they are known as non-human
