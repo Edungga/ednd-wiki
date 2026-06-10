@@ -26,3 +26,11 @@
 ---
 # Lore
 A cursed, tainted lineage, or something else has turned you into a partial beast 
+
+Bestial forms they most commonly resemble:
+- Avian - Bird, often a type of owl or pale feathered parrot
+- Corvid - Black bird like Raven or Crow
+- Feline - Nimble cat
+- Leonin - Great cat like a lion
+- Haren - rabbit or hare
+- Porsine - pig or orc like appearance
