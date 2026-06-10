@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancestries/Blessed Born.md",
+                "file": "Ancestries/Goliath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blessed Born"
+              "title": "Goliath"
             }
           }
         ],
@@ -189,8 +189,8 @@
   "active": "7a7b19a23177726c",
   "lastOpenFiles": [
     "index.md",
-    "Ancestries/Ill-Fated.md",
     "Ancestries/Blessed Born.md",
+    "Ancestries/Ill-Fated.md",
     "The Setting/Organisations & Factions/The Tidebound Grove.md",
     "Ancestries/Elf.md",
     "The Setting/Organisations & Factions/The Gloamkin.md",

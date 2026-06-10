@@ -26,3 +26,4 @@ Here are the transformation options:
 
 ---
 # Lore
+Usually, but not exclusively, humans born with an ethereal grace. From the second you lay eyes on them you can tell they're different, destined for greater things.
