@@ -33,47 +33,8 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 ---
 # Lore
 
-## The Gloamkin
-The Gloamkin are a sect of Wode Elves that dwell beneath the endless canopy of the Gloamwood, where their hidden settlements are woven into ancient trees and overgrown ruins swallowed long ago by the forest.
-
-They rarely interfere with outsiders unless the forest itself is threatened. Travelers who wander too deeply into the Gloamwood sometimes glimpse pale figures silently watching from the trees before vanishing without sound.
-
-The Gloamkin are known for:
-- moss-dyed cloaks,
-- antlered masks worn during rituals,
-- guardians of forbidden places
-- Feared as forest spirits and witches
-
-## The Tidewardens
-Along the eastern coast and among the Mourning Isles live the Tidewardens - elusive sea-elves tied to cold waters, storms, and ancient lighthouses.
-
-They are rarely seen openly, though sailors tell stories of:
-- silent figures walking reefs during storms,
-- strange songs carried across fog,
-- and pale ships appearing where no ship should sail.
-
-## The Hollow Court
-Deep beneath the northern mountains lying the shattered remains of a vast subterranean empire once ruled by the dwarven thanes of old can be found the Hollow Court. 
-Endless stone roads, collapsed halls, buried foundries, and drowned vault-cities still stretch beneath the mountains for hundreds of miles, though much of the ancient kingdom has long since fallen into darkness. The Court itself does not rule the deep kingdom. It merely survives within it.
-
-Over generations, the Court has become deeply tied to the ruins around them, preserving fragments of ancient law, funerary rites, and half-understood traditions inherited from the fallen depths.
-Unlike many tales told on the surface, the Hollow Court are not conquerors seeking war above. They are a fractured people surviving among endless ruins.
-
-They are known for:
-- silver funerary masks,
-- Pale, ghostly white skin
-- Large and deep black eyes
-- flowing drapes of tattered fabric their wear as clothes with various relics hanging about them
-
-## The Auric Houses
-Along the storm-lashed western coast stand the remnants of ancient high elven haven once belonging to the Auric Houses, a proud dynasty that ruled trade, diplomacy, and learning, most of their domain now in ruin.
-
-The surviving Auric bloodlines live in isolated cliffside estates and half-ruined coastal courts overlooking black waters. Though diminished, they maintain elaborate traditions of etiquette, poetry, music, and ceremonial duelling.
-
-To common folk they are:
-- impossibly refined,
-- emotionally alien,
-- and unsettlingly beautiful
-
-
-
+4 types of Elf:
+- Wode Elf, associated with [[The Gloamkin]]
+- Sea Elf, associated with [[The Tidebound Grove#The Tidewardens|The Tidewardens of The Tidebound Grove]]
+- Dark Elf, associated with [[The Hollow Court]]
+- High Elf, associated with [[The Auric Houses]]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancestries/Elf.md",
+                "file": "The Setting/Organisations & Factions/The Tidebound Grove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elf"
+              "title": "The Tidebound Grove"
             }
           }
         ],
@@ -188,6 +188,8 @@
   },
   "active": "7a7b19a23177726c",
   "lastOpenFiles": [
+    "Ancestries/Elf.md",
+    "The Gloamkin.md",
     "index.md",
     "Ancestries/Dwarf.md",
     "Ancestries/Half-folk.md",
@@ -215,8 +217,6 @@
     "Equipment/Weapons/Sling Bullet.md",
     "Equipment/Weapons/Needle.md",
     "Equipment/Weapons/Bolt.md",
-    "Equipment/Weapons/Arrow.md",
-    "Equipment/Weapons/Greatbow.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
