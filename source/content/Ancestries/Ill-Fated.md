@@ -32,3 +32,5 @@ Usually, but not exclusively, humans born with infernal features such as:
 - horns
 - skin of odd hues (often red)
 - scales
+
+These Ill-fated children are born under a sign or ill legacy that holds a powerful sway over their life; Pestilence, Death, or Conquest
