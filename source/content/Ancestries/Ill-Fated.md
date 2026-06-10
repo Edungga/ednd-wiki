@@ -26,3 +26,9 @@ You can cast it once without a spell slot, and you regain the ability to cast it
 ---
 # Lore
 Also called Tieflings
+
+Usually, but not exclusively, humans born with infernal features such as:
+- cloven hooves
+- horns
+- skin of odd hues (often red)
+- scales
