@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancestries/Goliath.md",
+                "file": "Ancestries/Beast-folk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goliath"
+              "title": "Beast-folk"
             }
           }
         ],
@@ -189,6 +189,7 @@
   "active": "7a7b19a23177726c",
   "lastOpenFiles": [
     "index.md",
+    "Ancestries/Goliath.md",
     "Ancestries/Blessed Born.md",
     "Ancestries/Ill-Fated.md",
     "The Setting/Organisations & Factions/The Tidebound Grove.md",
@@ -216,7 +217,6 @@
     "Classes/Sorcerer.md",
     "Classes/Warlock.md",
     "Feats/Feat.md",
-    "Equipment/Weapons.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
