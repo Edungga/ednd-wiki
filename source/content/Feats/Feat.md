@@ -95,22 +95,6 @@ You gain the following benefits.
 - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
 - **Armor Training**. You gain training with Medium armor.
 
-## Piercer
-You gain the following benefits.
-- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
-- **Puncture**. Once per turn, when you hit a creature with an attack that deals Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
-- **Enhanced Critical**. When you score a Critical Hit that deals Piercing damage to a creature, you can roll one additional damage die when determining the extra Piercing damage the target takes.
-
-## Resilient
-You gain the following benefits.
-- **Ability Score Increase**. Choose one ability in which you lack saving throw proficiency. Increase the chosen ability score by 1, to a maximum of 20.
-- **Saving Throw Proficiency**. You gain saving throw proficiency with the chosen ability.
-
-## Slasher
-You gain the following benefits.
-- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
-- **Hamstring**. Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
-- **Enhanced Critical**. When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
 
 ## Weapon Training
 You gain the following benefits.
@@ -259,6 +243,12 @@ You gain the following benefits.
 - **Ability Score Increase**. Increase your Intelligence or Wisdom by 1, to a maximum of 20.
 - **Keen Observer**. Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 - **Quick Search**. You can take the Search action as a Bonus Action.
+
+## Piercer
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+- **Puncture**. Once per turn, when you hit a creature with an attack that deals Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+- **Enhanced Critical**. When you score a Critical Hit that deals Piercing damage to a creature, you can roll one additional damage die when determining the extra Piercing damage the target takes.
 
 ## Poisoner
 Prerequisite: Level 4+
