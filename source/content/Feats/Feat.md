@@ -105,6 +105,8 @@ You gain the following benefits.
 You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll an additional weapon's damage dice and add to the total.
 
 ## Scholar
+Academic Training. You gain proficiency in one skill: Arcana, History, Investigation, Nature, or Religion.
+
 
 
 ## Skilled
