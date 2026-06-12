@@ -12,10 +12,18 @@ You can use this feature a number of times equal to your Proficiency Bonus, and 
 
 When you cast this cantrip, you can choose to subtly modify its expression (colour, shape, sound, glyph-like manifestations), allowing it to be recognised as Collegium work by other members of the Amber Collegium.
 
+## Acolyte of Virtue
+
+
+
 ## Alert
 **Initiative Proficiency**. When you roll Initiative, you can add your Proficiency Bonus to the roll. 
 
 **Initiative Swap**. Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.
+
+## Diplomat
+
+
 
 ## Guild Artisan
 You were trained by one of the [[Merchant Guilds]] and learned the value of expertise, reputation, and honest work.
