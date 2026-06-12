@@ -39,12 +39,12 @@ You trained among the Nests of [[The Talon]], learning how to survive in a world
 **Skill Proficiency**. You gain proficiency in the Stealth skill. If you already have proficiency in Stealth, gain proficiency in another skill of your choice.
 
 **Nest Contacts**. You know how to identify Talon signs, hidden caches, and informal contacts.
-In a settlement, you can spend 1 hour seeking information through local underworld channels. At the end of that hour, you learn one of the following of the DM's choice:
+In a settlement, you can spend 1 hour seeking information through local underworld channels. At the end of that hour, you learn one of the following:
 - A local rumour
 - The location of a hidden market, safehouse, or smuggling route
 - The name of a criminal, fence, or fixer operating nearby
 - Information about recent law enforcement activity
-- Hidden c
+- Hidden cache (contents DM's choice)
 
 ## Tavern Brawler
 **Enhanced Unarmed Strike**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
