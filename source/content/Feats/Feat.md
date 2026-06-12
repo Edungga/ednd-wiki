@@ -17,7 +17,26 @@ You were raised or initiated within a temple, shrine order, or itinerant faith, 
 
 **Sacred Training**. You gain proficiency in one skill: Insight, Medicine, or Religion. If you already have proficiency in the chosen skill, you gain Expertise instead.
 
+Ritual Knowledge. You can identify common religious rites, funerary practices, blessings, curses, and consecrations.
 
+You have advantage on Intelligence (Religion) checks made to:
+
+Identify divine or infernal effects
+Recognise religious symbols, relics, or sanctified sites
+Recall doctrine or taboo associated with a faith
+
+
+Sanctuary of Civility
+
+When you enter a settlement or sacred site where you are not hostile, you can usually find a place of rest or temporary sanctuary among the faithful or local clergy.
+
+This does not guarantee safety, but it provides:
+
+Basic shelter or refuge
+Minimal food or water if available
+A neutral audience with a local representative of the faith (if present)
+
+Once you use this feature in a settlement, you cannot use it again there until 7 days have passed.
 
 ## Alert
 **Initiative Proficiency**. When you roll Initiative, you can add your Proficiency Bonus to the roll. 
