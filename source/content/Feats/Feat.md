@@ -78,8 +78,7 @@ You were raised in flooded lowlands and pestilent wetlands of [[The Mirelands]],
 - Salvageable materials worth minor coin value (scrap metal, glass, bone, cloth, etc.)
 - One piece of mundane gear that could reasonably be lost or discarded nearby
 - A useful environmental detail (hidden path, unstable ground, submerged entrance, safe footing route)
-
-Once you use this feature in a given area, you cannot use it again in that same immediate location for 24 hours.
+You can use this feature once per Long Rest.
 
 **Swallowed by reeds**. You can attempt to Hide even when you are only lightly obscured by natural marsh features (reeds, fog, shallow water, standing water reflections).
 
@@ -111,7 +110,7 @@ You've trained to deal particularly damaging strikes. Once per turn when you hit
 - “What is out of place or inconsistent here?”
 - “What was likely the purpose of this?”
 - “What is being concealed or omitted?”
-The DM answers truthfully but may be brief or interpretive.
+The DM answers truthfully but may be brief or interpretive. You may use this feature Proficiency Bonus times per Long Rest.
 
 **Knowledge Under Pressure**. When you fail an Intelligence check, you can choose to reroll the d20.
 You must use the new roll. Once you use this feature, you cannot use it again until you finish a Long Rest.
