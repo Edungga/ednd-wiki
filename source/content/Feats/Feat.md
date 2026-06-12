@@ -24,7 +24,8 @@ When you cast this cantrip, you can choose to subtly modify its expression (colo
 ## Diplomat
 You were trained in the protocols of negotiation, etiquette, and political communication, whether among [[The Nobility of the Vale]], [[The Auric Houses]], or other diplomatic envoy corps.
 
-**Court Training**. You gain proficiency in one skill of your choice: Persuasion, Insight, or History.
+**Protocol Training**. You gain proficiency in one skill of your choice: Persuasion, Insight, or History. 
+You also learn one additional language of your choice.
 
 **Read the Room**. When you spend at least 1 minute observing or conversing with a creature, you can learn one of the following about it:
 - Its general social standing (authority, wealth, or influence relative to its environment)
