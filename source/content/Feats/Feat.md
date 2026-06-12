@@ -47,12 +47,6 @@ Your Hit Point maximum increases by an amount equal to twice your character leve
 
 # Level 1 Feats
 
-## Crusher
-You gain the following benefits.
-- **Ability Score Increase**. Increase your Strength or Constitution by 1, to a maximum of 20.
-- **Push**. Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
-- **Enhanced Critical**. When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
-
 ## Fey-Touched
 Your exposure to the Feywild's magic grants you the following benefits.
 - **Ability Score Increase**. Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
@@ -130,6 +124,12 @@ You gain the following benefits.
 - **Quick Load**. You ignore the Loading property of Crossbows. If you're holding one of them, you can load a piece of ammunition into it even if you lack a free hand.
 - **Firing in Melee**. Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.
 - **Dual Wielding**. When you engage in [[Bonus Actions#Two-Weapon Fighting|Two-Weapon Fighting]], you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow.
+
+## Crusher
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Constitution by 1, to a maximum of 20.
+- **Push**. Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
+- **Enhanced Critical**. When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
 
 ## Defensive Duelist
 *Prerequisites: Level 4+, Dexterity 13+*
@@ -274,6 +274,12 @@ You gain the following benefits.
 - **Ritual Spells**. Choose a number of level 1 spells equal to your Proficiency Bonus that have the Ritual tag. You always have those spells prepared, and you can cast them with any spell slots you have. The spells' spellcasting ability is the ability increased by this feat. Whenever your Proficiency Bonus increases thereafter, you can add an additional level 1 spell with the Ritual tag to the spells always prepared with this feature.
 - **Quick Ritual**. With this benefit, you can cast a Ritual spell that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn't require a spell slot. Once you cast the spell in this way, you can't use this benefit again until you finish a Long Rest.
 
+
+## Resilient
+You gain the following benefits.
+- **Ability Score Increase**. Choose one ability in which you lack saving throw proficiency. Increase the chosen ability score by 1, to a maximum of 20.
+- **Saving Throw Proficiency**. You gain saving throw proficiency with the chosen ability.
+
 ## Sentinel
 Prerequisites: Level 4+, Strength or Dexterity 13+
 
@@ -308,6 +314,11 @@ You gain the following benefits.
 - **Fog of War**. You exploit the distractions of battle, gaining Advantage on any Dexterity (Stealth) check you make as part of the Hide action during combat.
 - **Sniper**. If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
 
+## Slasher
+You gain the following benefits.
+- **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
+- **Hamstring**. Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
+- **Enhanced Critical**. When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
 
 ## Speedy
 Prerequisites: Level 4+, Dexterity or Constitution 13+
@@ -317,7 +328,6 @@ You gain the following benefits.
 - **Speed Increase**. Your Speed increases by 10 feet.
  - **Dash over Difficult Terrain**. When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
 - **Agile Movement**. Opportunity Attacks have Disadvantage against you.
-
 
 ## Spell Sniper
 Prerequisites: Level 4+; Spellcasting or Pact Magic Feature
