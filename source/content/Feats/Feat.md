@@ -9,9 +9,14 @@ You were trained by one of the [[Merchant Guilds]] and learned the value of expe
 
 **Guild Training**. Choose one set of Artisan's Tools. You gain proficiency with those tools. Whenever you make an ability check using those tools, you can add your Proficiency Bonus twice instead of once.
 
-Guild Connections. You know how to identify guild offices, guild merchants, and accredited craftsmen.
+Fulcrum Charter. You know the customs, laws, and trade practices of the Merchant Guilds.
 
-In any settlement where the Merchant Guilds operate, you can usually secure lodging, workspace, or professional assistance appropriate to your trade.
+When interacting with merchants, caravan masters, guild officials, or craftsmen, you can usually identify:
+
+Their guild affiliation.
+Their standing within the guild.
+Whether they are violating accepted trade practices.
+
 
 Accredited Merchant
 
