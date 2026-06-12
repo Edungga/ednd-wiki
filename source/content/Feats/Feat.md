@@ -72,6 +72,10 @@ When interacting with merchants, caravan masters, guild officials, or craftsmen,
 ## Marshland Scavenger
 You were raised in flooded lowlands and pestilent wetlands of [[The Mirelands]], where survival depends on what you can salvage rather than what you can grow or buy.
 
+**Bog-Born Instincts**. You gain proficiency in Survival or Investigation.
+If you already have proficiency in the chosen skill, you gain Expertise instead.
+
+
 ## Magic Initiate
 **Two Cantrips**. You learn two [[Spells#Cantrips|Cantrips]] of your choice from the [[Arcane Spell List]], [[Divine Spell List]], or [[Primal Spell List]]. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this feat's spells (choose when you select this feat).
 
