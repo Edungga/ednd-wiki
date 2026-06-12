@@ -81,8 +81,9 @@ You were raised in flooded lowlands and pestilent wetlands of [[The Mirelands]],
 
 Once you use this feature in a given area, you cannot use it again in that same immediate location for 24 hours.
 
+**Swallowed by reeds**. You can attempt to Hide even when you are only lightly obscured by natural marsh features (reeds, fog, shallow water, standing water reflections).
 
-
+You also do not have Disadvantage on Dexterity (Stealth) checks while moving through shallow water or muddy terrain.
 
 ## Magic Initiate
 **Two Cantrips**. You learn two [[Spells#Cantrips|Cantrips]] of your choice from the [[Arcane Spell List]], [[Divine Spell List]], or [[Primal Spell List]]. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this feat's spells (choose when you select this feat).
