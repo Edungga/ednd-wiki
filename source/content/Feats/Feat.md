@@ -110,6 +110,7 @@ You've trained to deal particularly damaging strikes. Once per turn when you hit
 - decipher written codes, ciphers, or encrypted texts
 - understand ancient, regional, or corrupted dialects
 - reconstruct incomplete maps or records
+- Other clue-based inference (DM discression)
 You may use this feature Proficiency Bonus times per Long Rest.
 
 **Knowledge Under Pressure**. When you fail an Intelligence check, you can choose to reroll the d20.
