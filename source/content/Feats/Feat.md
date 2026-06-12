@@ -4,22 +4,13 @@ You were initiated into the [[Amber Collegium]] and bear its living insignia, a 
 
 **Amber Insignia**. Your Amber Insignia functions as a spellcasting focus for any spell you cast. You can form or dismiss it as a Bonus Action, causing it to appear as a crystalline mark on your hand, wrist, or collarbone.
 
-Arcane Reflex
-
-You have learned to twist minor magic away from yourself.
-
-When you are forced to make an Intelligence, Wisdom, or Charisma saving throw against a spell or magical effect, you can add a d4 to the roll.
+**Arcane Reflex**. You have learned to twist minor magic away from yourself. When you are forced to make an Intelligence, Wisdom, or Charisma saving throw against a spell or magical effect, you can add a d4 to the roll.
 
 You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-Collegiate Formula
-
-You learn one cantrip of your choice from the Arcane spell list.
-
-Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you gain this feat).
+**Collegiate Formula**. You learn one cantrip of your choice from the [[Arcane Spell List]]. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you gain this feat).
 
 When you cast this cantrip, you can choose to subtly modify its expression (colour, shape, sound, glyph-like manifestations), allowing it to be recognised as Collegium work by other members of the Amber Collegium.
-
 
 ## Alert
 **Initiative Proficiency**. When you roll Initiative, you can add your Proficiency Bonus to the roll. 
