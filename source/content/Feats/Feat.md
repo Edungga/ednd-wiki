@@ -107,7 +107,7 @@ You've trained to deal particularly damaging strikes. Once per turn when you hit
 ## Scholar
 **Academic Training**. You gain proficiency in one skill: Arcana, History, Investigation, Nature, or Religion.
 
-**Pattern Recognition**. When you examine a scene, object, or written text for at least 1 minute, you can ask the DM one of the following questions:
+**Pattern Recognition**. When you examine a scene, object, or written text, you can ask the DM one of the following questions:
 - “What is out of place or inconsistent here?”
 - “What was likely the purpose of this?”
 - “What is being concealed or omitted?”
