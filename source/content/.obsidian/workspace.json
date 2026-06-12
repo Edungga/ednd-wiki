@@ -35,8 +35,7 @@
               "title": "Example Character Briefs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Background/Example Character Briefs.md",
+                "file": "Feats/Feat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Example Character Briefs"
+              "title": "Outline of Feat"
             }
           }
         ],
@@ -185,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6096ffaecb9cec63",
+  "active": "7a7b19a23177726c",
   "lastOpenFiles": [
+    "Background/Example Character Briefs.md",
     "Feats/Feat.md",
     "index.md",
-    "Background/Example Character Briefs.md",
     "Ancestries/Beast-folk.md",
     "Ancestries/Goliath.md",
     "Ancestries/Blessed Born.md",

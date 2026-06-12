@@ -34,7 +34,7 @@ You gain Proficiency in any combination of three Skills or tools of your choice.
 **Repeatable**. You can take this feat more than once.
 
 ## Talon Operative
-You were raised among the Nests of [[The Talon]], learning how to survive in a world where trust is scarce, authority is temporary, and every flooded ruin might hide opportunity.
+You trained among the Nests of [[The Talon]], learning how to survive in a world where trust is scarce, authority is temporary, and every flooded ruin might hide opportunity.
 
 **Skill Proficiency**. You gain proficiency in the Stealth skill. If you already have proficiency in Stealth, gain proficiency in another skill of your choice.
 
