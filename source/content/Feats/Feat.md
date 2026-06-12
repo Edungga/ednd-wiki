@@ -49,7 +49,7 @@ You also learn one additional language of your choice.
 You can use this feature a number of times equal to your Proficiency Bonus, and regain all uses on a Long Rest.
 
 **Diplomatic Immunity**. When interacting with officials, guards, minor nobility, or recognized civic authorities, you can usually secure a brief audience or hearing without needing to make a Persuasion check, provided you are not hostile or obviously threatening.
-This does not guarantee favourable treatment, only access.
+You can only use this feature once per settlement.
 
 ## Guild Artisan
 You were trained by one of the [[Merchant Guilds]] and learned the value of expertise, reputation, and honest work.
