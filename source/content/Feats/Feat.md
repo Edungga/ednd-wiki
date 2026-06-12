@@ -15,16 +15,7 @@ When interacting with merchants, caravan masters, guild officials, or craftsmen,
 - Their standing within the guild.
 - Whether they are violating accepted trade practices.
 
-**Accredited Merchant**. You are recognized as a legitimate guild member. Whenever you purchase a nonmagical item from one of the Merchant Guilds, you receive a 10% discount.
-
-
-Fast Crafting
-
-When you finish a Long Rest, you may craft one item associated with your chosen tools from the Fast Crafting table.
-
-The item lasts until your next Long Rest, when it falls apart..
-
-
+**Accredited Merchant**. You are recognized as a legitimate guild member and well versed in the tr. Whenever you purchase a nonmagical item from one of the Merchant Guilds, you receive a 10% discount.
 
 ## Healer
 **Battle Medic**. If you have a Healer's Kit, you can spend a use to tend to a creature within 5 feet of yourself as a Utilise Action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
