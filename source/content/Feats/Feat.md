@@ -43,6 +43,9 @@ When interacting with merchants, caravan masters, guild officials, or craftsmen,
 
 **Healing Rerolls**. Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
+## Marshland Scavenger
+
+
 ## Magic Initiate
 **Two Cantrips**. You learn two [[Spells#Cantrips|Cantrips]] of your choice from the [[Arcane Spell List]], [[Divine Spell List]], or [[Primal Spell List]]. Intelligence, Wisdom, or Charisma is your Spellcasting Ability for this feat's spells (choose when you select this feat).
 
