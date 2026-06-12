@@ -93,7 +93,7 @@
 - **Languages**. Common
 - **Skill Proficiencies**. Perception, Sleight of Hand
 - **Tool Proficiencies**. [[Thieve's Tools]]
-- **Feat**. [[Feat#Alert|Alert]]
+- **Feat**. [[Feat#Talon Operative|Talon Operative]]
 - **Stats**. 8, 16, 14, 11, 16, 8
 - **Class**. [[Monk]]
 	- **Skills**. Acrobatics, Stealth
