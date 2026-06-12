@@ -33,6 +33,13 @@ You gain Proficiency in any combination of three Skills or tools of your choice.
 
 **Repeatable**. You can take this feat more than once.
 
+## Talon Operative
+You were raised among the Nests of [[The Talon]], learning how to survive in a world where trust is scarce, authority is temporary, and every flooded ruin might hide opportunity.
+
+You gain proficiency in the Stealth skill. If you already have proficiency in Stealth, gain proficiency in another skill of your choice.
+
+
+
 ## Tavern Brawler
 **Enhanced Unarmed Strike**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
 
