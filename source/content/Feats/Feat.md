@@ -105,30 +105,16 @@ You gain the following benefits.
 You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll an additional weapon's damage dice and add to the total.
 
 ## Scholar
-Academic Training. You gain proficiency in one skill: Arcana, History, Investigation, Nature, or Religion.
+**Academic Training**. You gain proficiency in one skill: Arcana, History, Investigation, Nature, or Religion.
 
-
-Pattern Recognition
-
-When you examine a scene, object, or written text for at least 1 minute, you can ask the DM one of the following questions:
-
-“What is out of place or inconsistent here?”
-“What was likely the purpose of this?”
-“What is being concealed or omitted?”
-
+**Pattern Recognition**. When you examine a scene, object, or written text for at least 1 minute, you can ask the DM one of the following questions:
+- “What is out of place or inconsistent here?”
+- “What was likely the purpose of this?”
+- “What is being concealed or omitted?”
 The DM answers truthfully but may be brief or interpretive.
 
-
-Knowledge Under Pressure
-
-When you fail an Intelligence check, you can choose to reroll the d20.
-You must use the new roll.
-
-Once you use this feature, you cannot use it again until you finish a Long Rest.
-
-
-
-
+**Knowledge Under Pressure**. When you fail an Intelligence check, you can choose to reroll the d20.
+You must use the new roll. Once you use this feature, you cannot use it again until you finish a Long Rest.
 
 ## Skilled
 You gain Proficiency in any combination of three Skills or tools of your choice.
