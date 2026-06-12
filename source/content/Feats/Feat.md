@@ -4,6 +4,13 @@
 
 **Initiative Swap**. Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.
 
+## Guild Artisan
+You were trained by one of the [[Merchant Guilds]] and learned the value of expertise, reputation, and honest work.
+
+**Guild Training**. Choose one set of Artisan's Tools. You gain proficiency with those tools.
+
+Whenever you make an ability check using those tools, you can add your Proficiency Bonus twice instead of once.
+
 ## Healer
 **Battle Medic**. If you have a Healer's Kit, you can spend a use to tend to a creature within 5 feet of yourself as a Utilise Action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
 
