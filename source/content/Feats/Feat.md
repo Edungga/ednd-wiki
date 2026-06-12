@@ -74,13 +74,7 @@ You were raised in flooded lowlands and pestilent wetlands of [[The Mirelands]],
 
 **Bog-Born Instincts**. You gain proficiency in Investigation or Survival. If you already have proficiency in the chosen skill, you gain Expertise instead.
 
-**Scavenger’s Eye**. When you search a marsh, ruin, shoreline, or flooded structure for at least 10 minutes, you can always recover improvised materials suitable for basic survival or crafting (DM determines form).
-These materials can be used to:
-- Replace minor components of mundane gear
-- Substitute for common crafting materials in downtime
-- Create improvised versions of basic items (rope, torches, tools, etc.)
-
-When you spend 10 minutes searching a natural or ruinous environment (swamp, river ruin, flooded settlement, shoreline wreck), you can find one of the following (DM’s choice):
+**Scavenger’s Eye**. When you spend 10 minutes searching a natural or ruinous environment (swamp, river ruin, flooded settlement, shoreline wreck), you can find one of the following (DM’s choice):
 - Salvageable materials worth minor coin value (scrap metal, glass, bone, cloth, etc.)
 - One piece of mundane gear that could reasonably be lost or discarded nearby
 - A useful environmental detail (hidden path, unstable ground, submerged entrance, safe footing route)
