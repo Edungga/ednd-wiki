@@ -72,8 +72,19 @@ When interacting with merchants, caravan masters, guild officials, or craftsmen,
 ## Marshland Scavenger
 You were raised in flooded lowlands and pestilent wetlands of [[The Mirelands]], where survival depends on what you can salvage rather than what you can grow or buy.
 
-**Bog-Born Instincts**. You gain proficiency in Survival or Investigation.
-If you already have proficiency in the chosen skill, you gain Expertise instead.
+**Bog-Born Instincts**. You gain proficiency in Investigation or Survival. If you already have proficiency in the chosen skill, you gain Expertise instead.
+
+Scavenger’s Eye. When you search a marsh, ruin, shoreline, or flooded structure for at least 10 minutes, you can always recover improvised materials suitable for basic survival or crafting (DM determines form).
+
+These materials can be used to:
+
+Replace minor components of mundane gear
+Substitute for common crafting materials in downtime
+Create improvised versions of basic items (rope, torches, tools, etc.)
+
+
+
+
 
 
 ## Magic Initiate
