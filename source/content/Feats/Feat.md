@@ -9,20 +9,13 @@ You were trained by one of the [[Merchant Guilds]] and learned the value of expe
 
 **Guild Training**. Choose one set of Artisan's Tools. You gain proficiency with those tools. Whenever you make an ability check using those tools, you can add your Proficiency Bonus twice instead of once.
 
-Fulcrum Charter. You know the customs, laws, and trade practices of the Merchant Guilds.
-
+**Fulcrum Charter**. You know the customs, laws, and trade practices of the Merchant Guilds.
 When interacting with merchants, caravan masters, guild officials, or craftsmen, you can usually identify:
+- Their guild affiliation.
+- Their standing within the guild.
+- Whether they are violating accepted trade practices.
 
-Their guild affiliation.
-Their standing within the guild.
-Whether they are violating accepted trade practices.
-
-
-Accredited Merchant
-
-You are recognized as a legitimate guild member.
-
-Whenever you purchase a nonmagical item, you receive a 10% discount.
+**Accredited Merchant**. You are recognized as a legitimate guild member. Whenever you purchase a nonmagical item from one of the Merchant Guilds, you receive a 10% discount.
 
 
 Fast Crafting
