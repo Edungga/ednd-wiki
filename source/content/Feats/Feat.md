@@ -22,7 +22,7 @@ You were raised or initiated within a temple, shrine order, or itinerant faith, 
 - Recognise religious symbols, relics, or sanctified sites
 - Recall doctrine or taboo associated with a faith
 
-Sanctuary of Civility. When you enter a settlement or sacred site where you are not hostile, you can usually find a place of rest or temporary sanctuary among the faithful or local clergy.
+**Sanctuary of Civility**. When you enter a settlement or sacred site where you are not hostile, you can usually find a place of rest or temporary sanctuary among the faithful or local clergy.
 
 This does not guarantee safety, but it provides:
 - Basic shelter or refuge
