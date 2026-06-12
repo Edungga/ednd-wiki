@@ -72,7 +72,7 @@ In a settlement, you can spend 1 hour seeking information through local underwor
 - Information about recent law enforcement activity
 - Hidden cache (contents DM's choice)
 
-**Underworld Survivor**. When you make a Dexterity (Stealth), Dexterity (Sleight of Hand), or Charisma (Deception) check, you can add a d6 to the roll. Once you use this benefit, you can't use it again until you finish a Long Rest.
+**Underworld Survivor**. When you make a Dexterity (Stealth), Dexterity (Sleight of Hand), or Charisma (Deception) check, you can add a d4 to the roll. Once you use this benefit, you can't use it again until you finish a Long Rest.
 
 ## Tavern Brawler
 **Enhanced Unarmed Strike**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
@@ -80,6 +80,7 @@ In a settlement, you can spend 1 hour seeking information through local underwor
 **Damage Rerolls**. Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 **Improvised Weaponry**. You have proficiency with Improvised Weapons.
+
 **Push**. When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also push it 5ft. 
 
 ## Tough
