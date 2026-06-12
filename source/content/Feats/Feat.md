@@ -131,7 +131,6 @@ In a settlement, you can spend 1 hour seeking information through local underwor
 - The location of a hidden market, safehouse, or smuggling route
 - The name of a criminal, fence, or fixer operating nearby
 - Information about recent law enforcement activity
-- Hidden cache (contents DM's choice)
 
 **Underworld Survivor**. When you make a Dexterity (Stealth), Dexterity (Sleight of Hand), or Charisma (Deception) check, you can add a d4 to the roll. Once you use this benefit, you can't use it again until you finish a Long Rest.
 
