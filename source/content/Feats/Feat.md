@@ -1,6 +1,6 @@
 # Origin Feats
 ## Amber Apprentice
-You were initiated into the [[amber c]] and bear its living insignia, a fragment of crystallised arcane theory that serves as both focus and mark of survival in a world that hunts your orde
+You were initiated into the  and bear its living insignia, a fragment of crystallised arcane theory that serves as both focus and mark of survival in a world that hunts your orde
 
 ## Alert
 **Initiative Proficiency**. When you roll Initiative, you can add your Proficiency Bonus to the roll. 
