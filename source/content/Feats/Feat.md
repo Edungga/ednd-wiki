@@ -36,9 +36,14 @@ You gain Proficiency in any combination of three Skills or tools of your choice.
 ## Talon Operative
 You were raised among the Nests of [[The Talon]], learning how to survive in a world where trust is scarce, authority is temporary, and every flooded ruin might hide opportunity.
 
-You gain proficiency in the Stealth skill. If you already have proficiency in Stealth, gain proficiency in another skill of your choice.
+**Skill Proficiency**. You gain proficiency in the Stealth skill. If you already have proficiency in Stealth, gain proficiency in another skill of your choice.
 
-
+**Nest Contacts**. You know how to identify Talon signs, hidden caches, and informal contacts.
+When you arrive in a settlement, you can spend 1 hour seeking information through local underworld channels. At the end of that hour, you learn one of the following of the DM's choice:
+- A local rumour
+- The location of a hidden market, safehouse, or smuggling route
+- The name of a criminal, fence, or fixer operating nearby
+- Information about recent law enforcement activity
 
 ## Tavern Brawler
 **Enhanced Unarmed Strike**. When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
