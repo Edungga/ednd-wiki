@@ -80,7 +80,12 @@ These materials can be used to:
 - Substitute for common crafting materials in downtime
 - Create improvised versions of basic items (rope, torches, tools, etc.)
 
+When you spend 10 minutes searching a natural or ruinous environment (swamp, river ruin, flooded settlement, shoreline wreck), you can find one of the following (DM’s choice):
+- Salvageable materials worth minor coin value (scrap metal, glass, bone, cloth, etc.)
+- One piece of mundane gear that could reasonably be lost or discarded nearby
+- A useful environmental detail (hidden path, unstable ground, submerged entrance, safe footing route)
 
+Once you use this feature in a given area, you cannot use it again in that same immediate location for 24 hours.
 
 
 
