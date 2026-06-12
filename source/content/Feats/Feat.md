@@ -1,6 +1,8 @@
 # Origin Feats
 ## Amber Apprentice
-You were initiated into the  and bear its living insignia, a fragment of crystallised arcane theory that serves as both focus and mark of survival in a world that hunts your orde
+You were initiated into the [[Amber Collegium]] and bear its living insignia, a fragment of crystallised arcane theory that serves as both focus and mark of survival in a world that hunts your order.
+
+**Amber Insignia**. Your Amber Insignia functions as a spellcasting focus for any spell you cast. You can form or dismiss it as a Bonus Action, causing it to appear as a crystalline mark on your hand, wrist, or collarbone.
 
 ## Alert
 **Initiative Proficiency**. When you roll Initiative, you can add your Proficiency Bonus to the roll. 
