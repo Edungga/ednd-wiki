@@ -147,7 +147,7 @@ In a settlement, you can spend 1 hour seeking information through local underwor
 ## Tough
 Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points.
 
-
+---
 # Level 1 Feats
 
 ## Fey-Touched
@@ -191,6 +191,7 @@ You gain the following benefits.
 - **Ability Score Increase**. Increase your Strength or Dexterity by 1, to a maximum of 20.
 - **Weapon Proficiency**. You gain proficiency with Simple and Martial weapons.
 
+---
 # Level 4 Feats
 ## Ability Score Improvement
 Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.
