@@ -22,7 +22,7 @@ When you cast this cantrip, you can choose to subtly modify its expression (colo
 **Initiative Swap**. Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.
 
 ## Diplomat
-
+You were trained in the protocols of negotiation, etiquette, and political communication, whether among [[The Nobility of the Vale]], [[The Auric Houses]], or other diplomatic envoy corps
 
 
 ## Guild Artisan
