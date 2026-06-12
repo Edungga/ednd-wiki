@@ -26,13 +26,18 @@ You were trained in the protocols of negotiation, etiquette, and political commu
 
 **Court Training**. You gain proficiency in one skill of your choice: Persuasion, Insight, or History.
 
-**Read the Room**. When you spend at least 1 minute observing or conversing with a creature, you can learn one of the following about it (DM’s choice where appropriate):
-
-Its general social standing (authority, wealth, or influence relative to its environment)
-Its attitude toward a topic, faction, or individual
-Whether it is likely lying about a stated goal or intent
-
+**Read the Room**. When you spend at least 1 minute observing or conversing with a creature, you can learn one of the following about it:
+- Its general social standing (authority, wealth, or influence relative to its environment)
+- Its attitude toward a topic, faction, or individual
+- Whether it is likely lying about a stated goal or intent
 You can use this feature a number of times equal to your Proficiency Bonus, and regain all uses on a Long Rest.
+
+Diplomatic Immunity (Soft Version)
+
+When interacting with officials, guards, minor nobility, or recognized civic authorities, you can usually secure a brief audience or hearing without needing to make a Persuasion check, provided you are not hostile or obviously threatening.
+
+This does not guarantee favourable treatment—only access.
+
 
 
 ## Guild Artisan
