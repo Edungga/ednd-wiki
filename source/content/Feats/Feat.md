@@ -13,7 +13,7 @@ You can use this feature a number of times equal to your Proficiency Bonus, and 
 When you cast this cantrip, you can choose to subtly modify its expression (colour, shape, sound, glyph-like manifestations), allowing it to be recognised as Collegium work by other members of the Amber Collegium.
 
 ## Acolyte of Virtue
-You were raised or initiated within a temple, shrine order, or itinerant faith, taught that the discipline of spirit and clarity of intent are as important as any weapon.
+You were raised or initiated within a temple, shrine order, or itinerant faith, taught that the discipline of [[Higher Powers of Callitè#The Seven Virtues|The Seven Virtues]] discipline of spirit and clarity of intent are as important as any weapon.
 
 
 ## Alert

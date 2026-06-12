@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Setting/Higher Powers/Higher Powers of Callitè.md",
+                "file": "Feats/Feat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Higher Powers of Callitè"
+              "title": "Outline of Feat"
             }
           }
         ],
@@ -213,10 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6096ffaecb9cec63",
+  "active": "9214bbd24d8f9bd6",
   "lastOpenFiles": [
-    "Background/Example Character Briefs.md",
+    "The Setting/Higher Powers/Higher Powers of Callitè.md",
     "Feats/Feat.md",
+    "Background/Example Character Briefs.md",
     "Amber Collegium.md",
     "The Setting/Organisations & Factions/Order Arcanum Exterminatus.md",
     "The Setting/The Shrouded Realm of Callitè.md",
@@ -243,7 +244,6 @@
     "Pasted image 20260602150721.png",
     "Pasted image 20260602150735.png",
     "Pasted image 20260602150725.png",
-    "Rules/Resurrection Rituals.md",
     "Equipment/Weapons",
     "Equipment/Items.base",
     "Equipment/Armour",
