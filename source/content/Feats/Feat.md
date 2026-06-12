@@ -9,7 +9,24 @@ You were trained by one of the [[Merchant Guilds]] and learned the value of expe
 
 **Guild Training**. Choose one set of Artisan's Tools. You gain proficiency with those tools. Whenever you make an ability check using those tools, you can add your Proficiency Bonus twice instead of once.
 
-Guild Connections. 
+Guild Connections. You know how to identify guild offices, guild merchants, and accredited craftsmen.
+
+In any settlement where the Merchant Guilds operate, you can usually secure lodging, workspace, or professional assistance appropriate to your trade.
+
+Accredited Merchant
+
+You are recognized as a legitimate guild member.
+
+Whenever you purchase a nonmagical item, you receive a 10% discount.
+
+
+Fast Crafting
+
+When you finish a Long Rest, you may craft one item associated with your chosen tools from the Fast Crafting table.
+
+The item lasts until your next Long Rest, when it falls apart..
+
+
 
 ## Healer
 **Battle Medic**. If you have a Healer's Kit, you can spend a use to tend to a creature within 5 feet of yourself as a Utilise Action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
