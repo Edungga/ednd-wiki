@@ -48,8 +48,9 @@ You also learn one additional language of your choice.
 - Whether it is likely lying about a stated goal or intent
 You can use this feature a number of times equal to your Proficiency Bonus, and regain all uses on a Long Rest.
 
-**Bribes Buy Passage**. When interacting with officials, guards, minor nobility, or recognized civic authorities, you can usually secure a brief audience or hearing without needing to make a Persuasion check, provided you are not hostile or obviously threatening.
+**Bribes Buy Passage**. When interacting with officials, guards, minor nobility, or recognized civic authorities, you can usually bribe your way to a brief audience or hearing without needing to make a Persuasion check, provided you are not hostile or obviously threatening.
 You can only use this feature once per settlement.
+- eg 5 gold to bypass Guards
 
 ## Guild Artisan
 You were trained by one of the [[Merchant Guilds]] and learned the value of expertise, reputation, and honest work.
