@@ -22,7 +22,7 @@ You were raised or initiated within a temple, shrine order, or itinerant faith, 
 - Recognise religious symbols, relics, or sanctified sites
 - Recall doctrine or taboo associated with a faith
 
-**Sanctuary of Civility**. When you enter a settlement or sacred site where you are not hostile, you can usually find a place of rest or temporary sanctuary among the faithful or local clergy.
+**Refuge of Faith**. When you enter a settlement or sacred site where you are not hostile, you can usually find a place of rest or temporary sanctuary among the faithful or local clergy.
 
 This does not guarantee safety, but it provides:
 - Basic shelter or refuge
@@ -48,7 +48,7 @@ You also learn one additional language of your choice.
 - Whether it is likely lying about a stated goal or intent
 You can use this feature a number of times equal to your Proficiency Bonus, and regain all uses on a Long Rest.
 
-**Diplomatic Immunity**. When interacting with officials, guards, minor nobility, or recognized civic authorities, you can usually secure a brief audience or hearing without needing to make a Persuasion check, provided you are not hostile or obviously threatening.
+**Bribes Buy Passage**. When interacting with officials, guards, minor nobility, or recognized civic authorities, you can usually secure a brief audience or hearing without needing to make a Persuasion check, provided you are not hostile or obviously threatening.
 You can only use this feature once per settlement.
 
 ## Guild Artisan
